@@ -1,0 +1,6 @@
+Verification Report - 2025-12-01 23:54:35
+Expected: 387, Actual: 394
+Images: 1081
+Broken links: 1669
+Missing images: 0
+Hugo build: Not tested

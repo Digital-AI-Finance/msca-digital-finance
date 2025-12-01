@@ -1,0 +1,31 @@
+{{ define "main" }}
+<article class="blog-post">
+    <div class="container">
+        <header class="post-header">
+            <h1>{{ .Title }}</h1>
+            <div class="post-meta">
+                <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+            </div>
+        </header>
+
+        {{ with .Params.image }}
+        <div class="featured-image">
+            <img src="{{ . }}" alt="{{ $.Title }}">
+        </div>
+        {{ end }}
+
+        <div class="content">
+            {{ .Content }}
+        </div>
+
+        <nav class="post-navigation">
+            {{ with .PrevInSection }}
+            <a href="{{ .RelPermalink }}" class="prev-post">Previous: {{ .Title }}</a>
+            {{ end }}
+            {{ with .NextInSection }}
+            <a href="{{ .RelPermalink }}" class="next-post">Next: {{ .Title }}</a>
+            {{ end }}
+        </nav>
+    </div>
+</article>
+{{ end }}

@@ -1,0 +1,36 @@
+{{ define "main" }}
+<article class="person-profile">
+    <div class="container">
+        <div class="profile-header">
+            {{ with .Params.image }}
+            <div class="profile-image">
+                <img src="{{ . }}" alt="{{ $.Title }}">
+            </div>
+            {{ end }}
+
+            <div class="profile-info">
+                <h1>{{ .Title }}</h1>
+                {{ with .Params.role }}
+                <p class="role">{{ . }}</p>
+                {{ end }}
+                {{ with .Params.institution }}
+                <p class="institution">{{ . }}</p>
+                {{ end }}
+
+                <div class="contact-links">
+                    {{ with .Params.email }}
+                    <a href="mailto:{{ . }}" class="contact-link">Email</a>
+                    {{ end }}
+                    {{ with .Params.linkedin }}
+                    <a href="{{ . }}" target="_blank" rel="noopener" class="contact-link">LinkedIn</a>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+
+        <div class="content">
+            {{ .Content }}
+        </div>
+    </div>
+</article>
+{{ end }}

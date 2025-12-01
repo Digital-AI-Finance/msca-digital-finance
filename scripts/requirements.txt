@@ -1,0 +1,10 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+playwright>=1.40.0
+lxml>=5.0.0
+pyyaml>=6.0
+aiohttp>=3.9.0
+aiofiles>=23.0.0
+tqdm>=4.66.0
+html2text>=2024.2.26
+markdownify>=0.12.1

@@ -1,0 +1,2744 @@
+{
+  "discovery_date": "2025-12-01T22:43:45.929717",
+  "base_url": "https://www.digital-finance-msca.com",
+  "categories": {
+    "homepage": [
+      {
+        "url": "https://www.digital-finance-msca.com",
+        "slug": "homepage",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      }
+    ],
+    "pages": [
+      {
+        "url": "https://www.digital-finance-msca.com/collaborations-within-the-network",
+        "slug": "collaborations-within-the-network",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/challenges-and-opportunities",
+        "slug": "challenges-and-opportunities",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/detailed-overview",
+        "slug": "detailed-overview",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/wp8-project-management",
+        "slug": "wp8-project-management",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/open-phd-positions",
+        "slug": "open-phd-positions",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/copy-of-research-topics",
+        "slug": "copy-of-research-topics",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/brussels-meeting-2024",
+        "slug": "brussels-meeting-2024",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/snsf-narrative-digital-finance",
+        "slug": "snsf-narrative-digital-finance",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/media",
+        "slug": "media",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/audience-dependent-explanations",
+        "slug": "audience-dependent-explanations",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/individual-research-projects",
+        "slug": "individual-research-projects",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/developing-industry-ready",
+        "slug": "developing-industry-ready",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/trainings",
+        "slug": "trainings",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/modelling-green-credit-scores",
+        "slug": "modelling-green-credit-scores",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/wp4-digital-innovation-blockchain",
+        "slug": "wp4-digital-innovation-blockchain",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/privacy-policy",
+        "slug": "privacy-policy",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/wp5-sustainability-digital-finance",
+        "slug": "wp5-sustainability-digital-finance",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/risk-index-for-cryptos",
+        "slug": "risk-index-for-cryptos",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/international-advanced-fellowship-ubb",
+        "slug": "international-advanced-fellowship-ubb",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/wp3-explainable-fair-ai",
+        "slug": "wp3-explainable-fair-ai",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/wp9-ethics-digital",
+        "slug": "wp9-ethics-digital",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/contact-us",
+        "slug": "contact-us",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/ubb-endava",
+        "slug": "ubb-endava",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/deep-generation-of-financial",
+        "slug": "deep-generation-of-financial",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/our-outputs",
+        "slug": "our-outputs",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/our-diversity",
+        "slug": "our-diversity",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/copy-of-trainings",
+        "slug": "copy-of-trainings",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/fair-algorithmic-design",
+        "slug": "fair-algorithmic-design",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/home-old",
+        "slug": "home-old",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/wp1-financial-data-space",
+        "slug": "wp1-financial-data-space",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/experimenting-with-green-ai",
+        "slug": "experimenting-with-green-ai",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/our-coordination",
+        "slug": "our-coordination",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/work-package-9",
+        "slug": "work-package-9",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/our-partners",
+        "slug": "our-partners",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/graph-theoretic-analysis-leading-house",
+        "slug": "graph-theoretic-analysis-leading-house",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/fraud-detection-in-financial-networks",
+        "slug": "fraud-detection-in-financial-networks",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/research-projects",
+        "slug": "research-projects",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/digital-finance-research-projects",
+        "slug": "digital-finance-research-projects",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/blockchain",
+        "slug": "blockchain",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/wp2-ai-financial-markets",
+        "slug": "wp2-ai-financial-markets",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/about-the-project",
+        "slug": "about-the-project",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/our-people",
+        "slug": "our-people",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/home-backup-old",
+        "slug": "home-backup-old",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/meet-the-team",
+        "slug": "meet-the-team",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/machine-learning-digital-finance",
+        "slug": "machine-learning-digital-finance",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/wp6-doctoral-training",
+        "slug": "wp6-doctoral-training",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/about-us",
+        "slug": "about-us",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/applications-of-agent-based-models",
+        "slug": "applications-of-agent-based-models",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/our-governance",
+        "slug": "our-governance",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/collaborative-learning-across-data-silos",
+        "slug": "collaborative-learning-across-data-silos",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/predicting-financial-trends",
+        "slug": "predicting-financial-trends",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/wp7-dissemination-outreach-exploitation",
+        "slug": "wp7-dissemination-outreach-exploitation",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/journals-outlets",
+        "slug": "journals-outlets",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/network-based-credit-risk-models-snsf",
+        "slug": "network-based-credit-risk-models-snsf",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/open-science",
+        "slug": "open-science",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/investigating-the-utility",
+        "slug": "investigating-the-utility",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/a-recommender-system",
+        "slug": "a-recommender-system",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/copy-of-contact-us",
+        "slug": "copy-of-contact-us",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/test",
+        "slug": "test",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/cost-finai-phd-school-2024",
+        "slug": "cost-finai-phd-school-2024",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/strengthening-european-financial",
+        "slug": "strengthening-european-financial",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/detecting-anomalies-and-dependence-structures",
+        "slug": "detecting-anomalies-and-dependence-structures",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/secondments",
+        "slug": "secondments",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/blog",
+        "slug": "blog",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/events",
+        "slug": "events",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/presentations",
+        "slug": "presentations",
+        "lastmod": "2025-11-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/blog/categories/wp4",
+        "slug": "blog/categories/wp4",
+        "lastmod": "2025-05-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/blog/categories/wp3",
+        "slug": "blog/categories/wp3",
+        "lastmod": "2025-06-05",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/blog/categories/wp1",
+        "slug": "blog/categories/wp1",
+        "lastmod": "2025-05-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/blog/categories/wp2",
+        "slug": "blog/categories/wp2",
+        "lastmod": "2025-05-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/blog/categories/wp5",
+        "slug": "blog/categories/wp5",
+        "lastmod": "2025-05-27",
+        "scraped": false,
+        "scrape_date": null
+      }
+    ],
+    "people": [
+      {
+        "url": "https://www.digital-finance-msca.com/people/sandro-schmid",
+        "slug": "sandro-schmid",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/gokce-nur-yilmaz",
+        "slug": "gokce-nur-yilmaz",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/roman-bakba",
+        "slug": "roman-bakba",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/beatrice-larisa-dumnici",
+        "slug": "beatrice-larisa-dumnici",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/sabrina-giordano",
+        "slug": "sabrina-giordano",
+        "lastmod": "2025-10-13",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/jorg-wenzel",
+        "slug": "jorg-wenzel",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/fr%C3%A9d%C3%A9rik-sinan-bernard",
+        "slug": "frédérik-sinan-bernard",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/mattia-bellotti",
+        "slug": "mattia-bellotti",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/david-siang-li-jheng",
+        "slug": "david-siang-li-jheng",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/meng-jou-lu",
+        "slug": "meng-jou-lu",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/ruting-wang",
+        "slug": "ruting-wang",
+        "lastmod": "2025-10-13",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/stephen-chan",
+        "slug": "stephen-chan",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/gabin-taibi",
+        "slug": "gabin-taibi",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/megang-nkamga-junile-staures",
+        "slug": "megang-nkamga-junile-staures",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/anastas-dzurovski",
+        "slug": "anastas-dzurovski",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/branka-hadji-misheva",
+        "slug": "branka-hadji-misheva",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/fons-wijnhoven",
+        "slug": "fons-wijnhoven",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/przemyslaw-bielicki",
+        "slug": "przemyslaw-bielicki",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/cristian-mihai-dragos",
+        "slug": "cristian-mihai-dragos",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/stefan-gaman",
+        "slug": "stefan-gaman",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/lucia-gomez-teijeiro",
+        "slug": "lucia-gomez-teijeiro",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/hanna-krist%C3%ADn-skaftad%C3%B3ttir-",
+        "slug": "hanna-kristín-skaftadóttir-",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/daniel-braun",
+        "slug": "daniel-braun",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/lukasz-kubicki",
+        "slug": "lukasz-kubicki",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/ioana-coita",
+        "slug": "ioana-coita",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/alessio-trivella",
+        "slug": "alessio-trivella",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/catalina-chinie",
+        "slug": "catalina-chinie",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/ekaterina-svetlova",
+        "slug": "ekaterina-svetlova",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/francesco-palumbo",
+        "slug": "francesco-palumbo",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/ralf-korn",
+        "slug": "ralf-korn",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/rubin-haxhiymeri",
+        "slug": "rubin-haxhiymeri",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/filippo-bartoli",
+        "slug": "filippo-bartoli",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/fulvio-raddi",
+        "slug": "fulvio-raddi",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/huei-wen-teng",
+        "slug": "huei-wen-teng",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/ioannis-emiris",
+        "slug": "ioannis-emiris",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/renato-rocha-souza",
+        "slug": "renato-rocha-souza",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/gennaro-di-brino",
+        "slug": "gennaro-di-brino",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/antonio-pescape",
+        "slug": "antonio-pescape",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/jos-van-hillegersberg",
+        "slug": "jos-van-hillegersberg",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/stefan-lessmann",
+        "slug": "stefan-lessmann",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/axel-gross-klussmann",
+        "slug": "axel-gross-klussmann",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/giorgos-giannopoulos",
+        "slug": "giorgos-giannopoulos",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/theodoros-mastrokostopoulos",
+        "slug": "theodoros-mastrokostopoulos",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/maria-iannario",
+        "slug": "maria-iannario",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/stefan-schlamp",
+        "slug": "stefan-schlamp",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/adam-kurpisz",
+        "slug": "adam-kurpisz",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/rahul-tak",
+        "slug": "rahul-tak",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/laura-spierdijk",
+        "slug": "laura-spierdijk",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/markus-ebner",
+        "slug": "markus-ebner",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/tomina-maria-manci",
+        "slug": "tomina-maria-manci",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/liana-stanca",
+        "slug": "liana-stanca",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/wolfgang-hardle",
+        "slug": "wolfgang-hardle",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/stefanie-schwaar",
+        "slug": "stefanie-schwaar",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/wouter-van-heeswijk",
+        "slug": "wouter-van-heeswijk",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/nigel-williams",
+        "slug": "nigel-williams",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/martijn-mes",
+        "slug": "martijn-mes",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/roman-timofeev",
+        "slug": "roman-timofeev",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/maurizio-di-noia",
+        "slug": "maurizio-di-noia",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/joschka-hullmann",
+        "slug": "joschka-hullmann",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/julian-winkel",
+        "slug": "julian-winkel",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/claudia-tarantola",
+        "slug": "claudia-tarantola",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/adrian-costea",
+        "slug": "adrian-costea",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/karolina-bolesta",
+        "slug": "karolina-bolesta",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/codruta-mare",
+        "slug": "codruta-mare",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/tuan-trinh",
+        "slug": "tuan-trinh",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/nerijus-maciulis",
+        "slug": "nerijus-maciulis",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/karolina-weyna",
+        "slug": "karolina-weyna",
+        "lastmod": "2025-10-13",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/alessandra-tanda",
+        "slug": "alessandra-tanda",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/adrian-bojan",
+        "slug": "adrian-bojan",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/abhista-abhista",
+        "slug": "abhista-abhista",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/arben-zibri",
+        "slug": "arben-zibri",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/matteo-macera-zappavigna",
+        "slug": "matteo-macera-zappavigna",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/kurt-hornik",
+        "slug": "kurt-hornik",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/audrius-kabasinskas",
+        "slug": "audrius-kabasinskas",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/barbara-b%C4%99dowska-s%C3%B3jka",
+        "slug": "barbara-będowska-sójka",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/eimutis-valakevicius",
+        "slug": "eimutis-valakevicius",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/stefan-theussl",
+        "slug": "stefan-theussl",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/bjorn-van-braak",
+        "slug": "bjorn-van-braak",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/stefano-penazzi",
+        "slug": "stefano-penazzi",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/theodore-dalamagas",
+        "slug": "theodore-dalamagas",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/christian-hopp",
+        "slug": "christian-hopp",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/julius-kooistra",
+        "slug": "julius-kooistra",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/maximilian-stroh",
+        "slug": "maximilian-stroh",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/alexandra-ioana-conda",
+        "slug": "alexandra-ioana-conda",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/jens-reil",
+        "slug": "jens-reil",
+        "lastmod": "2025-10-13",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/bruno-spilak",
+        "slug": "bruno-spilak",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/adriana-anamaria-davidescu",
+        "slug": "adriana-anamaria-davidescu",
+        "lastmod": "2025-08-28",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/rui-ren",
+        "slug": "rui-ren",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/matei-mocanu",
+        "slug": "matei-mocanu",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/yiting-liu",
+        "slug": "yiting-liu",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/asen-pantov",
+        "slug": "asen-pantov",
+        "lastmod": "2025-10-13",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/franz-xaver-zobl",
+        "slug": "franz-xaver-zobl",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/stefana-belbe",
+        "slug": "stefana-belbe",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/armin-sadighi",
+        "slug": "armin-sadighi",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/doina-bucur",
+        "slug": "doina-bucur",
+        "lastmod": "2025-10-13",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/xiaohong-huang",
+        "slug": "xiaohong-huang",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/polina-khrennikova",
+        "slug": "polina-khrennikova",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/domenico-ciuonzo",
+        "slug": "domenico-ciuonzo",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/daniel-traian-pele",
+        "slug": "daniel-traian-pele",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/ismail-elbouknify",
+        "slug": "ismail-elbouknify",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/patricia-marcella-evite",
+        "slug": "patricia-marcella-evite",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/simon-haller",
+        "slug": "simon-haller",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/mahak-sharma",
+        "slug": "mahak-sharma",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/ruben-pop",
+        "slug": "ruben-pop",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/catarina-silva",
+        "slug": "catarina-silva",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/valeri-andreev",
+        "slug": "valeri-andreev",
+        "lastmod": "2025-10-13",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/altin-kadareja",
+        "slug": "altin-kadareja",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/mina-sohrabi-moayd",
+        "slug": "mina-sohrabi-moayd",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/owen-chaffard",
+        "slug": "owen-chaffard",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/kristina-sutiene",
+        "slug": "kristina-sutiene",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/monica-violeta-achim",
+        "slug": "monica-violeta-achim",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/daniela-schackis",
+        "slug": "daniela-schackis",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/salvatore-moccia",
+        "slug": "salvatore-moccia",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/bettina-grun",
+        "slug": "bettina-grun",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/rezarta-perri",
+        "slug": "rezarta-perri",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/mohamed-faid",
+        "slug": "mohamed-faid",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/joerg-osterrieder",
+        "slug": "joerg-osterrieder",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/ronald-hochreiter",
+        "slug": "ronald-hochreiter",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/marcos-machado",
+        "slug": "marcos-machado",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/jeffrey-chu",
+        "slug": "jeffrey-chu",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/mathis-jander",
+        "slug": "mathis-jander",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/stijn-van-der-pol",
+        "slug": "stijn-van-der-pol",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/robert-buch",
+        "slug": "robert-buch",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/stephanie-blum",
+        "slug": "stephanie-blum",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/manuele-massei",
+        "slug": "manuele-massei",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/robin-effing",
+        "slug": "robin-effing",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/tadas-gudaitis",
+        "slug": "tadas-gudaitis",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/maria-moloney",
+        "slug": "maria-moloney",
+        "lastmod": "2025-10-16",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/rebecca-di-francesco",
+        "slug": "rebecca-di-francesco",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/vasile-strat",
+        "slug": "vasile-strat",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/alberto-ferrario",
+        "slug": "alberto-ferrario",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/albulena-shala",
+        "slug": "albulena-shala",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/adriano-barasal-morales",
+        "slug": "adriano-barasal-morales",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/aidas-malakauskas",
+        "slug": "aidas-malakauskas",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/lennart-baals",
+        "slug": "lennart-baals",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/kyrylo-medianovskyi",
+        "slug": "kyrylo-medianovskyi",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/christina-kolb",
+        "slug": "christina-kolb",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/alfonso-iodice-d'enza",
+        "slug": "alfonso-iodice-d'enza",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/people/marcella-corduas",
+        "slug": "marcella-corduas",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      }
+    ],
+    "partners": [
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/royalton-partners",
+        "slug": "royalton-partners",
+        "lastmod": "2025-08-25",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/deutsche-bank",
+        "slug": "deutsche-bank",
+        "lastmod": "2025-08-25",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/swedbank-ab",
+        "slug": "swedbank-ab",
+        "lastmod": "2025-08-25",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/american-university-of-sharjah",
+        "slug": "american-university-of-sharjah",
+        "lastmod": "2025-08-25",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/babes-bolyai-university",
+        "slug": "babes-bolyai-university",
+        "lastmod": "2025-08-25",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/university-of-tirana",
+        "slug": "university-of-tirana",
+        "lastmod": "2025-08-25",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/bifroest-university",
+        "slug": "bifroest-university",
+        "lastmod": "2025-08-25",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/university-of-milan",
+        "slug": "university-of-milan",
+        "lastmod": "2025-08-25",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/kaunas-university-of-technology",
+        "slug": "kaunas-university-of-technology",
+        "lastmod": "2025-08-25",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/pozna%C5%84-university-of-economics-and-business",
+        "slug": "poznań-university-of-economics-and-business",
+        "lastmod": "2025-08-25",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/bern-university-of-applied-sciences",
+        "slug": "bern-university-of-applied-sciences",
+        "lastmod": "2025-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/fraunhofer-institute",
+        "slug": "fraunhofer-institute",
+        "lastmod": "2025-08-25",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/cardo-ai",
+        "slug": "cardo-ai",
+        "lastmod": "2025-08-25",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/ted-university",
+        "slug": "ted-university",
+        "lastmod": "2025-08-25",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/athena-research-center",
+        "slug": "athena-research-center",
+        "lastmod": "2025-08-25",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/european-central-bank",
+        "slug": "european-central-bank",
+        "lastmod": "2025-08-25",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/st-kliment-ohridski-university-bitola",
+        "slug": "st-kliment-ohridski-university-bitola",
+        "lastmod": "2025-08-25",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/deutsche-boerse",
+        "slug": "deutsche-boerse",
+        "lastmod": "2025-08-25",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/university-of-calabria",
+        "slug": "university-of-calabria",
+        "lastmod": "2025-10-13",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/university-of-pavia",
+        "slug": "university-of-pavia",
+        "lastmod": "2025-08-25",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/university-of-twente",
+        "slug": "university-of-twente",
+        "lastmod": "2025-10-13",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/bank-for-international-settlements",
+        "slug": "bank-for-international-settlements",
+        "lastmod": "2025-08-25",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/university-of-naples-federico-ii",
+        "slug": "university-of-naples-federico-ii",
+        "lastmod": "2025-08-25",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/accesa",
+        "slug": "accesa",
+        "lastmod": "2025-08-25",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/university-of-prishtina",
+        "slug": "university-of-prishtina",
+        "lastmod": "2025-08-25",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/g-research",
+        "slug": "g-research",
+        "lastmod": "2025-10-23",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/university-of-coimbra",
+        "slug": "university-of-coimbra",
+        "lastmod": "2025-08-25",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/bucharest-university-of-economic-studies",
+        "slug": "bucharest-university-of-economic-studies",
+        "lastmod": "2025-08-25",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/renmin-university-of-china",
+        "slug": "renmin-university-of-china",
+        "lastmod": "2025-08-25",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/lpa-group",
+        "slug": "lpa-group",
+        "lastmod": "2025-08-25",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/deloitte-consulting",
+        "slug": "deloitte-consulting",
+        "lastmod": "2025-08-25",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/city-university-of-hong-kong",
+        "slug": "city-university-of-hong-kong",
+        "lastmod": "2025-08-28",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/university-of-oradea",
+        "slug": "university-of-oradea",
+        "lastmod": "2025-08-25",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/university-of-kaiserslautern-landau",
+        "slug": "university-of-kaiserslautern-landau",
+        "lastmod": "2025-08-25",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/european-institute-for-technology---digital",
+        "slug": "european-institute-for-technology---digital",
+        "lastmod": "2025-08-25",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/quoniam",
+        "slug": "quoniam",
+        "lastmod": "2025-08-25",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/wu-vienna-university-of-economics-and-business",
+        "slug": "wu-vienna-university-of-economics-and-business",
+        "lastmod": "2025-08-25",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/sun-yat-sen-university",
+        "slug": "sun-yat-sen-university",
+        "lastmod": "2025-08-28",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/partner-new/raiffeisen-bank-international-ag",
+        "slug": "raiffeisen-bank-international-ag",
+        "lastmod": "2025-08-25",
+        "scraped": false,
+        "scrape_date": null
+      }
+    ],
+    "blog": [
+      {
+        "url": "https://www.digital-finance-msca.com/post/digital-featured-by-wu-vienna",
+        "slug": "digital-featured-by-wu-vienna",
+        "lastmod": "2024-06-12",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/post/european-research-and-phd-training-programme-in-digital-finance-launches-shaping-the-future-of-fina",
+        "slug": "european-research-and-phd-training-programme-in-digital-finance-launches-shaping-the-future-of-fina",
+        "lastmod": "2024-03-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/post/rethinking-reinforcement-learning-in-finance",
+        "slug": "rethinking-reinforcement-learning-in-finance",
+        "lastmod": "2025-04-29",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/post/professor-härdle-on-fintech-machine-learning-and-the-future-of-economics",
+        "slug": "professor-härdle-on-fintech-machine-learning-and-the-future-of-economics",
+        "lastmod": "2025-10-04",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/post/research-seminar-ethical-requirements-for-ai-systems",
+        "slug": "research-seminar-ethical-requirements-for-ai-systems",
+        "lastmod": "2024-12-04",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/post/boundaries-of-explainable-ai-in-financial-time-series",
+        "slug": "boundaries-of-explainable-ai-in-financial-time-series",
+        "lastmod": "2025-06-05",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/post/our-project-in-the-spotlight",
+        "slug": "our-project-in-the-spotlight",
+        "lastmod": "2024-02-28",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/post/the-new-ai-act-and-its-impact",
+        "slug": "the-new-ai-act-and-its-impact",
+        "lastmod": "2023-12-19",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/post/bridging-disciplines-for-positive-societal-impact-with-crypto-economic-intelligence-research",
+        "slug": "bridging-disciplines-for-positive-societal-impact-with-crypto-economic-intelligence-research",
+        "lastmod": "2024-09-02",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/post/workshop-on-msca-digital-finance-at-quoniam",
+        "slug": "workshop-on-msca-digital-finance-at-quoniam",
+        "lastmod": "2024-05-07",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/post/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente",
+        "slug": "progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente",
+        "lastmod": "2025-05-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/post/event-risks-and-opportunities-of-growing-green",
+        "slug": "event-risks-and-opportunities-of-growing-green",
+        "lastmod": "2024-06-01",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/post/msca-digital-at-ai-in-financial-markets-research-forum",
+        "slug": "msca-digital-at-ai-in-financial-markets-research-forum",
+        "lastmod": "2024-12-11",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/post/event-how-to-better-manage-some-of-the-largest-risks-in-our-society",
+        "slug": "event-how-to-better-manage-some-of-the-largest-risks-in-our-society",
+        "lastmod": "2024-05-31",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/post/digital-featured-in-unina-news",
+        "slug": "digital-featured-in-unina-news",
+        "lastmod": "2024-03-25",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/post/how-is-ai-changing-the-world-of-finance",
+        "slug": "how-is-ai-changing-the-world-of-finance",
+        "lastmod": "2023-12-19",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/post/event-cfge-sustainability-research-café",
+        "slug": "event-cfge-sustainability-research-café",
+        "lastmod": "2024-05-31",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/post/finalist-for-the-best-wi-fi-2024-young-researcher-award",
+        "slug": "finalist-for-the-best-wi-fi-2024-young-researcher-award",
+        "lastmod": "2024-06-11",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/post/international-doctoral-network-for-digital-finance-launched",
+        "slug": "international-doctoral-network-for-digital-finance-launched",
+        "lastmod": "2024-04-11",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/post/why-future-finance-graduates-should-focus-on-acquiring-skills-in-data-analytics-and-data-modelling",
+        "slug": "why-future-finance-graduates-should-focus-on-acquiring-skills-in-data-analytics-and-data-modelling",
+        "lastmod": "2023-12-19",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/post/msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i",
+        "slug": "msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i",
+        "lastmod": "2025-02-14",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/post/key-outputs-and-achievements-of-cost-action-and-digital-presented-before-cost-scientific-committee",
+        "slug": "key-outputs-and-achievements-of-cost-action-and-digital-presented-before-cost-scientific-committee",
+        "lastmod": "2024-05-14",
+        "scraped": false,
+        "scrape_date": null
+      }
+    ],
+    "blog-categories": [],
+    "training-modules": [
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/labor-market-skills",
+        "slug": "labor-market-skills",
+        "lastmod": "2024-05-03",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/barriers-in-digital-finance-adoption",
+        "slug": "barriers-in-digital-finance-adoption",
+        "lastmod": "2024-05-03",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/sustainable-finance",
+        "slug": "sustainable-finance",
+        "lastmod": "2024-05-28",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/research-ethics-and-sustainable-research-management",
+        "slug": "research-ethics-and-sustainable-research-management",
+        "lastmod": "2024-05-03",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/introduction-to-ai-for-financial-applications",
+        "slug": "introduction-to-ai-for-financial-applications",
+        "lastmod": "2024-05-03",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/ai-design-in-digital-finance",
+        "slug": "ai-design-in-digital-finance",
+        "lastmod": "2024-05-03",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/open-science-principles",
+        "slug": "open-science-principles",
+        "lastmod": "2024-05-03",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/deep-learning-for-finance",
+        "slug": "deep-learning-for-finance",
+        "lastmod": "2024-05-03",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/gender-and-diversity-dimension-in-research",
+        "slug": "gender-and-diversity-dimension-in-research",
+        "lastmod": "2024-05-03",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/digital-finance-regulation",
+        "slug": "digital-finance-regulation",
+        "lastmod": "2024-05-03",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/data-centric-ai",
+        "slug": "data-centric-ai",
+        "lastmod": "2024-05-03",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/dependence-structures-in-high-frequency-financial-data",
+        "slug": "dependence-structures-in-high-frequency-financial-data",
+        "lastmod": "2024-05-03",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/introduction-to-blockchain-applications-in-finance",
+        "slug": "introduction-to-blockchain-applications-in-finance",
+        "lastmod": "2024-05-03",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/environmental-aspects",
+        "slug": "environmental-aspects",
+        "lastmod": "2024-05-03",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/history-and-prospects-of-digital-finance",
+        "slug": "history-and-prospects-of-digital-finance",
+        "lastmod": "2024-05-28",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/ethical-dimensions",
+        "slug": "ethical-dimensions",
+        "lastmod": "2024-05-28",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/reinforcement-learning-in-digital-finance",
+        "slug": "reinforcement-learning-in-digital-finance",
+        "lastmod": "2024-12-16",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/intellectual-property-rights-and-patenting",
+        "slug": "intellectual-property-rights-and-patenting",
+        "lastmod": "2024-05-03",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/entrepreneurship-training",
+        "slug": "entrepreneurship-training",
+        "lastmod": "2024-05-03",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/blockchains-in-digital-finance",
+        "slug": "blockchains-in-digital-finance",
+        "lastmod": "2024-06-17",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/he-framework-and-research-project-management",
+        "slug": "he-framework-and-research-project-management",
+        "lastmod": "2024-05-03",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/entrepreneurial-finance",
+        "slug": "entrepreneurial-finance",
+        "lastmod": "2024-05-03",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/cybersecurity-in-digital-finance",
+        "slug": "cybersecurity-in-digital-finance",
+        "lastmod": "2024-05-03",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/machine-learning-in-industry",
+        "slug": "machine-learning-in-industry",
+        "lastmod": "2024-05-03",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/citizen-science",
+        "slug": "citizen-science",
+        "lastmod": "2024-05-03",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/multi-criteria-decision-making-in-sustainable-finance",
+        "slug": "multi-criteria-decision-making-in-sustainable-finance",
+        "lastmod": "2024-05-03",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/scientific-writing",
+        "slug": "scientific-writing",
+        "lastmod": "2024-05-03",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/start-ups-and-industry-transfer",
+        "slug": "start-ups-and-industry-transfer",
+        "lastmod": "2024-05-03",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/natural-language-processing-with-transformers",
+        "slug": "natural-language-processing-with-transformers",
+        "lastmod": "2024-05-03",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/scientific-communication",
+        "slug": "scientific-communication",
+        "lastmod": "2024-05-03",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/ethics-applicable-to-digital-aspects-",
+        "slug": "ethics-applicable-to-digital-aspects-",
+        "lastmod": "2024-09-16",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/project-management",
+        "slug": "project-management",
+        "lastmod": "2024-05-03",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/synthetic-data-generation-for-finance",
+        "slug": "synthetic-data-generation-for-finance",
+        "lastmod": "2024-05-03",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/explainable-ai-in-finance",
+        "slug": "explainable-ai-in-finance",
+        "lastmod": "2024-06-17",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/industrial-doctoral-school-on-fintech",
+        "slug": "industrial-doctoral-school-on-fintech",
+        "lastmod": "2024-11-15",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/anomaly-detection-in-big-data",
+        "slug": "anomaly-detection-in-big-data",
+        "lastmod": "2024-05-03",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/communication-skills",
+        "slug": "communication-skills",
+        "lastmod": "2024-05-03",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/job-applications",
+        "slug": "job-applications",
+        "lastmod": "2024-05-03",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/the-need-for-explainable-ai%3A-methods-and-applications-in-finance",
+        "slug": "the-need-for-explainable-ai:-methods-and-applications-in-finance",
+        "lastmod": "2024-05-03",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/green-digital-finance",
+        "slug": "green-digital-finance",
+        "lastmod": "2024-05-03",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-modules/foundation-of-data-science",
+        "slug": "foundation-of-data-science",
+        "lastmod": "2024-06-04",
+        "scraped": false,
+        "scrape_date": null
+      }
+    ],
+    "training-events": [
+      {
+        "url": "https://www.digital-finance-msca.com/training-events/closing-conference",
+        "slug": "closing-conference",
+        "lastmod": "2024-11-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-events/mid-term-review-event",
+        "slug": "mid-term-review-event",
+        "lastmod": "2024-11-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-events/digital-finance-industry-event",
+        "slug": "digital-finance-industry-event",
+        "lastmod": "2024-11-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-events/orientation-training-digital-finance",
+        "slug": "orientation-training-digital-finance",
+        "lastmod": "2024-11-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-events/regulation-in-digital-finance-workshop",
+        "slug": "regulation-in-digital-finance-workshop",
+        "lastmod": "2024-11-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-events/training-%26-development-workshop",
+        "slug": "training-&-development-workshop",
+        "lastmod": "2024-11-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-events/industrial-doctoral-school-on-fintech",
+        "slug": "industrial-doctoral-school-on-fintech",
+        "lastmod": "2024-11-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/training-events/kickoff-meeting-and-technical-training",
+        "slug": "kickoff-meeting-and-technical-training",
+        "lastmod": "2024-11-27",
+        "scraped": false,
+        "scrape_date": null
+      }
+    ],
+    "events": [
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/wp1-meeting-2024-10-07-19-00-1",
+        "slug": "wp1-meeting-2024-10-07-19-00-1",
+        "lastmod": "2024-07-28",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/conference-about-how-great-msca-is",
+        "slug": "conference-about-how-great-msca-is",
+        "lastmod": "2024-07-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/msca-training-week-ut",
+        "slug": "msca-training-week-ut",
+        "lastmod": "2024-07-28",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/orientation-training-digital-finance",
+        "slug": "orientation-training-digital-finance",
+        "lastmod": "2025-02-26",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/msca-training-week-phd-training-school-on-blockchain-applications-in-finance",
+        "slug": "msca-training-week-phd-training-school-on-blockchain-applications-in-finance",
+        "lastmod": "2025-02-26",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/introduction-to-blockchain-applications-in-finance-training-week",
+        "slug": "introduction-to-blockchain-applications-in-finance-training-week",
+        "lastmod": "2025-11-11",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/test-1",
+        "slug": "test-1",
+        "lastmod": "2024-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/wp1-meeting-2024-09-02-19-00-1",
+        "slug": "wp1-meeting-2024-09-02-19-00-1",
+        "lastmod": "2024-08-28",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/phd-training-school-on-cybersecurity",
+        "slug": "phd-training-school-on-cybersecurity",
+        "lastmod": "2025-10-17",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/msca-training-week-ktu",
+        "slug": "msca-training-week-ktu",
+        "lastmod": "2024-07-28",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/msca-training-week-1",
+        "slug": "msca-training-week-1",
+        "lastmod": "2024-07-28",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/msca-network-event-blended-intensive-program-methods-for-fintech-and-artificial-intelligence-in-finance-naples-una",
+        "slug": "msca-network-event-blended-intensive-program-methods-for-fintech-and-artificial-intelligence-in-finance-naples-una",
+        "lastmod": "2024-10-09",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/msca-training-week-3",
+        "slug": "msca-training-week-3",
+        "lastmod": "2024-10-24",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/green-digital-finance-training-week",
+        "slug": "green-digital-finance-training-week",
+        "lastmod": "2025-05-20",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/msca-network-event-advanced-statistical-modelling-for-fintech-financial-inclusion-and-inequality-una-naples-msca",
+        "slug": "msca-network-event-advanced-statistical-modelling-for-fintech-financial-inclusion-and-inequality-una-naples-msca",
+        "lastmod": "2024-09-04",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/network-event-ai-in-digital-finance-risk-premia-in-the-bitcoin-market",
+        "slug": "network-event-ai-in-digital-finance-risk-premia-in-the-bitcoin-market",
+        "lastmod": "2024-12-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/conference",
+        "slug": "conference",
+        "lastmod": "2024-04-08",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/test",
+        "slug": "test",
+        "lastmod": "2024-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/doctoral-training-school-1",
+        "slug": "doctoral-training-school-1",
+        "lastmod": "2024-05-06",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/deep-learning-in-finance-1",
+        "slug": "deep-learning-in-finance-1",
+        "lastmod": "2025-10-17",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/lecture-spectral-risk-measures-and-spectral-analysis",
+        "slug": "lecture-spectral-risk-measures-and-spectral-analysis",
+        "lastmod": "2025-06-10",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/test2",
+        "slug": "test2",
+        "lastmod": "2024-08-28",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/deep-learning-in-finance",
+        "slug": "deep-learning-in-finance",
+        "lastmod": "2025-10-13",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/msca-seminar-series-ai-in-digital-finance",
+        "slug": "msca-seminar-series-ai-in-digital-finance",
+        "lastmod": "2025-02-26",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/network-event-the-4th-international-conference-on-mathematics-and-statistics",
+        "slug": "network-event-the-4th-international-conference-on-mathematics-and-statistics",
+        "lastmod": "2025-02-14",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/ing-ut-workshop-data-analytics-and-quantitative-models-in-banking-and-academia",
+        "slug": "ing-ut-workshop-data-analytics-and-quantitative-models-in-banking-and-academia",
+        "lastmod": "2025-02-16",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/1st-arc-training-week",
+        "slug": "1st-arc-training-week",
+        "lastmod": "2025-10-17",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/test-2",
+        "slug": "test-2",
+        "lastmod": "2024-08-28",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/msca-midterm-report-meeting-utw",
+        "slug": "msca-midterm-report-meeting-utw",
+        "lastmod": "2025-02-07",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/training-week-on-blockchains-in-digital-finance",
+        "slug": "training-week-on-blockchains-in-digital-finance",
+        "lastmod": "2025-10-23",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/msca-training-week-2",
+        "slug": "msca-training-week-2",
+        "lastmod": "2024-10-24",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/msca-digital-supervisory-board-meeting-3",
+        "slug": "msca-digital-supervisory-board-meeting-3",
+        "lastmod": "2024-08-30",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/msca-training-reinforcement-learning-utw",
+        "slug": "msca-training-reinforcement-learning-utw",
+        "lastmod": "2025-04-10",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/machine-learning-in-industry",
+        "slug": "machine-learning-in-industry",
+        "lastmod": "2025-10-17",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/msca-midterm-meeting-1",
+        "slug": "msca-midterm-meeting-1",
+        "lastmod": "2024-10-24",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/msca-digital-the-4th-international-conference-on-mathematics-and-statistics",
+        "slug": "msca-digital-the-4th-international-conference-on-mathematics-and-statistics",
+        "lastmod": "2024-07-28",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/blockchains-in-digital-finance",
+        "slug": "blockchains-in-digital-finance",
+        "lastmod": "2025-10-13",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/cost-finai-brussels-may-14-15-2024",
+        "slug": "cost-finai-brussels-may-14-15-2024",
+        "lastmod": "2024-04-15",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/agentic-ai-for-finance-training-week",
+        "slug": "agentic-ai-for-finance-training-week",
+        "lastmod": "2025-11-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/msca-network-event-advanced-statistical-modelling-for-fintech-financial-inclusion-and-inequality-una-naples",
+        "slug": "msca-network-event-advanced-statistical-modelling-for-fintech-financial-inclusion-and-inequality-una-naples",
+        "lastmod": "2024-08-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/network-event-rb-event-2024-ai-in-financial-markets-research-forum",
+        "slug": "network-event-rb-event-2024-ai-in-financial-markets-research-forum",
+        "lastmod": "2024-10-24",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/msca-network-event-blended-intensive-program-methods-for-fintech-and-artificial-intelligence-in-finance-napl-1-1",
+        "slug": "msca-network-event-blended-intensive-program-methods-for-fintech-and-artificial-intelligence-in-finance-napl-1-1",
+        "lastmod": "2024-10-09",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/explainable-ai-training-week",
+        "slug": "explainable-ai-training-week",
+        "lastmod": "2025-10-09",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/research-seminar-fair-algorithmic-design-wp3",
+        "slug": "research-seminar-fair-algorithmic-design-wp3",
+        "lastmod": "2025-04-16",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/msca-training-week-bbu",
+        "slug": "msca-training-week-bbu",
+        "lastmod": "2024-07-28",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/msca-training-history-and-prospects-of-digital-finance",
+        "slug": "msca-training-history-and-prospects-of-digital-finance",
+        "lastmod": "2025-11-25",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/ai-in-financial-markets-research-forum-2",
+        "slug": "ai-in-financial-markets-research-forum-2",
+        "lastmod": "2025-11-27",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/msca-training-school-on-ethics-in-ai-and-digital-finance-oradea",
+        "slug": "msca-training-school-on-ethics-in-ai-and-digital-finance-oradea",
+        "lastmod": "2024-12-08",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/research-seminar-audience-dependent-explanations-for-ai-systems-wp3",
+        "slug": "research-seminar-audience-dependent-explanations-for-ai-systems-wp3",
+        "lastmod": "2025-04-16",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/foundations-of-data-science-training-week",
+        "slug": "foundations-of-data-science-training-week",
+        "lastmod": "2025-03-25",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/ssm-annual-research-conference",
+        "slug": "ssm-annual-research-conference",
+        "lastmod": "2025-10-13",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/research-seminar-explainable-ai-methods-for-financial-time-series-wp3",
+        "slug": "research-seminar-explainable-ai-methods-for-financial-time-series-wp3",
+        "lastmod": "2025-06-05",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/msca-training-week-bfh",
+        "slug": "msca-training-week-bfh",
+        "lastmod": "2025-09-08",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/msca-midterm-meeting",
+        "slug": "msca-midterm-meeting",
+        "lastmod": "2024-07-28",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/advanced-analytics-for-fintech-and-artificial-intelligence",
+        "slug": "advanced-analytics-for-fintech-and-artificial-intelligence",
+        "lastmod": "2024-10-21",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/research-seminar-uncertainty-aware-statistical-learning-for-complex-decision-processes-wp5",
+        "slug": "research-seminar-uncertainty-aware-statistical-learning-for-complex-decision-processes-wp5",
+        "lastmod": "2025-06-04",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/quantitative-finance-conference-at-american-university-of-sharjah",
+        "slug": "quantitative-finance-conference-at-american-university-of-sharjah",
+        "lastmod": "2024-07-28",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/research-seminar-reinforcement-learning-applications-in-finance-wp3",
+        "slug": "research-seminar-reinforcement-learning-applications-in-finance-wp3",
+        "lastmod": "2025-04-29",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/mid-term-meeting-technical-training-week",
+        "slug": "mid-term-meeting-technical-training-week",
+        "lastmod": "2025-06-10",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/official-msca-kick-off-event",
+        "slug": "official-msca-kick-off-event",
+        "lastmod": "2024-01-26",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/msca-digital-wp3-research-seminar",
+        "slug": "msca-digital-wp3-research-seminar",
+        "lastmod": "2024-08-08",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/msca-digital-training-m9-prague",
+        "slug": "msca-digital-training-m9-prague",
+        "lastmod": "2024-08-28",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/msca-workshop-on-digital-finance",
+        "slug": "msca-workshop-on-digital-finance",
+        "lastmod": "2024-11-18",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/4th-yushan-conference",
+        "slug": "4th-yushan-conference",
+        "lastmod": "2024-07-28",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/network-event-4th-yushan-conference",
+        "slug": "network-event-4th-yushan-conference",
+        "lastmod": "2024-10-24",
+        "scraped": false,
+        "scrape_date": null
+      },
+      {
+        "url": "https://www.digital-finance-msca.com/event-details-registration/quantitative-finance-conference-at-american-university-of-sharjah-1",
+        "slug": "quantitative-finance-conference-at-american-university-of-sharjah-1",
+        "lastmod": "2024-10-24",
+        "scraped": false,
+        "scrape_date": null
+      }
+    ]
+  },
+  "summary": {
+    "homepage": 1,
+    "pages": 71,
+    "people": 139,
+    "partners": 39,
+    "blog": 22,
+    "blog-categories": 0,
+    "training-modules": 41,
+    "training-events": 8,
+    "events": 66
+  },
+  "total_urls": 387
+}

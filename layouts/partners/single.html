@@ -1,0 +1,24 @@
+{{ define "main" }}
+<article class="partner-profile">
+    <div class="container">
+        <header class="page-header">
+            {{ with .Params.image }}
+            <div class="partner-logo">
+                <img src="{{ . }}" alt="{{ $.Title }}">
+            </div>
+            {{ end }}
+            <h1>{{ .Title }}</h1>
+        </header>
+
+        <div class="content">
+            {{ .Content }}
+        </div>
+
+        {{ with .Params.website }}
+        <div class="partner-link">
+            <a href="{{ . }}" target="_blank" rel="noopener" class="btn">Visit Website</a>
+        </div>
+        {{ end }}
+    </div>
+</article>
+{{ end }}
