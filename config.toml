@@ -1,7 +1,6 @@
 baseURL = "https://digital-ai-finance.github.io/msca-digital-finance/"
 languageCode = "en-us"
 title = "MSCA Digital Finance"
-theme = ""
 
 # Enable URL-based permalinks
 [permalinks]
