@@ -4,7 +4,6 @@ date: '2025-12-01'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/deep-learning-in-finance-1
-image: /images/events/58ddb0_f28f24feff434da5abdf59dfe1f1da14_mv2_79db3933.jpg
 images:
 - /images/blog/logo_d9d66bb7.jpg
 - /images/blog/logo-nobackground-500_dccd868e.png
@@ -16,6 +15,10 @@ images:
 - /images/blog/logo-nobackground-500_c3c8414f.png
 - /images/blog/d826e4_7dcbe49c67394160a8efaf859c585a9b_mv2_a8413586.png
 - /images/blog/quantinar_logo_fcc02fa4.png
+cover:
+  image: "/images/events/58ddb0_f28f24feff434da5abdf59dfe1f1da14_mv2_79db3933.jpg"
+  alt: "Cover image"
+  hidden: false
 ---
 
 # Deep Learning in Finance

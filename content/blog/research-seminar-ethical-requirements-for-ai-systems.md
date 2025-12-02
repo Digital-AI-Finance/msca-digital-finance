@@ -4,7 +4,6 @@ date: '2025-12-01'
 draft: false
 type: blog
 original_url: https://www.digital-finance-msca.com/post/research-seminar-ethical-requirements-for-ai-systems
-image: /images/blog/1cd49e_62b17b5c28fc48b48655434dba9c3989_mv2_59fb3053.jpg
 images:
 - /images/blog/logo_d9d66bb7.jpg
 - /images/blog/logo-nobackground-500_dccd868e.png
@@ -16,6 +15,10 @@ images:
 - /images/blog/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_a9c296d0.jpg
 - /images/blog/unnamed_c029ae93.png
 - /images/blog/1cd49e_46e17462b534409c9a46ee2aad6648ab_mv2_933b9f21.png
+cover:
+  image: "/images/blog/1cd49e_62b17b5c28fc48b48655434dba9c3989_mv2_59fb3053.jpg"
+  alt: "Cover image"
+  hidden: false
 ---
 
 * [All Posts](/blog/)

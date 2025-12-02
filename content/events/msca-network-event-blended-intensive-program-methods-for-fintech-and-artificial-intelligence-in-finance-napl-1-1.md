@@ -10,7 +10,6 @@ description: 'The aim of the BIP is to create an interdisciplinary course on adv
   sector and Artificial Intelligence on key topics included in the UN SDGs.
 
   '
-image: /images/events/1cd49e_46a346e1713646b0b448a6546bed685f_mv2_5ee9a243.jpg
 images:
 - /images/blog/logo_d9d66bb7.jpg
 - /images/blog/logo-nobackground-500_dccd868e.png
@@ -22,6 +21,11 @@ images:
 - /images/blog/logo-nobackground-500_c3c8414f.png
 - /images/blog/d826e4_7dcbe49c67394160a8efaf859c585a9b_mv2_a8413586.png
 - /images/blog/quantinar_logo_fcc02fa4.png
+cover:
+  image: "/images/events/1cd49e_46a346e1713646b0b448a6546bed685f_mv2_5ee9a243.jpg"
+  alt: "Cover image"
+  hidden: false
+ShowToc: true
 ---
 
 #  MSCA Network Event - Blended Intensive Program. Methods for Fintech and Artificial Intelligence in Finance, Napl... (1)

@@ -4,7 +4,6 @@ date: '2025-12-01'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/research-seminar-explainable-ai-methods-for-financial-time-series-wp3
-image: /images/events/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_4e57e4cf.jpg
 images:
 - /images/blog/logo_d9d66bb7.jpg
 - /images/blog/logo-nobackground-500_dccd868e.png
@@ -16,6 +15,10 @@ images:
 - /images/blog/11062b_9e78da3320da497ab23ce28d738d388a_mv2_ae27c472.png
 - /images/blog/logo-nobackground-500_c3c8414f.png
 - /images/blog/d826e4_7dcbe49c67394160a8efaf859c585a9b_mv2_a8413586.png
+cover:
+  image: "/images/events/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_4e57e4cf.jpg"
+  alt: "Cover image"
+  hidden: false
 ---
 
 # Research Seminar: Explainable AI Methods for Financial Time Series (WP3)

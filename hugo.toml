@@ -1,0 +1,140 @@
+# Hugo Configuration for MSCA Digital Finance
+# Theme: PaperMod
+# Generated: 2025-12-02
+
+baseURL = "https://digital-ai-finance.github.io/msca-digital-finance/"
+languageCode = "en-us"
+title = "MSCA Digital Finance"
+theme = "PaperMod"
+
+# Build settings
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = false
+
+# Pagination
+paginate = 20
+
+# Minify output
+minify.disableXML = true
+minify.minifyOutput = true
+
+[params]
+env = "production"
+title = "MSCA Digital Finance"
+description = "Digital Finance - Reaching New Frontiers | EU Horizon MSCA Doctoral Network"
+keywords = ["Digital Finance", "Fintech", "AI", "Machine Learning", "Blockchain", "EU Research"]
+author = "MSCA Digital Finance Consortium"
+DateFormat = "January 2, 2006"
+defaultTheme = "light"
+disableThemeToggle = false
+ShowReadingTime = false
+ShowShareButtons = false
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowWordCount = false
+ShowRssButtonInSectionTermList = false
+UseHugoToc = true
+disableSpecial1stPost = true
+disableScrollToTop = false
+hidemeta = false
+hideSummary = false
+showtoc = false
+tocopen = false
+
+[params.homeInfoParams]
+Title = "MSCA Digital Finance"
+Content = "Digital Finance - Reaching New Frontiers. A Horizon Europe MSCA Doctoral Network funded by the European Union."
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/Digital-AI-Finance"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:j.osterrieder@utwente.nl"
+
+[params.cover]
+hidden = false
+hiddenInList = false
+hiddenInSingle = false
+
+[params.fuseOpts]
+isCaseSensitive = false
+shouldSort = true
+location = 0
+distance = 1000
+threshold = 0.4
+minMatchCharLength = 0
+keys = ["title", "permalink", "summary", "content"]
+
+# Menu
+[menu]
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about-the-project/"
+weight = 10
+
+[[menu.main]]
+identifier = "people"
+name = "People"
+url = "/people/"
+weight = 20
+
+[[menu.main]]
+identifier = "partners"
+name = "Partners"
+url = "/partners/"
+weight = 30
+
+[[menu.main]]
+identifier = "training"
+name = "Training"
+url = "/training-modules/"
+weight = 40
+
+[[menu.main]]
+identifier = "events"
+name = "Events"
+url = "/training-events/"
+weight = 50
+
+[[menu.main]]
+identifier = "blog"
+name = "News"
+url = "/blog/"
+weight = 60
+
+[[menu.main]]
+identifier = "eu-data"
+name = "EU Data"
+url = "/eu-cordis-project/"
+weight = 70
+
+# Outputs
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+# Taxonomies
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+# Markup settings
+[markup]
+[markup.highlight]
+noClasses = false
+style = "dracula"
+[markup.goldmark.renderer]
+unsafe = true

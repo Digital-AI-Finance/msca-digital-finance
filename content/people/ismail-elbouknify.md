@@ -4,7 +4,6 @@ date: '2025-12-01'
 draft: false
 type: people
 original_url: https://www.digital-finance-msca.com/people/ismail-elbouknify
-image: /images/people/561f6f2c-9d2f-4dba-9f57-65e7a0ba03fd-modified_35570a11.png
 email: ielbouknify@gmail.com
 linkedin: https://www.linkedin.com/company/digital-finance-msca
 images:
@@ -18,6 +17,10 @@ images:
 - /images/blog/logo-nobackground-500_c3c8414f.png
 - /images/blog/d826e4_7dcbe49c67394160a8efaf859c585a9b_mv2_a8413586.png
 - /images/blog/quantinar_logo_fcc02fa4.png
+cover:
+  image: "/images/people/561f6f2c-9d2f-4dba-9f57-65e7a0ba03fd-modified_35570a11.png"
+  alt: "Cover image"
+  hidden: false
 ---
 
 ## Ismail Elbouknify

@@ -5,6 +5,7 @@ type: "eu-data"
 source: "https://cordis.europa.eu/project/id/101119635/results"
 total_publications: 37
 draft: false
+ShowToc: true
 ---
 
 # Digital Finance - Complete Publications List

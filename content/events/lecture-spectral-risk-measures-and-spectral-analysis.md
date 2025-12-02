@@ -6,7 +6,6 @@ type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/lecture-spectral-risk-measures-and-spectral-analysis
 description: 'In this lecture, Prof Dr Wolfgang Haerdle will focus on spectral risk
   measures and spectral analysis. '
-image: /images/events/d826e4_549b38d17ab34a7a83b3aca4f8f42400_mv2_1c22cfdb.jpg
 images:
 - /images/blog/logo_d9d66bb7.jpg
 - /images/blog/logo-nobackground-500_dccd868e.png
@@ -18,6 +17,10 @@ images:
 - /images/blog/11062b_9e78da3320da497ab23ce28d738d388a_mv2_ae27c472.png
 - /images/blog/logo-nobackground-500_c3c8414f.png
 - /images/blog/d826e4_7dcbe49c67394160a8efaf859c585a9b_mv2_a8413586.png
+cover:
+  image: "/images/events/d826e4_549b38d17ab34a7a83b3aca4f8f42400_mv2_1c22cfdb.jpg"
+  alt: "Cover image"
+  hidden: false
 ---
 
 # Lecture: Spectral Risk Measures and Spectral Analysis

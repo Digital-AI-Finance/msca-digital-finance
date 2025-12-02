@@ -15,6 +15,7 @@ images:
 - /images/partners/GettyImages-591216789_3e921e52.jpg
 - /images/partners/GettyImages-591216789_67b3493e.jpg
 - /images/partners/GettyImages-591216789_05817bd1.png
+ShowToc: true
 ---
 
 ### University of Twente

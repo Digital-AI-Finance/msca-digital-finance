@@ -3,6 +3,7 @@ title: "Sustainability of Digital Finance | Digital Finance MSCA"
 date: 2025-12-02
 original_url: "https://www.digital-finance-msca.com/work-package-5"
 draft: false
+ShowToc: true
 ---
 
 Work Package 5

@@ -3,7 +3,6 @@ title: Leading House - Graph-Theoretic Analysis
 date: '2025-12-01'
 draft: false
 original_url: https://www.digital-finance-msca.com/graph-theoretic-analysis-leading-house
-image: /images/general/bad6a9_28a741140e08418bb470784acec914ef_mv2_34547a5d.png
 images:
 - /images/blog/logo_d9d66bb7.jpg
 - /images/blog/logo-nobackground-500_dccd868e.png
@@ -15,6 +14,11 @@ images:
 - /images/general/Hadji_Misheva_b309f542.jpg
 - /images/general/Stephen_chan_a523774b.jpg
 - /images/general/yuanyuan_zhang_47891dfc.jpg
+cover:
+  image: "/images/general/bad6a9_28a741140e08418bb470784acec914ef_mv2_34547a5d.png"
+  alt: "Cover image"
+  hidden: false
+ShowToc: true
 ---
 
 ## [Graph-Theoretic Analysis for Consumer Credit Risk Assessment in Personal Lending](https://www.mysnf.ch/grants/grant.aspx?id=c8d8081e-6eee-4418-92bb-21dc2c89566a)

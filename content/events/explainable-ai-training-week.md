@@ -8,7 +8,6 @@ description: The course provides a comprehensive introduction to Explainable Art
   Intelligence (XAI), emphasizing the methodologies and practical applications of
   cutting-edge models such as LIME, SHAP, deep learning XAI, time series-based XAI
   methods and others.
-image: https://static.wixstatic.com/media/d826e4_8a821b26a89d460097289698ad226b1f~mv2.jpg/v1/fill/w_7947,h_5298,al_c,q_90/d826e4_8a821b26a89d460097289698ad226b1f~mv2.jpg
 images:
 - /images/blog/logo_d9d66bb7.jpg
 - /images/blog/logo-nobackground-500_dccd868e.png
@@ -20,6 +19,11 @@ images:
 - /images/events/1cd49e_1993af3df52b424a981cda94c167e3bb_mv2_bc11917d.jpg
 - /images/events/1cd49e_7e8a196fdc51452992ac430559fe3e00_mv2_d04d17e3.jpg
 - /images/events/1cd49e_fd6eaf9ba6994cdd8f4097dba7bef3d1_mv2_c40c3b8c.jpg
+cover:
+  image: "https://static.wixstatic.com/media/d826e4_8a821b26a89d460097289698ad226b1f~mv2.jpg/v1/fill/w_7947,h_5298,al_c,q_90/d826e4_8a821b26a89d460097289698ad226b1f~mv2.jpg"
+  alt: "Cover image"
+  hidden: false
+ShowToc: true
 ---
 
 # Explainable AI - Training Week

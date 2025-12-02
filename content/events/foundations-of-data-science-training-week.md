@@ -8,7 +8,6 @@ description: Join us for this 4ECTS doctoral training course "Foundations of Dat
   Science" tailored specifically for doctoral students in finance, providing a comprehensive
   and practical foundation in data science as applied to financial analysis and decision-making,
   along with "Project Management" (1ECTS).
-image: /images/events/d826e4_605d1d993ba84eafbacc6c7739b0e4c2_mv2_3145b694.jpg
 images:
 - /images/blog/logo_d9d66bb7.jpg
 - /images/blog/logo-nobackground-500_dccd868e.png
@@ -20,6 +19,11 @@ images:
 - /images/blog/logo-nobackground-500_c3c8414f.png
 - /images/blog/d826e4_7dcbe49c67394160a8efaf859c585a9b_mv2_a8413586.png
 - /images/blog/quantinar_logo_fcc02fa4.png
+cover:
+  image: "/images/events/d826e4_605d1d993ba84eafbacc6c7739b0e4c2_mv2_3145b694.jpg"
+  alt: "Cover image"
+  hidden: false
+ShowToc: true
 ---
 
 # Foundations of Data Science - Training Week

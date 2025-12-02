@@ -8,7 +8,6 @@ description: Welcome to the 4th Yushan Conference! It is an international confer
   on digital finance, aimed at bringing together professionals from academia and industry
   to facilitate dialogue and collaboration. Join us to learn about the latest advancements
   in digital finance and network with leading expert!
-image: /images/events/e64bca_2cebf9d7b2b14227a895f971725e3c43_mv2_ad819fed.jpg
 images:
 - /images/blog/logo_d9d66bb7.jpg
 - /images/blog/logo-nobackground-500_dccd868e.png
@@ -20,6 +19,10 @@ images:
 - /images/blog/logo-nobackground-500_c3c8414f.png
 - /images/blog/d826e4_7dcbe49c67394160a8efaf859c585a9b_mv2_a8413586.png
 - /images/blog/quantinar_logo_fcc02fa4.png
+cover:
+  image: "/images/events/e64bca_2cebf9d7b2b14227a895f971725e3c43_mv2_ad819fed.jpg"
+  alt: "Cover image"
+  hidden: false
 ---
 
 # Network Event - 4th Yushan Conference

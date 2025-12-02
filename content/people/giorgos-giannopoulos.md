@@ -4,7 +4,6 @@ date: '2025-12-01'
 draft: false
 type: people
 original_url: https://www.digital-finance-msca.com/people/giorgos-giannopoulos
-image: /images/people/Giannopoulos_cb493d71.jpg
 email: giann@athenarc.gr
 linkedin: https://www.linkedin.com/in/giorgos-giannopoulos-595a3a67/
 images:
@@ -18,6 +17,10 @@ images:
 - /images/blog/logo-nobackground-500_c3c8414f.png
 - /images/blog/d826e4_7dcbe49c67394160a8efaf859c585a9b_mv2_a8413586.png
 - /images/blog/quantinar_logo_fcc02fa4.png
+cover:
+  image: "/images/people/Giannopoulos_cb493d71.jpg"
+  alt: "Cover image"
+  hidden: false
 ---
 
 ## **Giorgos Giannopoulos**

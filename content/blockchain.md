@@ -14,6 +14,7 @@ images:
 - /images/general/Baals_JPG_c0eaeb83.jpg
 - /images/general/jeffreychu_JPG_2a727b44.jpg
 - /images/general/Mare_10e75e18.jpg
+ShowToc: true
 ---
 
 ## [Anomaly and fraud detection in blockchain networks](https://www.mysnf.ch/grants/grant.aspx?id=c8d8081e-6eee-4418-92bb-21dc2c89566a)

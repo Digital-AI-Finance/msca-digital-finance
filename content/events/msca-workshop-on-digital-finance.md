@@ -8,7 +8,6 @@ description: The Bucharest University of Economic Studies (ASE) is pleased to in
   you to participate in the Digital Finance Workshop, scheduled for January 15-17,
   2025. The workshop will be held at the Bucharest University of Economic Studies,
   located at Piața Romană 6, Bucharest.
-image: /images/events/1cd49e_479dde14ec704782a57c0046cce006da_mv2_ebbe0883.png
 images:
 - /images/blog/logo_d9d66bb7.jpg
 - /images/blog/logo-nobackground-500_dccd868e.png
@@ -20,6 +19,11 @@ images:
 - /images/blog/logo-nobackground-500_c3c8414f.png
 - /images/blog/d826e4_7dcbe49c67394160a8efaf859c585a9b_mv2_a8413586.png
 - /images/blog/quantinar_logo_fcc02fa4.png
+cover:
+  image: "/images/events/1cd49e_479dde14ec704782a57c0046cce006da_mv2_ebbe0883.png"
+  alt: "Cover image"
+  hidden: false
+ShowToc: true
 ---
 
 # MSCA - Workshop on Digital Finance

@@ -14,6 +14,7 @@ images:
 - /images/blog/unnamed_c029ae93.png
 - /images/blog/1cd49e_46e17462b534409c9a46ee2aad6648ab_mv2_933b9f21.png
 - /images/blog/11062b_9e78da3320da497ab23ce28d738d388a_mv2_ae27c472.png
+ShowToc: true
 ---
 
 ## [Network-Based Credit Risk Models in P2P Lending Markets](https://www.mysnf.ch/grants/grant.aspx?id=c8d8081e-6eee-4418-92bb-21dc2c89566a)

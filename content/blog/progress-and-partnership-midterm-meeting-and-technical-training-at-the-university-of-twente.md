@@ -5,7 +5,6 @@ date: '2025-12-01'
 draft: false
 type: blog
 original_url: https://www.digital-finance-msca.com/post/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente
-image: /images/blog/d826e4_84ad17b931a847de935d4e33d1b50379_mv2_e5bc221a.jpg
 images:
 - /images/blog/logo_d9d66bb7.jpg
 - /images/blog/logo-nobackground-500_dccd868e.png
@@ -17,6 +16,11 @@ images:
 - /images/blog/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_a9c296d0.jpg
 - /images/blog/e64bca_d254ab4d6e2248fea09cfc247802b775_mv2_702ebb53.jpg
 - /images/blog/unnamed_c029ae93.png
+cover:
+  image: "/images/blog/d826e4_84ad17b931a847de935d4e33d1b50379_mv2_e5bc221a.jpg"
+  alt: "Cover image"
+  hidden: false
+ShowToc: true
 ---
 
 * [All Posts](/blog/)

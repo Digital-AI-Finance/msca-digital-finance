@@ -4,7 +4,6 @@ date: '2025-12-01'
 draft: false
 type: people
 original_url: https://www.digital-finance-msca.com/people/stefan-theussl
-image: /images/people/Theussl_5710801f.jpg
 linkedin: https://www.linkedin.com/in/stefan-theussl/
 images:
 - /images/blog/logo_d9d66bb7.jpg
@@ -17,6 +16,10 @@ images:
 - /images/blog/logo-nobackground-500_c3c8414f.png
 - /images/blog/d826e4_7dcbe49c67394160a8efaf859c585a9b_mv2_a8413586.png
 - /images/blog/quantinar_logo_fcc02fa4.png
+cover:
+  image: "/images/people/Theussl_5710801f.jpg"
+  alt: "Cover image"
+  hidden: false
 ---
 
 ## **Stefan Theussl**

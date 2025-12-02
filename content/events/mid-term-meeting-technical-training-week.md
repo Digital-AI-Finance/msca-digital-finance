@@ -8,7 +8,6 @@ description: "1 MSCA DIGITAL Research Day \n1 MSCA DIGITAL Mid-Term Meeting (MTM
   3 days of Technical Training\n\nAttendance to the Mid-Term Meeting is mandatory\
   \ for DCs, as well as for at least one (1) representative per member of the MSCA\
   \ DIGITAL Industrial Doctoral Network."
-image: /images/events/e64bca_2d5d4657e33b45d9a703a214894b1f63_mv2_8770e887.jpg
 images:
 - /images/blog/logo_d9d66bb7.jpg
 - /images/blog/logo-nobackground-500_dccd868e.png
@@ -20,6 +19,11 @@ images:
 - /images/events/d826e4_97ca7ac20c3e4cc8a5ba059ece98d74f_mv2_ed318e2c.webp
 - /images/events/1cd49e_49adef98d9a140bb94f756b1cfd733c6_mv2_f0876af0.webp
 - /images/events/1cd49e_49adef98d9a140bb94f756b1cfd733c6_mv2_d9040f1e.webp
+cover:
+  image: "/images/events/e64bca_2d5d4657e33b45d9a703a214894b1f63_mv2_8770e887.jpg"
+  alt: "Cover image"
+  hidden: false
+ShowToc: true
 ---
 
 # Mid-Term Meeting & Technical Training Week

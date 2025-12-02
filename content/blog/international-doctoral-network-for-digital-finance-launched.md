@@ -4,7 +4,6 @@ date: '2025-12-01'
 draft: false
 type: blog
 original_url: https://www.digital-finance-msca.com/post/international-doctoral-network-for-digital-finance-launched
-image: /images/blog/1cd49e_168df575df8e423b969a42a69476f4e7_mv2_6f6b9780.webp
 images:
 - /images/blog/logo_d9d66bb7.jpg
 - /images/blog/logo-nobackground-500_dccd868e.png
@@ -16,6 +15,11 @@ images:
 - /images/blog/1cd49e_46e17462b534409c9a46ee2aad6648ab_mv2_933b9f21.png
 - /images/blog/11062b_9e78da3320da497ab23ce28d738d388a_mv2_ae27c472.png
 - /images/blog/logo-nobackground-500_c3c8414f.png
+cover:
+  image: "/images/blog/1cd49e_168df575df8e423b969a42a69476f4e7_mv2_6f6b9780.webp"
+  alt: "Cover image"
+  hidden: false
+ShowToc: true
 ---
 
 * [All Posts](/blog/)

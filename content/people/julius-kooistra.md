@@ -4,7 +4,6 @@ date: '2025-12-01'
 draft: false
 type: people
 original_url: https://www.digital-finance-msca.com/people/julius-kooistra
-image: /images/people/36AF15AD-758A-4F32-B861-D16666095C9A_1_201_a_4b0b4917.jpeg
 email: julius.kooistra@bfh.ch
 linkedin: https://www.linkedin.com/in/juliuskooistra/
 images:
@@ -18,6 +17,10 @@ images:
 - /images/blog/logo-nobackground-500_c3c8414f.png
 - /images/blog/d826e4_7dcbe49c67394160a8efaf859c585a9b_mv2_a8413586.png
 - /images/blog/quantinar_logo_fcc02fa4.png
+cover:
+  image: "/images/people/36AF15AD-758A-4F32-B861-D16666095C9A_1_201_a_4b0b4917.jpeg"
+  alt: "Cover image"
+  hidden: false
 ---
 
 ## **Julius Kooistra**

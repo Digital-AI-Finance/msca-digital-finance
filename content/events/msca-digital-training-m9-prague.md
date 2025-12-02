@@ -7,7 +7,6 @@ original_url: https://www.digital-finance-msca.com/event-details-registration/ms
 description: We invite you to attend the STAT of ML - Statistics of Machine learning
   conference to be held September 30, 2024 in Prague, Czech Republic, hosted by the
   Czech Academy of Sciences.
-image: https://static.wixstatic.com/media/11062b_54a8b3b85cfd48f9b560fc3c6fa9b986~mv2.jpg/v1/fill/w_7323,h_4882,al_c,q_90/11062b_54a8b3b85cfd48f9b560fc3c6fa9b986~mv2.jpg
 images:
 - /images/blog/logo_d9d66bb7.jpg
 - /images/blog/logo-nobackground-500_dccd868e.png
@@ -19,6 +18,10 @@ images:
 - /images/blog/logo-nobackground-500_c3c8414f.png
 - /images/blog/d826e4_7dcbe49c67394160a8efaf859c585a9b_mv2_a8413586.png
 - /images/blog/quantinar_logo_fcc02fa4.png
+cover:
+  image: "https://static.wixstatic.com/media/11062b_54a8b3b85cfd48f9b560fc3c6fa9b986~mv2.jpg/v1/fill/w_7323,h_4882,al_c,q_90/11062b_54a8b3b85cfd48f9b560fc3c6fa9b986~mv2.jpg"
+  alt: "Cover image"
+  hidden: false
 ---
 
 # MSCA DIGITAL - TRAINING M9 - PRAGUE

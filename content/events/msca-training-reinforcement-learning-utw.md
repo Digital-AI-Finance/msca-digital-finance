@@ -5,7 +5,6 @@ draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/msca-training-reinforcement-learning-utw
 description: Reinforcement Learning in Digital Finance
-image: /images/events/e64bca_2d5d4657e33b45d9a703a214894b1f63_mv2_8770e887.jpg
 event_date: 9:45 - 10:00
 images:
 - /images/blog/logo_d9d66bb7.jpg
@@ -18,6 +17,11 @@ images:
 - /images/events/d826e4_251aeefa5dab4a1d81dcfd9d0d568cfc_mv2_e2345109.jpg
 - /images/events/d826e4_aa9035f519ac4ab49caceeacbba72b2d_mv2_b5de5e17.jpg
 - /images/events/d826e4_aa9035f519ac4ab49caceeacbba72b2d_mv2_7a6bc394.jpg
+cover:
+  image: "/images/events/e64bca_2d5d4657e33b45d9a703a214894b1f63_mv2_8770e887.jpg"
+  alt: "Cover image"
+  hidden: false
+ShowToc: true
 ---
 
 # MSCA TRAINING - Reinforcement Learning @UTW

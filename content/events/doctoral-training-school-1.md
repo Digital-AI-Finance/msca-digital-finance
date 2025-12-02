@@ -8,7 +8,6 @@ description: The University of Twente's doctoral school event will feature engag
   talks from both industry and academia, alongside insightful presentations from PhD
   students, fostering interdisciplinary dialogue and knowledge exchange within the
   academic community.
-image: /images/events/1cd49e_d77eb829f2b3402191aaf44feb6b8ea0_mv2_b404c343.png
 event_date: 18:00 - 20:00
 images:
 - /images/blog/logo_d9d66bb7.jpg
@@ -21,6 +20,10 @@ images:
 - /images/blog/logo-nobackground-500_c3c8414f.png
 - /images/blog/d826e4_7dcbe49c67394160a8efaf859c585a9b_mv2_a8413586.png
 - /images/blog/quantinar_logo_fcc02fa4.png
+cover:
+  image: "/images/events/1cd49e_d77eb829f2b3402191aaf44feb6b8ea0_mv2_b404c343.png"
+  alt: "Cover image"
+  hidden: false
 ---
 
 # Doctoral Training school

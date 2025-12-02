@@ -7,7 +7,6 @@ original_url: https://www.digital-finance-msca.com/event-details-registration/ne
 description: We are delighted to announce a collaborative initiative between IDA,
   the Digital Assets Institute, AI4EFIN, COST FIN-AI, MSCA DIGITAL FINANCE and Institute
   for Economic Forecasting, Romanian Academy!
-image: /images/events/1cd49e_479dde14ec704782a57c0046cce006da_mv2_ebbe0883.png
 images:
 - /images/blog/logo_d9d66bb7.jpg
 - /images/blog/logo-nobackground-500_dccd868e.png
@@ -19,6 +18,11 @@ images:
 - /images/blog/logo-nobackground-500_c3c8414f.png
 - /images/blog/d826e4_7dcbe49c67394160a8efaf859c585a9b_mv2_a8413586.png
 - /images/blog/quantinar_logo_fcc02fa4.png
+cover:
+  image: "/images/events/1cd49e_479dde14ec704782a57c0046cce006da_mv2_ebbe0883.png"
+  alt: "Cover image"
+  hidden: false
+ShowToc: true
 ---
 
 # Network Event - AI in Digital Finance - Risk Premia in the Bitcoin Market

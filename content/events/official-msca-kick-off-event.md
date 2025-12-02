@@ -7,7 +7,6 @@ original_url: https://www.digital-finance-msca.com/event-details-registration/of
 description: "Join us for our official kick-off of the MSCA DN Digital. The event\
   \ will be hosted by DIGITAL WP2 Lead, WU Vienna University of Economics and Business.\
   \ \n\nThe event will be hybrid and it is open to all partners within DIGITAL. "
-image: /images/events/1cd49e_1c8b259169eb49ffbe783a7e4d7d4265_mv2_03c26faf.jpeg
 images:
 - /images/blog/logo_d9d66bb7.jpg
 - /images/blog/logo-nobackground-500_dccd868e.png
@@ -19,6 +18,10 @@ images:
 - /images/blog/logo-nobackground-500_c3c8414f.png
 - /images/blog/d826e4_7dcbe49c67394160a8efaf859c585a9b_mv2_a8413586.png
 - /images/blog/quantinar_logo_fcc02fa4.png
+cover:
+  image: "/images/events/1cd49e_1c8b259169eb49ffbe783a7e4d7d4265_mv2_03c26faf.jpeg"
+  alt: "Cover image"
+  hidden: false
 ---
 
 # Official MSCA Kick-off Event

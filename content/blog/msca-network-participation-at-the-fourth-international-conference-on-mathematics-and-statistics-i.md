@@ -5,7 +5,6 @@ date: '2025-12-01'
 draft: false
 type: blog
 original_url: https://www.digital-finance-msca.com/post/msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i
-image: /images/blog/e64bca_d254ab4d6e2248fea09cfc247802b775_mv2_6c2a5279.jpg
 images:
 - /images/blog/logo_d9d66bb7.jpg
 - /images/blog/logo-nobackground-500_dccd868e.png
@@ -17,6 +16,11 @@ images:
 - /images/blog/11062b_9e78da3320da497ab23ce28d738d388a_mv2_ae27c472.png
 - /images/blog/logo-nobackground-500_c3c8414f.png
 - /images/blog/d826e4_7dcbe49c67394160a8efaf859c585a9b_mv2_a8413586.png
+cover:
+  image: "/images/blog/e64bca_d254ab4d6e2248fea09cfc247802b775_mv2_6c2a5279.jpg"
+  alt: "Cover image"
+  hidden: false
+ShowToc: true
 ---
 
 * [All Posts](/blog/)

@@ -4,7 +4,6 @@ date: '2025-12-01'
 draft: false
 type: blog
 original_url: https://www.digital-finance-msca.com/post/finalist-for-the-best-wi-fi-2024-young-researcher-award
-image: /images/blog/a607fb_7cf3e30d7362406780c4c694c2039821_mv2_5404e193.webp
 images:
 - /images/blog/logo_d9d66bb7.jpg
 - /images/blog/logo-nobackground-500_dccd868e.png
@@ -16,6 +15,11 @@ images:
 - /images/blog/1cd49e_46e17462b534409c9a46ee2aad6648ab_mv2_933b9f21.png
 - /images/blog/11062b_9e78da3320da497ab23ce28d738d388a_mv2_ae27c472.png
 - /images/blog/logo-nobackground-500_c3c8414f.png
+cover:
+  image: "/images/blog/a607fb_7cf3e30d7362406780c4c694c2039821_mv2_5404e193.webp"
+  alt: "Cover image"
+  hidden: false
+ShowToc: true
 ---
 
 * [All Posts](/blog/)

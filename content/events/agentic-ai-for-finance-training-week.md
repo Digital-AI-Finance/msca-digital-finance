@@ -7,7 +7,6 @@ original_url: https://www.digital-finance-msca.com/event-details-registration/ag
 description: This intensive program (3EC) is designed to equip participants with the
   skills to develop AI agents using OpenAI APIs, with a strong emphasis on Retrieval-Augmented
   Generation (RAG) techniques and agentic architectures.
-image: /images/events/d826e4_a9478570a8f4473f9c028b29134ebdab_mv2_10acc5ec.jpg
 images:
 - /images/blog/logo_d9d66bb7.jpg
 - /images/blog/logo-nobackground-500_dccd868e.png
@@ -19,6 +18,11 @@ images:
 - /images/blog/logo-nobackground-500_c3c8414f.png
 - /images/blog/d826e4_7dcbe49c67394160a8efaf859c585a9b_mv2_a8413586.png
 - /images/blog/quantinar_logo_fcc02fa4.png
+cover:
+  image: "/images/events/d826e4_a9478570a8f4473f9c028b29134ebdab_mv2_10acc5ec.jpg"
+  alt: "Cover image"
+  hidden: false
+ShowToc: true
 ---
 
 # Agentic AI for Finance - Training Week

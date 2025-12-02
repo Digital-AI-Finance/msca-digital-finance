@@ -6,7 +6,6 @@ type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/msca-training-school-on-ethics-in-ai-and-digital-finance-oradea
 description: We invite you to attend the training session to be held between January
   20-22, 2025 in Oradea, Romania.
-image: /images/events/e64bca_25fd0f90ce3c46649c34818e876a7e03_mv2_2c55f894.jpg
 event_date: 8:00 - 8:30
 images:
 - /images/blog/logo_d9d66bb7.jpg
@@ -19,6 +18,10 @@ images:
 - /images/blog/logo-nobackground-500_c3c8414f.png
 - /images/blog/d826e4_7dcbe49c67394160a8efaf859c585a9b_mv2_a8413586.png
 - /images/blog/quantinar_logo_fcc02fa4.png
+cover:
+  image: "/images/events/e64bca_25fd0f90ce3c46649c34818e876a7e03_mv2_2c55f894.jpg"
+  alt: "Cover image"
+  hidden: false
 ---
 
 # MSCA Training School on Ethics in AI and Digital Finance @Oradea

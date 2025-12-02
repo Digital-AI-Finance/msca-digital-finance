@@ -1,0 +1,99 @@
+{
+  "date": "2025-12-02T20:44:52.178285",
+  "mode": "live",
+  "summary": {
+    "duplicates_found": 0,
+    "empty_files_found": 10,
+    "backup_files_found": 1,
+    "orphan_images_found": 75,
+    "files_renamed": 11,
+    "frontmatter_cleaned": 0,
+    "files_deleted": 1
+  },
+  "details": {
+    "duplicates": [],
+    "empty_files": [
+      "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners-area.md",
+      "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\blog\\_index.md",
+      "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\blog-categories\\_index.md",
+      "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\ai-in-financial-markets-research-forum-2.md",
+      "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\network-event-rb-event-2024-ai-in-financial-markets-research-forum.md",
+      "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\_index.md",
+      "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\_index.md",
+      "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\_index.md",
+      "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-events\\_index.md",
+      "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\_index.md"
+    ],
+    "backup_files": [
+      "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\config.backup_20251202_204430.toml"
+    ],
+    "orphan_images": [
+      "/images/general/1cd49e_4b2364e928b6434e9ddb216f4a498520__4c85f8fe.jpg",
+      "/images/general/3b5556_0781e0e92b1e4c28885cc021a46319dc__b5728b1f.png",
+      "/images/general/1cd49e_81aec364922c46a5ba7d702e883faf71__26d92970.jpg",
+      "/images/general/gettyimages-591216789.jpg",
+      "/images/general/e64bca_d254ab4d6e2248fea09cfc247802b775~mv2.webp",
+      "/images/general/d826e4_0ad08710a8ac4a41a1bae43a215b8c13__e5b1640b.jpg",
+      "/images/general/d826e4_84ad17b931a847de935d4e33d1b50379_mv2_199c6f31.webp",
+      "/images/events/1cd49e_68aa8e8a93b3410491e2d6e96c721751__df47606d.jpg",
+      "/images/general/a607fb_41431d2040214d8e91cdf7830b9b7cf1__88d457c4.jpg",
+      "/images/general/1cd49e_5d6b52789fe142d7bdd0070add493908__268417a6.webp",
+      "/images/general/4bb5b1_46219bbd34eb4ade8b5a9692dd3a975b__ec656ceb.png",
+      "/images/general/3b5556_92afbbe565ac4b9fb476dc85a94fe136__10233947.png",
+      "/images/events/d826e4_24004ffefd784f62b8d1665308ffea1f__76981c0e.png",
+      "/images/events/1cd49e_602518c818664fdcbf830fb406a2045f__723d6325.png",
+      "/images/general/1cd49e_68aa8e8a93b3410491e2d6e96c721751__1b647e29.jpg",
+      "/images/general/1cd49e_49adef98d9a140bb94f756b1cfd733c6__79552cbc.jpg",
+      "/images/general/1cd49e_9c9902e806b74bfab2acb234b0bf0520__9aa2de0b.jpg",
+      "/images/events/4027cc_f1c92922190a4c9d8ed69a9c27fa073a__a628fede.jpg",
+      "/images/general/1cd49e_5d6b52789fe142d7bdd0070add493908_mv2_00671474.webp",
+      "/images/general/1cd49e_5d6b52789fe142d7bdd0070add493908__f9df9838.webp"
+    ],
+    "renamed_files": [
+      {
+        "old": "_index.md",
+        "new": "index.md"
+      },
+      {
+        "old": "_index.md",
+        "new": "index.md"
+      },
+      {
+        "old": "_index.md",
+        "new": "index.md"
+      },
+      {
+        "old": "_index.md",
+        "new": "index.md"
+      },
+      {
+        "old": "european-institute-for-technology---digital.md",
+        "new": "european-institute-for-technology-digital.md"
+      },
+      {
+        "old": "_index.md",
+        "new": "index.md"
+      },
+      {
+        "old": "alfonso-iodice-d'enza.md",
+        "new": "alfonso-iodice-d-enza.md"
+      },
+      {
+        "old": "_index.md",
+        "new": "index.md"
+      },
+      {
+        "old": "training-&-development-workshop.md",
+        "new": "training-development-workshop.md"
+      },
+      {
+        "old": "_index.md",
+        "new": "index.md"
+      },
+      {
+        "old": "_index.md",
+        "new": "index.md"
+      }
+    ]
+  }
+}

@@ -5,7 +5,6 @@ draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/msca-midterm-report-meeting-utw
 description: 2 Days dedicated to the Midterm Report Meeting
-image: /images/events/e64bca_9dc7d79d8f124aecbb5e2ce89c7c5e64_mv2_be4dd487.jpg
 images:
 - /images/blog/logo_d9d66bb7.jpg
 - /images/blog/logo-nobackground-500_dccd868e.png
@@ -17,6 +16,11 @@ images:
 - /images/blog/logo-nobackground-500_c3c8414f.png
 - /images/blog/d826e4_7dcbe49c67394160a8efaf859c585a9b_mv2_a8413586.png
 - /images/blog/quantinar_logo_fcc02fa4.png
+cover:
+  image: "/images/events/e64bca_9dc7d79d8f124aecbb5e2ce89c7c5e64_mv2_be4dd487.jpg"
+  alt: "Cover image"
+  hidden: false
+ShowToc: true
 ---
 
 # MSCA - Midterm Report Meeting @UTW

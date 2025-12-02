@@ -14,6 +14,7 @@ images:
 - /images/general/Vijaya_Bhaskar_Marisetty_2ad6bf14.png
 - /images/general/Wouter_van_Heeswijk_239d095f.png
 - /images/general/Liu_Yiting_2dea6393.jpg
+ShowToc: true
 ---
 
 * [Summary](/cost-finai-phd-school-2024/)

@@ -4,7 +4,6 @@ date: '2025-12-01'
 draft: false
 type: people
 original_url: https://www.digital-finance-msca.com/people/albulena-shala
-image: /images/people/temporary-profile-placeholder-1_d6c173b0.jpg
 email: albulena.shala@uni-pr.edu
 linkedin: https://www.linkedin.com/in/albulena-shala-099556129
 images:
@@ -18,6 +17,10 @@ images:
 - /images/blog/logo-nobackground-500_c3c8414f.png
 - /images/blog/d826e4_7dcbe49c67394160a8efaf859c585a9b_mv2_a8413586.png
 - /images/blog/quantinar_logo_fcc02fa4.png
+cover:
+  image: "/images/people/temporary-profile-placeholder-1_d6c173b0.jpg"
+  alt: "Cover image"
+  hidden: false
 ---
 
 ## Albulena Shala

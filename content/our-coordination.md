@@ -14,6 +14,7 @@ images:
 - /images/general/1cd49e_eadf27d43fba483cbc80c0741187f939_mv2_56740093.png
 - /images/general/1cd49e_a3ff9be2ce73451ba4036c4017af4695_mv2_dab45d73.png
 - /images/general/1cd49e_08083793a0494a7b926eb182b10367b2_mv2_84bb3db7.jpg
+ShowToc: true
 ---
 
 # Our Project Coordination

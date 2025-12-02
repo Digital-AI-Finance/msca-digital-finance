@@ -5,7 +5,6 @@ date: '2025-12-01'
 draft: false
 type: blog
 original_url: https://www.digital-finance-msca.com/post/key-outputs-and-achievements-of-cost-action-and-digital-presented-before-cost-scientific-committee
-image: /images/blog/a607fb_2f753128d1e549d99c9d9b66efca471b_mv2_3e1ddb83.jpg
 images:
 - /images/blog/logo_d9d66bb7.jpg
 - /images/blog/logo-nobackground-500_dccd868e.png
@@ -17,6 +16,11 @@ images:
 - /images/blog/unnamed_c029ae93.png
 - /images/blog/1cd49e_46e17462b534409c9a46ee2aad6648ab_mv2_933b9f21.png
 - /images/blog/11062b_9e78da3320da497ab23ce28d738d388a_mv2_ae27c472.png
+cover:
+  image: "/images/blog/a607fb_2f753128d1e549d99c9d9b66efca471b_mv2_3e1ddb83.jpg"
+  alt: "Cover image"
+  hidden: false
+ShowToc: true
 ---
 
 * [All Posts](/blog/)

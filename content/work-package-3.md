@@ -4,6 +4,7 @@ date: 2025-12-02
 type: "work-package"
 original_url: "https://www.digital-finance-msca.com/work-package-3"
 draft: false
+ShowToc: true
 ---
 
 Work Package 3

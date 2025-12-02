@@ -6,7 +6,6 @@ type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/msca-training-week-phd-training-school-on-blockchain-applications-in-finance
 description: "I. Introduction to Blockchain applications in finance (ASE)\t\nII. History\
   \ and Prospects of Digital Finance (UNA)\t\nIII. Scientific Writing"
-image: /images/events/d826e4_d69f6014416a4547a71eeaf53f62a116_mv2_6b8f0e06.jpg
 images:
 - /images/blog/logo_d9d66bb7.jpg
 - /images/blog/logo-nobackground-500_dccd868e.png
@@ -18,6 +17,10 @@ images:
 - /images/blog/logo-nobackground-500_c3c8414f.png
 - /images/blog/d826e4_7dcbe49c67394160a8efaf859c585a9b_mv2_a8413586.png
 - /images/blog/quantinar_logo_fcc02fa4.png
+cover:
+  image: "/images/events/d826e4_d69f6014416a4547a71eeaf53f62a116_mv2_6b8f0e06.jpg"
+  alt: "Cover image"
+  hidden: false
 ---
 
 # MSCA Training Week - PhD Training School on Blockchain Applications in Finance

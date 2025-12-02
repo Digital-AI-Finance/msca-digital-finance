@@ -14,6 +14,7 @@ images:
 - /images/general/alice_guedel_4fdb5580.jpeg
 - /images/general/image-38_2ab1b95f.png
 - /images/general/Liu_Yiting_2dea6393.jpg
+ShowToc: true
 ---
 
 * [Summary](/brussels-meeting-2024/)

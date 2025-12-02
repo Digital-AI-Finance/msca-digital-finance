@@ -6,7 +6,6 @@ type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/training-week-on-blockchains-in-digital-finance
 description: "Courses offered: \nBlockchains in Digital Finance (4EC, ASE)\nHE framework\
   \ and research project management (1EC, ASE)"
-image: /images/events/1cd49e_a016279297484502abb50be78642fc92_mv2_dcf6ea3a.jpg
 images:
 - /images/blog/logo_d9d66bb7.jpg
 - /images/blog/logo-nobackground-500_dccd868e.png
@@ -18,6 +17,10 @@ images:
 - /images/blog/logo-nobackground-500_c3c8414f.png
 - /images/blog/d826e4_7dcbe49c67394160a8efaf859c585a9b_mv2_a8413586.png
 - /images/blog/quantinar_logo_fcc02fa4.png
+cover:
+  image: "/images/events/1cd49e_a016279297484502abb50be78642fc92_mv2_dcf6ea3a.jpg"
+  alt: "Cover image"
+  hidden: false
 ---
 
 # Training Week on Blockchains in Digital Finance

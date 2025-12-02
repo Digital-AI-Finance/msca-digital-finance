@@ -61,7 +61,6 @@ description: '<p>The Fourth International Conference on Mathematics and Statisti
   <p><strong>Register on Meetup:</strong> MSCA DIGITAL - <a rel="noopener noreferrer
   noopener noreferrer" target="_blank" href="https://www.meetup.com/fintech_ai_in_finance/events/302014519/">The
   4th International Conference on Mathematics and Statistics</a></p>'
-image: /images/events/e64bca_12ee388a09744175b66366429b6c9f5c_mv2_305b1e3b.jpg
 images:
 - /images/blog/logo_d9d66bb7.jpg
 - /images/blog/logo-nobackground-500_dccd868e.png
@@ -73,6 +72,10 @@ images:
 - /images/blog/logo-nobackground-500_c3c8414f.png
 - /images/blog/d826e4_7dcbe49c67394160a8efaf859c585a9b_mv2_a8413586.png
 - /images/blog/quantinar_logo_fcc02fa4.png
+cover:
+  image: "/images/events/e64bca_12ee388a09744175b66366429b6c9f5c_mv2_305b1e3b.jpg"
+  alt: "Cover image"
+  hidden: false
 ---
 
 # Network Event - The 4th International Conference on Mathematics and Statistics

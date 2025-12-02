@@ -3,6 +3,7 @@ title: "Driving Digital Innovations with Blockchain Applications | Digital Finan
 date: 2025-12-02
 original_url: "https://www.digital-finance-msca.com/work-package-4"
 draft: false
+ShowToc: true
 ---
 
 Work Package 4

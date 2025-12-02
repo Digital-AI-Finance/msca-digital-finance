@@ -1,0 +1,95 @@
+{
+  "date": "2025-12-02T20:43:38.159341",
+  "summary": {
+    "total_links": 5419,
+    "broken_internal": 0,
+    "broken_external": 11,
+    "working": 4118,
+    "skipped": 154,
+    "by_category": {
+      "internal_absolute": 4079,
+      "external": 1186,
+      "email": 154
+    }
+  },
+  "broken_internal": [],
+  "broken_external": [
+    {
+      "type": "markdown",
+      "url": "https://fin-ai.eu/",
+      "text": "DISCOVER MORE",
+      "file": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\collaborations-within-the-network.md",
+      "reason": "External URL not accessible"
+    },
+    {
+      "type": "markdown",
+      "url": "https://wiki.fin-ai.eu/index.php/MSCA_Work_Packages#WP1_Towards_a_European_financial_data_space",
+      "text": "WP1 Wiki",
+      "file": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\wp1-financial-data-space.md",
+      "reason": "External URL not accessible"
+    },
+    {
+      "type": "markdown",
+      "url": "https://wiki.fin-ai.eu/index.php/MSCA_Work_Packages#WP6_Doctoral_Training",
+      "text": "WP6 Wiki",
+      "file": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\wp6-doctoral-training.md",
+      "reason": "External URL not accessible"
+    },
+    {
+      "type": "markdown",
+      "url": "https://wiki.fin-ai.eu/index.php/MSCA_Work_Packages#WP7_Dissemination.2C_Outreach_and_Exploitation",
+      "text": "WP7 Wiki",
+      "file": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\wp7-dissemination-outreach-exploitation.md",
+      "reason": "External URL not accessible"
+    },
+    {
+      "type": "markdown",
+      "url": "https://wiki.fin-ai.eu/index.php/MSCA_Work_Packages#WP8_Project_Management",
+      "text": "WP8 Wiki",
+      "file": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\wp8-project-management.md",
+      "reason": "External URL not accessible"
+    },
+    {
+      "type": "markdown",
+      "url": "https://wiki.fin-ai.eu/index.php/MSCA_Network#Fraunhofer_Institute",
+      "text": "Fraunhofer Institute (FRA).",
+      "file": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\collaborative-learning-across-data-silos.md",
+      "reason": "External URL not accessible"
+    },
+    {
+      "type": "markdown",
+      "url": "//www.digital-finance-msca.com",
+      "text": "Go to Homepage",
+      "file": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\copy-of-research-topics.md",
+      "reason": "External URL not accessible"
+    },
+    {
+      "type": "markdown",
+      "url": "https://www.digital-finance-msca.com/training-through-research-and-mandatory-scientific-training",
+      "text": "Training through research and mandatory scientific training",
+      "file": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\copy-of-trainings.md",
+      "reason": "External URL not accessible"
+    },
+    {
+      "type": "markdown",
+      "url": "https://utwente-nl.zoom.us/meeting/register/tZItdeyvpzosG9TzewXtAz1PFzy9c730mhp_",
+      "text": " for Day 1",
+      "file": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\brussels-meeting-2024.md",
+      "reason": "External URL not accessible"
+    },
+    {
+      "type": "markdown",
+      "url": "https://doi.org/10.3390/jrfm10040017",
+      "text": "10.3390/jrfm10040017",
+      "file": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\eu-cordis-full-publications.md",
+      "reason": "External URL not accessible"
+    },
+    {
+      "type": "markdown",
+      "url": "https://utwente-nl.zoom.us/meeting/register/tZwufuGqqz4iG92IXyF2TfiI-30jqWEFS_Jv",
+      "text": "here",
+      "file": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\test.md",
+      "reason": "External URL not accessible"
+    }
+  ]
+}

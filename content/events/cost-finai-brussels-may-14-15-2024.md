@@ -12,7 +12,6 @@ description: 'Title of event: COST Action CA19130 meets Brussels
 
 
   The event will be hybrid.'
-image: /images/events/1cd49e_79f83ee34b6a454c99913cf838927974_mv2_a798db23.jpg
 event_date: 18:30 - 20:30
 images:
 - /images/blog/logo_d9d66bb7.jpg
@@ -25,6 +24,10 @@ images:
 - /images/blog/logo-nobackground-500_c3c8414f.png
 - /images/blog/d826e4_7dcbe49c67394160a8efaf859c585a9b_mv2_a8413586.png
 - /images/blog/quantinar_logo_fcc02fa4.png
+cover:
+  image: "/images/events/1cd49e_79f83ee34b6a454c99913cf838927974_mv2_a798db23.jpg"
+  alt: "Cover image"
+  hidden: false
 ---
 
 # COST FinAI Brussels, May 14-15, 2024

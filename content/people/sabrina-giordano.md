@@ -4,7 +4,6 @@ date: '2025-12-01'
 draft: false
 type: people
 original_url: https://www.digital-finance-msca.com/people/sabrina-giordano
-image: /images/people/58ddb0_7d4f3a72b8e94a66affe5024870bb36a_mv2_3ad37b57.webp
 email: sabrina.giordano@unical.it
 linkedin: https://www.linkedin.com/company/digital-finance-msca
 images:
@@ -18,6 +17,10 @@ images:
 - /images/blog/logo-nobackground-500_c3c8414f.png
 - /images/blog/d826e4_7dcbe49c67394160a8efaf859c585a9b_mv2_a8413586.png
 - /images/blog/quantinar_logo_fcc02fa4.png
+cover:
+  image: "/images/people/58ddb0_7d4f3a72b8e94a66affe5024870bb36a_mv2_3ad37b57.webp"
+  alt: "Cover image"
+  hidden: false
 ---
 
 ## **Sabrina Giordano**

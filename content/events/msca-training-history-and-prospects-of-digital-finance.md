@@ -7,7 +7,6 @@ original_url: https://www.digital-finance-msca.com/event-details-registration/ms
 description: 'In this training week, participants will attend two accredited courses
   totaling 4 ECTS: History and Prospects of Digital Finance (3 ECTS) and Environmental
   Aspects (1 ECTS).'
-image: /images/events/be156d_8ae097b3ca684a358d60ab2d1f6953b7_mv2_69a4914a.jpg
 images:
 - /images/blog/logo_d9d66bb7.jpg
 - /images/blog/logo-nobackground-500_dccd868e.png
@@ -19,6 +18,11 @@ images:
 - /images/events/d826e4_24004ffefd784f62b8d1665308ffea1f_mv2_5ce201a1.webp
 - /images/events/d826e4_24004ffefd784f62b8d1665308ffea1f_mv2_4906b135.webp
 - /images/events/1cd49e_a82c1436dcc940d5b8710be63cb77e41_mv2_0cbf9dfc.webp
+cover:
+  image: "/images/events/be156d_8ae097b3ca684a358d60ab2d1f6953b7_mv2_69a4914a.jpg"
+  alt: "Cover image"
+  hidden: false
+ShowToc: true
 ---
 
 # MSCA TRAINING - History and prospects of Digital Finance

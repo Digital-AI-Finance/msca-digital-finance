@@ -4,7 +4,6 @@ date: '2025-12-01'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/1st-arc-training-week
-image: /images/events/58ddb0_4a176a4cd3804881bf8aca68dfc11f6b_mv2_d13e922a.jpg
 images:
 - /images/blog/logo_d9d66bb7.jpg
 - /images/blog/logo-nobackground-500_dccd868e.png
@@ -16,6 +15,10 @@ images:
 - /images/blog/logo-nobackground-500_c3c8414f.png
 - /images/blog/d826e4_7dcbe49c67394160a8efaf859c585a9b_mv2_a8413586.png
 - /images/blog/quantinar_logo_fcc02fa4.png
+cover:
+  image: "/images/events/58ddb0_4a176a4cd3804881bf8aca68dfc11f6b_mv2_d13e922a.jpg"
+  alt: "Cover image"
+  hidden: false
 ---
 
 # 1st ARC Training Week
