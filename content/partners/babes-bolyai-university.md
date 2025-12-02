@@ -75,4 +75,4 @@ Codruta Mare
 
 WP 1 Lead, theoretical and applied expertise in spatial econometrics, text mining and NLP, fraud detection systems, panel data modelling.
 
-[All partners ](https://www.digital-finance-msca.com/our-partners)
+[All partners ](/our-partners/)

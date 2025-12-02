@@ -55,4 +55,4 @@ Arben Zibri
 
 Cardo AI contributes data on private debt investment and expertise in building software for transparent data analytics.
 
-[All partners ](https://www.digital-finance-msca.com/our-partners)
+[All partners ](/our-partners/)

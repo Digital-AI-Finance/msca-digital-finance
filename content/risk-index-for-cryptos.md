@@ -27,7 +27,7 @@ images:
 
   * Work Packages: WP4, WP6, WP7, WP8
 
-  * Lead researcher: [Stefan Gaman](https://www.digital-finance-msca.com/people/stefan-gaman)
+  * Lead researcher: [Stefan Gaman](/people/stefan-gaman/)
 
 ### Objectives
 

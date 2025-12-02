@@ -1,0 +1,88 @@
+{
+  "sync_date": "2025-12-02T14:55:46.396671",
+  "summary": {
+    "total_urls_discovered": 387,
+    "urls_to_download": 9,
+    "urls_unchanged": 378,
+    "new_urls": 9,
+    "downloaded": 9,
+    "empty": 0,
+    "errors": 0
+  },
+  "downloaded": [
+    {
+      "url": "https://www.digital-finance-msca.com/people/hanna-krist%C3%ADn-skaftad%C3%B3ttir-",
+      "status": "downloaded",
+      "file": "content\\people\\hanna-kristín-skaftadóttir-.md",
+      "title": "Hanna Kristín Skaftadóttir",
+      "content_length": 1181,
+      "images": 2
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/partner-new/european-institute-for-technology---digital",
+      "status": "downloaded",
+      "file": "content\\partners\\european-institute-for-technology---digital.md",
+      "title": "European Institute for Technology - Digital | Digi",
+      "content_length": 1113,
+      "images": 3
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/training-modules/ethics-applicable-to-digital-aspects-",
+      "status": "downloaded",
+      "file": "content\\training-modules\\ethics-applicable-to-digital-aspects-.md",
+      "title": "Ethics applicable to digital aspects  | Digital Fi",
+      "content_length": 1118,
+      "images": 0
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/training-modules/the-need-for-explainable-ai%3A-methods-and-applications-in-finance",
+      "status": "downloaded",
+      "file": "content\\training-modules\\the-need-for-explainable-ai:-methods-and-applications-in-finance.md",
+      "title": "The need for explainable AI: methods and applicati",
+      "content_length": 938,
+      "images": 0
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/blog/categories/wp4",
+      "status": "downloaded",
+      "file": "content\\blog\\categories\\wp4.md",
+      "title": "WP4",
+      "content_length": 581,
+      "images": 2
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/blog/categories/wp3",
+      "status": "downloaded",
+      "file": "content\\blog\\categories\\wp3.md",
+      "title": "WP3",
+      "content_length": 1534,
+      "images": 5
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/blog/categories/wp1",
+      "status": "downloaded",
+      "file": "content\\blog\\categories\\wp1.md",
+      "title": "WP1",
+      "content_length": 688,
+      "images": 2
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/blog/categories/wp2",
+      "status": "downloaded",
+      "file": "content\\blog\\categories\\wp2.md",
+      "title": "WP2",
+      "content_length": 688,
+      "images": 2
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/blog/categories/wp5",
+      "status": "downloaded",
+      "file": "content\\blog\\categories\\wp5.md",
+      "title": "WP5",
+      "content_length": 688,
+      "images": 2
+    }
+  ],
+  "errors": [],
+  "empty": []
+}

@@ -39,4 +39,4 @@ Albulena Shala
 
 The University of Tirana is engaged in WP5 (Sustainability of Digital Finance) and is open to other collaborations.
 
-[All partners ](https://www.digital-finance-msca.com/our-partners)
+[All partners ](/our-partners/)

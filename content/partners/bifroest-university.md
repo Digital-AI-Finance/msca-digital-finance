@@ -39,4 +39,4 @@ Hanna Kristín Skaftadóttir
 
 The Bifröst University is engaged in work package 3 (Towards Explainable and Fair AI-Generated Decisions) and is open to other collaborations. 
 
-[All partners ](https://www.digital-finance-msca.com/our-partners)
+[All partners ](/our-partners/)

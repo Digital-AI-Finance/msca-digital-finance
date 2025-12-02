@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MSCA Digital Finance - Migration Report</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; background: #f5f5f5; padding: 20px; }
+        .container { max-width: 1200px; margin: 0 auto; }
+        h1 { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 30px; border-radius: 10px; margin-bottom: 20px; }
+        h2 { color: #333; border-bottom: 2px solid #667eea; padding-bottom: 10px; margin: 30px 0 20px; }
+        h3 { color: #555; margin: 20px 0 10px; }
+        .card { background: white; border-radius: 10px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-bottom: 30px; }
+        .stat { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 20px; border-radius: 10px; text-align: center; }
+        .stat-value { font-size: 2.5em; font-weight: bold; }
+        .stat-label { opacity: 0.9; }
+        .success { background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%) !important; }
+        .warning { background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%) !important; }
+        .info { background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%) !important; }
+        table { width: 100%; border-collapse: collapse; margin: 10px 0; }
+        th, td { padding: 12px; text-align: left; border-bottom: 1px solid #ddd; }
+        th { background: #f8f9fa; font-weight: 600; }
+        tr:hover { background: #f5f5f5; }
+        .badge { display: inline-block; padding: 4px 10px; border-radius: 20px; font-size: 0.85em; font-weight: 500; }
+        .badge-good { background: #d4edda; color: #155724; }
+        .badge-short { background: #fff3cd; color: #856404; }
+        .badge-empty { background: #f8d7da; color: #721c24; }
+        .badge-broken { background: #f8d7da; color: #721c24; }
+        .collapsible { cursor: pointer; padding: 15px; background: #f8f9fa; border: none; width: 100%; text-align: left; font-size: 1em; border-radius: 5px; margin: 5px 0; }
+        .collapsible:hover { background: #e9ecef; }
+        .collapsible:after { content: '+'; float: right; font-weight: bold; }
+        .collapsible.active:after { content: '-'; }
+        .content { max-height: 0; overflow: hidden; transition: max-height 0.3s ease-out; }
+        .content.show { max-height: 2000px; }
+        .url { word-break: break-all; font-family: monospace; font-size: 0.9em; color: #666; }
+        .timestamp { color: #888; font-size: 0.9em; }
+        .progress { height: 20px; background: #e9ecef; border-radius: 10px; overflow: hidden; margin: 10px 0; }
+        .progress-bar { height: 100%; background: linear-gradient(90deg, #11998e, #38ef7d); transition: width 0.3s; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>MSCA Digital Finance - Migration Report</h1>
+        <p class="timestamp">Generated: 2025-12-02 14:26:39</p>
+
+        <div class="stats">
+            <div class="stat success">
+                <div class="stat-value">420</div>
+                <div class="stat-label">Total Pages</div>
+            </div>
+            <div class="stat info">
+                <div class="stat-value">118,227</div>
+                <div class="stat-label">Total Words</div>
+            </div>
+            <div class="stat success">
+                <div class="stat-value">1081</div>
+                <div class="stat-label">Images Downloaded</div>
+            </div>
+            <div class="stat success">
+                <div class="stat-value">88</div>
+                <div class="stat-label">PDFs Downloaded</div>
+            </div>
+            <div class="stat warning">
+                <div class="stat-value">502</div>
+                <div class="stat-label">Broken Links</div>
+            </div>
+            <div class="stat warning">
+                <div class="stat-value">10</div>
+                <div class="stat-label">Empty Pages</div>
+            </div>
+        </div>
+
+        <h2>Content Quality Overview</h2>
+        <div class="card">
+            <div class="progress">
+                <div class="progress-bar" style="width: 79.3%"></div>
+            </div>
+            <p><strong>333</strong> pages with good content (79.3%)</p>
+            <p><strong>77</strong> pages with short content (10-50 words)</p>
+            <p><strong>10</strong> pages with minimal content (<10 words)</p>
+        </div>
+
+        <h2>Content by Category</h2>
+        <div class="card">
+            <table>
+                <thead>
+                    <tr><th>Category</th><th>Pages</th><th>Total Words</th><th>Avg Words</th></tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>people</strong></td>
+                        <td>140</td>
+                        <td>21,121</td>
+                        <td>151</td>
+                    </tr>
+                    <tr>
+                        <td><strong>root</strong></td>
+                        <td>90</td>
+                        <td>57,176</td>
+                        <td>635</td>
+                    </tr>
+                    <tr>
+                        <td><strong>events</strong></td>
+                        <td>68</td>
+                        <td>20,917</td>
+                        <td>308</td>
+                    </tr>
+                    <tr>
+                        <td><strong>training-modules</strong></td>
+                        <td>42</td>
+                        <td>4,608</td>
+                        <td>110</td>
+                    </tr>
+                    <tr>
+                        <td><strong>partners</strong></td>
+                        <td>40</td>
+                        <td>6,006</td>
+                        <td>150</td>
+                    </tr>
+                    <tr>
+                        <td><strong>blog</strong></td>
+                        <td>23</td>
+                        <td>7,568</td>
+                        <td>329</td>
+                    </tr>
+                    <tr>
+                        <td><strong>training-events</strong></td>
+                        <td>9</td>
+                        <td>511</td>
+                        <td>57</td>
+                    </tr>
+                    <tr>
+                        <td><strong>members-area</strong></td>
+                        <td>7</td>
+                        <td>317</td>
+                        <td>45</td>
+                    </tr>
+                    <tr>
+                        <td><strong>blog-categories</strong></td>
+                        <td>1</td>
+                        <td>3</td>
+                        <td>3</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <h2>Downloaded Assets</h2>
+        <div class="card">
+            <h3>Images (1081 files, 187.2 MB)</h3>
+            <table>
+                <thead><tr><th>Category</th><th>Count</th></tr></thead>
+                <tbody>
+                    <tr><td>general</td><td>439</td></tr>
+                    <tr><td>people</td><td>267</td></tr>
+                    <tr><td>events</td><td>197</td></tr>
+                    <tr><td>partners</td><td>130</td></tr>
+                    <tr><td>blog</td><td>48</td></tr>
+                </tbody>
+            </table>
+            <h3>PDFs (88 files)</h3>
+            <button class="collapsible">Show PDF list</button>
+            <div class="content">
+                <ul>
+                    <li>1cd49e_093509240fef4f3ca50199f049499f94.pdf</li>
+                    <li>1cd49e_1645bb9699fe47bfb8b4ebb41d7e3e1a.pdf</li>
+                    <li>1cd49e_2948fbecfcac45e692e7bbe3120b30ef.pdf</li>
+                    <li>1cd49e_2be608919a684b98a418f5b8423de1f4.pdf</li>
+                    <li>1cd49e_319b96a2fd42439aa2b35ba287d1b909.pdf</li>
+                    <li>1cd49e_3955233b19e34052ba3d62ee9ca82555.pdf</li>
+                    <li>1cd49e_39fe5d427b554a93a8421c2ea3f18b92.pdf</li>
+                    <li>1cd49e_3b35024db41a4b3794dff79eec380f4f.pdf</li>
+                    <li>1cd49e_3c71e620c3484302a29b870cd9e64dcf.pdf</li>
+                    <li>1cd49e_3ec98d8383694b7884f7e7490381c061.pdf</li>
+                    <li>1cd49e_3f054d90691841f5bc39b2a8bbf015c5.pdf</li>
+                    <li>1cd49e_3f80db36785f490a9f29c5a3a36c75d0.pdf</li>
+                    <li>1cd49e_45650f46a19042e59fabc78942514a7d.pdf</li>
+                    <li>1cd49e_46ab3c5648464d56911c1612c6a71060.pdf</li>
+                    <li>1cd49e_48c174e919ac4561bfbb2bda500d9068.pdf</li>
+                    <li>1cd49e_4cb9c038a4c34be7ae0b6d319b73f82c.pdf</li>
+                    <li>1cd49e_63aee23ddeb64993b479f2b728d96da7.pdf</li>
+                    <li>1cd49e_649914a9e954466eae00f24311ae3c32.pdf</li>
+                    <li>1cd49e_6a4f4c9548b14de6bb2b5df552c1f561.pdf</li>
+                    <li>1cd49e_6aee0022bbfd40649dc9e6f7e2c5dac7.pdf</li>
+                    <li>1cd49e_6fbb765158dc4ed9b031581b4e206b33.pdf</li>
+                    <li>1cd49e_72fb911408734211bce3086c179d4c0d.pdf</li>
+                    <li>1cd49e_77ff4235928d4624a9be42100b91cbbc.pdf</li>
+                    <li>1cd49e_7d4b46a7fdb640368e3165d6a54837ef.pdf</li>
+                    <li>1cd49e_8063fd3e56c8492886d497e14f05dcd9.pdf</li>
+                    <li>1cd49e_812e4fc61bbb43bfa4170a1acd10e257.pdf</li>
+                    <li>1cd49e_8312d642ee82420891ee195855d08ddb.pdf</li>
+                    <li>1cd49e_8750078f907446a7a110a48198128718.pdf</li>
+                    <li>1cd49e_8f074873206e4c6eb22e98bbec67d953.pdf</li>
+                    <li>1cd49e_8f71489750624e84a0d99e7eacee31c0.pdf</li>
+                    <li>1cd49e_9066c828b8b94a06a01632ce781c0ebf.pdf</li>
+                    <li>1cd49e_9093907a114c431ba9752c7568461c06.pdf</li>
+                    <li>1cd49e_94fd39d6ca714a70912ed02b4a897918.pdf</li>
+                    <li>1cd49e_9893640b3f4349d6b812a216bb2b8f8e.pdf</li>
+                    <li>1cd49e_a1293191d6db4603985c4f1a6ff25836.pdf</li>
+                    <li>1cd49e_a1d519e2e2254de6ae710e1cd07df931.pdf</li>
+                    <li>1cd49e_a662183a811249459849d9a2c65c0946.pdf</li>
+                    <li>1cd49e_aed4246febe4495cb0983a128af14dd5.pdf</li>
+                    <li>1cd49e_bb7f55938a8949e584e3bcacd4cee27b.pdf</li>
+                    <li>1cd49e_bf73569ec38647dba485c07b77bbe8d7.pdf</li>
+                    <li>1cd49e_c5386b0b3dab4e3da218d4d89e1c310a.pdf</li>
+                    <li>1cd49e_c6afe2cbc1ba4bf195c0d792b717a36a.pdf</li>
+                    <li>1cd49e_d758ced9492348a8bace696943d2bcad.pdf</li>
+                    <li>1cd49e_e2839059bd894263bf5d38233a9ed6af.pdf</li>
+                    <li>1cd49e_e637efe2092940b681933de6d4815d6f.pdf</li>
+                    <li>1cd49e_eaae78752caa4d649c9ccd485566abae.pdf</li>
+                    <li>1cd49e_edfae5e6b0f944ac93b84f4e4c0569f9.pdf</li>
+                    <li>1cd49e_f4c144904e0243f7a10e9df7d5bffa02.pdf</li>
+                    <li>1cd49e_fa9bd72382c44f3b9fbeb75b354c8ffc.pdf</li>
+                    <li>1cd49e_fe36cf360f8c4629b6c5bdfc42370cb5.pdf</li>
+                    <li>... and 38 more</li>
+                </ul>
+            </div>
+        </div>
+
+        <h2>Content Issues</h2>
+        <div class="card">
+            <h3>Empty/Minimal Content (10 pages)</h3>
+            <p>These pages have less than 10 words - may need review:</p>
+            <button class="collapsible">Show empty pages</button>
+            <div class="content">
+                <table>
+                    <thead><tr><th>File</th><th>Title</th><th>Words</th></tr></thead>
+                    <tbody>
+                        <tr><td class="url">partners-area.md</td><td>Digital Finance MSCA</td><td>8</td></tr>
+                        <tr><td class="url">blog\_index.md</td><td>Blog</td><td>2</td></tr>
+                        <tr><td class="url">blog-categories\_index.md</td><td>Blog Categories</td><td>3</td></tr>
+                        <tr><td class="url">events\ai-in-financial-markets-research-forum-2.md</td><td>Event Details & Registration</td><td>0</td></tr>
+                        <tr><td class="url">events\network-event-rb-event-2024-ai-in-financial-markets-research-forum.md</td><td>Event Details & Registration</td><td>0</td></tr>
+                        <tr><td class="url">events\_index.md</td><td>Events</td><td>2</td></tr>
+                        <tr><td class="url">partners\_index.md</td><td>Partners</td><td>2</td></tr>
+                        <tr><td class="url">people\_index.md</td><td>People</td><td>2</td></tr>
+                        <tr><td class="url">training-events\_index.md</td><td>Training Events</td><td>3</td></tr>
+                        <tr><td class="url">training-modules\_index.md</td><td>Training Modules</td><td>3</td></tr>
+                    </tbody>
+                </table>
+            </div>
+            <h3>Short Content (77 pages)</h3>
+            <p>These pages have 10-50 words:</p>
+            <button class="collapsible">Show short pages</button>
+            <div class="content">
+                <table>
+                    <thead><tr><th>File</th><th>Title</th><th>Words</th></tr></thead>
+                    <tbody>
+                        <tr><td class="url">babeș-bolyai-university-bbu.md</td><td>404</td><td>12</td></tr>
+                        <tr><td class="url">bern-university-of-applied-sciences-bfh.md</td><td>404</td><td>12</td></tr>
+                        <tr><td class="url">bucharest-university-of-economic-studies-ase.md</td><td>404</td><td>12</td></tr>
+                        <tr><td class="url">cardo-srl.md</td><td>404</td><td>12</td></tr>
+                        <tr><td class="url">copy-of-research-topics.md</td><td>404 Error: Page Not Found</td><td>14</td></tr>
+                        <tr><td class="url">digital-finance-research-projects.md</td><td>Digital Finance Research Proj... (List)</td><td>48</td></tr>
+                        <tr><td class="url">joerg-osterrieder.md</td><td>404</td><td>12</td></tr>
+                        <tr><td class="url">kaunas-university-of-technology.md</td><td>404</td><td>12</td></tr>
+                        <tr><td class="url">media.md</td><td>Media</td><td>41</td></tr>
+                        <tr><td class="url">poznań-university-of-economics-and-business.md</td><td>404</td><td>12</td></tr>
+                        <tr><td class="url">university-of-naples-federico-ii.md</td><td>404</td><td>12</td></tr>
+                        <tr><td class="url">university-of-twente.md</td><td>404</td><td>12</td></tr>
+                        <tr><td class="url">wu-vienna-university-of-economics.md</td><td>404</td><td>12</td></tr>
+                        <tr><td class="url">events\1st-arc-training-week.md</td><td>1st ARC Training Week</td><td>34</td></tr>
+                        <tr><td class="url">events\blockchains-in-digital-finance.md</td><td>Blockchains in Digital Finance</td><td>30</td></tr>
+                        <tr><td class="url">events\conference-about-how-great-msca-is.md</td><td>Conference about how great MSCA is</td><td>23</td></tr>
+                        <tr><td class="url">events\deep-learning-in-finance-1.md</td><td>Deep Learning in Finance</td><td>35</td></tr>
+                        <tr><td class="url">events\deep-learning-in-finance.md</td><td>Deep Learning in Finance</td><td>34</td></tr>
+                        <tr><td class="url">events\machine-learning-in-industry.md</td><td>Machine Learning in Industry</td><td>48</td></tr>
+                        <tr><td class="url">events\msca-midterm-meeting-1.md</td><td>MSCA Midterm Meeting</td><td>43</td></tr>
+                        <tr><td class="url">events\msca-midterm-meeting.md</td><td>MSCA Midterm Meeting</td><td>41</td></tr>
+                        <tr><td class="url">events\msca-training-week-1.md</td><td>MSCA Training Week</td><td>49</td></tr>
+                        <tr><td class="url">events\msca-training-week-ut.md</td><td>MSCA Training Week - UT</td><td>49</td></tr>
+                        <tr><td class="url">events\phd-training-school-on-cybersecurity.md</td><td>PhD Training School on Cybersecurity</td><td>41</td></tr>
+                        <tr><td class="url">events\ssm-annual-research-conference.md</td><td>SSM Annual Research Conference</td><td>42</td></tr>
+                        <tr><td class="url">events\test-1.md</td><td>test</td><td>28</td></tr>
+                        <tr><td class="url">events\test-2.md</td><td>test</td><td>36</td></tr>
+                        <tr><td class="url">events\test.md</td><td>test</td><td>34</td></tr>
+                        <tr><td class="url">events\test2.md</td><td>TEST2</td><td>36</td></tr>
+                        <tr><td class="url">events\wp1-meeting-2024-09-02-19-00-1.md</td><td>WP1 - Meeting</td><td>25</td></tr>
+                        <tr><td colspan="3">... and 47 more</td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <h2>Broken Links (502 total)</h2>
+        <div class="card">
+            <p>These links could not be resolved to local content. Most are Wix-specific URLs.</p>
+            <h3>Broken Page Links (502)</h3>
+            <button class="collapsible">Show broken page links</button>
+            <div class="content">
+                <table>
+                    <thead><tr><th>In File</th><th>Broken URL</th></tr></thead>
+                    <tbody>
+                        <tr><td>a-recommender-system.md</td><td class="url">https://www.digital-finance-msca.com/_files/ugd/1cd49e_edfae5e6b0f944ac93b84f4e4...</td></tr>
+                        <tr><td>about-us.md</td><td class="url">https://www.digital-finance-msca.com...</td></tr>
+                        <tr><td>applications-of-agent-based-models.md</td><td class="url">https://www.digital-finance-msca.com/_files/ugd/1cd49e_bf73569ec38647dba485c07b7...</td></tr>
+                        <tr><td>audience-dependent-explanations.md</td><td class="url">https://www.digital-finance-msca.com/_files/ugd/1cd49e_eaae78752caa4d649c9ccd485...</td></tr>
+                        <tr><td>blog-categories-wp1.md</td><td class="url">https://www.digital-finance-msca.com/blog/categories/wp1...</td></tr>
+                        <tr><td>blog-categories-wp1.md</td><td class="url">https://www.digital-finance-msca.com/blog/categories/wp2...</td></tr>
+                        <tr><td>blog-categories-wp1.md</td><td class="url">https://www.digital-finance-msca.com/blog/categories/wp3...</td></tr>
+                        <tr><td>blog-categories-wp1.md</td><td class="url">https://www.digital-finance-msca.com/blog/categories/wp4...</td></tr>
+                        <tr><td>blog-categories-wp1.md</td><td class="url">https://www.digital-finance-msca.com/blog/categories/wp5...</td></tr>
+                        <tr><td>blog-categories-wp2.md</td><td class="url">https://www.digital-finance-msca.com/blog/categories/wp1...</td></tr>
+                        <tr><td>blog-categories-wp2.md</td><td class="url">https://www.digital-finance-msca.com/blog/categories/wp2...</td></tr>
+                        <tr><td>blog-categories-wp2.md</td><td class="url">https://www.digital-finance-msca.com/blog/categories/wp3...</td></tr>
+                        <tr><td>blog-categories-wp2.md</td><td class="url">https://www.digital-finance-msca.com/blog/categories/wp4...</td></tr>
+                        <tr><td>blog-categories-wp2.md</td><td class="url">https://www.digital-finance-msca.com/blog/categories/wp5...</td></tr>
+                        <tr><td>blog-categories-wp3.md</td><td class="url">https://www.digital-finance-msca.com/blog/categories/wp1...</td></tr>
+                        <tr><td>blog-categories-wp3.md</td><td class="url">https://www.digital-finance-msca.com/blog/categories/wp2...</td></tr>
+                        <tr><td>blog-categories-wp3.md</td><td class="url">https://www.digital-finance-msca.com/blog/categories/wp3...</td></tr>
+                        <tr><td>blog-categories-wp3.md</td><td class="url">https://www.digital-finance-msca.com/blog/categories/wp4...</td></tr>
+                        <tr><td>blog-categories-wp3.md</td><td class="url">https://www.digital-finance-msca.com/blog/categories/wp5...</td></tr>
+                        <tr><td>blog-categories-wp4.md</td><td class="url">https://www.digital-finance-msca.com/blog/categories/wp1...</td></tr>
+                        <tr><td>blog-categories-wp4.md</td><td class="url">https://www.digital-finance-msca.com/blog/categories/wp2...</td></tr>
+                        <tr><td>blog-categories-wp4.md</td><td class="url">https://www.digital-finance-msca.com/blog/categories/wp3...</td></tr>
+                        <tr><td>blog-categories-wp4.md</td><td class="url">https://www.digital-finance-msca.com/blog/categories/wp4...</td></tr>
+                        <tr><td>blog-categories-wp4.md</td><td class="url">https://www.digital-finance-msca.com/blog/categories/wp5...</td></tr>
+                        <tr><td>blog-categories-wp5.md</td><td class="url">https://www.digital-finance-msca.com/blog/categories/wp1...</td></tr>
+                        <tr><td>blog-categories-wp5.md</td><td class="url">https://www.digital-finance-msca.com/blog/categories/wp2...</td></tr>
+                        <tr><td>blog-categories-wp5.md</td><td class="url">https://www.digital-finance-msca.com/blog/categories/wp3...</td></tr>
+                        <tr><td>blog-categories-wp5.md</td><td class="url">https://www.digital-finance-msca.com/blog/categories/wp4...</td></tr>
+                        <tr><td>blog-categories-wp5.md</td><td class="url">https://www.digital-finance-msca.com/blog/categories/wp5...</td></tr>
+                        <tr><td>blog.md</td><td class="url">https://www.digital-finance-msca.com/blog/categories/wp1...</td></tr>
+                        <tr><td>blog.md</td><td class="url">https://www.digital-finance-msca.com/blog/categories/wp2...</td></tr>
+                        <tr><td>blog.md</td><td class="url">https://www.digital-finance-msca.com/blog/categories/wp3...</td></tr>
+                        <tr><td>blog.md</td><td class="url">https://www.digital-finance-msca.com/blog/categories/wp4...</td></tr>
+                        <tr><td>blog.md</td><td class="url">https://www.digital-finance-msca.com/blog/categories/wp5...</td></tr>
+                        <tr><td>challenges-and-opportunities.md</td><td class="url">https://www.digital-finance-msca.com/_files/ugd/1cd49e_c6afe2cbc1ba4bf195c0d792b...</td></tr>
+                        <tr><td>collaborations-within-the-network.md</td><td class="url">https://www.digital-finance-msca.com...</td></tr>
+                        <tr><td>collaborative-learning-across-data-silos.md</td><td class="url">https://www.digital-finance-msca.com/_files/ugd/1cd49e_3955233b19e34052ba3d62ee9...</td></tr>
+                        <tr><td>contact-us.md</td><td class="url">https://www.digital-finance-msca.com/_files/ugd/1cd49e_8f71489750624e84a0d99e7ea...</td></tr>
+                        <tr><td>contact-us.md</td><td class="url">https://www.digital-finance-msca.com/_files/ugd/1cd49e_a662183a811249459849d9a2c...</td></tr>
+                        <tr><td>contact-us.md</td><td class="url">https://www.digital-finance-msca.com/people/fr%C3%A9d%C3%A9rik-sinan-bernard...</td></tr>
+                        <tr><td>copy-of-research-topics.md</td><td class="url">//www.digital-finance-msca.com...</td></tr>
+                        <tr><td>copy-of-trainings.md</td><td class="url">https://www.digital-finance-msca.com/training-through-research-and-mandatory-sci...</td></tr>
+                        <tr><td>deep-generation-of-financial.md</td><td class="url">https://www.digital-finance-msca.com/_files/ugd/1cd49e_94fd39d6ca714a70912ed02b4...</td></tr>
+                        <tr><td>deep-generation-of-financial.md</td><td class="url">https://www.digital-finance-msca.com/_files/ugd/1cd49e_649914a9e954466eae00f2431...</td></tr>
+                        <tr><td>detecting-anomalies-and-dependence-structures.md</td><td class="url">https://www.digital-finance-msca.com/_files/ugd/1cd49e_d758ced9492348a8bace69694...</td></tr>
+                        <tr><td>developing-industry-ready.md</td><td class="url">https://www.digital-finance-msca.com/_files/ugd/1cd49e_8f074873206e4c6eb22e98bbe...</td></tr>
+                        <tr><td>events.md</td><td class="url">https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.co...</td></tr>
+                        <tr><td>events.md</td><td class="url">https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-...</td></tr>
+                        <tr><td>events.md</td><td class="url">https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-fi...</td></tr>
+                        <tr><td>events.md</td><td class="url">https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.co...</td></tr>
+                        <tr><td colspan="2">... and 452 more</td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <h2>Deep Crawl Comparison</h2>
+        <div class="card">
+            <p><strong>Pages crawled:</strong> 438</p>
+            <p><strong>Total discovered:</strong> 335</p>
+            <h3>Pages Not in Sitemaps (26)</h3>
+            <p>These pages were found by crawling but weren't in the original sitemaps:</p>
+            <button class="collapsible">Show missing URLs</button>
+            <div class="content">
+                <ul>
+                    <li class="url">https://www.digital-finance-msca.com/babe%C8%99-bolyai-university-bbu</li>
+                    <li class="url">https://www.digital-finance-msca.com/bern-university-of-applied-sciences-bfh</li>
+                    <li class="url">https://www.digital-finance-msca.com/bucharest-university-of-economic-studies-ase</li>
+                    <li class="url">https://www.digital-finance-msca.com/cardo-srl</li>
+                    <li class="url">https://www.digital-finance-msca.com/copy-of-home</li>
+                    <li class="url">https://www.digital-finance-msca.com/event-details-registration/msca-network-event-rb-event-2024-ai-in-financial-markets-research-forum</li>
+                    <li class="url">https://www.digital-finance-msca.com/industry-standard-for-blockchain</li>
+                    <li class="url">https://www.digital-finance-msca.com/joerg-osterrieder</li>
+                    <li class="url">https://www.digital-finance-msca.com/kaunas-university-of-technology</li>
+                    <li class="url">https://www.digital-finance-msca.com/members-area/b-vanbraak/events</li>
+                    <li class="url">https://www.digital-finance-msca.com/members-area/b-vanbraak/profile</li>
+                    <li class="url">https://www.digital-finance-msca.com/members-area/brankahm/events</li>
+                    <li class="url">https://www.digital-finance-msca.com/members-area/brankahm/profile</li>
+                    <li class="url">https://www.digital-finance-msca.com/members-area/f-s-bernard/profile</li>
+                    <li class="url">https://www.digital-finance-msca.com/members-area/stephanie-blum/events</li>
+                    <li class="url">https://www.digital-finance-msca.com/members-area/stephanie-blum/profile</li>
+                    <li class="url">https://www.digital-finance-msca.com/partners-area</li>
+                    <li class="url">https://www.digital-finance-msca.com/pozna%C5%84-university-of-economics-and-business</li>
+                    <li class="url">https://www.digital-finance-msca.com/university-of-naples-federico-ii</li>
+                    <li class="url">https://www.digital-finance-msca.com/university-of-twente</li>
+                    <li class="url">https://www.digital-finance-msca.com/work-package-1</li>
+                    <li class="url">https://www.digital-finance-msca.com/work-package-2</li>
+                    <li class="url">https://www.digital-finance-msca.com/work-package-3</li>
+                    <li class="url">https://www.digital-finance-msca.com/work-package-4</li>
+                    <li class="url">https://www.digital-finance-msca.com/work-package-5</li>
+                    <li class="url">https://www.digital-finance-msca.com/wu-vienna-university-of-economics</li>
+                </ul>
+            </div>
+        </div>
+
+        <h2>Summary</h2>
+        <div class="card">
+            <h3 style="color: #856404">
+                Migration Complete with Minor Issues
+            </h3>
+            <ul>
+                <li><strong>420</strong> pages migrated</li>
+                <li><strong>118,227</strong> words of content</li>
+                <li><strong>1081</strong> images downloaded (187.2 MB)</li>
+                <li><strong>88</strong> PDFs downloaded</li>
+                <li><strong>333</strong> pages with good content quality (79.3%)</li>
+            </ul>
+            <h4>Notes:</h4>
+            <ul>
+                <li>10 pages have minimal content</li>
+                <li>502 broken links (mostly Wix internal URLs)</li>
+                <li>26 pages found by crawl but already scraped separately</li>
+            </ul>
+        </div>
+    </div>
+
+    <script>
+        document.querySelectorAll('.collapsible').forEach(btn => {
+            btn.addEventListener('click', function() {
+                this.classList.toggle('active');
+                const content = this.nextElementSibling;
+                content.classList.toggle('show');
+            });
+        });
+    </script>
+</body>
+</html>

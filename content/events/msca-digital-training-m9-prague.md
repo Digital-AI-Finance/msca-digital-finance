@@ -47,7 +47,7 @@ As both an early [MSCA DIGITAL](https://www.digital-finance-msca.com/)'s work pr
 
 A call for papers is also available, with relevant information accessible directly on the event [webpage](https://barunik.github.io/Prague2023/blog/call-for-papers).
 
-You are welcome to register your interest [here](https://www.digital-finance-msca.com/contact-us), should you want to also contribute to the network.
+You are welcome to register your interest [here](/contact-us/), should you want to also contribute to the network.
 
 Download the .ics to book your calendar through the Meetup page! 
 

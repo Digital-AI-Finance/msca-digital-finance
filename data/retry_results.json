@@ -1,0 +1,45 @@
+{
+  "retried": [
+    {
+      "url": "https://www.digital-finance-msca.com/copy-of-home",
+      "file": "content\\copy-of-home.md",
+      "content_length": 4696
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/event-details-registration/msca-network-event-rb-event-2024-ai-in-financial-markets-research-forum",
+      "file": "content\\events\\msca-network-event-rb-event-2024-ai-in-financial-markets-research-forum.md",
+      "content_length": 2492
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/members-area/b-vanbraak/profile",
+      "file": "content\\members-area\\b-vanbraak\\profile.md",
+      "content_length": 235
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/members-area/brankahm/profile",
+      "file": "content\\members-area\\brankahm\\profile.md",
+      "content_length": 847
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/members-area/f-s-bernard/profile",
+      "file": "content\\members-area\\f-s-bernard\\profile.md",
+      "content_length": 110
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/work-package-1",
+      "file": "content\\work-package-1.md",
+      "content_length": 6613
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/work-package-4",
+      "file": "content\\work-package-4.md",
+      "content_length": 5242
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/work-package-5",
+      "file": "content\\work-package-5.md",
+      "content_length": 6861
+    }
+  ],
+  "still_failed": []
+}

@@ -41,4 +41,4 @@ Ioannis Emiris
 
 ARC contributes data and overall expertise in applied research, product development and infrastructure service provision for digitizing processes and societies. Furthermore, ARC hosts ESRs and transferable skills training as well as research.
 
-[All partners ](https://www.digital-finance-msca.com/our-partners)
+[All partners ](/our-partners/)

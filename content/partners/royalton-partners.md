@@ -51,4 +51,4 @@ Bruno Spilak
 
 Royalton Partners contribute data on cryptos and expertise in portfolio and risk management, as well as compliance and regulatory reporting, host ESRs and transferable skills training, and provide support in research.
 
-[All partners ](https://www.digital-finance-msca.com/our-partners)
+[All partners ](/our-partners/)

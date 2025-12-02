@@ -1,0 +1,15 @@
+{
+  "sync_date": "2025-12-02T14:57:46.362844",
+  "summary": {
+    "total_urls_discovered": 387,
+    "urls_to_download": 0,
+    "urls_unchanged": 387,
+    "new_urls": 0,
+    "downloaded": 0,
+    "empty": 0,
+    "errors": 0
+  },
+  "downloaded": [],
+  "errors": [],
+  "empty": []
+}

@@ -45,4 +45,4 @@ Audrius Kabasinskas
 
 Ensure coherence in the research and applied objectives within each IRP. Contribute theoretical and applied expertise in blockchain-based conditional payments, stochastic modelling, supervised learning algorithms. 
 
-[All partners ](https://www.digital-finance-msca.com/our-partners)
+[All partners ](/our-partners/)

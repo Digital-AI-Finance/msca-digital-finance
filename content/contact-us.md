@@ -45,7 +45,7 @@ For collaboration on communication, dissemination, and exploitation, please cont
 
 Please feel free to get in touch with us directly
 
-Prof. Dr. [Jörg Osterrieder](https://www.digital-finance-msca.com/people/joerg-osterrieder)
+Prof. Dr. [Jörg Osterrieder](/people/joerg-osterrieder/)
 
 University of Twente & Bern Business School 
 
@@ -55,7 +55,7 @@ e-mail: [joerg.osterrieder@utwente.nl](mailto:joerg.osterrieder@utwente.nl)
 
 ​
 
-Prof. Dr. [Branka Hadji Misheva ](https://www.digital-finance-msca.com/people/branka-hadji-misheva)
+Prof. Dr. [Branka Hadji Misheva ](/people/branka-hadji-misheva/)
 
 Bern Business School
 
@@ -65,7 +65,7 @@ e-mail: [branka.hadjimisheva@bfh.ch](mailto:branka.hadjimisheva@bfh.ch)
 
 ​
 
-Prof. Dr. [Codruta Mare](https://www.digital-finance-msca.com/people/codruta-mare)
+Prof. Dr. [Codruta Mare](/people/codruta-mare/)
 
 Babes-Bolyai University
 
@@ -77,7 +77,7 @@ e-mail: [codruta.mare@econ.ubbcluj.ro](mailto:codruta.mare@econ.ubbcluj.ro)
 
 ​
 
-Prof. Dr. [Daniel Traian Pele](https://www.digital-finance-msca.com/people/daniel-traian-pele)
+Prof. Dr. [Daniel Traian Pele](/people/daniel-traian-pele/)
 
 Bucharest University of Economic Studies
 
@@ -86,7 +86,7 @@ e-mail: [danpele@ase.ro](mailto:danpele@ase.ro)
 
 ​
 
-Prof. Dr. [Maria Iannario](https://www.digital-finance-msca.com/people/maria-iannario)
+Prof. Dr. [Maria Iannario](/people/maria-iannario/)
 
 University of Naples Federico II
 
@@ -96,7 +96,7 @@ e-mail: [](mailto:maria.iannario@unina.it)[maria.iannario@unina.it](mailto:maria
 
 ​
 
-Asst. Prof. Dr. [Wouter van Heeswijk](https://www.digital-finance-msca.com/people/wouter-van-heeswijk)
+Asst. Prof. Dr. [Wouter van Heeswijk](/people/wouter-van-heeswijk/)
 
 University of Twente
 
@@ -104,7 +104,7 @@ Lead "Training Coordination"
 
 e-mail: [w.j.a.vanheeswijk@utwente.nl](mailto:w.j.a.vanheeswijk@utwente.nl)
 
-Assoc. Prof. Dr. [Catarina Silva](https://www.digital-finance-msca.com/people/catarina-silva)
+Assoc. Prof. Dr. [Catarina Silva](/people/catarina-silva/)
 
 University of Twente
 

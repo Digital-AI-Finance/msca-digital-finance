@@ -1,6 +1,21 @@
-Verification Report - 2025-12-01 23:54:35
-Expected: 387, Actual: 394
-Images: 1081
-Broken links: 1669
-Missing images: 0
-Hugo build: Not tested
+============================================================
+MSCA DIGITAL FINANCE - MIGRATION VERIFICATION REPORT
+============================================================
+
+Generated: 2025-12-02 09:07:44
+
+URL Coverage:
+  - Sitemap URLs: 387
+  - Scraped: 387
+  - Failed: 1
+
+Content:
+  - Total pages: 420
+  - Total images: 1081
+  - Total words: 118,227
+
+Issues:
+  - 1 URLs failed to scrape (review scrape_progress.json)
+  - 26 pages found by crawl but not in sitemaps
+  - 10 pages have minimal content
+  - 502 broken links need manual review

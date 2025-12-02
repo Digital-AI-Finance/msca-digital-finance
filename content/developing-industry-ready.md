@@ -27,7 +27,7 @@ images:
 
   * Work Packages: WP2, WP6, WP7, WP8
 
-  * Lead researcher: [Rahul Tak](https://www.digital-finance-msca.com/people/rahul-tak)
+  * Lead researcher: [Rahul Tak](/people/rahul-tak/)
 
 ### Objectives
 

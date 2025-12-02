@@ -60,13 +60,13 @@ Under this research stream, TWO doctoral candidates will tackle the following re
 
 ### Developing industry-ready automated trading systems to conduct EcoFin analysis using deep learning algorithms 
 
-[Developing industry-ready automated trading systems to conduct EcoFin analysis using deep learning algorithms](https://www.digital-finance-msca.com/developing-industry-ready)
+[Developing industry-ready automated trading systems to conduct EcoFin analysis using deep learning algorithms](/developing-industry-ready/)
 
 Description:  This IRP will focus on addressing the challenges associated with automated trading systems in the direction of industry-ready platforms, i.e. minimising the risks of mechanical failures, improving the explainability of the underlying AI/ML models used in automated trading systems to better address performance-related issues, and also addressing ESG/CSR and ethical issues. This area will contribute significantly to Green Finance, thereby addressing the European Green Deal.
 
   
 
-Host: [Bucharest University of Economic Studies ](https://www.digital-finance-msca.com/bucharest-university-of-economic-studies-ase)
+Host: [Bucharest University of Economic Studies ](/bucharest-university-of-economic-studies-ase/)
 
   
 
@@ -78,13 +78,13 @@ Athena Research and Innovation Centre (ARC) Greece, Prof. Dr. Ioannis Emiris, M3
 
 ### Challenges and opportunities for the uptaking of technological development by industry 
 
-[Challenges and opportunities for the uptaking of technological development by industry](https://www.digital-finance-msca.com/challenges-and-opportunities)
+[Challenges and opportunities for the uptaking of technological development by industry](/challenges-and-opportunities/)
 
 Description:  The building blocks of any institutional investor's loan portfolio are cash flows. Using public and proprietary data, the doctoral candidate will conduct research and develop a machine learning tool capable of performing grouped time series forecasting on a private debt portfolio spanning multiple geographies, sectors, and whose features can also be grouped at other levels, such as loan amount and interest rate. In our innovation-driven industry, we analyse the obstacles and opportunities associated with adopting technological advances.
 
   
 
-Host: [Cardo S.R.L](https://www.digital-finance-msca.com/cardo-srl)
+Host: [Cardo S.R.L](/cardo-srl/)
 
   
 
@@ -96,26 +96,26 @@ Kaiserslautern-Landau University (UKL). Prof. Dr. Ralf Korn, M33, 12 months, con
 
 ## News
 
-## [Professor Härdle on FinTech, Machine Learning, and the Future of Economics](https://www.digital-finance-msca.com/post/professor-härdle-on-fintech-machine-learning-and-the-future-of-economics)
+## [Professor Härdle on FinTech, Machine Learning, and the Future of Economics](/blog/professor-härdle-on-fintech-machine-learning-and-the-future-of-economics/)
 
 ![Professor Härdle on FinTech, Machine Learning, and the Future of Economics](/images/general/1cd49e_5d6b52789fe142d7bdd0070add493908_mv2_05f7d8eb.webp)![Professor Härdle on FinTech, Machine Learning, and the Future of Economics](/images/general/1cd49e_5d6b52789fe142d7bdd0070add493908_mv2_085132e1.webp)
 
-## [Boundaries of Explainable AI in Financial Time Series](https://www.digital-finance-msca.com/post/boundaries-of-explainable-ai-in-financial-time-series)
+## [Boundaries of Explainable AI in Financial Time Series](/blog/boundaries-of-explainable-ai-in-financial-time-series/)
 
 ![Boundaries of Explainable AI in Financial Time Series](/images/general/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_71790cd4.webp)![Boundaries of Explainable AI in Financial Time Series](/images/general/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_97e49b44.webp)
 
-## [Progress and Partnership: MidTerm-Meeting and Technical Training at the University of Twente](https://www.digital-finance-msca.com/post/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente)
+## [Progress and Partnership: MidTerm-Meeting and Technical Training at the University of Twente](/blog/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente/)
 
 ![dcs-midterm-meeting](/images/general/d826e4_84ad17b931a847de935d4e33d1b50379_mv2_1f776234.webp)![dcs-midterm-meeting](/images/general/d826e4_84ad17b931a847de935d4e33d1b50379_mv2_676ef052.webp)
 
-## [Rethinking Reinforcement Learning in Finance](https://www.digital-finance-msca.com/post/rethinking-reinforcement-learning-in-finance)
+## [Rethinking Reinforcement Learning in Finance](/blog/rethinking-reinforcement-learning-in-finance/)
 
 ![Rethinking Reinforcement Learning in Finance](/images/general/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_71790cd4.webp)![Rethinking Reinforcement Learning in Finance](/images/general/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_97e49b44.webp)
 
-## [MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics (ICMS25)](https://www.digital-finance-msca.com/post/msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i)
+## [MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics (ICMS25)](/blog/msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i/)
 
 ![MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics \(ICMS25\)](/images/general/e64bca_d254ab4d6e2248fea09cfc247802b775_mv2_e2ebc614.webp)![MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics \(ICMS25\)](/images/general/e64bca_d254ab4d6e2248fea09cfc247802b775_mv2_e5fd6819.webp)
 
-## [MSCA DIGITAL at AI in Financial Markets Research Forum](https://www.digital-finance-msca.com/post/msca-digital-at-ai-in-financial-markets-research-forum)
+## [MSCA DIGITAL at AI in Financial Markets Research Forum](/blog/msca-digital-at-ai-in-financial-markets-research-forum/)
 
 ![MSCA DIGITAL at AI in Financial Markets Research Forum](/images/general/a607fb_41431d2040214d8e91cdf7830b9b7cf1_mv2_d9a57e23.webp)![MSCA DIGITAL at AI in Financial Markets Research Forum](/images/general/a607fb_41431d2040214d8e91cdf7830b9b7cf1_mv2_2f5a1c12.webp)

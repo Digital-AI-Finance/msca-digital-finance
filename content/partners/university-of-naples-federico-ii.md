@@ -67,4 +67,4 @@ Francesco Palumbo
 
 WP 5 Lead, theoretical and applied expertise in analyzing complex categorical data structures, survey analytics, latent models, link functions and gender studies.
 
-[All partners ](https://www.digital-finance-msca.com/our-partners)
+[All partners ](/our-partners/)

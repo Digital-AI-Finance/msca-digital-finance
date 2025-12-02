@@ -35,4 +35,4 @@ Ioana Coita
 
 The University of Oradea acts as co-Lead for work package 9 (Ethics), takes the lead role for the RTC Committee, and was the main organizer for the first Ethics Training School in Oradea for 20th - 22nd January 2025.
 
-[All partners ](https://www.digital-finance-msca.com/our-partners)
+[All partners ](/our-partners/)

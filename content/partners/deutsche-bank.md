@@ -35,4 +35,4 @@ Roman Timofeev
 
 Deutsche Bank contributes training and expertise in AI, risk and financial advisory. Furthermore, Deutsche Bank hosts ESRs and research.
 
-[All partners ](https://www.digital-finance-msca.com/our-partners)
+[All partners ](/our-partners/)

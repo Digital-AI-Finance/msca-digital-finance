@@ -32,10 +32,10 @@ DIGITAL is composed of:
 
   * Two intergovernmental agencies: the European Central Bank and the Bank for International Settlements. 
 
-[Our Partners](https://www.digital-finance-msca.com/our-partners)
+[Our Partners](/our-partners/)
 
 [Our People](https://www.digital-finance-msca.com)
 
-[Our Governance](https://www.digital-finance-msca.com/our-governance)
+[Our Governance](/our-governance/)
 
-[![All partners_NEW.png](/images/general/All_partners_NEW_c2f74b5f.png)](https://www.digital-finance-msca.com/our-partners)
+[![All partners_NEW.png](/images/general/All_partners_NEW_c2f74b5f.png)](/our-partners/)

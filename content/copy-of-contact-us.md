@@ -104,7 +104,7 @@ Effective communication of our activities, proactive dissemination of our resear
 
 Please feel free to get in touch with us directly
 
-Prof. Dr. [Jörg Osterrieder](https://www.digital-finance-msca.com/people/joerg-osterrieder)
+Prof. Dr. [Jörg Osterrieder](/people/joerg-osterrieder/)
 
 University of Twente & Bern Business School 
 
@@ -114,7 +114,7 @@ e-mail: [joerg.osterrieder@utwente.nl](mailto:joerg.osterrieder@utwente.nl)
 
 ​
 
-Prof. Dr. [Branka Hadji Misheva ](https://www.digital-finance-msca.com/people/branka-hadji-misheva)
+Prof. Dr. [Branka Hadji Misheva ](/people/branka-hadji-misheva/)
 
 Bern Business School
 
@@ -124,7 +124,7 @@ e-mail: [branka.hadjimisheva@bfh.ch](mailto:branka.hadjimisheva@bfh.ch)
 
 ​
 
-Prof. Dr. [Codruta Mare](https://www.digital-finance-msca.com/people/codruta-mare)
+Prof. Dr. [Codruta Mare](/people/codruta-mare/)
 
 Babes-Bolyai University
 
@@ -134,7 +134,7 @@ e-mail: [codruta.mare@econ.ubbcluj.ro](mailto:codruta.mare@econ.ubbcluj.ro)
 
 ​
 
-Prof. Dr. [Ronald Hochreiter ](https://www.digital-finance-msca.com/people/ronald-hochreiter)
+Prof. Dr. [Ronald Hochreiter ](/people/ronald-hochreiter/)
 
 WU Vienna University 
 
@@ -144,7 +144,7 @@ e-mail: [ronald.hochreiter@wu.ac.at](mailto:ronald.hochreiter@wu.ac.at)
 
 ​
 
-Prof. Dr. [Daniel Traian Pele](https://www.digital-finance-msca.com/people/daniel-traian-pele)
+Prof. Dr. [Daniel Traian Pele](/people/daniel-traian-pele/)
 
 Bucharest University of Economic Studies
 
@@ -153,7 +153,7 @@ e-mail: [danpele@ase.ro](mailto:danpele@ase.ro)
 
 ​
 
-Prof. Dr. [Wouter van Heeswijk](https://www.digital-finance-msca.com/people/wouter-van-heeswijk)
+Prof. Dr. [Wouter van Heeswijk](/people/wouter-van-heeswijk/)
 
 University of Twente
 
@@ -173,7 +173,7 @@ e-mail: [natascha.branscheidt@bfh.ch](mailto:natascha.branscheidt@bfh.ch)
 
 ​
 
-Prof. Dr. [Marcos Machado](https://www.digital-finance-msca.com/people/marcos-machado)
+Prof. Dr. [Marcos Machado](/people/marcos-machado/)
 
 University of Twente
 

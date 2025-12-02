@@ -18,7 +18,7 @@ images:
 - /images/blog/quantinar_logo_fcc02fa4.png
 ---
 
-* [All Posts](https://www.digital-finance-msca.com/blog)
+* [All Posts](/blog/)
   * [WP1](https://www.digital-finance-msca.com/blog/categories/wp1)
   * [WP2](https://www.digital-finance-msca.com/blog/categories/wp2)
   * [WP3](https://www.digital-finance-msca.com/blog/categories/wp3)
@@ -31,7 +31,7 @@ Search
 
   * ![Writer: Branka Hadji-Misheva](/images/blog/AATXAJy16JcE0FkJ6L_EZT3EZBrSKxyZAhDR-WdJ_d2e4fc6f.jpg)
 
-[Branka Hadji-Misheva](https://www.digital-finance-msca.com/members-area/brankahm/profile)
+[Branka Hadji-Misheva](/members-area/stephanie-blum/profile/)
   * May 31, 2024
   * 2 min read
 
@@ -121,11 +121,11 @@ Post not marked as liked
 
 ## Recent Posts
 
-[See All](https://www.digital-finance-msca.com/blog)
+[See All](/blog/)
 
-[](https://www.digital-finance-msca.com/post/professor-härdle-on-fintech-machine-learning-and-the-future-of-economics)
+[](/blog/professor-härdle-on-fintech-machine-learning-and-the-future-of-economics/)
 
-[Professor Härdle on FinTech, Machine Learning, and the Future of Economics](https://www.digital-finance-msca.com/post/professor-härdle-on-fintech-machine-learning-and-the-future-of-economics)
+[Professor Härdle on FinTech, Machine Learning, and the Future of Economics](/blog/professor-härdle-on-fintech-machine-learning-and-the-future-of-economics/)
 
 69
 
@@ -133,9 +133,9 @@ Post not marked as liked
 
 1 like. Post not marked as liked1
 
-[](https://www.digital-finance-msca.com/post/boundaries-of-explainable-ai-in-financial-time-series)
+[](/blog/boundaries-of-explainable-ai-in-financial-time-series/)
 
-[Boundaries of Explainable AI in Financial Time Series](https://www.digital-finance-msca.com/post/boundaries-of-explainable-ai-in-financial-time-series)
+[Boundaries of Explainable AI in Financial Time Series](/blog/boundaries-of-explainable-ai-in-financial-time-series/)
 
 35
 
@@ -143,9 +143,9 @@ Post not marked as liked
 
 1 like. Post not marked as liked1
 
-[](https://www.digital-finance-msca.com/post/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente)
+[](/blog/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente/)
 
-[Progress and Partnership: MidTerm-Meeting and Technical Training at the University of Twente](https://www.digital-finance-msca.com/post/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente)
+[Progress and Partnership: MidTerm-Meeting and Technical Training at the University of Twente](/blog/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente/)
 
 90
 

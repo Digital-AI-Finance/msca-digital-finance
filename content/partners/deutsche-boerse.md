@@ -35,4 +35,4 @@ Stefan Schlamp
 
 Deutsche Börse contributes training and expertise in AI, risk and financial advisory, hosts ESRs and research.
 
-[All partners ](https://www.digital-finance-msca.com/our-partners)
+[All partners ](/our-partners/)

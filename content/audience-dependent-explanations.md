@@ -27,7 +27,7 @@ images:
 
   * Work Packages: WP3, WP6, WP7, WP8
 
-  * Lead Researcher: [Patricia Marcella Evite](https://www.digital-finance-msca.com/people/patricia-marcella-evite)
+  * Lead Researcher: [Patricia Marcella Evite](/people/patricia-marcella-evite/)
 
 ### Objectives
 

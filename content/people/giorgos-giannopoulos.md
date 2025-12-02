@@ -58,4 +58,4 @@ Applied ML; AI Fairness; AI Explainability; Time series analytics; Data Integrat
 
 [_https://orcid.org/0000-0002-8252-9869_](https://orcid.org/0000-0002-8252-9869)
 
-[ _**DOWNLOAD CV**_](https://www.digital-finance-msca.com/people/giorgos-giannopoulos)
+[ _**DOWNLOAD CV**_](/people/giorgos-giannopoulos/)

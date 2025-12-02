@@ -1,0 +1,1940 @@
+{
+  "last_sync": "2025-12-02T16:00:08.264831",
+  "url_hashes": {
+    "https://www.digital-finance-msca.com/collaborations-within-the-network": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\collaborations-within-the-network.md"
+    },
+    "https://www.digital-finance-msca.com/challenges-and-opportunities": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\challenges-and-opportunities.md"
+    },
+    "https://www.digital-finance-msca.com/detailed-overview": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\detailed-overview.md"
+    },
+    "https://www.digital-finance-msca.com/wp8-project-management": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\wp8-project-management.md"
+    },
+    "https://www.digital-finance-msca.com/open-phd-positions": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\open-phd-positions.md"
+    },
+    "https://www.digital-finance-msca.com/copy-of-research-topics": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\copy-of-research-topics.md"
+    },
+    "https://www.digital-finance-msca.com/brussels-meeting-2024": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\brussels-meeting-2024.md"
+    },
+    "https://www.digital-finance-msca.com/snsf-narrative-digital-finance": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\snsf-narrative-digital-finance.md"
+    },
+    "https://www.digital-finance-msca.com/media": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\media.md"
+    },
+    "https://www.digital-finance-msca.com/audience-dependent-explanations": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\audience-dependent-explanations.md"
+    },
+    "https://www.digital-finance-msca.com/individual-research-projects": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\individual-research-projects.md"
+    },
+    "https://www.digital-finance-msca.com/developing-industry-ready": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\developing-industry-ready.md"
+    },
+    "https://www.digital-finance-msca.com/trainings": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\trainings.md"
+    },
+    "https://www.digital-finance-msca.com/modelling-green-credit-scores": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\modelling-green-credit-scores.md"
+    },
+    "https://www.digital-finance-msca.com/wp4-digital-innovation-blockchain": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\wp4-digital-innovation-blockchain.md"
+    },
+    "https://www.digital-finance-msca.com/privacy-policy": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\privacy-policy.md"
+    },
+    "https://www.digital-finance-msca.com/wp5-sustainability-digital-finance": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\wp5-sustainability-digital-finance.md"
+    },
+    "https://www.digital-finance-msca.com/risk-index-for-cryptos": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\risk-index-for-cryptos.md"
+    },
+    "https://www.digital-finance-msca.com/international-advanced-fellowship-ubb": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\international-advanced-fellowship-ubb.md"
+    },
+    "https://www.digital-finance-msca.com/wp3-explainable-fair-ai": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\wp3-explainable-fair-ai.md"
+    },
+    "https://www.digital-finance-msca.com/wp9-ethics-digital": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\wp9-ethics-digital.md"
+    },
+    "https://www.digital-finance-msca.com/contact-us": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\contact-us.md"
+    },
+    "https://www.digital-finance-msca.com/ubb-endava": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\ubb-endava.md"
+    },
+    "https://www.digital-finance-msca.com/deep-generation-of-financial": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\deep-generation-of-financial.md"
+    },
+    "https://www.digital-finance-msca.com/our-outputs": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\our-outputs.md"
+    },
+    "https://www.digital-finance-msca.com/our-diversity": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\our-diversity.md"
+    },
+    "https://www.digital-finance-msca.com/copy-of-trainings": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\copy-of-trainings.md"
+    },
+    "https://www.digital-finance-msca.com/fair-algorithmic-design": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\fair-algorithmic-design.md"
+    },
+    "https://www.digital-finance-msca.com/home-old": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\home-old.md"
+    },
+    "https://www.digital-finance-msca.com/wp1-financial-data-space": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\wp1-financial-data-space.md"
+    },
+    "https://www.digital-finance-msca.com/experimenting-with-green-ai": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\experimenting-with-green-ai.md"
+    },
+    "https://www.digital-finance-msca.com/our-coordination": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\our-coordination.md"
+    },
+    "https://www.digital-finance-msca.com/work-package-9": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\work-package-9.md"
+    },
+    "https://www.digital-finance-msca.com": {
+      "lastmod": "2025-11-06",
+      "category": "homepage",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\_index.md"
+    },
+    "https://www.digital-finance-msca.com/our-partners": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\our-partners.md"
+    },
+    "https://www.digital-finance-msca.com/graph-theoretic-analysis-leading-house": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\graph-theoretic-analysis-leading-house.md"
+    },
+    "https://www.digital-finance-msca.com/fraud-detection-in-financial-networks": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\fraud-detection-in-financial-networks.md"
+    },
+    "https://www.digital-finance-msca.com/research-projects": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\research-projects.md"
+    },
+    "https://www.digital-finance-msca.com/digital-finance-research-projects": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\digital-finance-research-projects.md"
+    },
+    "https://www.digital-finance-msca.com/blockchain": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\blockchain.md"
+    },
+    "https://www.digital-finance-msca.com/wp2-ai-financial-markets": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\wp2-ai-financial-markets.md"
+    },
+    "https://www.digital-finance-msca.com/about-the-project": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\about-the-project.md"
+    },
+    "https://www.digital-finance-msca.com/our-people": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\our-people.md"
+    },
+    "https://www.digital-finance-msca.com/home-backup-old": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\home-backup-old.md"
+    },
+    "https://www.digital-finance-msca.com/meet-the-team": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\meet-the-team.md"
+    },
+    "https://www.digital-finance-msca.com/machine-learning-digital-finance": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\machine-learning-digital-finance.md"
+    },
+    "https://www.digital-finance-msca.com/wp6-doctoral-training": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\wp6-doctoral-training.md"
+    },
+    "https://www.digital-finance-msca.com/about-us": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\about-us.md"
+    },
+    "https://www.digital-finance-msca.com/applications-of-agent-based-models": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\applications-of-agent-based-models.md"
+    },
+    "https://www.digital-finance-msca.com/our-governance": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\our-governance.md"
+    },
+    "https://www.digital-finance-msca.com/collaborative-learning-across-data-silos": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\collaborative-learning-across-data-silos.md"
+    },
+    "https://www.digital-finance-msca.com/predicting-financial-trends": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\predicting-financial-trends.md"
+    },
+    "https://www.digital-finance-msca.com/wp7-dissemination-outreach-exploitation": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\wp7-dissemination-outreach-exploitation.md"
+    },
+    "https://www.digital-finance-msca.com/journals-outlets": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\journals-outlets.md"
+    },
+    "https://www.digital-finance-msca.com/network-based-credit-risk-models-snsf": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\network-based-credit-risk-models-snsf.md"
+    },
+    "https://www.digital-finance-msca.com/open-science": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\open-science.md"
+    },
+    "https://www.digital-finance-msca.com/investigating-the-utility": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\investigating-the-utility.md"
+    },
+    "https://www.digital-finance-msca.com/a-recommender-system": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\a-recommender-system.md"
+    },
+    "https://www.digital-finance-msca.com/copy-of-contact-us": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\copy-of-contact-us.md"
+    },
+    "https://www.digital-finance-msca.com/test": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\test.md"
+    },
+    "https://www.digital-finance-msca.com/cost-finai-phd-school-2024": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\cost-finai-phd-school-2024.md"
+    },
+    "https://www.digital-finance-msca.com/strengthening-european-financial": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\strengthening-european-financial.md"
+    },
+    "https://www.digital-finance-msca.com/detecting-anomalies-and-dependence-structures": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\detecting-anomalies-and-dependence-structures.md"
+    },
+    "https://www.digital-finance-msca.com/secondments": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\secondments.md"
+    },
+    "https://www.digital-finance-msca.com/blog": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\blog.md"
+    },
+    "https://www.digital-finance-msca.com/events": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events.md"
+    },
+    "https://www.digital-finance-msca.com/presentations": {
+      "lastmod": "2025-11-06",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\presentations.md"
+    },
+    "https://www.digital-finance-msca.com/people/sandro-schmid": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\sandro-schmid.md"
+    },
+    "https://www.digital-finance-msca.com/people/gokce-nur-yilmaz": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\gokce-nur-yilmaz.md"
+    },
+    "https://www.digital-finance-msca.com/people/roman-bakba": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\roman-bakba.md"
+    },
+    "https://www.digital-finance-msca.com/people/beatrice-larisa-dumnici": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\beatrice-larisa-dumnici.md"
+    },
+    "https://www.digital-finance-msca.com/people/sabrina-giordano": {
+      "lastmod": "2025-10-13",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\sabrina-giordano.md"
+    },
+    "https://www.digital-finance-msca.com/people/jorg-wenzel": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\jorg-wenzel.md"
+    },
+    "https://www.digital-finance-msca.com/people/fr%C3%A9d%C3%A9rik-sinan-bernard": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\frédérik-sinan-bernard.md"
+    },
+    "https://www.digital-finance-msca.com/people/mattia-bellotti": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\mattia-bellotti.md"
+    },
+    "https://www.digital-finance-msca.com/people/david-siang-li-jheng": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\david-siang-li-jheng.md"
+    },
+    "https://www.digital-finance-msca.com/people/meng-jou-lu": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\meng-jou-lu.md"
+    },
+    "https://www.digital-finance-msca.com/people/ruting-wang": {
+      "lastmod": "2025-10-13",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\ruting-wang.md"
+    },
+    "https://www.digital-finance-msca.com/people/stephen-chan": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\stephen-chan.md"
+    },
+    "https://www.digital-finance-msca.com/people/gabin-taibi": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\gabin-taibi.md"
+    },
+    "https://www.digital-finance-msca.com/people/megang-nkamga-junile-staures": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\megang-nkamga-junile-staures.md"
+    },
+    "https://www.digital-finance-msca.com/people/anastas-dzurovski": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\anastas-dzurovski.md"
+    },
+    "https://www.digital-finance-msca.com/people/branka-hadji-misheva": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\branka-hadji-misheva.md"
+    },
+    "https://www.digital-finance-msca.com/people/fons-wijnhoven": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\fons-wijnhoven.md"
+    },
+    "https://www.digital-finance-msca.com/people/przemyslaw-bielicki": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\przemyslaw-bielicki.md"
+    },
+    "https://www.digital-finance-msca.com/people/cristian-mihai-dragos": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\cristian-mihai-dragos.md"
+    },
+    "https://www.digital-finance-msca.com/people/stefan-gaman": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\stefan-gaman.md"
+    },
+    "https://www.digital-finance-msca.com/people/lucia-gomez-teijeiro": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\lucia-gomez-teijeiro.md"
+    },
+    "https://www.digital-finance-msca.com/people/hanna-krist%C3%ADn-skaftad%C3%B3ttir-": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\hanna-kristín-skaftadóttir-.md"
+    },
+    "https://www.digital-finance-msca.com/people/daniel-braun": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\daniel-braun.md"
+    },
+    "https://www.digital-finance-msca.com/people/lukasz-kubicki": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\lukasz-kubicki.md"
+    },
+    "https://www.digital-finance-msca.com/people/ioana-coita": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\ioana-coita.md"
+    },
+    "https://www.digital-finance-msca.com/people/alessio-trivella": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\alessio-trivella.md"
+    },
+    "https://www.digital-finance-msca.com/people/catalina-chinie": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\catalina-chinie.md"
+    },
+    "https://www.digital-finance-msca.com/people/ekaterina-svetlova": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\ekaterina-svetlova.md"
+    },
+    "https://www.digital-finance-msca.com/people/francesco-palumbo": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\francesco-palumbo.md"
+    },
+    "https://www.digital-finance-msca.com/people/ralf-korn": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\ralf-korn.md"
+    },
+    "https://www.digital-finance-msca.com/people/rubin-haxhiymeri": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\rubin-haxhiymeri.md"
+    },
+    "https://www.digital-finance-msca.com/people/filippo-bartoli": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\filippo-bartoli.md"
+    },
+    "https://www.digital-finance-msca.com/people/fulvio-raddi": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\fulvio-raddi.md"
+    },
+    "https://www.digital-finance-msca.com/people/huei-wen-teng": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\huei-wen-teng.md"
+    },
+    "https://www.digital-finance-msca.com/people/ioannis-emiris": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\ioannis-emiris.md"
+    },
+    "https://www.digital-finance-msca.com/people/renato-rocha-souza": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\renato-rocha-souza.md"
+    },
+    "https://www.digital-finance-msca.com/people/gennaro-di-brino": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\gennaro-di-brino.md"
+    },
+    "https://www.digital-finance-msca.com/people/antonio-pescape": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\antonio-pescape.md"
+    },
+    "https://www.digital-finance-msca.com/people/jos-van-hillegersberg": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\jos-van-hillegersberg.md"
+    },
+    "https://www.digital-finance-msca.com/people/stefan-lessmann": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\stefan-lessmann.md"
+    },
+    "https://www.digital-finance-msca.com/people/axel-gross-klussmann": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\axel-gross-klussmann.md"
+    },
+    "https://www.digital-finance-msca.com/people/giorgos-giannopoulos": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\giorgos-giannopoulos.md"
+    },
+    "https://www.digital-finance-msca.com/people/theodoros-mastrokostopoulos": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\theodoros-mastrokostopoulos.md"
+    },
+    "https://www.digital-finance-msca.com/people/maria-iannario": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\maria-iannario.md"
+    },
+    "https://www.digital-finance-msca.com/people/stefan-schlamp": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\stefan-schlamp.md"
+    },
+    "https://www.digital-finance-msca.com/people/adam-kurpisz": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\adam-kurpisz.md"
+    },
+    "https://www.digital-finance-msca.com/people/rahul-tak": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\rahul-tak.md"
+    },
+    "https://www.digital-finance-msca.com/people/laura-spierdijk": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\laura-spierdijk.md"
+    },
+    "https://www.digital-finance-msca.com/people/markus-ebner": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\markus-ebner.md"
+    },
+    "https://www.digital-finance-msca.com/people/tomina-maria-manci": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\tomina-maria-manci.md"
+    },
+    "https://www.digital-finance-msca.com/people/liana-stanca": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\liana-stanca.md"
+    },
+    "https://www.digital-finance-msca.com/people/wolfgang-hardle": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\wolfgang-hardle.md"
+    },
+    "https://www.digital-finance-msca.com/people/stefanie-schwaar": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\stefanie-schwaar.md"
+    },
+    "https://www.digital-finance-msca.com/people/wouter-van-heeswijk": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\wouter-van-heeswijk.md"
+    },
+    "https://www.digital-finance-msca.com/people/nigel-williams": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\nigel-williams.md"
+    },
+    "https://www.digital-finance-msca.com/people/martijn-mes": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\martijn-mes.md"
+    },
+    "https://www.digital-finance-msca.com/people/roman-timofeev": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\roman-timofeev.md"
+    },
+    "https://www.digital-finance-msca.com/people/maurizio-di-noia": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\maurizio-di-noia.md"
+    },
+    "https://www.digital-finance-msca.com/people/joschka-hullmann": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\joschka-hullmann.md"
+    },
+    "https://www.digital-finance-msca.com/people/julian-winkel": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\julian-winkel.md"
+    },
+    "https://www.digital-finance-msca.com/people/claudia-tarantola": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\claudia-tarantola.md"
+    },
+    "https://www.digital-finance-msca.com/people/adrian-costea": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\adrian-costea.md"
+    },
+    "https://www.digital-finance-msca.com/people/karolina-bolesta": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\karolina-bolesta.md"
+    },
+    "https://www.digital-finance-msca.com/people/codruta-mare": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\codruta-mare.md"
+    },
+    "https://www.digital-finance-msca.com/people/tuan-trinh": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\tuan-trinh.md"
+    },
+    "https://www.digital-finance-msca.com/people/nerijus-maciulis": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\nerijus-maciulis.md"
+    },
+    "https://www.digital-finance-msca.com/people/karolina-weyna": {
+      "lastmod": "2025-10-13",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\karolina-weyna.md"
+    },
+    "https://www.digital-finance-msca.com/people/alessandra-tanda": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\alessandra-tanda.md"
+    },
+    "https://www.digital-finance-msca.com/people/adrian-bojan": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\adrian-bojan.md"
+    },
+    "https://www.digital-finance-msca.com/people/abhista-abhista": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\abhista-abhista.md"
+    },
+    "https://www.digital-finance-msca.com/people/arben-zibri": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\arben-zibri.md"
+    },
+    "https://www.digital-finance-msca.com/people/matteo-macera-zappavigna": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\matteo-macera-zappavigna.md"
+    },
+    "https://www.digital-finance-msca.com/people/kurt-hornik": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\kurt-hornik.md"
+    },
+    "https://www.digital-finance-msca.com/people/audrius-kabasinskas": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\audrius-kabasinskas.md"
+    },
+    "https://www.digital-finance-msca.com/people/barbara-b%C4%99dowska-s%C3%B3jka": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\barbara-będowska-sójka.md"
+    },
+    "https://www.digital-finance-msca.com/people/eimutis-valakevicius": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\eimutis-valakevicius.md"
+    },
+    "https://www.digital-finance-msca.com/people/stefan-theussl": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\stefan-theussl.md"
+    },
+    "https://www.digital-finance-msca.com/people/bjorn-van-braak": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\bjorn-van-braak.md"
+    },
+    "https://www.digital-finance-msca.com/people/stefano-penazzi": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\stefano-penazzi.md"
+    },
+    "https://www.digital-finance-msca.com/people/theodore-dalamagas": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\theodore-dalamagas.md"
+    },
+    "https://www.digital-finance-msca.com/people/christian-hopp": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\christian-hopp.md"
+    },
+    "https://www.digital-finance-msca.com/people/julius-kooistra": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\julius-kooistra.md"
+    },
+    "https://www.digital-finance-msca.com/people/maximilian-stroh": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\maximilian-stroh.md"
+    },
+    "https://www.digital-finance-msca.com/people/alexandra-ioana-conda": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\alexandra-ioana-conda.md"
+    },
+    "https://www.digital-finance-msca.com/people/jens-reil": {
+      "lastmod": "2025-10-13",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\jens-reil.md"
+    },
+    "https://www.digital-finance-msca.com/people/bruno-spilak": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\bruno-spilak.md"
+    },
+    "https://www.digital-finance-msca.com/people/adriana-anamaria-davidescu": {
+      "lastmod": "2025-08-28",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\adriana-anamaria-davidescu.md"
+    },
+    "https://www.digital-finance-msca.com/people/rui-ren": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\rui-ren.md"
+    },
+    "https://www.digital-finance-msca.com/people/matei-mocanu": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\matei-mocanu.md"
+    },
+    "https://www.digital-finance-msca.com/people/yiting-liu": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\yiting-liu.md"
+    },
+    "https://www.digital-finance-msca.com/people/asen-pantov": {
+      "lastmod": "2025-10-13",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\asen-pantov.md"
+    },
+    "https://www.digital-finance-msca.com/people/franz-xaver-zobl": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\franz-xaver-zobl.md"
+    },
+    "https://www.digital-finance-msca.com/people/stefana-belbe": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\stefana-belbe.md"
+    },
+    "https://www.digital-finance-msca.com/people/armin-sadighi": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\armin-sadighi.md"
+    },
+    "https://www.digital-finance-msca.com/people/doina-bucur": {
+      "lastmod": "2025-10-13",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\doina-bucur.md"
+    },
+    "https://www.digital-finance-msca.com/people/xiaohong-huang": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\xiaohong-huang.md"
+    },
+    "https://www.digital-finance-msca.com/people/polina-khrennikova": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\polina-khrennikova.md"
+    },
+    "https://www.digital-finance-msca.com/people/domenico-ciuonzo": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\domenico-ciuonzo.md"
+    },
+    "https://www.digital-finance-msca.com/people/daniel-traian-pele": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\daniel-traian-pele.md"
+    },
+    "https://www.digital-finance-msca.com/people/ismail-elbouknify": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\ismail-elbouknify.md"
+    },
+    "https://www.digital-finance-msca.com/people/patricia-marcella-evite": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\patricia-marcella-evite.md"
+    },
+    "https://www.digital-finance-msca.com/people/simon-haller": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\simon-haller.md"
+    },
+    "https://www.digital-finance-msca.com/people/mahak-sharma": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\mahak-sharma.md"
+    },
+    "https://www.digital-finance-msca.com/people/ruben-pop": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\ruben-pop.md"
+    },
+    "https://www.digital-finance-msca.com/people/catarina-silva": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\catarina-silva.md"
+    },
+    "https://www.digital-finance-msca.com/people/valeri-andreev": {
+      "lastmod": "2025-10-13",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\valeri-andreev.md"
+    },
+    "https://www.digital-finance-msca.com/people/altin-kadareja": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\altin-kadareja.md"
+    },
+    "https://www.digital-finance-msca.com/people/mina-sohrabi-moayd": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\mina-sohrabi-moayd.md"
+    },
+    "https://www.digital-finance-msca.com/people/owen-chaffard": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\owen-chaffard.md"
+    },
+    "https://www.digital-finance-msca.com/people/kristina-sutiene": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\kristina-sutiene.md"
+    },
+    "https://www.digital-finance-msca.com/people/monica-violeta-achim": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\monica-violeta-achim.md"
+    },
+    "https://www.digital-finance-msca.com/people/daniela-schackis": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\daniela-schackis.md"
+    },
+    "https://www.digital-finance-msca.com/people/salvatore-moccia": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\salvatore-moccia.md"
+    },
+    "https://www.digital-finance-msca.com/people/bettina-grun": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\bettina-grun.md"
+    },
+    "https://www.digital-finance-msca.com/people/rezarta-perri": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\rezarta-perri.md"
+    },
+    "https://www.digital-finance-msca.com/people/mohamed-faid": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\mohamed-faid.md"
+    },
+    "https://www.digital-finance-msca.com/people/joerg-osterrieder": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\joerg-osterrieder.md"
+    },
+    "https://www.digital-finance-msca.com/people/ronald-hochreiter": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\ronald-hochreiter.md"
+    },
+    "https://www.digital-finance-msca.com/people/marcos-machado": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\marcos-machado.md"
+    },
+    "https://www.digital-finance-msca.com/people/jeffrey-chu": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\jeffrey-chu.md"
+    },
+    "https://www.digital-finance-msca.com/people/mathis-jander": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\mathis-jander.md"
+    },
+    "https://www.digital-finance-msca.com/people/stijn-van-der-pol": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\stijn-van-der-pol.md"
+    },
+    "https://www.digital-finance-msca.com/people/robert-buch": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\robert-buch.md"
+    },
+    "https://www.digital-finance-msca.com/people/stephanie-blum": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\stephanie-blum.md"
+    },
+    "https://www.digital-finance-msca.com/people/manuele-massei": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\manuele-massei.md"
+    },
+    "https://www.digital-finance-msca.com/people/robin-effing": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\robin-effing.md"
+    },
+    "https://www.digital-finance-msca.com/people/tadas-gudaitis": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\tadas-gudaitis.md"
+    },
+    "https://www.digital-finance-msca.com/people/maria-moloney": {
+      "lastmod": "2025-10-16",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\maria-moloney.md"
+    },
+    "https://www.digital-finance-msca.com/people/rebecca-di-francesco": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\rebecca-di-francesco.md"
+    },
+    "https://www.digital-finance-msca.com/people/vasile-strat": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\vasile-strat.md"
+    },
+    "https://www.digital-finance-msca.com/people/alberto-ferrario": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\alberto-ferrario.md"
+    },
+    "https://www.digital-finance-msca.com/people/albulena-shala": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\albulena-shala.md"
+    },
+    "https://www.digital-finance-msca.com/people/adriano-barasal-morales": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\adriano-barasal-morales.md"
+    },
+    "https://www.digital-finance-msca.com/people/aidas-malakauskas": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\aidas-malakauskas.md"
+    },
+    "https://www.digital-finance-msca.com/people/lennart-baals": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\lennart-baals.md"
+    },
+    "https://www.digital-finance-msca.com/people/kyrylo-medianovskyi": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\kyrylo-medianovskyi.md"
+    },
+    "https://www.digital-finance-msca.com/people/christina-kolb": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\christina-kolb.md"
+    },
+    "https://www.digital-finance-msca.com/people/alfonso-iodice-d'enza": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\alfonso-iodice-d'enza.md"
+    },
+    "https://www.digital-finance-msca.com/people/marcella-corduas": {
+      "lastmod": "2025-08-27",
+      "category": "people",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\people\\marcella-corduas.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/royalton-partners": {
+      "lastmod": "2025-08-25",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\royalton-partners.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/deutsche-bank": {
+      "lastmod": "2025-08-25",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\deutsche-bank.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/swedbank-ab": {
+      "lastmod": "2025-08-25",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\swedbank-ab.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/american-university-of-sharjah": {
+      "lastmod": "2025-08-25",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\american-university-of-sharjah.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/babes-bolyai-university": {
+      "lastmod": "2025-08-25",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\babes-bolyai-university.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/university-of-tirana": {
+      "lastmod": "2025-08-25",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\university-of-tirana.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/bifroest-university": {
+      "lastmod": "2025-08-25",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\bifroest-university.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/university-of-milan": {
+      "lastmod": "2025-08-25",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\university-of-milan.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/kaunas-university-of-technology": {
+      "lastmod": "2025-08-25",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\kaunas-university-of-technology.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/pozna%C5%84-university-of-economics-and-business": {
+      "lastmod": "2025-08-25",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\poznań-university-of-economics-and-business.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/bern-university-of-applied-sciences": {
+      "lastmod": "2025-08-27",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\bern-university-of-applied-sciences.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/fraunhofer-institute": {
+      "lastmod": "2025-08-25",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\fraunhofer-institute.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/cardo-ai": {
+      "lastmod": "2025-08-25",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\cardo-ai.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/ted-university": {
+      "lastmod": "2025-08-25",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\ted-university.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/athena-research-center": {
+      "lastmod": "2025-08-25",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\athena-research-center.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/european-central-bank": {
+      "lastmod": "2025-08-25",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\european-central-bank.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/st-kliment-ohridski-university-bitola": {
+      "lastmod": "2025-08-25",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\st-kliment-ohridski-university-bitola.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/deutsche-boerse": {
+      "lastmod": "2025-08-25",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\deutsche-boerse.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/university-of-calabria": {
+      "lastmod": "2025-10-13",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\university-of-calabria.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/university-of-pavia": {
+      "lastmod": "2025-08-25",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\university-of-pavia.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/university-of-twente": {
+      "lastmod": "2025-10-13",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\university-of-twente.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/bank-for-international-settlements": {
+      "lastmod": "2025-08-25",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\bank-for-international-settlements.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/university-of-naples-federico-ii": {
+      "lastmod": "2025-08-25",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\university-of-naples-federico-ii.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/accesa": {
+      "lastmod": "2025-08-25",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\accesa.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/university-of-prishtina": {
+      "lastmod": "2025-08-25",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\university-of-prishtina.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/g-research": {
+      "lastmod": "2025-10-23",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\g-research.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/university-of-coimbra": {
+      "lastmod": "2025-08-25",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\university-of-coimbra.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/bucharest-university-of-economic-studies": {
+      "lastmod": "2025-08-25",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\bucharest-university-of-economic-studies.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/renmin-university-of-china": {
+      "lastmod": "2025-08-25",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\renmin-university-of-china.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/lpa-group": {
+      "lastmod": "2025-08-25",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\lpa-group.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/deloitte-consulting": {
+      "lastmod": "2025-08-25",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\deloitte-consulting.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/city-university-of-hong-kong": {
+      "lastmod": "2025-08-28",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\city-university-of-hong-kong.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/university-of-oradea": {
+      "lastmod": "2025-08-25",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\university-of-oradea.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/university-of-kaiserslautern-landau": {
+      "lastmod": "2025-08-25",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\university-of-kaiserslautern-landau.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/european-institute-for-technology---digital": {
+      "lastmod": "2025-08-25",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\european-institute-for-technology---digital.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/quoniam": {
+      "lastmod": "2025-08-25",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\quoniam.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/wu-vienna-university-of-economics-and-business": {
+      "lastmod": "2025-08-25",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\wu-vienna-university-of-economics-and-business.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/sun-yat-sen-university": {
+      "lastmod": "2025-08-28",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\sun-yat-sen-university.md"
+    },
+    "https://www.digital-finance-msca.com/partner-new/raiffeisen-bank-international-ag": {
+      "lastmod": "2025-08-25",
+      "category": "partners",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\partners\\raiffeisen-bank-international-ag.md"
+    },
+    "https://www.digital-finance-msca.com/post/digital-featured-by-wu-vienna": {
+      "lastmod": "2024-06-12",
+      "category": "blog",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\blog\\digital-featured-by-wu-vienna.md"
+    },
+    "https://www.digital-finance-msca.com/post/european-research-and-phd-training-programme-in-digital-finance-launches-shaping-the-future-of-fina": {
+      "lastmod": "2024-03-27",
+      "category": "blog",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\blog\\european-research-and-phd-training-programme-in-digital-finance-launches-shaping-the-future-of-fina.md"
+    },
+    "https://www.digital-finance-msca.com/post/rethinking-reinforcement-learning-in-finance": {
+      "lastmod": "2025-04-29",
+      "category": "blog",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\blog\\rethinking-reinforcement-learning-in-finance.md"
+    },
+    "https://www.digital-finance-msca.com/post/professor-härdle-on-fintech-machine-learning-and-the-future-of-economics": {
+      "lastmod": "2025-10-04",
+      "category": "blog",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\blog\\professor-härdle-on-fintech-machine-learning-and-the-future-of-economics.md"
+    },
+    "https://www.digital-finance-msca.com/post/research-seminar-ethical-requirements-for-ai-systems": {
+      "lastmod": "2024-12-04",
+      "category": "blog",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\blog\\research-seminar-ethical-requirements-for-ai-systems.md"
+    },
+    "https://www.digital-finance-msca.com/post/boundaries-of-explainable-ai-in-financial-time-series": {
+      "lastmod": "2025-06-05",
+      "category": "blog",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\blog\\boundaries-of-explainable-ai-in-financial-time-series.md"
+    },
+    "https://www.digital-finance-msca.com/post/our-project-in-the-spotlight": {
+      "lastmod": "2024-02-28",
+      "category": "blog",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\blog\\our-project-in-the-spotlight.md"
+    },
+    "https://www.digital-finance-msca.com/post/the-new-ai-act-and-its-impact": {
+      "lastmod": "2023-12-19",
+      "category": "blog",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\blog\\the-new-ai-act-and-its-impact.md"
+    },
+    "https://www.digital-finance-msca.com/post/bridging-disciplines-for-positive-societal-impact-with-crypto-economic-intelligence-research": {
+      "lastmod": "2024-09-02",
+      "category": "blog",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\blog\\bridging-disciplines-for-positive-societal-impact-with-crypto-economic-intelligence-research.md"
+    },
+    "https://www.digital-finance-msca.com/post/workshop-on-msca-digital-finance-at-quoniam": {
+      "lastmod": "2024-05-07",
+      "category": "blog",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\blog\\workshop-on-msca-digital-finance-at-quoniam.md"
+    },
+    "https://www.digital-finance-msca.com/post/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente": {
+      "lastmod": "2025-05-27",
+      "category": "blog",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\blog\\progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente.md"
+    },
+    "https://www.digital-finance-msca.com/post/event-risks-and-opportunities-of-growing-green": {
+      "lastmod": "2024-06-01",
+      "category": "blog",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\blog\\event-risks-and-opportunities-of-growing-green.md"
+    },
+    "https://www.digital-finance-msca.com/post/msca-digital-at-ai-in-financial-markets-research-forum": {
+      "lastmod": "2024-12-11",
+      "category": "blog",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\blog\\msca-digital-at-ai-in-financial-markets-research-forum.md"
+    },
+    "https://www.digital-finance-msca.com/post/event-how-to-better-manage-some-of-the-largest-risks-in-our-society": {
+      "lastmod": "2024-05-31",
+      "category": "blog",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\blog\\event-how-to-better-manage-some-of-the-largest-risks-in-our-society.md"
+    },
+    "https://www.digital-finance-msca.com/post/digital-featured-in-unina-news": {
+      "lastmod": "2024-03-25",
+      "category": "blog",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\blog\\digital-featured-in-unina-news.md"
+    },
+    "https://www.digital-finance-msca.com/post/how-is-ai-changing-the-world-of-finance": {
+      "lastmod": "2023-12-19",
+      "category": "blog",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\blog\\how-is-ai-changing-the-world-of-finance.md"
+    },
+    "https://www.digital-finance-msca.com/post/event-cfge-sustainability-research-café": {
+      "lastmod": "2024-05-31",
+      "category": "blog",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\blog\\event-cfge-sustainability-research-café.md"
+    },
+    "https://www.digital-finance-msca.com/post/finalist-for-the-best-wi-fi-2024-young-researcher-award": {
+      "lastmod": "2024-06-11",
+      "category": "blog",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\blog\\finalist-for-the-best-wi-fi-2024-young-researcher-award.md"
+    },
+    "https://www.digital-finance-msca.com/post/international-doctoral-network-for-digital-finance-launched": {
+      "lastmod": "2024-04-11",
+      "category": "blog",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\blog\\international-doctoral-network-for-digital-finance-launched.md"
+    },
+    "https://www.digital-finance-msca.com/post/why-future-finance-graduates-should-focus-on-acquiring-skills-in-data-analytics-and-data-modelling": {
+      "lastmod": "2023-12-19",
+      "category": "blog",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\blog\\why-future-finance-graduates-should-focus-on-acquiring-skills-in-data-analytics-and-data-modelling.md"
+    },
+    "https://www.digital-finance-msca.com/post/msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i": {
+      "lastmod": "2025-02-14",
+      "category": "blog",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\blog\\msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i.md"
+    },
+    "https://www.digital-finance-msca.com/post/key-outputs-and-achievements-of-cost-action-and-digital-presented-before-cost-scientific-committee": {
+      "lastmod": "2024-05-14",
+      "category": "blog",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\blog\\key-outputs-and-achievements-of-cost-action-and-digital-presented-before-cost-scientific-committee.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/labor-market-skills": {
+      "lastmod": "2024-05-03",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\labor-market-skills.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/barriers-in-digital-finance-adoption": {
+      "lastmod": "2024-05-03",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\barriers-in-digital-finance-adoption.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/sustainable-finance": {
+      "lastmod": "2024-05-28",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\sustainable-finance.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/research-ethics-and-sustainable-research-management": {
+      "lastmod": "2024-05-03",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\research-ethics-and-sustainable-research-management.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/introduction-to-ai-for-financial-applications": {
+      "lastmod": "2024-05-03",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\introduction-to-ai-for-financial-applications.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/ai-design-in-digital-finance": {
+      "lastmod": "2024-05-03",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\ai-design-in-digital-finance.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/open-science-principles": {
+      "lastmod": "2024-05-03",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\open-science-principles.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/deep-learning-for-finance": {
+      "lastmod": "2024-05-03",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\deep-learning-for-finance.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/gender-and-diversity-dimension-in-research": {
+      "lastmod": "2024-05-03",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\gender-and-diversity-dimension-in-research.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/digital-finance-regulation": {
+      "lastmod": "2024-05-03",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\digital-finance-regulation.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/data-centric-ai": {
+      "lastmod": "2024-05-03",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\data-centric-ai.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/dependence-structures-in-high-frequency-financial-data": {
+      "lastmod": "2024-05-03",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\dependence-structures-in-high-frequency-financial-data.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/introduction-to-blockchain-applications-in-finance": {
+      "lastmod": "2024-05-03",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\introduction-to-blockchain-applications-in-finance.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/environmental-aspects": {
+      "lastmod": "2024-05-03",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\environmental-aspects.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/history-and-prospects-of-digital-finance": {
+      "lastmod": "2024-05-28",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\history-and-prospects-of-digital-finance.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/ethical-dimensions": {
+      "lastmod": "2024-05-28",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\ethical-dimensions.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/reinforcement-learning-in-digital-finance": {
+      "lastmod": "2024-12-16",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\reinforcement-learning-in-digital-finance.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/intellectual-property-rights-and-patenting": {
+      "lastmod": "2024-05-03",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\intellectual-property-rights-and-patenting.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/entrepreneurship-training": {
+      "lastmod": "2024-05-03",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\entrepreneurship-training.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/blockchains-in-digital-finance": {
+      "lastmod": "2024-06-17",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\blockchains-in-digital-finance.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/he-framework-and-research-project-management": {
+      "lastmod": "2024-05-03",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\he-framework-and-research-project-management.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/entrepreneurial-finance": {
+      "lastmod": "2024-05-03",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\entrepreneurial-finance.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/cybersecurity-in-digital-finance": {
+      "lastmod": "2024-05-03",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\cybersecurity-in-digital-finance.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/machine-learning-in-industry": {
+      "lastmod": "2024-05-03",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\machine-learning-in-industry.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/citizen-science": {
+      "lastmod": "2024-05-03",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\citizen-science.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/multi-criteria-decision-making-in-sustainable-finance": {
+      "lastmod": "2024-05-03",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\multi-criteria-decision-making-in-sustainable-finance.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/scientific-writing": {
+      "lastmod": "2024-05-03",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\scientific-writing.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/start-ups-and-industry-transfer": {
+      "lastmod": "2024-05-03",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\start-ups-and-industry-transfer.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/natural-language-processing-with-transformers": {
+      "lastmod": "2024-05-03",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\natural-language-processing-with-transformers.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/scientific-communication": {
+      "lastmod": "2024-05-03",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\scientific-communication.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/ethics-applicable-to-digital-aspects-": {
+      "lastmod": "2024-09-16",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\ethics-applicable-to-digital-aspects-.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/project-management": {
+      "lastmod": "2024-05-03",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\project-management.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/synthetic-data-generation-for-finance": {
+      "lastmod": "2024-05-03",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\synthetic-data-generation-for-finance.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/explainable-ai-in-finance": {
+      "lastmod": "2024-06-17",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\explainable-ai-in-finance.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/industrial-doctoral-school-on-fintech": {
+      "lastmod": "2024-11-15",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\industrial-doctoral-school-on-fintech.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/anomaly-detection-in-big-data": {
+      "lastmod": "2024-05-03",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\anomaly-detection-in-big-data.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/communication-skills": {
+      "lastmod": "2024-05-03",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\communication-skills.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/job-applications": {
+      "lastmod": "2024-05-03",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\job-applications.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/the-need-for-explainable-ai%3A-methods-and-applications-in-finance": {
+      "lastmod": "2024-05-03",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\the-need-for-explainable-ai:-methods-and-applications-in-finance.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/green-digital-finance": {
+      "lastmod": "2024-05-03",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\green-digital-finance.md"
+    },
+    "https://www.digital-finance-msca.com/training-modules/foundation-of-data-science": {
+      "lastmod": "2024-06-04",
+      "category": "training-modules",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-modules\\foundation-of-data-science.md"
+    },
+    "https://www.digital-finance-msca.com/training-events/closing-conference": {
+      "lastmod": "2024-11-27",
+      "category": "training-events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-events\\closing-conference.md"
+    },
+    "https://www.digital-finance-msca.com/training-events/mid-term-review-event": {
+      "lastmod": "2024-11-27",
+      "category": "training-events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-events\\mid-term-review-event.md"
+    },
+    "https://www.digital-finance-msca.com/training-events/digital-finance-industry-event": {
+      "lastmod": "2024-11-27",
+      "category": "training-events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-events\\digital-finance-industry-event.md"
+    },
+    "https://www.digital-finance-msca.com/training-events/orientation-training-digital-finance": {
+      "lastmod": "2024-11-27",
+      "category": "training-events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-events\\orientation-training-digital-finance.md"
+    },
+    "https://www.digital-finance-msca.com/training-events/regulation-in-digital-finance-workshop": {
+      "lastmod": "2024-11-27",
+      "category": "training-events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-events\\regulation-in-digital-finance-workshop.md"
+    },
+    "https://www.digital-finance-msca.com/training-events/training-%26-development-workshop": {
+      "lastmod": "2024-11-27",
+      "category": "training-events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-events\\training-&-development-workshop.md"
+    },
+    "https://www.digital-finance-msca.com/training-events/industrial-doctoral-school-on-fintech": {
+      "lastmod": "2024-11-27",
+      "category": "training-events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-events\\industrial-doctoral-school-on-fintech.md"
+    },
+    "https://www.digital-finance-msca.com/training-events/kickoff-meeting-and-technical-training": {
+      "lastmod": "2024-11-27",
+      "category": "training-events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\training-events\\kickoff-meeting-and-technical-training.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/wp1-meeting-2024-10-07-19-00-1": {
+      "lastmod": "2024-07-28",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\wp1-meeting-2024-10-07-19-00-1.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/conference-about-how-great-msca-is": {
+      "lastmod": "2024-07-06",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\conference-about-how-great-msca-is.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/msca-training-week-ut": {
+      "lastmod": "2024-07-28",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\msca-training-week-ut.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/orientation-training-digital-finance": {
+      "lastmod": "2025-02-26",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\orientation-training-digital-finance.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/msca-training-week-phd-training-school-on-blockchain-applications-in-finance": {
+      "lastmod": "2025-02-26",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\msca-training-week-phd-training-school-on-blockchain-applications-in-finance.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/introduction-to-blockchain-applications-in-finance-training-week": {
+      "lastmod": "2025-11-11",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\introduction-to-blockchain-applications-in-finance-training-week.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/test-1": {
+      "lastmod": "2024-08-27",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\test-1.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/wp1-meeting-2024-09-02-19-00-1": {
+      "lastmod": "2024-08-28",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\wp1-meeting-2024-09-02-19-00-1.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/phd-training-school-on-cybersecurity": {
+      "lastmod": "2025-10-17",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\phd-training-school-on-cybersecurity.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/msca-training-week-ktu": {
+      "lastmod": "2024-07-28",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\msca-training-week-ktu.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/msca-training-week-1": {
+      "lastmod": "2024-07-28",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\msca-training-week-1.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/msca-network-event-blended-intensive-program-methods-for-fintech-and-artificial-intelligence-in-finance-naples-una": {
+      "lastmod": "2024-10-09",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\msca-network-event-blended-intensive-program-methods-for-fintech-and-artificial-intelligence-in-finance-naples-una.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/msca-training-week-3": {
+      "lastmod": "2024-10-24",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\msca-training-week-3.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/green-digital-finance-training-week": {
+      "lastmod": "2025-05-20",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\green-digital-finance-training-week.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/msca-network-event-advanced-statistical-modelling-for-fintech-financial-inclusion-and-inequality-una-naples-msca": {
+      "lastmod": "2024-09-04",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\msca-network-event-advanced-statistical-modelling-for-fintech-financial-inclusion-and-inequality-una-naples-msca.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/network-event-ai-in-digital-finance-risk-premia-in-the-bitcoin-market": {
+      "lastmod": "2024-12-06",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\network-event-ai-in-digital-finance-risk-premia-in-the-bitcoin-market.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/conference": {
+      "lastmod": "2024-04-08",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\conference.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/test": {
+      "lastmod": "2024-08-27",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\test.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/doctoral-training-school-1": {
+      "lastmod": "2024-05-06",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\doctoral-training-school-1.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/deep-learning-in-finance-1": {
+      "lastmod": "2025-10-17",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\deep-learning-in-finance-1.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/lecture-spectral-risk-measures-and-spectral-analysis": {
+      "lastmod": "2025-06-10",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\lecture-spectral-risk-measures-and-spectral-analysis.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/test2": {
+      "lastmod": "2024-08-28",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\test2.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/deep-learning-in-finance": {
+      "lastmod": "2025-10-13",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\deep-learning-in-finance.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/msca-seminar-series-ai-in-digital-finance": {
+      "lastmod": "2025-02-26",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\msca-seminar-series-ai-in-digital-finance.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/network-event-the-4th-international-conference-on-mathematics-and-statistics": {
+      "lastmod": "2025-02-14",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\network-event-the-4th-international-conference-on-mathematics-and-statistics.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/ing-ut-workshop-data-analytics-and-quantitative-models-in-banking-and-academia": {
+      "lastmod": "2025-02-16",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\ing-ut-workshop-data-analytics-and-quantitative-models-in-banking-and-academia.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/1st-arc-training-week": {
+      "lastmod": "2025-10-17",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\1st-arc-training-week.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/test-2": {
+      "lastmod": "2024-08-28",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\test-2.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/msca-midterm-report-meeting-utw": {
+      "lastmod": "2025-02-07",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\msca-midterm-report-meeting-utw.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/training-week-on-blockchains-in-digital-finance": {
+      "lastmod": "2025-10-23",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\training-week-on-blockchains-in-digital-finance.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/msca-training-week-2": {
+      "lastmod": "2024-10-24",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\msca-training-week-2.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/msca-digital-supervisory-board-meeting-3": {
+      "lastmod": "2024-08-30",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\msca-digital-supervisory-board-meeting-3.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/msca-training-reinforcement-learning-utw": {
+      "lastmod": "2025-04-10",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\msca-training-reinforcement-learning-utw.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/machine-learning-in-industry": {
+      "lastmod": "2025-10-17",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\machine-learning-in-industry.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/msca-midterm-meeting-1": {
+      "lastmod": "2024-10-24",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\msca-midterm-meeting-1.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/msca-digital-the-4th-international-conference-on-mathematics-and-statistics": {
+      "lastmod": "2024-07-28",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\msca-digital-the-4th-international-conference-on-mathematics-and-statistics.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/blockchains-in-digital-finance": {
+      "lastmod": "2025-10-13",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\blockchains-in-digital-finance.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/cost-finai-brussels-may-14-15-2024": {
+      "lastmod": "2024-04-15",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\cost-finai-brussels-may-14-15-2024.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/agentic-ai-for-finance-training-week": {
+      "lastmod": "2025-11-27",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\agentic-ai-for-finance-training-week.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/msca-network-event-advanced-statistical-modelling-for-fintech-financial-inclusion-and-inequality-una-naples": {
+      "lastmod": "2024-08-27",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\msca-network-event-advanced-statistical-modelling-for-fintech-financial-inclusion-and-inequality-una-naples.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/network-event-rb-event-2024-ai-in-financial-markets-research-forum": {
+      "lastmod": "2024-10-24",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\network-event-rb-event-2024-ai-in-financial-markets-research-forum.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/msca-network-event-blended-intensive-program-methods-for-fintech-and-artificial-intelligence-in-finance-napl-1-1": {
+      "lastmod": "2024-10-09",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\msca-network-event-blended-intensive-program-methods-for-fintech-and-artificial-intelligence-in-finance-napl-1-1.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/explainable-ai-training-week": {
+      "lastmod": "2025-10-09",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\explainable-ai-training-week.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/research-seminar-fair-algorithmic-design-wp3": {
+      "lastmod": "2025-04-16",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\research-seminar-fair-algorithmic-design-wp3.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/msca-training-week-bbu": {
+      "lastmod": "2024-07-28",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\msca-training-week-bbu.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/msca-training-history-and-prospects-of-digital-finance": {
+      "lastmod": "2025-11-25",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\msca-training-history-and-prospects-of-digital-finance.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/ai-in-financial-markets-research-forum-2": {
+      "lastmod": "2025-11-27",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\ai-in-financial-markets-research-forum-2.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/msca-training-school-on-ethics-in-ai-and-digital-finance-oradea": {
+      "lastmod": "2024-12-08",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\msca-training-school-on-ethics-in-ai-and-digital-finance-oradea.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/research-seminar-audience-dependent-explanations-for-ai-systems-wp3": {
+      "lastmod": "2025-04-16",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\research-seminar-audience-dependent-explanations-for-ai-systems-wp3.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/foundations-of-data-science-training-week": {
+      "lastmod": "2025-03-25",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\foundations-of-data-science-training-week.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/ssm-annual-research-conference": {
+      "lastmod": "2025-10-13",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\ssm-annual-research-conference.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/research-seminar-explainable-ai-methods-for-financial-time-series-wp3": {
+      "lastmod": "2025-06-05",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\research-seminar-explainable-ai-methods-for-financial-time-series-wp3.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/msca-training-week-bfh": {
+      "lastmod": "2025-09-08",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\msca-training-week-bfh.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/msca-midterm-meeting": {
+      "lastmod": "2024-07-28",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\msca-midterm-meeting.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/advanced-analytics-for-fintech-and-artificial-intelligence": {
+      "lastmod": "2024-10-21",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\advanced-analytics-for-fintech-and-artificial-intelligence.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/research-seminar-uncertainty-aware-statistical-learning-for-complex-decision-processes-wp5": {
+      "lastmod": "2025-06-04",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\research-seminar-uncertainty-aware-statistical-learning-for-complex-decision-processes-wp5.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/quantitative-finance-conference-at-american-university-of-sharjah": {
+      "lastmod": "2024-07-28",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\quantitative-finance-conference-at-american-university-of-sharjah.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/research-seminar-reinforcement-learning-applications-in-finance-wp3": {
+      "lastmod": "2025-04-29",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\research-seminar-reinforcement-learning-applications-in-finance-wp3.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/mid-term-meeting-technical-training-week": {
+      "lastmod": "2025-06-10",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\mid-term-meeting-technical-training-week.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/official-msca-kick-off-event": {
+      "lastmod": "2024-01-26",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\official-msca-kick-off-event.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/msca-digital-wp3-research-seminar": {
+      "lastmod": "2024-08-08",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\msca-digital-wp3-research-seminar.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/msca-digital-training-m9-prague": {
+      "lastmod": "2024-08-28",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\msca-digital-training-m9-prague.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/msca-workshop-on-digital-finance": {
+      "lastmod": "2024-11-18",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\msca-workshop-on-digital-finance.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/4th-yushan-conference": {
+      "lastmod": "2024-07-28",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\4th-yushan-conference.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/network-event-4th-yushan-conference": {
+      "lastmod": "2024-10-24",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\network-event-4th-yushan-conference.md"
+    },
+    "https://www.digital-finance-msca.com/event-details-registration/quantitative-finance-conference-at-american-university-of-sharjah-1": {
+      "lastmod": "2024-10-24",
+      "category": "events",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\events\\quantitative-finance-conference-at-american-university-of-sharjah-1.md"
+    },
+    "https://www.digital-finance-msca.com/blog/categories/wp4": {
+      "lastmod": "2025-05-27",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\blog\\categories\\wp4.md"
+    },
+    "https://www.digital-finance-msca.com/blog/categories/wp3": {
+      "lastmod": "2025-06-05",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\blog\\categories\\wp3.md"
+    },
+    "https://www.digital-finance-msca.com/blog/categories/wp1": {
+      "lastmod": "2025-05-27",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\blog\\categories\\wp1.md"
+    },
+    "https://www.digital-finance-msca.com/blog/categories/wp2": {
+      "lastmod": "2025-05-27",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\blog\\categories\\wp2.md"
+    },
+    "https://www.digital-finance-msca.com/blog/categories/wp5": {
+      "lastmod": "2025-05-27",
+      "category": "pages",
+      "filepath": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\content\\blog\\categories\\wp5.md"
+    }
+  }
+}

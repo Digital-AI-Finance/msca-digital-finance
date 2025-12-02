@@ -27,7 +27,7 @@ images:
 
   * Work Packages: WP4, WP6, WP7, WP8
 
-  * Lead researcher: [Armin Sadihgi](https://www.digital-finance-msca.com/people/armin-sadighi)
+  * Lead researcher: [Armin Sadihgi](/people/armin-sadighi/)
 
 ### Objectives
 

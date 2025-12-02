@@ -33,4 +33,4 @@ Sabrina Giordano
 
 Associate Partner. Open to other collaborations and opportunities
 
-[All partners ](https://www.digital-finance-msca.com/our-partners)
+[All partners ](/our-partners/)

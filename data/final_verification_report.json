@@ -1,0 +1,2831 @@
+{
+  "generated_at": "2025-12-02T09:07:40.562926",
+  "sections": {
+    "url_coverage": {
+      "sitemap_urls": 387,
+      "scraped_urls": 387,
+      "failed_urls": 1,
+      "deep_crawl": {
+        "crawl_date": "2025-12-02T08:13:20.045016",
+        "pages_crawled": 438,
+        "total_discovered": 335,
+        "known_urls": 387,
+        "missing_urls": [
+          "https://www.digital-finance-msca.com/babe%C8%99-bolyai-university-bbu",
+          "https://www.digital-finance-msca.com/bern-university-of-applied-sciences-bfh",
+          "https://www.digital-finance-msca.com/bucharest-university-of-economic-studies-ase",
+          "https://www.digital-finance-msca.com/cardo-srl",
+          "https://www.digital-finance-msca.com/copy-of-home",
+          "https://www.digital-finance-msca.com/event-details-registration/msca-network-event-rb-event-2024-ai-in-financial-markets-research-forum",
+          "https://www.digital-finance-msca.com/industry-standard-for-blockchain",
+          "https://www.digital-finance-msca.com/joerg-osterrieder",
+          "https://www.digital-finance-msca.com/kaunas-university-of-technology",
+          "https://www.digital-finance-msca.com/members-area/b-vanbraak/events",
+          "https://www.digital-finance-msca.com/members-area/b-vanbraak/profile",
+          "https://www.digital-finance-msca.com/members-area/brankahm/events",
+          "https://www.digital-finance-msca.com/members-area/brankahm/profile",
+          "https://www.digital-finance-msca.com/members-area/f-s-bernard/profile",
+          "https://www.digital-finance-msca.com/members-area/stephanie-blum/events",
+          "https://www.digital-finance-msca.com/members-area/stephanie-blum/profile",
+          "https://www.digital-finance-msca.com/partners-area",
+          "https://www.digital-finance-msca.com/pozna%C5%84-university-of-economics-and-business",
+          "https://www.digital-finance-msca.com/university-of-naples-federico-ii",
+          "https://www.digital-finance-msca.com/university-of-twente",
+          "https://www.digital-finance-msca.com/work-package-1",
+          "https://www.digital-finance-msca.com/work-package-2",
+          "https://www.digital-finance-msca.com/work-package-3",
+          "https://www.digital-finance-msca.com/work-package-4",
+          "https://www.digital-finance-msca.com/work-package-5",
+          "https://www.digital-finance-msca.com/wu-vienna-university-of-economics"
+        ],
+        "orphaned_urls": [
+          "https://www.digital-finance-msca.com",
+          "https://www.digital-finance-msca.com/about-the-project",
+          "https://www.digital-finance-msca.com/brussels-meeting-2024",
+          "https://www.digital-finance-msca.com/copy-of-contact-us",
+          "https://www.digital-finance-msca.com/copy-of-research-topics",
+          "https://www.digital-finance-msca.com/copy-of-trainings",
+          "https://www.digital-finance-msca.com/detailed-overview",
+          "https://www.digital-finance-msca.com/digital-finance-research-projects",
+          "https://www.digital-finance-msca.com/event-details-registration/advanced-analytics-for-fintech-and-artificial-intelligence",
+          "https://www.digital-finance-msca.com/event-details-registration/blockchains-in-digital-finance",
+          "https://www.digital-finance-msca.com/event-details-registration/conference",
+          "https://www.digital-finance-msca.com/event-details-registration/conference-about-how-great-msca-is",
+          "https://www.digital-finance-msca.com/event-details-registration/cost-finai-brussels-may-14-15-2024",
+          "https://www.digital-finance-msca.com/event-details-registration/deep-learning-in-finance",
+          "https://www.digital-finance-msca.com/event-details-registration/doctoral-training-school-1",
+          "https://www.digital-finance-msca.com/event-details-registration/ing-ut-workshop-data-analytics-and-quantitative-models-in-banking-and-academia",
+          "https://www.digital-finance-msca.com/event-details-registration/msca-digital-training-m9-prague",
+          "https://www.digital-finance-msca.com/event-details-registration/msca-digital-wp3-research-seminar",
+          "https://www.digital-finance-msca.com/event-details-registration/msca-midterm-meeting",
+          "https://www.digital-finance-msca.com/event-details-registration/msca-midterm-meeting-1",
+          "https://www.digital-finance-msca.com/event-details-registration/msca-midterm-report-meeting-utw",
+          "https://www.digital-finance-msca.com/event-details-registration/msca-network-event-advanced-statistical-modelling-for-fintech-financial-inclusion-and-inequality-una-naples",
+          "https://www.digital-finance-msca.com/event-details-registration/msca-network-event-blended-intensive-program-methods-for-fintech-and-artificial-intelligence-in-finance-napl-1-1",
+          "https://www.digital-finance-msca.com/event-details-registration/msca-seminar-series-ai-in-digital-finance",
+          "https://www.digital-finance-msca.com/event-details-registration/msca-training-week-1",
+          "https://www.digital-finance-msca.com/event-details-registration/msca-training-week-2",
+          "https://www.digital-finance-msca.com/event-details-registration/msca-training-week-3",
+          "https://www.digital-finance-msca.com/event-details-registration/msca-training-week-bbu",
+          "https://www.digital-finance-msca.com/event-details-registration/msca-training-week-bfh",
+          "https://www.digital-finance-msca.com/event-details-registration/msca-training-week-ktu",
+          "https://www.digital-finance-msca.com/event-details-registration/msca-training-week-phd-training-school-on-blockchain-applications-in-finance",
+          "https://www.digital-finance-msca.com/event-details-registration/msca-training-week-ut",
+          "https://www.digital-finance-msca.com/event-details-registration/msca-workshop-on-digital-finance",
+          "https://www.digital-finance-msca.com/event-details-registration/network-event-4th-yushan-conference",
+          "https://www.digital-finance-msca.com/event-details-registration/network-event-ai-in-digital-finance-risk-premia-in-the-bitcoin-market",
+          "https://www.digital-finance-msca.com/event-details-registration/network-event-rb-event-2024-ai-in-financial-markets-research-forum",
+          "https://www.digital-finance-msca.com/event-details-registration/network-event-the-4th-international-conference-on-mathematics-and-statistics",
+          "https://www.digital-finance-msca.com/event-details-registration/official-msca-kick-off-event",
+          "https://www.digital-finance-msca.com/event-details-registration/quantitative-finance-conference-at-american-university-of-sharjah",
+          "https://www.digital-finance-msca.com/event-details-registration/quantitative-finance-conference-at-american-university-of-sharjah-1",
+          "https://www.digital-finance-msca.com/event-details-registration/test",
+          "https://www.digital-finance-msca.com/event-details-registration/test-1",
+          "https://www.digital-finance-msca.com/event-details-registration/test-2",
+          "https://www.digital-finance-msca.com/event-details-registration/test2",
+          "https://www.digital-finance-msca.com/event-details-registration/wp1-meeting-2024-09-02-19-00-1",
+          "https://www.digital-finance-msca.com/event-details-registration/wp1-meeting-2024-10-07-19-00-1",
+          "https://www.digital-finance-msca.com/graph-theoretic-analysis-leading-house",
+          "https://www.digital-finance-msca.com/home-backup-old",
+          "https://www.digital-finance-msca.com/machine-learning-digital-finance",
+          "https://www.digital-finance-msca.com/meet-the-team",
+          "https://www.digital-finance-msca.com/open-science",
+          "https://www.digital-finance-msca.com/people/huei-wen-teng",
+          "https://www.digital-finance-msca.com/people/karolina-bolesta",
+          "https://www.digital-finance-msca.com/people/maria-moloney",
+          "https://www.digital-finance-msca.com/people/meng-jou-lu",
+          "https://www.digital-finance-msca.com/people/stefan-lessmann",
+          "https://www.digital-finance-msca.com/post/bridging-disciplines-for-positive-societal-impact-with-crypto-economic-intelligence-research",
+          "https://www.digital-finance-msca.com/post/digital-featured-in-unina-news",
+          "https://www.digital-finance-msca.com/post/european-research-and-phd-training-programme-in-digital-finance-launches-shaping-the-future-of-fina",
+          "https://www.digital-finance-msca.com/post/event-cfge-sustainability-research-café",
+          "https://www.digital-finance-msca.com/post/event-how-to-better-manage-some-of-the-largest-risks-in-our-society",
+          "https://www.digital-finance-msca.com/post/event-risks-and-opportunities-of-growing-green",
+          "https://www.digital-finance-msca.com/post/finalist-for-the-best-wi-fi-2024-young-researcher-award",
+          "https://www.digital-finance-msca.com/post/how-is-ai-changing-the-world-of-finance",
+          "https://www.digital-finance-msca.com/post/international-doctoral-network-for-digital-finance-launched",
+          "https://www.digital-finance-msca.com/post/key-outputs-and-achievements-of-cost-action-and-digital-presented-before-cost-scientific-committee",
+          "https://www.digital-finance-msca.com/post/our-project-in-the-spotlight",
+          "https://www.digital-finance-msca.com/post/the-new-ai-act-and-its-impact",
+          "https://www.digital-finance-msca.com/post/why-future-finance-graduates-should-focus-on-acquiring-skills-in-data-analytics-and-data-modelling",
+          "https://www.digital-finance-msca.com/post/workshop-on-msca-digital-finance-at-quoniam",
+          "https://www.digital-finance-msca.com/presentations",
+          "https://www.digital-finance-msca.com/test",
+          "https://www.digital-finance-msca.com/training-modules/ethical-dimensions",
+          "https://www.digital-finance-msca.com/training-modules/labor-market-skills",
+          "https://www.digital-finance-msca.com/training-modules/the-need-for-explainable-ai%3A-methods-and-applications-in-finance",
+          "https://www.digital-finance-msca.com/work-package-9",
+          "https://www.digital-finance-msca.com/wp6-doctoral-training",
+          "https://www.digital-finance-msca.com/wp7-dissemination-outreach-exploitation",
+          "https://www.digital-finance-msca.com/wp8-project-management"
+        ],
+        "all_discovered": [
+          "https://www.digital-finance-msca.com/",
+          "https://www.digital-finance-msca.com/a-recommender-system",
+          "https://www.digital-finance-msca.com/about-us",
+          "https://www.digital-finance-msca.com/applications-of-agent-based-models",
+          "https://www.digital-finance-msca.com/audience-dependent-explanations",
+          "https://www.digital-finance-msca.com/babe%C8%99-bolyai-university-bbu",
+          "https://www.digital-finance-msca.com/bern-university-of-applied-sciences-bfh",
+          "https://www.digital-finance-msca.com/blockchain",
+          "https://www.digital-finance-msca.com/blog",
+          "https://www.digital-finance-msca.com/blog/categories/wp1",
+          "https://www.digital-finance-msca.com/blog/categories/wp2",
+          "https://www.digital-finance-msca.com/blog/categories/wp3",
+          "https://www.digital-finance-msca.com/blog/categories/wp4",
+          "https://www.digital-finance-msca.com/blog/categories/wp5",
+          "https://www.digital-finance-msca.com/bucharest-university-of-economic-studies-ase",
+          "https://www.digital-finance-msca.com/cardo-srl",
+          "https://www.digital-finance-msca.com/challenges-and-opportunities",
+          "https://www.digital-finance-msca.com/collaborations-within-the-network",
+          "https://www.digital-finance-msca.com/collaborative-learning-across-data-silos",
+          "https://www.digital-finance-msca.com/contact-us",
+          "https://www.digital-finance-msca.com/copy-of-home",
+          "https://www.digital-finance-msca.com/cost-finai-phd-school-2024",
+          "https://www.digital-finance-msca.com/deep-generation-of-financial",
+          "https://www.digital-finance-msca.com/detecting-anomalies-and-dependence-structures",
+          "https://www.digital-finance-msca.com/developing-industry-ready",
+          "https://www.digital-finance-msca.com/event-details-registration/1st-arc-training-week",
+          "https://www.digital-finance-msca.com/event-details-registration/4th-yushan-conference",
+          "https://www.digital-finance-msca.com/event-details-registration/agentic-ai-for-finance-training-week",
+          "https://www.digital-finance-msca.com/event-details-registration/ai-in-financial-markets-research-forum-2",
+          "https://www.digital-finance-msca.com/event-details-registration/deep-learning-in-finance-1",
+          "https://www.digital-finance-msca.com/event-details-registration/explainable-ai-training-week",
+          "https://www.digital-finance-msca.com/event-details-registration/foundations-of-data-science-training-week",
+          "https://www.digital-finance-msca.com/event-details-registration/green-digital-finance-training-week",
+          "https://www.digital-finance-msca.com/event-details-registration/introduction-to-blockchain-applications-in-finance-training-week",
+          "https://www.digital-finance-msca.com/event-details-registration/lecture-spectral-risk-measures-and-spectral-analysis",
+          "https://www.digital-finance-msca.com/event-details-registration/machine-learning-in-industry",
+          "https://www.digital-finance-msca.com/event-details-registration/mid-term-meeting-technical-training-week",
+          "https://www.digital-finance-msca.com/event-details-registration/msca-digital-supervisory-board-meeting-3",
+          "https://www.digital-finance-msca.com/event-details-registration/msca-digital-the-4th-international-conference-on-mathematics-and-statistics",
+          "https://www.digital-finance-msca.com/event-details-registration/msca-network-event-advanced-statistical-modelling-for-fintech-financial-inclusion-and-inequality-una-naples-msca",
+          "https://www.digital-finance-msca.com/event-details-registration/msca-network-event-blended-intensive-program-methods-for-fintech-and-artificial-intelligence-in-finance-naples-una",
+          "https://www.digital-finance-msca.com/event-details-registration/msca-network-event-rb-event-2024-ai-in-financial-markets-research-forum",
+          "https://www.digital-finance-msca.com/event-details-registration/msca-training-history-and-prospects-of-digital-finance",
+          "https://www.digital-finance-msca.com/event-details-registration/msca-training-reinforcement-learning-utw",
+          "https://www.digital-finance-msca.com/event-details-registration/msca-training-school-on-ethics-in-ai-and-digital-finance-oradea",
+          "https://www.digital-finance-msca.com/event-details-registration/orientation-training-digital-finance",
+          "https://www.digital-finance-msca.com/event-details-registration/phd-training-school-on-cybersecurity",
+          "https://www.digital-finance-msca.com/event-details-registration/research-seminar-audience-dependent-explanations-for-ai-systems-wp3",
+          "https://www.digital-finance-msca.com/event-details-registration/research-seminar-explainable-ai-methods-for-financial-time-series-wp3",
+          "https://www.digital-finance-msca.com/event-details-registration/research-seminar-fair-algorithmic-design-wp3",
+          "https://www.digital-finance-msca.com/event-details-registration/research-seminar-reinforcement-learning-applications-in-finance-wp3",
+          "https://www.digital-finance-msca.com/event-details-registration/research-seminar-uncertainty-aware-statistical-learning-for-complex-decision-processes-wp5",
+          "https://www.digital-finance-msca.com/event-details-registration/ssm-annual-research-conference",
+          "https://www.digital-finance-msca.com/event-details-registration/training-week-on-blockchains-in-digital-finance",
+          "https://www.digital-finance-msca.com/events",
+          "https://www.digital-finance-msca.com/experimenting-with-green-ai",
+          "https://www.digital-finance-msca.com/fair-algorithmic-design",
+          "https://www.digital-finance-msca.com/fraud-detection-in-financial-networks",
+          "https://www.digital-finance-msca.com/home-old",
+          "https://www.digital-finance-msca.com/individual-research-projects",
+          "https://www.digital-finance-msca.com/industry-standard-for-blockchain",
+          "https://www.digital-finance-msca.com/international-advanced-fellowship-ubb",
+          "https://www.digital-finance-msca.com/investigating-the-utility",
+          "https://www.digital-finance-msca.com/joerg-osterrieder",
+          "https://www.digital-finance-msca.com/journals-outlets",
+          "https://www.digital-finance-msca.com/kaunas-university-of-technology",
+          "https://www.digital-finance-msca.com/media",
+          "https://www.digital-finance-msca.com/members-area/b-vanbraak/events",
+          "https://www.digital-finance-msca.com/members-area/b-vanbraak/profile",
+          "https://www.digital-finance-msca.com/members-area/brankahm/events",
+          "https://www.digital-finance-msca.com/members-area/brankahm/profile",
+          "https://www.digital-finance-msca.com/members-area/f-s-bernard/profile",
+          "https://www.digital-finance-msca.com/members-area/stephanie-blum/events",
+          "https://www.digital-finance-msca.com/members-area/stephanie-blum/profile",
+          "https://www.digital-finance-msca.com/modelling-green-credit-scores",
+          "https://www.digital-finance-msca.com/network-based-credit-risk-models-snsf",
+          "https://www.digital-finance-msca.com/open-phd-positions",
+          "https://www.digital-finance-msca.com/our-coordination",
+          "https://www.digital-finance-msca.com/our-diversity",
+          "https://www.digital-finance-msca.com/our-governance",
+          "https://www.digital-finance-msca.com/our-outputs",
+          "https://www.digital-finance-msca.com/our-partners",
+          "https://www.digital-finance-msca.com/our-people",
+          "https://www.digital-finance-msca.com/partner-new/accesa",
+          "https://www.digital-finance-msca.com/partner-new/american-university-of-sharjah",
+          "https://www.digital-finance-msca.com/partner-new/athena-research-center",
+          "https://www.digital-finance-msca.com/partner-new/babes-bolyai-university",
+          "https://www.digital-finance-msca.com/partner-new/bank-for-international-settlements",
+          "https://www.digital-finance-msca.com/partner-new/bern-university-of-applied-sciences",
+          "https://www.digital-finance-msca.com/partner-new/bifroest-university",
+          "https://www.digital-finance-msca.com/partner-new/bucharest-university-of-economic-studies",
+          "https://www.digital-finance-msca.com/partner-new/cardo-ai",
+          "https://www.digital-finance-msca.com/partner-new/city-university-of-hong-kong",
+          "https://www.digital-finance-msca.com/partner-new/deloitte-consulting",
+          "https://www.digital-finance-msca.com/partner-new/deutsche-bank",
+          "https://www.digital-finance-msca.com/partner-new/deutsche-boerse",
+          "https://www.digital-finance-msca.com/partner-new/european-central-bank",
+          "https://www.digital-finance-msca.com/partner-new/european-institute-for-technology---digital",
+          "https://www.digital-finance-msca.com/partner-new/fraunhofer-institute",
+          "https://www.digital-finance-msca.com/partner-new/g-research",
+          "https://www.digital-finance-msca.com/partner-new/kaunas-university-of-technology",
+          "https://www.digital-finance-msca.com/partner-new/lpa-group",
+          "https://www.digital-finance-msca.com/partner-new/pozna%C5%84-university-of-economics-and-business",
+          "https://www.digital-finance-msca.com/partner-new/quoniam",
+          "https://www.digital-finance-msca.com/partner-new/raiffeisen-bank-international-ag",
+          "https://www.digital-finance-msca.com/partner-new/renmin-university-of-china",
+          "https://www.digital-finance-msca.com/partner-new/royalton-partners",
+          "https://www.digital-finance-msca.com/partner-new/st-kliment-ohridski-university-bitola",
+          "https://www.digital-finance-msca.com/partner-new/sun-yat-sen-university",
+          "https://www.digital-finance-msca.com/partner-new/swedbank-ab",
+          "https://www.digital-finance-msca.com/partner-new/ted-university",
+          "https://www.digital-finance-msca.com/partner-new/university-of-calabria",
+          "https://www.digital-finance-msca.com/partner-new/university-of-coimbra",
+          "https://www.digital-finance-msca.com/partner-new/university-of-kaiserslautern-landau",
+          "https://www.digital-finance-msca.com/partner-new/university-of-milan",
+          "https://www.digital-finance-msca.com/partner-new/university-of-naples-federico-ii",
+          "https://www.digital-finance-msca.com/partner-new/university-of-oradea",
+          "https://www.digital-finance-msca.com/partner-new/university-of-pavia",
+          "https://www.digital-finance-msca.com/partner-new/university-of-prishtina",
+          "https://www.digital-finance-msca.com/partner-new/university-of-tirana",
+          "https://www.digital-finance-msca.com/partner-new/university-of-twente",
+          "https://www.digital-finance-msca.com/partner-new/wu-vienna-university-of-economics-and-business",
+          "https://www.digital-finance-msca.com/partners-area",
+          "https://www.digital-finance-msca.com/people/abhista-abhista",
+          "https://www.digital-finance-msca.com/people/adam-kurpisz",
+          "https://www.digital-finance-msca.com/people/adrian-bojan",
+          "https://www.digital-finance-msca.com/people/adrian-costea",
+          "https://www.digital-finance-msca.com/people/adriana-anamaria-davidescu",
+          "https://www.digital-finance-msca.com/people/adriano-barasal-morales",
+          "https://www.digital-finance-msca.com/people/aidas-malakauskas",
+          "https://www.digital-finance-msca.com/people/alberto-ferrario",
+          "https://www.digital-finance-msca.com/people/albulena-shala",
+          "https://www.digital-finance-msca.com/people/alessandra-tanda",
+          "https://www.digital-finance-msca.com/people/alessio-trivella",
+          "https://www.digital-finance-msca.com/people/alexandra-ioana-conda",
+          "https://www.digital-finance-msca.com/people/alfonso-iodice-d'enza",
+          "https://www.digital-finance-msca.com/people/altin-kadareja",
+          "https://www.digital-finance-msca.com/people/anastas-dzurovski",
+          "https://www.digital-finance-msca.com/people/antonio-pescape",
+          "https://www.digital-finance-msca.com/people/arben-zibri",
+          "https://www.digital-finance-msca.com/people/armin-sadighi",
+          "https://www.digital-finance-msca.com/people/asen-pantov",
+          "https://www.digital-finance-msca.com/people/audrius-kabasinskas",
+          "https://www.digital-finance-msca.com/people/axel-gross-klussmann",
+          "https://www.digital-finance-msca.com/people/barbara-b%C4%99dowska-s%C3%B3jka",
+          "https://www.digital-finance-msca.com/people/beatrice-larisa-dumnici",
+          "https://www.digital-finance-msca.com/people/bettina-grun",
+          "https://www.digital-finance-msca.com/people/bjorn-van-braak",
+          "https://www.digital-finance-msca.com/people/branka-hadji-misheva",
+          "https://www.digital-finance-msca.com/people/bruno-spilak",
+          "https://www.digital-finance-msca.com/people/catalina-chinie",
+          "https://www.digital-finance-msca.com/people/catarina-silva",
+          "https://www.digital-finance-msca.com/people/christian-hopp",
+          "https://www.digital-finance-msca.com/people/christina-kolb",
+          "https://www.digital-finance-msca.com/people/claudia-tarantola",
+          "https://www.digital-finance-msca.com/people/codruta-mare",
+          "https://www.digital-finance-msca.com/people/cristian-mihai-dragos",
+          "https://www.digital-finance-msca.com/people/daniel-braun",
+          "https://www.digital-finance-msca.com/people/daniel-traian-pele",
+          "https://www.digital-finance-msca.com/people/daniela-schackis",
+          "https://www.digital-finance-msca.com/people/david-siang-li-jheng",
+          "https://www.digital-finance-msca.com/people/doina-bucur",
+          "https://www.digital-finance-msca.com/people/domenico-ciuonzo",
+          "https://www.digital-finance-msca.com/people/eimutis-valakevicius",
+          "https://www.digital-finance-msca.com/people/ekaterina-svetlova",
+          "https://www.digital-finance-msca.com/people/filippo-bartoli",
+          "https://www.digital-finance-msca.com/people/fons-wijnhoven",
+          "https://www.digital-finance-msca.com/people/fr%C3%A9d%C3%A9rik-sinan-bernard",
+          "https://www.digital-finance-msca.com/people/francesco-palumbo",
+          "https://www.digital-finance-msca.com/people/franz-xaver-zobl",
+          "https://www.digital-finance-msca.com/people/fulvio-raddi",
+          "https://www.digital-finance-msca.com/people/gabin-taibi",
+          "https://www.digital-finance-msca.com/people/gennaro-di-brino",
+          "https://www.digital-finance-msca.com/people/giorgos-giannopoulos",
+          "https://www.digital-finance-msca.com/people/gokce-nur-yilmaz",
+          "https://www.digital-finance-msca.com/people/hanna-krist%C3%ADn-skaftad%C3%B3ttir-",
+          "https://www.digital-finance-msca.com/people/ioana-coita",
+          "https://www.digital-finance-msca.com/people/ioannis-emiris",
+          "https://www.digital-finance-msca.com/people/ismail-elbouknify",
+          "https://www.digital-finance-msca.com/people/jeffrey-chu",
+          "https://www.digital-finance-msca.com/people/jens-reil",
+          "https://www.digital-finance-msca.com/people/joerg-osterrieder",
+          "https://www.digital-finance-msca.com/people/jorg-wenzel",
+          "https://www.digital-finance-msca.com/people/jos-van-hillegersberg",
+          "https://www.digital-finance-msca.com/people/joschka-hullmann",
+          "https://www.digital-finance-msca.com/people/julian-winkel",
+          "https://www.digital-finance-msca.com/people/julius-kooistra",
+          "https://www.digital-finance-msca.com/people/karolina-weyna",
+          "https://www.digital-finance-msca.com/people/kristina-sutiene",
+          "https://www.digital-finance-msca.com/people/kurt-hornik",
+          "https://www.digital-finance-msca.com/people/kyrylo-medianovskyi",
+          "https://www.digital-finance-msca.com/people/laura-spierdijk",
+          "https://www.digital-finance-msca.com/people/lennart-baals",
+          "https://www.digital-finance-msca.com/people/liana-stanca",
+          "https://www.digital-finance-msca.com/people/lucia-gomez-teijeiro",
+          "https://www.digital-finance-msca.com/people/lukasz-kubicki",
+          "https://www.digital-finance-msca.com/people/mahak-sharma",
+          "https://www.digital-finance-msca.com/people/manuele-massei",
+          "https://www.digital-finance-msca.com/people/marcella-corduas",
+          "https://www.digital-finance-msca.com/people/marcos-machado",
+          "https://www.digital-finance-msca.com/people/maria-iannario",
+          "https://www.digital-finance-msca.com/people/markus-ebner",
+          "https://www.digital-finance-msca.com/people/martijn-mes",
+          "https://www.digital-finance-msca.com/people/matei-mocanu",
+          "https://www.digital-finance-msca.com/people/mathis-jander",
+          "https://www.digital-finance-msca.com/people/matteo-macera-zappavigna",
+          "https://www.digital-finance-msca.com/people/mattia-bellotti",
+          "https://www.digital-finance-msca.com/people/maurizio-di-noia",
+          "https://www.digital-finance-msca.com/people/maximilian-stroh",
+          "https://www.digital-finance-msca.com/people/megang-nkamga-junile-staures",
+          "https://www.digital-finance-msca.com/people/mina-sohrabi-moayd",
+          "https://www.digital-finance-msca.com/people/mohamed-faid",
+          "https://www.digital-finance-msca.com/people/monica-violeta-achim",
+          "https://www.digital-finance-msca.com/people/nerijus-maciulis",
+          "https://www.digital-finance-msca.com/people/nigel-williams",
+          "https://www.digital-finance-msca.com/people/owen-chaffard",
+          "https://www.digital-finance-msca.com/people/patricia-marcella-evite",
+          "https://www.digital-finance-msca.com/people/polina-khrennikova",
+          "https://www.digital-finance-msca.com/people/przemyslaw-bielicki",
+          "https://www.digital-finance-msca.com/people/rahul-tak",
+          "https://www.digital-finance-msca.com/people/ralf-korn",
+          "https://www.digital-finance-msca.com/people/rebecca-di-francesco",
+          "https://www.digital-finance-msca.com/people/renato-rocha-souza",
+          "https://www.digital-finance-msca.com/people/rezarta-perri",
+          "https://www.digital-finance-msca.com/people/robert-buch",
+          "https://www.digital-finance-msca.com/people/robin-effing",
+          "https://www.digital-finance-msca.com/people/roman-bakba",
+          "https://www.digital-finance-msca.com/people/roman-timofeev",
+          "https://www.digital-finance-msca.com/people/ronald-hochreiter",
+          "https://www.digital-finance-msca.com/people/ruben-pop",
+          "https://www.digital-finance-msca.com/people/rubin-haxhiymeri",
+          "https://www.digital-finance-msca.com/people/rui-ren",
+          "https://www.digital-finance-msca.com/people/ruting-wang",
+          "https://www.digital-finance-msca.com/people/sabrina-giordano",
+          "https://www.digital-finance-msca.com/people/salvatore-moccia",
+          "https://www.digital-finance-msca.com/people/sandro-schmid",
+          "https://www.digital-finance-msca.com/people/simon-haller",
+          "https://www.digital-finance-msca.com/people/stefan-gaman",
+          "https://www.digital-finance-msca.com/people/stefan-schlamp",
+          "https://www.digital-finance-msca.com/people/stefan-theussl",
+          "https://www.digital-finance-msca.com/people/stefana-belbe",
+          "https://www.digital-finance-msca.com/people/stefanie-schwaar",
+          "https://www.digital-finance-msca.com/people/stefano-penazzi",
+          "https://www.digital-finance-msca.com/people/stephanie-blum",
+          "https://www.digital-finance-msca.com/people/stephen-chan",
+          "https://www.digital-finance-msca.com/people/stijn-van-der-pol",
+          "https://www.digital-finance-msca.com/people/tadas-gudaitis",
+          "https://www.digital-finance-msca.com/people/theodore-dalamagas",
+          "https://www.digital-finance-msca.com/people/theodoros-mastrokostopoulos",
+          "https://www.digital-finance-msca.com/people/tomina-maria-manci",
+          "https://www.digital-finance-msca.com/people/tuan-trinh",
+          "https://www.digital-finance-msca.com/people/valeri-andreev",
+          "https://www.digital-finance-msca.com/people/vasile-strat",
+          "https://www.digital-finance-msca.com/people/wolfgang-hardle",
+          "https://www.digital-finance-msca.com/people/wouter-van-heeswijk",
+          "https://www.digital-finance-msca.com/people/xiaohong-huang",
+          "https://www.digital-finance-msca.com/people/yiting-liu",
+          "https://www.digital-finance-msca.com/post/boundaries-of-explainable-ai-in-financial-time-series",
+          "https://www.digital-finance-msca.com/post/digital-featured-by-wu-vienna",
+          "https://www.digital-finance-msca.com/post/msca-digital-at-ai-in-financial-markets-research-forum",
+          "https://www.digital-finance-msca.com/post/msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i",
+          "https://www.digital-finance-msca.com/post/professor-härdle-on-fintech-machine-learning-and-the-future-of-economics",
+          "https://www.digital-finance-msca.com/post/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente",
+          "https://www.digital-finance-msca.com/post/research-seminar-ethical-requirements-for-ai-systems",
+          "https://www.digital-finance-msca.com/post/rethinking-reinforcement-learning-in-finance",
+          "https://www.digital-finance-msca.com/pozna%C5%84-university-of-economics-and-business",
+          "https://www.digital-finance-msca.com/predicting-financial-trends",
+          "https://www.digital-finance-msca.com/privacy-policy",
+          "https://www.digital-finance-msca.com/research-projects",
+          "https://www.digital-finance-msca.com/risk-index-for-cryptos",
+          "https://www.digital-finance-msca.com/secondments",
+          "https://www.digital-finance-msca.com/snsf-narrative-digital-finance",
+          "https://www.digital-finance-msca.com/strengthening-european-financial",
+          "https://www.digital-finance-msca.com/training-events/closing-conference",
+          "https://www.digital-finance-msca.com/training-events/digital-finance-industry-event",
+          "https://www.digital-finance-msca.com/training-events/industrial-doctoral-school-on-fintech",
+          "https://www.digital-finance-msca.com/training-events/kickoff-meeting-and-technical-training",
+          "https://www.digital-finance-msca.com/training-events/mid-term-review-event",
+          "https://www.digital-finance-msca.com/training-events/orientation-training-digital-finance",
+          "https://www.digital-finance-msca.com/training-events/regulation-in-digital-finance-workshop",
+          "https://www.digital-finance-msca.com/training-events/training-%26-development-workshop",
+          "https://www.digital-finance-msca.com/training-modules/ai-design-in-digital-finance",
+          "https://www.digital-finance-msca.com/training-modules/anomaly-detection-in-big-data",
+          "https://www.digital-finance-msca.com/training-modules/barriers-in-digital-finance-adoption",
+          "https://www.digital-finance-msca.com/training-modules/blockchains-in-digital-finance",
+          "https://www.digital-finance-msca.com/training-modules/citizen-science",
+          "https://www.digital-finance-msca.com/training-modules/communication-skills",
+          "https://www.digital-finance-msca.com/training-modules/cybersecurity-in-digital-finance",
+          "https://www.digital-finance-msca.com/training-modules/data-centric-ai",
+          "https://www.digital-finance-msca.com/training-modules/deep-learning-for-finance",
+          "https://www.digital-finance-msca.com/training-modules/dependence-structures-in-high-frequency-financial-data",
+          "https://www.digital-finance-msca.com/training-modules/digital-finance-regulation",
+          "https://www.digital-finance-msca.com/training-modules/entrepreneurial-finance",
+          "https://www.digital-finance-msca.com/training-modules/entrepreneurship-training",
+          "https://www.digital-finance-msca.com/training-modules/environmental-aspects",
+          "https://www.digital-finance-msca.com/training-modules/ethics-applicable-to-digital-aspects-",
+          "https://www.digital-finance-msca.com/training-modules/explainable-ai-in-finance",
+          "https://www.digital-finance-msca.com/training-modules/foundation-of-data-science",
+          "https://www.digital-finance-msca.com/training-modules/gender-and-diversity-dimension-in-research",
+          "https://www.digital-finance-msca.com/training-modules/green-digital-finance",
+          "https://www.digital-finance-msca.com/training-modules/he-framework-and-research-project-management",
+          "https://www.digital-finance-msca.com/training-modules/history-and-prospects-of-digital-finance",
+          "https://www.digital-finance-msca.com/training-modules/industrial-doctoral-school-on-fintech",
+          "https://www.digital-finance-msca.com/training-modules/intellectual-property-rights-and-patenting",
+          "https://www.digital-finance-msca.com/training-modules/introduction-to-ai-for-financial-applications",
+          "https://www.digital-finance-msca.com/training-modules/introduction-to-blockchain-applications-in-finance",
+          "https://www.digital-finance-msca.com/training-modules/job-applications",
+          "https://www.digital-finance-msca.com/training-modules/machine-learning-in-industry",
+          "https://www.digital-finance-msca.com/training-modules/multi-criteria-decision-making-in-sustainable-finance",
+          "https://www.digital-finance-msca.com/training-modules/natural-language-processing-with-transformers",
+          "https://www.digital-finance-msca.com/training-modules/open-science-principles",
+          "https://www.digital-finance-msca.com/training-modules/project-management",
+          "https://www.digital-finance-msca.com/training-modules/reinforcement-learning-in-digital-finance",
+          "https://www.digital-finance-msca.com/training-modules/research-ethics-and-sustainable-research-management",
+          "https://www.digital-finance-msca.com/training-modules/scientific-communication",
+          "https://www.digital-finance-msca.com/training-modules/scientific-writing",
+          "https://www.digital-finance-msca.com/training-modules/start-ups-and-industry-transfer",
+          "https://www.digital-finance-msca.com/training-modules/sustainable-finance",
+          "https://www.digital-finance-msca.com/training-modules/synthetic-data-generation-for-finance",
+          "https://www.digital-finance-msca.com/trainings",
+          "https://www.digital-finance-msca.com/ubb-endava",
+          "https://www.digital-finance-msca.com/university-of-naples-federico-ii",
+          "https://www.digital-finance-msca.com/university-of-twente",
+          "https://www.digital-finance-msca.com/work-package-1",
+          "https://www.digital-finance-msca.com/work-package-2",
+          "https://www.digital-finance-msca.com/work-package-3",
+          "https://www.digital-finance-msca.com/work-package-4",
+          "https://www.digital-finance-msca.com/work-package-5",
+          "https://www.digital-finance-msca.com/wp1-financial-data-space",
+          "https://www.digital-finance-msca.com/wp2-ai-financial-markets",
+          "https://www.digital-finance-msca.com/wp3-explainable-fair-ai",
+          "https://www.digital-finance-msca.com/wp4-digital-innovation-blockchain",
+          "https://www.digital-finance-msca.com/wp5-sustainability-digital-finance",
+          "https://www.digital-finance-msca.com/wp9-ethics-digital",
+          "https://www.digital-finance-msca.com/wu-vienna-university-of-economics"
+        ]
+      }
+    },
+    "content_stats": {
+      "total_files": 420,
+      "by_category": {
+        "root_pages": 90,
+        "blog": 23,
+        "blog-categories": 1,
+        "events": 68,
+        "partners": 40,
+        "people": 140,
+        "training-events": 9,
+        "training-modules": 42,
+        "members-area": 7
+      }
+    },
+    "image_stats": {
+      "total_images": 1081,
+      "total_size_bytes": 196304073,
+      "by_category": {
+        "blog": 48,
+        "events": 197,
+        "general": 439,
+        "partners": 130,
+        "people": 267
+      }
+    },
+    "content_quality": {
+      "total_words": 118227,
+      "average_words": 281.49285714285713,
+      "files_with_images": 281,
+      "empty_content": [
+        "partners-area.md",
+        "blog\\_index.md",
+        "blog-categories\\_index.md",
+        "events\\ai-in-financial-markets-research-forum-2.md",
+        "events\\network-event-rb-event-2024-ai-in-financial-markets-research-forum.md",
+        "events\\_index.md",
+        "partners\\_index.md",
+        "people\\_index.md",
+        "training-events\\_index.md",
+        "training-modules\\_index.md"
+      ],
+      "short_content": [
+        "babeș-bolyai-university-bbu.md",
+        "bern-university-of-applied-sciences-bfh.md",
+        "bucharest-university-of-economic-studies-ase.md",
+        "cardo-srl.md",
+        "copy-of-research-topics.md",
+        "digital-finance-research-projects.md",
+        "joerg-osterrieder.md",
+        "kaunas-university-of-technology.md",
+        "media.md",
+        "poznań-university-of-economics-and-business.md",
+        "university-of-naples-federico-ii.md",
+        "university-of-twente.md",
+        "wu-vienna-university-of-economics.md",
+        "events\\1st-arc-training-week.md",
+        "events\\blockchains-in-digital-finance.md",
+        "events\\conference-about-how-great-msca-is.md",
+        "events\\deep-learning-in-finance-1.md",
+        "events\\deep-learning-in-finance.md",
+        "events\\machine-learning-in-industry.md",
+        "events\\msca-midterm-meeting-1.md",
+        "events\\msca-midterm-meeting.md",
+        "events\\msca-training-week-1.md",
+        "events\\msca-training-week-ut.md",
+        "events\\phd-training-school-on-cybersecurity.md",
+        "events\\ssm-annual-research-conference.md",
+        "events\\test-1.md",
+        "events\\test-2.md",
+        "events\\test.md",
+        "events\\test2.md",
+        "events\\wp1-meeting-2024-09-02-19-00-1.md",
+        "events\\wp1-meeting-2024-10-07-19-00-1.md",
+        "partners\\city-university-of-hong-kong.md",
+        "partners\\sun-yat-sen-university.md",
+        "partners\\university-of-milan.md",
+        "people\\alberto-ferrario.md",
+        "people\\antonio-pescape.md",
+        "people\\armin-sadighi.md",
+        "people\\bruno-spilak.md",
+        "people\\francesco-palumbo.md",
+        "people\\franz-xaver-zobl.md",
+        "people\\ioana-coita.md",
+        "people\\kurt-hornik.md",
+        "people\\kyrylo-medianovskyi.md",
+        "people\\marcella-corduas.md",
+        "people\\matei-mocanu.md",
+        "people\\matteo-macera-zappavigna.md",
+        "people\\mattia-bellotti.md",
+        "people\\maurizio-di-noia.md",
+        "people\\meng-jou-lu.md",
+        "people\\nerijus-maciulis.md",
+        "people\\nigel-williams.md",
+        "people\\owen-chaffard.md",
+        "people\\robert-buch.md",
+        "people\\roman-bakba.md",
+        "people\\roman-timofeev.md",
+        "people\\simon-haller.md",
+        "people\\stefan-lessmann.md",
+        "people\\tadas-gudaitis.md",
+        "people\\theodore-dalamagas.md",
+        "people\\theodoros-mastrokostopoulos.md",
+        "people\\tuan-trinh.md",
+        "training-modules\\barriers-in-digital-finance-adoption.md",
+        "training-modules\\blockchains-in-digital-finance.md",
+        "training-modules\\citizen-science.md",
+        "training-modules\\data-centric-ai.md",
+        "training-modules\\environmental-aspects.md",
+        "training-modules\\ethical-dimensions.md",
+        "training-modules\\explainable-ai-in-finance.md",
+        "training-modules\\gender-and-diversity-dimension-in-research.md",
+        "training-modules\\introduction-to-ai-for-financial-applications.md",
+        "training-modules\\open-science-principles.md",
+        "members-area\\b-vanbraak\\events.md",
+        "members-area\\b-vanbraak\\profile.md",
+        "members-area\\brankahm\\events.md",
+        "members-area\\f-s-bernard\\profile.md",
+        "members-area\\stephanie-blum\\events.md",
+        "members-area\\stephanie-blum\\profile.md"
+      ]
+    },
+    "assets": {
+      "pdfs": [
+        "http://chrome-extension//efaidnbmnnnibpcajpcglclefindmkaj/https://www.labstat.it/download/bip24/bip24_applicationsinfinance.pdf",
+        "http://chrome-extension//efaidnbmnnnibpcajpcglclefindmkaj/https://www.labstat.it/download/bip24/bip24_glm_rating.pdf",
+        "http://chrome-extension//efaidnbmnnnibpcajpcglclefindmkaj/https://www.labstat.it/download/bip24/bip24_paneldata.pdf",
+        "https://1cd49e04-ed04-491d-b5d0-eb14515c68df.usrfiles.com/ugd/1cd49e_2948fbecfcac45e692e7bbe3120b30ef.pdf",
+        "https://1cd49e04-ed04-491d-b5d0-eb14515c68df.usrfiles.com/ugd/1cd49e_39fe5d427b554a93a8421c2ea3f18b92.pdf",
+        "https://1cd49e04-ed04-491d-b5d0-eb14515c68df.usrfiles.com/ugd/1cd49e_45650f46a19042e59fabc78942514a7d.pdf",
+        "https://1cd49e04-ed04-491d-b5d0-eb14515c68df.usrfiles.com/ugd/1cd49e_6aee0022bbfd40649dc9e6f7e2c5dac7.pdf",
+        "https://1cd49e04-ed04-491d-b5d0-eb14515c68df.usrfiles.com/ugd/1cd49e_6fbb765158dc4ed9b031581b4e206b33.pdf",
+        "https://1cd49e04-ed04-491d-b5d0-eb14515c68df.usrfiles.com/ugd/1cd49e_72fb911408734211bce3086c179d4c0d.pdf",
+        "https://1cd49e04-ed04-491d-b5d0-eb14515c68df.usrfiles.com/ugd/1cd49e_77ff4235928d4624a9be42100b91cbbc.pdf",
+        "https://1cd49e04-ed04-491d-b5d0-eb14515c68df.usrfiles.com/ugd/1cd49e_8063fd3e56c8492886d497e14f05dcd9.pdf",
+        "https://1cd49e04-ed04-491d-b5d0-eb14515c68df.usrfiles.com/ugd/1cd49e_812e4fc61bbb43bfa4170a1acd10e257.pdf",
+        "https://1cd49e04-ed04-491d-b5d0-eb14515c68df.usrfiles.com/ugd/1cd49e_8312d642ee82420891ee195855d08ddb.pdf",
+        "https://1cd49e04-ed04-491d-b5d0-eb14515c68df.usrfiles.com/ugd/1cd49e_8750078f907446a7a110a48198128718.pdf",
+        "https://1cd49e04-ed04-491d-b5d0-eb14515c68df.usrfiles.com/ugd/1cd49e_9066c828b8b94a06a01632ce781c0ebf.pdf",
+        "https://1cd49e04-ed04-491d-b5d0-eb14515c68df.usrfiles.com/ugd/1cd49e_a1293191d6db4603985c4f1a6ff25836.pdf",
+        "https://1cd49e04-ed04-491d-b5d0-eb14515c68df.usrfiles.com/ugd/1cd49e_aed4246febe4495cb0983a128af14dd5.pdf",
+        "https://1cd49e04-ed04-491d-b5d0-eb14515c68df.usrfiles.com/ugd/1cd49e_bb7f55938a8949e584e3bcacd4cee27b.pdf",
+        "https://1cd49e04-ed04-491d-b5d0-eb14515c68df.usrfiles.com/ugd/1cd49e_c5386b0b3dab4e3da218d4d89e1c310a.pdf",
+        "https://1cd49e04-ed04-491d-b5d0-eb14515c68df.usrfiles.com/ugd/1cd49e_e2839059bd894263bf5d38233a9ed6af.pdf",
+        "https://1cd49e04-ed04-491d-b5d0-eb14515c68df.usrfiles.com/ugd/1cd49e_f4c144904e0243f7a10e9df7d5bffa02.pdf",
+        "https://1cd49e04-ed04-491d-b5d0-eb14515c68df.usrfiles.com/ugd/1cd49e_fa9bd72382c44f3b9fbeb75b354c8ffc.pdf",
+        "https://1cd49e04-ed04-491d-b5d0-eb14515c68df.usrfiles.com/ugd/1cd49e_fe36cf360f8c4629b6c5bdfc42370cb5.pdf",
+        "https://4bb5b148-cdae-4dc5-88ee-d85a708928b1.usrfiles.com/ugd/4bb5b1_11c266affe76411da58e4847092d6a9e.pdf",
+        "https://4bb5b148-cdae-4dc5-88ee-d85a708928b1.usrfiles.com/ugd/4bb5b1_1619a4d52871441cbe7896d190eb2eda.pdf",
+        "https://4bb5b148-cdae-4dc5-88ee-d85a708928b1.usrfiles.com/ugd/4bb5b1_3ea5a0b0481e45fa9234a0f953429ba5.pdf",
+        "https://4bb5b148-cdae-4dc5-88ee-d85a708928b1.usrfiles.com/ugd/4bb5b1_5b0dff28297043ca935aaaff7d89ffde.pdf",
+        "https://4bb5b148-cdae-4dc5-88ee-d85a708928b1.usrfiles.com/ugd/4bb5b1_5d784817533449c289c3a42f512e0fd4.pdf",
+        "https://4bb5b148-cdae-4dc5-88ee-d85a708928b1.usrfiles.com/ugd/4bb5b1_6101983d6c38417b95ac3fba0f8b4e01.pdf",
+        "https://4bb5b148-cdae-4dc5-88ee-d85a708928b1.usrfiles.com/ugd/4bb5b1_7eadc5a9d04c403abd329b61ef0cf68b.pdf",
+        "https://4bb5b148-cdae-4dc5-88ee-d85a708928b1.usrfiles.com/ugd/4bb5b1_8be753cf7bca4c1e8ab8a4e0590488ec.pdf",
+        "https://4bb5b148-cdae-4dc5-88ee-d85a708928b1.usrfiles.com/ugd/4bb5b1_eefbc24b388849d1b35a797b812779f7.pdf",
+        "https://4bb5b148-cdae-4dc5-88ee-d85a708928b1.usrfiles.com/ugd/4bb5b1_efd817689a9e492dbcd3c6265e5ddebd.pdf",
+        "https://58ddb09d-9ef6-4409-96c0-de27b860158c.usrfiles.com/ugd/58ddb0_4723ec3613aa444bb6de13a11c0efa8f.pdf",
+        "https://cardoai.com/wp-content/uploads/2024/03/Gender-Equality-Plan-GEP-for-Cardo-AI-March-2024.pdf",
+        "https://d826e4cd-c8f5-4a33-8796-53db3c44a7be.usrfiles.com/ugd/d826e4_105ff4ec7b2144d295587e1702d3a299.pdf",
+        "https://d826e4cd-c8f5-4a33-8796-53db3c44a7be.usrfiles.com/ugd/d826e4_1dc30b64985d4fab9fa51179e938c6ff.pdf",
+        "https://d826e4cd-c8f5-4a33-8796-53db3c44a7be.usrfiles.com/ugd/d826e4_1ea50c5078b64060b6b80f87329411eb.pdf",
+        "https://d826e4cd-c8f5-4a33-8796-53db3c44a7be.usrfiles.com/ugd/d826e4_5695ed4d38684d8eb28c06f47af59bff.pdf",
+        "https://d826e4cd-c8f5-4a33-8796-53db3c44a7be.usrfiles.com/ugd/d826e4_b76941f4560040b4a9d2269f0b6f9462.pdf",
+        "https://d826e4cd-c8f5-4a33-8796-53db3c44a7be.usrfiles.com/ugd/d826e4_b7e8e22d7d954a33af101f6c28f90527.pdf",
+        "https://d826e4cd-c8f5-4a33-8796-53db3c44a7be.usrfiles.com/ugd/d826e4_e879d6bd4678461caf65365a4cddfd91.pdf",
+        "https://d826e4cd-c8f5-4a33-8796-53db3c44a7be.usrfiles.com/ugd/d826e4_efd19174a87748a3ba4a439d0a9ab126.pdf",
+        "https://d826e4cd-c8f5-4a33-8796-53db3c44a7be.usrfiles.com/ugd/d826e4_f55184bcd6e64233adca687b208a3665.pdf",
+        "https://d826e4cd-c8f5-4a33-8796-53db3c44a7be.usrfiles.com/ugd/d826e4_f5ade505c31a4f5c8430b02e0f4ef3d6.pdf",
+        "https://eit.europa.eu/sites/default/files/eit_policy_on_gender_mainstreaming.pdf",
+        "https://equal-ist.eu/eq-uploads/2017/01/EQUAL-IST-GEP-Sustainability-plan-_KTU.pdf",
+        "https://ugc.production.linktr.ee/1da34c93-441b-47b6-b682-fb10de4efb9a_Designing-and-running-a-sample-survey.pdf",
+        "https://universiteittwente.sharepoint.com/:b:/r/sites/MSCADigitalFinance2/Gedeelde%20documenten/WP6%20Doctoral%20Training/Course%20materials/MSCA_DF_01%20Kickoff_Technical_Training/A4%20-%20MTM%20Folder%20Materials.pdf?csf=1&web=1&e=5Oq2E7",
+        "https://www.athenarc.gr/sites/default/files/gender_plan_athena_rc.pdf",
+        "https://www.desca-agreement.eu/assets/helmholtz_gemeinschaft/user_upload/Brussels_Office/DESCA/20240206_DESCA_HorizonEurope_v.2.0_with_elucidations.pdf",
+        "https://www.digital-finance-msca.com/_files/ugd/1cd49e_093509240fef4f3ca50199f049499f94.pdf",
+        "https://www.digital-finance-msca.com/_files/ugd/1cd49e_1645bb9699fe47bfb8b4ebb41d7e3e1a.pdf",
+        "https://www.digital-finance-msca.com/_files/ugd/1cd49e_2be608919a684b98a418f5b8423de1f4.pdf",
+        "https://www.digital-finance-msca.com/_files/ugd/1cd49e_319b96a2fd42439aa2b35ba287d1b909.pdf",
+        "https://www.digital-finance-msca.com/_files/ugd/1cd49e_3955233b19e34052ba3d62ee9ca82555.pdf",
+        "https://www.digital-finance-msca.com/_files/ugd/1cd49e_3b35024db41a4b3794dff79eec380f4f.pdf",
+        "https://www.digital-finance-msca.com/_files/ugd/1cd49e_3c71e620c3484302a29b870cd9e64dcf.pdf",
+        "https://www.digital-finance-msca.com/_files/ugd/1cd49e_3ec98d8383694b7884f7e7490381c061.pdf",
+        "https://www.digital-finance-msca.com/_files/ugd/1cd49e_3f054d90691841f5bc39b2a8bbf015c5.pdf",
+        "https://www.digital-finance-msca.com/_files/ugd/1cd49e_3f80db36785f490a9f29c5a3a36c75d0.pdf",
+        "https://www.digital-finance-msca.com/_files/ugd/1cd49e_46ab3c5648464d56911c1612c6a71060.pdf",
+        "https://www.digital-finance-msca.com/_files/ugd/1cd49e_48c174e919ac4561bfbb2bda500d9068.pdf",
+        "https://www.digital-finance-msca.com/_files/ugd/1cd49e_4cb9c038a4c34be7ae0b6d319b73f82c.pdf",
+        "https://www.digital-finance-msca.com/_files/ugd/1cd49e_63aee23ddeb64993b479f2b728d96da7.pdf",
+        "https://www.digital-finance-msca.com/_files/ugd/1cd49e_649914a9e954466eae00f24311ae3c32.pdf",
+        "https://www.digital-finance-msca.com/_files/ugd/1cd49e_6a4f4c9548b14de6bb2b5df552c1f561.pdf",
+        "https://www.digital-finance-msca.com/_files/ugd/1cd49e_7d4b46a7fdb640368e3165d6a54837ef.pdf",
+        "https://www.digital-finance-msca.com/_files/ugd/1cd49e_8f074873206e4c6eb22e98bbec67d953.pdf",
+        "https://www.digital-finance-msca.com/_files/ugd/1cd49e_8f71489750624e84a0d99e7eacee31c0.pdf",
+        "https://www.digital-finance-msca.com/_files/ugd/1cd49e_9093907a114c431ba9752c7568461c06.pdf",
+        "https://www.digital-finance-msca.com/_files/ugd/1cd49e_94fd39d6ca714a70912ed02b4a897918.pdf",
+        "https://www.digital-finance-msca.com/_files/ugd/1cd49e_9893640b3f4349d6b812a216bb2b8f8e.pdf",
+        "https://www.digital-finance-msca.com/_files/ugd/1cd49e_a1d519e2e2254de6ae710e1cd07df931.pdf",
+        "https://www.digital-finance-msca.com/_files/ugd/1cd49e_a662183a811249459849d9a2c65c0946.pdf",
+        "https://www.digital-finance-msca.com/_files/ugd/1cd49e_bf73569ec38647dba485c07b77bbe8d7.pdf",
+        "https://www.digital-finance-msca.com/_files/ugd/1cd49e_c6afe2cbc1ba4bf195c0d792b717a36a.pdf",
+        "https://www.digital-finance-msca.com/_files/ugd/1cd49e_d758ced9492348a8bace696943d2bcad.pdf",
+        "https://www.digital-finance-msca.com/_files/ugd/1cd49e_e637efe2092940b681933de6d4815d6f.pdf",
+        "https://www.digital-finance-msca.com/_files/ugd/1cd49e_eaae78752caa4d649c9ccd485566abae.pdf",
+        "https://www.digital-finance-msca.com/_files/ugd/1cd49e_edfae5e6b0f944ac93b84f4e4c0569f9.pdf",
+        "https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf",
+        "https://www.labstat.it/download/bip24/bip24_AI_Fintech.pdf",
+        "https://www.labstat.it/download/bip24/bip24_applicationsinfinance.pdf",
+        "https://www.labstat.it/download/bip24/bip24_dataintegration.pdf",
+        "https://www.labstat.it/download/bip24/bip24_dimension_reduction_clustering.pdf",
+        "https://www.labstat.it/download/bip24/bip24_glm_rating.pdf",
+        "https://www.labstat.it/download/bip24/bip24_hybridapproach.pdf",
+        "https://www.labstat.it/download/bip24/bip24_latentvariable.pdf",
+        "https://www.labstat.it/download/bip24/bip24_paneldata.pdf",
+        "https://www.ubbcluj.ro/en/despre/organizare/files/EN_Ghid_egalitate_de_gen.pdf",
+        "https://www.unina.it/documents/11958/28410551/GEP_Ateneo_2022-2024_english.pdf",
+        "https://www.utwente.nl/download/campusmap.pdf",
+        "https://www.utwente.nl/en/organisation/about/diversity/211128-gep.pdf"
+      ],
+      "documents": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/report/data-management-plan_he_en.docx",
+        "https://universiteittwente.sharepoint.com/:w:/r/sites/MSCADIGITAL/Gedeelde%20documenten/MSCA%20Coordination/Continuous%20Reporting/Midterm%20Meeting/HE-MSCA-DN_midterm_meeting_COO_guidelines.docx?d=w00b7d028b12b4cda95fe3b7bce51f24d&csf=1&web=1&e=EmNYkQ",
+        "https://universiteittwente.sharepoint.com/:w:/r/sites/MSCADigitalFinance2/Gedeelde%20documenten/WP7%20Dissemination%20Exploitation%20and%20Communication/Admin/Deliverables%20Reporting/29022024_MSCA_WP7_D7.2.Deliverable%20Report.docx?d=wfe2da43cd8ce467ca8d1a33268221aac&csf=1&web=1&e=JwxU58",
+        "https://universiteittwente.sharepoint.com/:w:/r/sites/MSCADigitalFinance2/Gedeelde%20documenten/WP7%20Dissemination%20Exploitation%20and%20Communication/Admin/Deliverables%20Reporting/29022024_MSCA_WP7_D7.3.Deliverable%20Report%20.docx?d=w9f07ed89f52548c3b7aea89ae9f23e88&csf=1&web=1&e=jcPUsF",
+        "https://universiteittwente.sharepoint.com/:w:/r/sites/MSCADigitalFinance2/Gedeelde%20documenten/WP7%20Dissemination%20Exploitation%20and%20Communication/Guidlines%20new%20MSCA%20event%20specfic%20page%20and%20Meetup.docx?d=wf279305895e94ac49fba488b3008f4de&csf=1&web=1&e=ZCSjC5",
+        "https://universiteittwente.sharepoint.com/:w:/r/sites/MSCADigitalFinance2/Gedeelde%20documenten/WP7%20Dissemination%20Exploitation%20and%20Communication/Newsletters/MSCA%20Newsletter%202024.08.docx?d=w4079b85d99a34940a53468c19d06a587&csf=1&web=1&e=vFhBns",
+        "https://universiteittwente.sharepoint.com/:w:/r/sites/MSCADigitalFinance2/Gedeelde%20documenten/WP7%20Dissemination%20Exploitation%20and%20Communication/Newsletters/MSCA%20Newsletter%20202407.docx?d=wdcdfe231d52d415fa61bc554f88ce2fc&csf=1&web=1&e=PaLkfr",
+        "https://universiteittwente.sharepoint.com/:w:/r/sites/MSCADigitalFinance2/Gedeelde%20documenten/WP8%20Project%20Management/Continuous%20reporting/Deliverables/29082024_MSCA_WP7_D9.1.OEI%20Requirement%20No1.docx?d=w69107af3a5c54baf978aa8dfe81c099c&csf=1&web=1&e=WorQRP",
+        "https://universiteittwente.sharepoint.com/:w:/r/sites/MSCADigitalFinance2/Gedeelde%20documenten/WP8%20Project%20Management/Continuous%20reporting/Deliverables/D8.5%20Supervisory%20Board%20and%20Way%20of%20Working/Supervisory%20Board%20and%20Way%20of%20Working.docx?d=w0bf5c794914842c9bb1450e56bfd3683&csf=1&web=1&e=O1Drm1",
+        "https://universiteittwente.sharepoint.com/:x:/r/sites/MSCADigitalFinance2/Gedeelde%20documenten/WP6%20Doctoral%20Training/Course%20overview%20and%20schedule/Training%20calendar.xlsx?d=w2f66be98d37b4fe0b8b79b6d3fa3c9f4&csf=1&web=1&e=EmASJc&nav=MTVfezk2MTRDNDM2LTE2MzItNDdCQy1CQkQwLTk3MDRDQUQ0QUQwQX0",
+        "https://universiteittwente.sharepoint.com/:x:/r/sites/MSCADigitalFinance2/Gedeelde%20documenten/WP8%20Project%20Management/Continuous%20reporting/MSCA%20DIGITAL%20Continuous%20Reporting.xlsx?d=w45bf26c4c716410d9fcf90d688408bef&csf=1&web=1&e=8YXZD1&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0",
+        "https://universiteittwente.sharepoint.com/:x:/r/sites/MSCADigitalFinance2/Gedeelde%20documenten/WP8%20Project%20Management/Continuous%20reporting/MSCA%20DIGITAL%20Continuous%20Reporting.xlsx?d=w45bf26c4c716410d9fcf90d688408bef&csf=1&web=1&e=AlneoS&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wNjAwLTAwMDAwMDAwMDAwMH0",
+        "https://universiteittwente.sharepoint.com/:x:/r/sites/MSCADigitalFinance2/Gedeelde%20documenten/WP8%20Project%20Management/Continuous%20reporting/MSCA%20DIGITAL%20Continuous%20Reporting.xlsx?d=w45bf26c4c716410d9fcf90d688408bef&csf=1&web=1&e=ERR3Nr&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wOTAwLTAwMDAwMDAwMDAwMH0",
+        "https://universiteittwente.sharepoint.com/:x:/r/sites/MSCADigitalFinance2/Gedeelde%20documenten/WP8%20Project%20Management/Continuous%20reporting/MSCA%20DIGITAL%20Continuous%20Reporting.xlsx?d=w45bf26c4c716410d9fcf90d688408bef&csf=1&web=1&e=mkCFEN&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wODAwLTAwMDAwMDAwMDAwMH0",
+        "https://universiteittwente.sharepoint.com/:x:/r/sites/MSCADigitalFinance2/Gedeelde%20documenten/WP8%20Project%20Management/Continuous%20reporting/MSCA%20DIGITAL%20Continuous%20Reporting.xlsx?d=w45bf26c4c716410d9fcf90d688408bef&csf=1&web=1&e=s9NV7a&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wNDAwLTAwMDAwMDAwMDAwMH0",
+        "https://universiteittwente.sharepoint.com/:x:/r/sites/MSCADigitalFinance2/Gedeelde%20documenten/WP8%20Project%20Management/Continuous%20reporting/MSCA%20DIGITAL%20Continuous%20Reporting.xlsx?d=w45bf26c4c716410d9fcf90d688408bef&csf=1&web=1&e=xPaE1b&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMzAwLTAwMDAwMDAwMDAwMH0",
+        "https://www.digital-finance-msca.com/_files/ugd/1cd49e_b384c0327b4946cb9cfbf57935c6f085.pptx?dn=2023.12.30%20MSCA%20Digital%20Finance%20Overview.pptx"
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=J7QBuZHC23k&t=10634s"
+      ],
+      "external_links": [
+        "http://Eur.nl",
+        "http://JADS.nl",
+        "http://advicerobo.com/about/",
+        "http://blockchain-research-center.com",
+        "http://cfda.csie.org/~cjwang/",
+        "http://dx.doi.org/10.2139/ssrn.4733153](https://dx.doi.org/10.2139/ssrn.4733153",
+        "http://f.s.bernard@utwente.nl",
+        "http://fin-ai.eu",
+        "http://frm.wiwi.hu-berlin.de/",
+        "http://inkedin.com/in/ismail-elbouknify-64722b194/",
+        "http://quantinar.com",
+        "http://quantlet.com",
+        "http://quantlet.com/",
+        "http://scholar.google.com/citations?user=NdGSq4EAAAAJ",
+        "http://scholar.google.com/citations?user=NdGSq4EAAAAJ_](http://scholar.google.com/citations?user=NdGSq4EAAAAJ",
+        "http://www.cmstatistics.org/EcoSta2022/",
+        "http://www.cost.eu",
+        "http://www.international.unina.it/phd-courses/",
+        "http://www.linkedin.com/in/asen-pantov",
+        "http://www.linkedin.com/in/dr-maria-moloney-7172449",
+        "http://www.linkedin.com/in/gokce-nur-yilmaz-5658181a",
+        "http://www.linkedin.com/in/kristina-sutiene",
+        "http://www.linkedin.com/in/kristina-sutiene_](http://www.linkedin.com/in/kristina-sutiene",
+        "http://www.linkedin.com/in/manuele-massei-b914b2215",
+        "http://www.linkedin.com/in/rebecca-di-francesco",
+        "http://www.linkedin.com/in/ronaldhochreiter",
+        "http://www.linkedin.com/in/ronaldhochreiter_](http://www.linkedin.com/in/ronaldhochreiter",
+        "https://admissions.ktu.edu/programme/d-mathematics/",
+        "https://ai.msca.digital/msca-phd-irp-1.html",
+        "https://ai.msca.digital/msca-phd-irp-12.html",
+        "https://arxiv.org/abs/1705.07874",
+        "https://ase.zoom.us/j/84350805723?pwd=qoaiN",
+        "https://ase.zoom.us/j/84350805723?pwd=qoaiNnbVKQEF8T1jCLDme8BmbGXplw.1",
+        "https://ase.zoom.us/j/84350805723?pwd=qoaiNnbVKQEF8T1jCLDme8BmbGXplw.1](https://ase.zoom.us/j/84350805723?pwd=qoaiNnbVKQEF8T1jCLDme8BmbGXplw.1",
+        "https://autoriteitpersoonsgegevens.nl",
+        "https://barunik.github.io/Prague2023/blog/call-for-papers",
+        "https://blockchain-research-center.com/",
+        "https://bschool.sysu.edu.cn/en/faculty/1416966.htm",
+        "https://bschool.sysu.edu.cn/en/faculty/1416966.htm_](https://bschool.sysu.edu.cn/en/faculty/1416966.htm",
+        "https://cardoai.careers.hibob.com/jobs/77b858f2-49f0-48f0-84fc-5f9c437d7473",
+        "https://cardoai.com/job-post/individual-research-project-deep-generation-of-financial-time-series/",
+        "https://cardoai.com/job-post/individual-research-project-grouped-time-series-forecasting-in-private-debt-markets/",
+        "https://cercetare.ubbcluj.ro/ro/proiect-pfe-550-ubb-%CB%9Dreteaua-academica-de-cercetare-de-excelenta-star-ubb-star-ubb-n%CB%9D/",
+        "https://cercetare.ubbcluj.ro/ro/proiect-pfe-550-ubb-%cb%9dreteaua-academica-de-cercetare-de-excelenta-star-ubb-star-ubb-n%cb%9d/](https://cercetare.ubbcluj.ro/ro/proiect-pfe-550-ubb-%CB%9Dreteaua-academica-de-cercetare-de-excelenta-star-ubb-star-ubb-n%CB%9D/",
+        "https://cfe.columbia.edu/events/7th-annual-bloomberg-columbia-machine-learning-finance-workshop-2021",
+        "https://ch.linkedin.com/in/lennart-john-baals-a621aa193",
+        "https://ch.linkedin.com/in/lennart-john-baals-a621aa193_](https://ch.linkedin.com/in/lennart-john-baals-a621aa193",
+        "https://commons.wikimedia.org/w/index.php?curid=33297828",
+        "https://commons.wikimedia.org/w/index.php?curid=33297828_](https://commons.wikimedia.org/w/index.php?curid=33297828",
+        "https://commons.wikimedia.org/w/index.php?curid=82622794",
+        "https://commons.wikimedia.org/w/index.php?curid=82622794_](https://commons.wikimedia.org/w/index.php?curid=82622794",
+        "https://conference.fin-ai.eu/AI-Conference-in-Finance/",
+        "https://conference.fin-ai.eu/PhD-School-Fintech-and-AI-in-Finance/",
+        "https://conference.fin-ai.eu/azores_2023/",
+        "https://cordis.europa.eu/project/id/101119635/results",
+        "https://creativecommons.org/share-your-work/cclicenses/",
+        "https://docs.google.com/forms/d/e/1FAIpQLSdjfabZ89Fbu-j7u_Q2EITqeK4I2vSz8VvxK3bxcT32ow5jNw/viewform",
+        "https://docs.google.com/spreadsheets/d/15-jO8OcJD23vqMZszVllKRHvKIRak83_/edit?gid=898920602#gid=898920602",
+        "https://docs.google.com/spreadsheets/d/1VciplTaQtZwHJFyBLwbxrG42yIaAH-9vRkr-KO_Jw-M/edit?gid=1513297494#gid=1513297494&range=M5",
+        "https://docs.google.com/spreadsheets/d/1VciplTaQtZwHJFyBLwbxrG42yIaAH-9vRkr-KO_Jw-M/edit?gid=1763980076#gid=1763980076&range=M4",
+        "https://docs.google.com/spreadsheets/d/1VciplTaQtZwHJFyBLwbxrG42yIaAH-9vRkr-KO_Jw-M/edit?gid=1763980076#gid=1763980076&range=M5",
+        "https://docs.google.com/spreadsheets/d/1VciplTaQtZwHJFyBLwbxrG42yIaAH-9vRkr-KO_Jw-M/edit?gid=1920746804#gid=1920746804&range=M5",
+        "https://docs.google.com/spreadsheets/d/1VciplTaQtZwHJFyBLwbxrG42yIaAH-9vRkr-KO_Jw-M/edit?gid=1995545210#gid=1995545210&range=M5",
+        "https://docs.google.com/spreadsheets/d/1VciplTaQtZwHJFyBLwbxrG42yIaAH-9vRkr-KO_Jw-M/edit?gid=2086332399#gid=2086332399&range=M4",
+        "https://docs.google.com/spreadsheets/d/1VciplTaQtZwHJFyBLwbxrG42yIaAH-9vRkr-KO_Jw-M/edit?gid=2086332399#gid=2086332399&range=M5",
+        "https://docs.google.com/spreadsheets/d/1VciplTaQtZwHJFyBLwbxrG42yIaAH-9vRkr-KO_Jw-M/edit?gid=384887239#gid=384887239&range=M4",
+        "https://docs.google.com/spreadsheets/d/1VciplTaQtZwHJFyBLwbxrG42yIaAH-9vRkr-KO_Jw-M/edit?gid=384887239#gid=384887239&range=M5",
+        "https://docs.google.com/spreadsheets/d/1VciplTaQtZwHJFyBLwbxrG42yIaAH-9vRkr-KO_Jw-M/edit?gid=555872999#gid=555872999&range=M4",
+        "https://docs.google.com/spreadsheets/d/1VciplTaQtZwHJFyBLwbxrG42yIaAH-9vRkr-KO_Jw-M/edit?gid=555872999#gid=555872999&range=M5",
+        "https://docs.google.com/spreadsheets/d/1VciplTaQtZwHJFyBLwbxrG42yIaAH-9vRkr-KO_Jw-M/edit?gid=640929969#gid=640929969&range=M4",
+        "https://docs.google.com/spreadsheets/d/1VciplTaQtZwHJFyBLwbxrG42yIaAH-9vRkr-KO_Jw-M/edit?gid=640929969#gid=640929969&range=M5",
+        "https://docs.google.com/spreadsheets/d/1VciplTaQtZwHJFyBLwbxrG42yIaAH-9vRkr-KO_Jw-M/edit?gid=678387904#gid=678387904&range=M4",
+        "https://docs.google.com/spreadsheets/d/1VciplTaQtZwHJFyBLwbxrG42yIaAH-9vRkr-KO_Jw-M/edit?gid=678387904#gid=678387904&range=M5",
+        "https://doi.org/10.12688/openreseurope.16278.1",
+        "https://dx.doi.org/10.2139/ssrn.4733153",
+        "https://ec.europa.eu/research/participants/grants/101119635?ticket=ST-20098424-G1zMHal4T35tyyeii2SqmbHcUaFx4VnXFzsLL8VvBo3vUXllgyHnFULwSo2EbF61c3lThddS1oTRp4GkV8MjZt-rS0vSrmBGYCyjHoguTC67q-ITQqzk22OKPLH9qLZYzS3ZS6MdVzO2yqqaUXvonKWdIdu2VBhIhhiHzJ08iEYqJzUitJRMV3zmCYlEHrCfU6WXa0#!/processes",
+        "https://econ-ubbcluj-ro.zoom.us/j/81658602430",
+        "https://egedi.ase.ro/?p=157",
+        "https://eosc.eu/oa3-fair-assessment-alignment/",
+        "https://ercolano.beniculturali.it/",
+        "https://ethz.ch/en/the-eth-zurich/global/eth-global-news-events/2023/07/2023-call-for-research-partnership-grants.html",
+        "https://ethz.ch/en/the-eth-zurich/global/eth-global-news-events/2023/11/2023-call-for-applied-research-partnership-grants.html",
+        "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0695",
+        "https://euraxess.ec.europa.eu/jobs/178873",
+        "https://euraxess.ec.europa.eu/jobs/179288",
+        "https://euraxess.ec.europa.eu/jobs/234808",
+        "https://euraxess.ec.europa.eu/jobs/234811",
+        "https://eurogoos.eu/locations/european-commission-charlemagne-building/",
+        "https://fin-ai.eu/",
+        "https://fin-ai.eu/affine/",
+        "https://fin-ai.eu/best-wi-fi-2024/",
+        "https://fin-ai.eu/womeninfintech2023/",
+        "https://fin-ai.eu/womeninfintech2024/",
+        "https://forms.cloud.microsoft/e/ufjrkei66L",
+        "https://forms.cloud.microsoft/e/ufjrkei66L_](https://forms.cloud.microsoft/e/ufjrkei66L",
+        "https://forms.gle/SgefUkLDGmkfkc2x9",
+        "https://forms.gle/X68w2hrLRAYwu7m29",
+        "https://forms.office.com/e/CZwzEQ55Ex",
+        "https://forms.office.com/e/uZX4BPaLa6",
+        "https://github.com/MSCA-DN-Digital-Finance"
+      ]
+    },
+    "links": {
+      "fixed": 2442,
+      "broken": 502,
+      "broken_summary": {
+        "broken_images": [],
+        "broken_pages": [
+          {
+            "file": "a-recommender-system.md",
+            "url": "https://www.digital-finance-msca.com/_files/ugd/1cd49e_edfae5e6b0f944ac93b84f4e4c0569f9.pdf"
+          },
+          {
+            "file": "about-us.md",
+            "url": "https://www.digital-finance-msca.com"
+          },
+          {
+            "file": "applications-of-agent-based-models.md",
+            "url": "https://www.digital-finance-msca.com/_files/ugd/1cd49e_bf73569ec38647dba485c07b77bbe8d7.pdf"
+          },
+          {
+            "file": "audience-dependent-explanations.md",
+            "url": "https://www.digital-finance-msca.com/_files/ugd/1cd49e_eaae78752caa4d649c9ccd485566abae.pdf"
+          },
+          {
+            "file": "blog-categories-wp1.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp1"
+          },
+          {
+            "file": "blog-categories-wp1.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp2"
+          },
+          {
+            "file": "blog-categories-wp1.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp3"
+          },
+          {
+            "file": "blog-categories-wp1.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp4"
+          },
+          {
+            "file": "blog-categories-wp1.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp5"
+          },
+          {
+            "file": "blog-categories-wp2.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp1"
+          },
+          {
+            "file": "blog-categories-wp2.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp2"
+          },
+          {
+            "file": "blog-categories-wp2.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp3"
+          },
+          {
+            "file": "blog-categories-wp2.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp4"
+          },
+          {
+            "file": "blog-categories-wp2.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp5"
+          },
+          {
+            "file": "blog-categories-wp3.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp1"
+          },
+          {
+            "file": "blog-categories-wp3.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp2"
+          },
+          {
+            "file": "blog-categories-wp3.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp3"
+          },
+          {
+            "file": "blog-categories-wp3.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp4"
+          },
+          {
+            "file": "blog-categories-wp3.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp5"
+          },
+          {
+            "file": "blog-categories-wp4.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp1"
+          },
+          {
+            "file": "blog-categories-wp4.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp2"
+          },
+          {
+            "file": "blog-categories-wp4.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp3"
+          },
+          {
+            "file": "blog-categories-wp4.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp4"
+          },
+          {
+            "file": "blog-categories-wp4.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp5"
+          },
+          {
+            "file": "blog-categories-wp5.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp1"
+          },
+          {
+            "file": "blog-categories-wp5.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp2"
+          },
+          {
+            "file": "blog-categories-wp5.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp3"
+          },
+          {
+            "file": "blog-categories-wp5.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp4"
+          },
+          {
+            "file": "blog-categories-wp5.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp5"
+          },
+          {
+            "file": "blog.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp1"
+          },
+          {
+            "file": "blog.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp2"
+          },
+          {
+            "file": "blog.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp3"
+          },
+          {
+            "file": "blog.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp4"
+          },
+          {
+            "file": "blog.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp5"
+          },
+          {
+            "file": "challenges-and-opportunities.md",
+            "url": "https://www.digital-finance-msca.com/_files/ugd/1cd49e_c6afe2cbc1ba4bf195c0d792b717a36a.pdf"
+          },
+          {
+            "file": "collaborations-within-the-network.md",
+            "url": "https://www.digital-finance-msca.com"
+          },
+          {
+            "file": "collaborative-learning-across-data-silos.md",
+            "url": "https://www.digital-finance-msca.com/_files/ugd/1cd49e_3955233b19e34052ba3d62ee9ca82555.pdf"
+          },
+          {
+            "file": "contact-us.md",
+            "url": "https://www.digital-finance-msca.com/_files/ugd/1cd49e_8f71489750624e84a0d99e7eacee31c0.pdf"
+          },
+          {
+            "file": "contact-us.md",
+            "url": "https://www.digital-finance-msca.com/_files/ugd/1cd49e_a662183a811249459849d9a2c65c0946.pdf"
+          },
+          {
+            "file": "contact-us.md",
+            "url": "https://www.digital-finance-msca.com/people/fr%C3%A9d%C3%A9rik-sinan-bernard"
+          },
+          {
+            "file": "copy-of-research-topics.md",
+            "url": "//www.digital-finance-msca.com"
+          },
+          {
+            "file": "copy-of-trainings.md",
+            "url": "https://www.digital-finance-msca.com/training-through-research-and-mandatory-scientific-training"
+          },
+          {
+            "file": "deep-generation-of-financial.md",
+            "url": "https://www.digital-finance-msca.com/_files/ugd/1cd49e_94fd39d6ca714a70912ed02b4a897918.pdf"
+          },
+          {
+            "file": "deep-generation-of-financial.md",
+            "url": "https://www.digital-finance-msca.com/_files/ugd/1cd49e_649914a9e954466eae00f24311ae3c32.pdf"
+          },
+          {
+            "file": "detecting-anomalies-and-dependence-structures.md",
+            "url": "https://www.digital-finance-msca.com/_files/ugd/1cd49e_d758ced9492348a8bace696943d2bcad.pdf"
+          },
+          {
+            "file": "developing-industry-ready.md",
+            "url": "https://www.digital-finance-msca.com/_files/ugd/1cd49e_8f074873206e4c6eb22e98bbec67d953.pdf"
+          },
+          {
+            "file": "events.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/introduction-to-blockchain-applications-in-finance-training-week&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/introduction-to-blockchain-applications-in-finance-training-week&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fintroduction-to-blockchain-applications-in-finance-training-week"
+          },
+          {
+            "file": "events.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/research-seminar-audience-dependent-explanations-for-ai-systems-wp3&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/research-seminar-audience-dependent-explanations-for-ai-systems-wp3&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fresearch-seminar-audience-dependent-explanations-for-ai-systems-wp3"
+          },
+          {
+            "file": "events.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/explainable-ai-training-week&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/explainable-ai-training-week&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fexplainable-ai-training-week"
+          },
+          {
+            "file": "events.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/orientation-training-digital-finance&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/orientation-training-digital-finance&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Forientation-training-digital-finance"
+          },
+          {
+            "file": "events.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/research-seminar-fair-algorithmic-design-wp3&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/research-seminar-fair-algorithmic-design-wp3&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fresearch-seminar-fair-algorithmic-design-wp3"
+          },
+          {
+            "file": "events.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/green-digital-finance-training-week&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/green-digital-finance-training-week&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fgreen-digital-finance-training-week"
+          },
+          {
+            "file": "events.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/research-seminar-uncertainty-aware-statistical-learning-for-complex-decision-processes-wp5&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/research-seminar-uncertainty-aware-statistical-learning-for-complex-decision-processes-wp5&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fresearch-seminar-uncertainty-aware-statistical-learning-for-complex-decision-processes-wp5"
+          },
+          {
+            "file": "events.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/lecture-spectral-risk-measures-and-spectral-analysis&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/lecture-spectral-risk-measures-and-spectral-analysis&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Flecture-spectral-risk-measures-and-spectral-analysis"
+          },
+          {
+            "file": "events.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/research-seminar-explainable-ai-methods-for-financial-time-series-wp3&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/research-seminar-explainable-ai-methods-for-financial-time-series-wp3&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fresearch-seminar-explainable-ai-methods-for-financial-time-series-wp3"
+          },
+          {
+            "file": "events.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/mid-term-meeting-technical-training-week&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/mid-term-meeting-technical-training-week&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fmid-term-meeting-technical-training-week"
+          },
+          {
+            "file": "events.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/research-seminar-reinforcement-learning-applications-in-finance-wp3&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/research-seminar-reinforcement-learning-applications-in-finance-wp3&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fresearch-seminar-reinforcement-learning-applications-in-finance-wp3"
+          },
+          {
+            "file": "events.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/foundations-of-data-science-training-week&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/foundations-of-data-science-training-week&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Ffoundations-of-data-science-training-week"
+          },
+          {
+            "file": "events.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/msca-training-reinforcement-learning-utw&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/msca-training-reinforcement-learning-utw&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fmsca-training-reinforcement-learning-utw"
+          },
+          {
+            "file": "events.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/msca-training-school-on-ethics-in-ai-and-digital-finance-oradea&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/msca-training-school-on-ethics-in-ai-and-digital-finance-oradea&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fmsca-training-school-on-ethics-in-ai-and-digital-finance-oradea"
+          },
+          {
+            "file": "events.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/msca-digital-supervisory-board-meeting-3&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/msca-digital-supervisory-board-meeting-3&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fmsca-digital-supervisory-board-meeting-3"
+          },
+          {
+            "file": "experimenting-with-green-ai.md",
+            "url": "https://www.digital-finance-msca.com/_files/ugd/1cd49e_3ec98d8383694b7884f7e7490381c061.pdf"
+          },
+          {
+            "file": "fair-algorithmic-design.md",
+            "url": "https://www.digital-finance-msca.com/_files/ugd/1cd49e_e637efe2092940b681933de6d4815d6f.pdf"
+          },
+          {
+            "file": "fraud-detection-in-financial-networks.md",
+            "url": "https://www.digital-finance-msca.com/_files/ugd/1cd49e_9893640b3f4349d6b812a216bb2b8f8e.pdf"
+          },
+          {
+            "file": "home-backup-old.md",
+            "url": "https://www.digital-finance-msca.com"
+          },
+          {
+            "file": "home-backup-old.md",
+            "url": "https://www.digital-finance-msca.com"
+          },
+          {
+            "file": "home-backup-old.md",
+            "url": "https://www.digital-finance-msca.com"
+          },
+          {
+            "file": "home-backup-old.md",
+            "url": "https://www.digital-finance-msca.com"
+          },
+          {
+            "file": "home-backup-old.md",
+            "url": "https://www.digital-finance-msca.com"
+          },
+          {
+            "file": "international-advanced-fellowship-ubb.md",
+            "url": "https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.digital-finance-msca.com%2F&data=05%7C02%7Cjoerg.osterrieder%40utwente.nl%7Cefced77700b54b3f077708dc6174ba76%7C723246a1c3f543c5acdc43adb404ac4d%7C0%7C0%7C638492401164025668%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=0aBX160OY6XfzTAf4R5X%2FDop4sCadgfVIJnZggk7xlg%3D&reserved=0"
+          },
+          {
+            "file": "investigating-the-utility.md",
+            "url": "https://www.digital-finance-msca.com/_files/ugd/1cd49e_093509240fef4f3ca50199f049499f94.pdf"
+          },
+          {
+            "file": "machine-learning-digital-finance.md",
+            "url": "https://www.digital-finance-msca.com/_files/ugd/1cd49e_63aee23ddeb64993b479f2b728d96da7.pdf"
+          },
+          {
+            "file": "media.md",
+            "url": "https://www.digital-finance-msca.com/_files/ugd/1cd49e_8f71489750624e84a0d99e7eacee31c0.pdf"
+          },
+          {
+            "file": "media.md",
+            "url": "https://www.digital-finance-msca.com/_files/ugd/1cd49e_a662183a811249459849d9a2c65c0946.pdf"
+          },
+          {
+            "file": "media.md",
+            "url": "https://www.digital-finance-msca.com/_files/ugd/1cd49e_b384c0327b4946cb9cfbf57935c6f085.pptx?dn=2023.12.30%20MSCA%20Digital%20Finance%20Overview.pptx"
+          },
+          {
+            "file": "modelling-green-credit-scores.md",
+            "url": "https://www.digital-finance-msca.com/_files/ugd/1cd49e_7d4b46a7fdb640368e3165d6a54837ef.pdf"
+          },
+          {
+            "file": "our-coordination.md",
+            "url": "https://www.digital-finance-msca.com"
+          },
+          {
+            "file": "our-coordination.md",
+            "url": "https://www.digital-finance-msca.com"
+          },
+          {
+            "file": "our-coordination.md",
+            "url": "https://www.digital-finance-msca.com"
+          },
+          {
+            "file": "our-coordination.md",
+            "url": "https://www.digital-finance-msca.com"
+          },
+          {
+            "file": "our-coordination.md",
+            "url": "https://www.digital-finance-msca.com"
+          },
+          {
+            "file": "our-governance.md",
+            "url": "https://www.digital-finance-msca.com/people/fr%C3%A9d%C3%A9rik-sinan-bernard"
+          },
+          {
+            "file": "our-partners.md",
+            "url": "https://www.digital-finance-msca.com/partner-new/european-institute-for-technology---digital"
+          },
+          {
+            "file": "our-partners.md",
+            "url": "https://www.digital-finance-msca.com/partner-new/pozna%C5%84-university-of-economics-and-business"
+          },
+          {
+            "file": "predicting-financial-trends.md",
+            "url": "https://www.digital-finance-msca.com/_files/ugd/1cd49e_6a4f4c9548b14de6bb2b5df552c1f561.pdf"
+          },
+          {
+            "file": "presentations.md",
+            "url": "https://www.digital-finance-msca.com/_files/ugd/1cd49e_2be608919a684b98a418f5b8423de1f4.pdf"
+          },
+          {
+            "file": "presentations.md",
+            "url": "https://www.digital-finance-msca.com/_files/ugd/1cd49e_1645bb9699fe47bfb8b4ebb41d7e3e1a.pdf"
+          },
+          {
+            "file": "presentations.md",
+            "url": "https://www.digital-finance-msca.com/_files/ugd/1cd49e_3f80db36785f490a9f29c5a3a36c75d0.pdf"
+          },
+          {
+            "file": "presentations.md",
+            "url": "https://www.digital-finance-msca.com/_files/ugd/1cd49e_9093907a114c431ba9752c7568461c06.pdf"
+          },
+          {
+            "file": "presentations.md",
+            "url": "https://www.digital-finance-msca.com/_files/ugd/1cd49e_319b96a2fd42439aa2b35ba287d1b909.pdf"
+          },
+          {
+            "file": "presentations.md",
+            "url": "https://www.digital-finance-msca.com/_files/ugd/1cd49e_4cb9c038a4c34be7ae0b6d319b73f82c.pdf"
+          },
+          {
+            "file": "presentations.md",
+            "url": "https://www.digital-finance-msca.com/_files/ugd/1cd49e_48c174e919ac4561bfbb2bda500d9068.pdf"
+          },
+          {
+            "file": "presentations.md",
+            "url": "https://www.digital-finance-msca.com/_files/ugd/1cd49e_46ab3c5648464d56911c1612c6a71060.pdf"
+          },
+          {
+            "file": "presentations.md",
+            "url": "https://www.digital-finance-msca.com/_files/ugd/1cd49e_a1d519e2e2254de6ae710e1cd07df931.pdf"
+          },
+          {
+            "file": "privacy-policy.md",
+            "url": "https://www.digital-finance-msca.com/"
+          },
+          {
+            "file": "risk-index-for-cryptos.md",
+            "url": "https://www.digital-finance-msca.com/_files/ugd/1cd49e_3b35024db41a4b3794dff79eec380f4f.pdf"
+          },
+          {
+            "file": "strengthening-european-financial.md",
+            "url": "https://www.digital-finance-msca.com/_files/ugd/1cd49e_3f054d90691841f5bc39b2a8bbf015c5.pdf"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.digital-finance-msca.com/people/fr%C3%A9d%C3%A9rik-sinan-bernard"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/agentic-ai-for-finance-training-week&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "test.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/agentic-ai-for-finance-training-week&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fagentic-ai-for-finance-training-week"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/ai-in-financial-markets-research-forum-2&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "test.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/ai-in-financial-markets-research-forum-2&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fai-in-financial-markets-research-forum-2"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/msca-training-history-and-prospects-of-digital-finance&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "test.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/msca-training-history-and-prospects-of-digital-finance&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fmsca-training-history-and-prospects-of-digital-finance"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/machine-learning-in-industry&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "test.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/machine-learning-in-industry&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fmachine-learning-in-industry"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/training-week-on-blockchains-in-digital-finance&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "test.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/training-week-on-blockchains-in-digital-finance&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Ftraining-week-on-blockchains-in-digital-finance"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/deep-learning-in-finance-1&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "test.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/deep-learning-in-finance-1&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fdeep-learning-in-finance-1"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/phd-training-school-on-cybersecurity&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "test.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/phd-training-school-on-cybersecurity&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fphd-training-school-on-cybersecurity"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/1st-arc-training-week&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "test.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/1st-arc-training-week&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2F1st-arc-training-week"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.digital-finance-msca.com"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.digital-finance-msca.com"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.digital-finance-msca.com"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.digital-finance-msca.com"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.digital-finance-msca.com"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.digital-finance-msca.com"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.digital-finance-msca.com"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.digital-finance-msca.com/pozna%C5%84-university-of-economics-and-business"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.digital-finance-msca.com"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.digital-finance-msca.com"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.digital-finance-msca.com"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.digital-finance-msca.com"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.digital-finance-msca.com"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.digital-finance-msca.com"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.digital-finance-msca.com"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.digital-finance-msca.com"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.digital-finance-msca.com"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.digital-finance-msca.com"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.digital-finance-msca.com"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.digital-finance-msca.com"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.digital-finance-msca.com"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.digital-finance-msca.com"
+          },
+          {
+            "file": "test.md",
+            "url": "https://www.digital-finance-msca.com"
+          },
+          {
+            "file": "trainings.md",
+            "url": "https://www.digital-finance-msca.com/training-modules/ethics-applicable-to-digital-aspects-"
+          },
+          {
+            "file": "trainings.md",
+            "url": "https://www.digital-finance-msca.com/_files/ugd/1cd49e_3c71e620c3484302a29b870cd9e64dcf.pdf"
+          },
+          {
+            "file": "trainings.md",
+            "url": "https://www.digital-finance-msca.com/training-events/training-%26-development-workshop"
+          },
+          {
+            "file": "trainings.md",
+            "url": "https://www.digital-finance-msca.com/training-events/training-%26-development-workshop"
+          },
+          {
+            "file": "ubb-endava.md",
+            "url": "https://www.digital-finance-msca.com/"
+          },
+          {
+            "file": "wp1-financial-data-space.md",
+            "url": "https://www.digital-finance-msca.com/babe%C8%99-bolyai-university-bbu"
+          },
+          {
+            "file": "wp4-digital-innovation-blockchain.md",
+            "url": "https://www.digital-finance-msca.com/pozna%C5%84-university-of-economics-and-business"
+          },
+          {
+            "file": "_index.md",
+            "url": "https://www.digital-finance-msca.com"
+          },
+          {
+            "file": "_index.md",
+            "url": "https://www.digital-finance-msca.com"
+          },
+          {
+            "file": "blog\\boundaries-of-explainable-ai-in-financial-time-series.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp1"
+          },
+          {
+            "file": "blog\\boundaries-of-explainable-ai-in-financial-time-series.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp2"
+          },
+          {
+            "file": "blog\\boundaries-of-explainable-ai-in-financial-time-series.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp3"
+          },
+          {
+            "file": "blog\\boundaries-of-explainable-ai-in-financial-time-series.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp4"
+          },
+          {
+            "file": "blog\\boundaries-of-explainable-ai-in-financial-time-series.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp5"
+          },
+          {
+            "file": "blog\\boundaries-of-explainable-ai-in-financial-time-series.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp3"
+          },
+          {
+            "file": "blog\\bridging-disciplines-for-positive-societal-impact-with-crypto-economic-intelligence-research.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp1"
+          },
+          {
+            "file": "blog\\bridging-disciplines-for-positive-societal-impact-with-crypto-economic-intelligence-research.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp2"
+          },
+          {
+            "file": "blog\\bridging-disciplines-for-positive-societal-impact-with-crypto-economic-intelligence-research.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp3"
+          },
+          {
+            "file": "blog\\bridging-disciplines-for-positive-societal-impact-with-crypto-economic-intelligence-research.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp4"
+          },
+          {
+            "file": "blog\\bridging-disciplines-for-positive-societal-impact-with-crypto-economic-intelligence-research.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp5"
+          },
+          {
+            "file": "blog\\bridging-disciplines-for-positive-societal-impact-with-crypto-economic-intelligence-research.md",
+            "url": "https://www.digital-finance-msca.com/people/fr%C3%A9d%C3%A9rik-sinan-bernard"
+          },
+          {
+            "file": "blog\\digital-featured-by-wu-vienna.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp1"
+          },
+          {
+            "file": "blog\\digital-featured-by-wu-vienna.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp2"
+          },
+          {
+            "file": "blog\\digital-featured-by-wu-vienna.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp3"
+          },
+          {
+            "file": "blog\\digital-featured-by-wu-vienna.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp4"
+          },
+          {
+            "file": "blog\\digital-featured-by-wu-vienna.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp5"
+          },
+          {
+            "file": "blog\\digital-featured-in-unina-news.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp1"
+          },
+          {
+            "file": "blog\\digital-featured-in-unina-news.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp2"
+          },
+          {
+            "file": "blog\\digital-featured-in-unina-news.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp3"
+          },
+          {
+            "file": "blog\\digital-featured-in-unina-news.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp4"
+          },
+          {
+            "file": "blog\\digital-featured-in-unina-news.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp5"
+          },
+          {
+            "file": "blog\\european-research-and-phd-training-programme-in-digital-finance-launches-shaping-the-future-of-fina.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp1"
+          },
+          {
+            "file": "blog\\european-research-and-phd-training-programme-in-digital-finance-launches-shaping-the-future-of-fina.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp2"
+          },
+          {
+            "file": "blog\\european-research-and-phd-training-programme-in-digital-finance-launches-shaping-the-future-of-fina.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp3"
+          },
+          {
+            "file": "blog\\european-research-and-phd-training-programme-in-digital-finance-launches-shaping-the-future-of-fina.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp4"
+          },
+          {
+            "file": "blog\\european-research-and-phd-training-programme-in-digital-finance-launches-shaping-the-future-of-fina.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp5"
+          },
+          {
+            "file": "blog\\event-cfge-sustainability-research-café.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp1"
+          },
+          {
+            "file": "blog\\event-cfge-sustainability-research-café.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp2"
+          },
+          {
+            "file": "blog\\event-cfge-sustainability-research-café.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp3"
+          },
+          {
+            "file": "blog\\event-cfge-sustainability-research-café.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp4"
+          },
+          {
+            "file": "blog\\event-cfge-sustainability-research-café.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp5"
+          },
+          {
+            "file": "blog\\event-how-to-better-manage-some-of-the-largest-risks-in-our-society.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp1"
+          },
+          {
+            "file": "blog\\event-how-to-better-manage-some-of-the-largest-risks-in-our-society.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp2"
+          },
+          {
+            "file": "blog\\event-how-to-better-manage-some-of-the-largest-risks-in-our-society.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp3"
+          },
+          {
+            "file": "blog\\event-how-to-better-manage-some-of-the-largest-risks-in-our-society.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp4"
+          },
+          {
+            "file": "blog\\event-how-to-better-manage-some-of-the-largest-risks-in-our-society.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp5"
+          },
+          {
+            "file": "blog\\event-risks-and-opportunities-of-growing-green.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp1"
+          },
+          {
+            "file": "blog\\event-risks-and-opportunities-of-growing-green.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp2"
+          },
+          {
+            "file": "blog\\event-risks-and-opportunities-of-growing-green.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp3"
+          },
+          {
+            "file": "blog\\event-risks-and-opportunities-of-growing-green.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp4"
+          },
+          {
+            "file": "blog\\event-risks-and-opportunities-of-growing-green.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp5"
+          },
+          {
+            "file": "blog\\finalist-for-the-best-wi-fi-2024-young-researcher-award.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp1"
+          },
+          {
+            "file": "blog\\finalist-for-the-best-wi-fi-2024-young-researcher-award.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp2"
+          },
+          {
+            "file": "blog\\finalist-for-the-best-wi-fi-2024-young-researcher-award.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp3"
+          },
+          {
+            "file": "blog\\finalist-for-the-best-wi-fi-2024-young-researcher-award.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp4"
+          },
+          {
+            "file": "blog\\finalist-for-the-best-wi-fi-2024-young-researcher-award.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp5"
+          },
+          {
+            "file": "blog\\how-is-ai-changing-the-world-of-finance.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp1"
+          },
+          {
+            "file": "blog\\how-is-ai-changing-the-world-of-finance.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp2"
+          },
+          {
+            "file": "blog\\how-is-ai-changing-the-world-of-finance.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp3"
+          },
+          {
+            "file": "blog\\how-is-ai-changing-the-world-of-finance.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp4"
+          },
+          {
+            "file": "blog\\how-is-ai-changing-the-world-of-finance.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp5"
+          },
+          {
+            "file": "blog\\international-doctoral-network-for-digital-finance-launched.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp1"
+          },
+          {
+            "file": "blog\\international-doctoral-network-for-digital-finance-launched.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp2"
+          },
+          {
+            "file": "blog\\international-doctoral-network-for-digital-finance-launched.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp3"
+          },
+          {
+            "file": "blog\\international-doctoral-network-for-digital-finance-launched.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp4"
+          },
+          {
+            "file": "blog\\international-doctoral-network-for-digital-finance-launched.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp5"
+          },
+          {
+            "file": "blog\\key-outputs-and-achievements-of-cost-action-and-digital-presented-before-cost-scientific-committee.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp1"
+          },
+          {
+            "file": "blog\\key-outputs-and-achievements-of-cost-action-and-digital-presented-before-cost-scientific-committee.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp2"
+          },
+          {
+            "file": "blog\\key-outputs-and-achievements-of-cost-action-and-digital-presented-before-cost-scientific-committee.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp3"
+          },
+          {
+            "file": "blog\\key-outputs-and-achievements-of-cost-action-and-digital-presented-before-cost-scientific-committee.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp4"
+          },
+          {
+            "file": "blog\\key-outputs-and-achievements-of-cost-action-and-digital-presented-before-cost-scientific-committee.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp5"
+          },
+          {
+            "file": "blog\\msca-digital-at-ai-in-financial-markets-research-forum.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp1"
+          },
+          {
+            "file": "blog\\msca-digital-at-ai-in-financial-markets-research-forum.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp2"
+          },
+          {
+            "file": "blog\\msca-digital-at-ai-in-financial-markets-research-forum.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp3"
+          },
+          {
+            "file": "blog\\msca-digital-at-ai-in-financial-markets-research-forum.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp4"
+          },
+          {
+            "file": "blog\\msca-digital-at-ai-in-financial-markets-research-forum.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp5"
+          },
+          {
+            "file": "blog\\msca-digital-at-ai-in-financial-markets-research-forum.md",
+            "url": "https://www.digital-finance-msca.com/people/fr%C3%A9d%C3%A9rik-sinan-bernard"
+          },
+          {
+            "file": "blog\\msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp1"
+          },
+          {
+            "file": "blog\\msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp2"
+          },
+          {
+            "file": "blog\\msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp3"
+          },
+          {
+            "file": "blog\\msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp4"
+          },
+          {
+            "file": "blog\\msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp5"
+          },
+          {
+            "file": "blog\\msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp1"
+          },
+          {
+            "file": "blog\\msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp2"
+          },
+          {
+            "file": "blog\\msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp3"
+          },
+          {
+            "file": "blog\\our-project-in-the-spotlight.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp1"
+          },
+          {
+            "file": "blog\\our-project-in-the-spotlight.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp2"
+          },
+          {
+            "file": "blog\\our-project-in-the-spotlight.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp3"
+          },
+          {
+            "file": "blog\\our-project-in-the-spotlight.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp4"
+          },
+          {
+            "file": "blog\\our-project-in-the-spotlight.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp5"
+          },
+          {
+            "file": "blog\\professor-härdle-on-fintech-machine-learning-and-the-future-of-economics.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp1"
+          },
+          {
+            "file": "blog\\professor-härdle-on-fintech-machine-learning-and-the-future-of-economics.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp2"
+          },
+          {
+            "file": "blog\\professor-härdle-on-fintech-machine-learning-and-the-future-of-economics.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp3"
+          },
+          {
+            "file": "blog\\professor-härdle-on-fintech-machine-learning-and-the-future-of-economics.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp4"
+          },
+          {
+            "file": "blog\\professor-härdle-on-fintech-machine-learning-and-the-future-of-economics.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp5"
+          },
+          {
+            "file": "blog\\progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp1"
+          },
+          {
+            "file": "blog\\progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp2"
+          },
+          {
+            "file": "blog\\progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp3"
+          },
+          {
+            "file": "blog\\progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp4"
+          },
+          {
+            "file": "blog\\progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp5"
+          },
+          {
+            "file": "blog\\progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp1"
+          },
+          {
+            "file": "blog\\progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp2"
+          },
+          {
+            "file": "blog\\progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp3"
+          },
+          {
+            "file": "blog\\research-seminar-ethical-requirements-for-ai-systems.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp1"
+          },
+          {
+            "file": "blog\\research-seminar-ethical-requirements-for-ai-systems.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp2"
+          },
+          {
+            "file": "blog\\research-seminar-ethical-requirements-for-ai-systems.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp3"
+          },
+          {
+            "file": "blog\\research-seminar-ethical-requirements-for-ai-systems.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp4"
+          },
+          {
+            "file": "blog\\research-seminar-ethical-requirements-for-ai-systems.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp5"
+          },
+          {
+            "file": "blog\\research-seminar-ethical-requirements-for-ai-systems.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp3"
+          },
+          {
+            "file": "blog\\rethinking-reinforcement-learning-in-finance.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp1"
+          },
+          {
+            "file": "blog\\rethinking-reinforcement-learning-in-finance.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp2"
+          },
+          {
+            "file": "blog\\rethinking-reinforcement-learning-in-finance.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp3"
+          },
+          {
+            "file": "blog\\rethinking-reinforcement-learning-in-finance.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp4"
+          },
+          {
+            "file": "blog\\rethinking-reinforcement-learning-in-finance.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp5"
+          },
+          {
+            "file": "blog\\rethinking-reinforcement-learning-in-finance.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp3"
+          },
+          {
+            "file": "blog\\the-new-ai-act-and-its-impact.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp1"
+          },
+          {
+            "file": "blog\\the-new-ai-act-and-its-impact.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp2"
+          },
+          {
+            "file": "blog\\the-new-ai-act-and-its-impact.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp3"
+          },
+          {
+            "file": "blog\\the-new-ai-act-and-its-impact.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp4"
+          },
+          {
+            "file": "blog\\the-new-ai-act-and-its-impact.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp5"
+          },
+          {
+            "file": "blog\\why-future-finance-graduates-should-focus-on-acquiring-skills-in-data-analytics-and-data-modelling.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp1"
+          },
+          {
+            "file": "blog\\why-future-finance-graduates-should-focus-on-acquiring-skills-in-data-analytics-and-data-modelling.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp2"
+          },
+          {
+            "file": "blog\\why-future-finance-graduates-should-focus-on-acquiring-skills-in-data-analytics-and-data-modelling.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp3"
+          },
+          {
+            "file": "blog\\why-future-finance-graduates-should-focus-on-acquiring-skills-in-data-analytics-and-data-modelling.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp4"
+          },
+          {
+            "file": "blog\\why-future-finance-graduates-should-focus-on-acquiring-skills-in-data-analytics-and-data-modelling.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp5"
+          },
+          {
+            "file": "blog\\workshop-on-msca-digital-finance-at-quoniam.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp1"
+          },
+          {
+            "file": "blog\\workshop-on-msca-digital-finance-at-quoniam.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp2"
+          },
+          {
+            "file": "blog\\workshop-on-msca-digital-finance-at-quoniam.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp3"
+          },
+          {
+            "file": "blog\\workshop-on-msca-digital-finance-at-quoniam.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp4"
+          },
+          {
+            "file": "blog\\workshop-on-msca-digital-finance-at-quoniam.md",
+            "url": "https://www.digital-finance-msca.com/blog/categories/wp5"
+          },
+          {
+            "file": "events\\1st-arc-training-week.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/1st-arc-training-week&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\1st-arc-training-week.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/1st-arc-training-week&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\1st-arc-training-week.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2F1st-arc-training-week"
+          },
+          {
+            "file": "events\\4th-yushan-conference.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/4th-yushan-conference&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\4th-yushan-conference.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/4th-yushan-conference&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\4th-yushan-conference.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2F4th-yushan-conference"
+          },
+          {
+            "file": "events\\advanced-analytics-for-fintech-and-artificial-intelligence.md",
+            "url": "https://www.digital-finance-msca.com/babe%C8%99-bolyai-university-bbu"
+          },
+          {
+            "file": "events\\advanced-analytics-for-fintech-and-artificial-intelligence.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/advanced-analytics-for-fintech-and-artificial-intelligence&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\advanced-analytics-for-fintech-and-artificial-intelligence.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/advanced-analytics-for-fintech-and-artificial-intelligence&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\advanced-analytics-for-fintech-and-artificial-intelligence.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fadvanced-analytics-for-fintech-and-artificial-intelligence"
+          },
+          {
+            "file": "events\\agentic-ai-for-finance-training-week.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/agentic-ai-for-finance-training-week&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\agentic-ai-for-finance-training-week.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/agentic-ai-for-finance-training-week&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\agentic-ai-for-finance-training-week.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fagentic-ai-for-finance-training-week"
+          },
+          {
+            "file": "events\\blockchains-in-digital-finance.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/blockchains-in-digital-finance&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\blockchains-in-digital-finance.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/blockchains-in-digital-finance&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\blockchains-in-digital-finance.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fblockchains-in-digital-finance"
+          },
+          {
+            "file": "events\\conference-about-how-great-msca-is.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/conference-about-how-great-msca-is&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\conference-about-how-great-msca-is.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/conference-about-how-great-msca-is&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\conference-about-how-great-msca-is.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fconference-about-how-great-msca-is"
+          },
+          {
+            "file": "events\\conference.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/conference&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\conference.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/conference&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\conference.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fconference"
+          },
+          {
+            "file": "events\\cost-finai-brussels-may-14-15-2024.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/cost-finai-brussels-may-14-15-2024&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\cost-finai-brussels-may-14-15-2024.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/cost-finai-brussels-may-14-15-2024&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\cost-finai-brussels-may-14-15-2024.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fcost-finai-brussels-may-14-15-2024"
+          },
+          {
+            "file": "events\\deep-learning-in-finance-1.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/deep-learning-in-finance-1&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\deep-learning-in-finance-1.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/deep-learning-in-finance-1&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\deep-learning-in-finance-1.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fdeep-learning-in-finance-1"
+          },
+          {
+            "file": "events\\deep-learning-in-finance.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/deep-learning-in-finance&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\deep-learning-in-finance.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/deep-learning-in-finance&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\deep-learning-in-finance.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fdeep-learning-in-finance"
+          },
+          {
+            "file": "events\\doctoral-training-school-1.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/doctoral-training-school-1&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\doctoral-training-school-1.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/doctoral-training-school-1&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\doctoral-training-school-1.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fdoctoral-training-school-1"
+          },
+          {
+            "file": "events\\explainable-ai-training-week.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/explainable-ai-training-week&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\explainable-ai-training-week.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/explainable-ai-training-week&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\explainable-ai-training-week.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fexplainable-ai-training-week"
+          },
+          {
+            "file": "events\\foundations-of-data-science-training-week.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/foundations-of-data-science-training-week&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\foundations-of-data-science-training-week.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/foundations-of-data-science-training-week&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\foundations-of-data-science-training-week.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Ffoundations-of-data-science-training-week"
+          },
+          {
+            "file": "events\\green-digital-finance-training-week.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/green-digital-finance-training-week&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\green-digital-finance-training-week.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/green-digital-finance-training-week&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\green-digital-finance-training-week.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fgreen-digital-finance-training-week"
+          },
+          {
+            "file": "events\\ing-ut-workshop-data-analytics-and-quantitative-models-in-banking-and-academia.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/ing-ut-workshop-data-analytics-and-quantitative-models-in-banking-and-academia&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\ing-ut-workshop-data-analytics-and-quantitative-models-in-banking-and-academia.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/ing-ut-workshop-data-analytics-and-quantitative-models-in-banking-and-academia&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\ing-ut-workshop-data-analytics-and-quantitative-models-in-banking-and-academia.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fing-ut-workshop-data-analytics-and-quantitative-models-in-banking-and-academia"
+          },
+          {
+            "file": "events\\introduction-to-blockchain-applications-in-finance-training-week.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/introduction-to-blockchain-applications-in-finance-training-week&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\introduction-to-blockchain-applications-in-finance-training-week.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/introduction-to-blockchain-applications-in-finance-training-week&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\introduction-to-blockchain-applications-in-finance-training-week.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fintroduction-to-blockchain-applications-in-finance-training-week"
+          },
+          {
+            "file": "events\\lecture-spectral-risk-measures-and-spectral-analysis.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/lecture-spectral-risk-measures-and-spectral-analysis&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\lecture-spectral-risk-measures-and-spectral-analysis.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/lecture-spectral-risk-measures-and-spectral-analysis&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\lecture-spectral-risk-measures-and-spectral-analysis.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Flecture-spectral-risk-measures-and-spectral-analysis"
+          },
+          {
+            "file": "events\\machine-learning-in-industry.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/machine-learning-in-industry&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\machine-learning-in-industry.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/machine-learning-in-industry&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\machine-learning-in-industry.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fmachine-learning-in-industry"
+          },
+          {
+            "file": "events\\mid-term-meeting-technical-training-week.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/mid-term-meeting-technical-training-week&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\mid-term-meeting-technical-training-week.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/mid-term-meeting-technical-training-week&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\mid-term-meeting-technical-training-week.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fmid-term-meeting-technical-training-week"
+          },
+          {
+            "file": "events\\msca-digital-supervisory-board-meeting-3.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/msca-digital-supervisory-board-meeting-3&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-digital-supervisory-board-meeting-3.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/msca-digital-supervisory-board-meeting-3&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-digital-supervisory-board-meeting-3.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fmsca-digital-supervisory-board-meeting-3"
+          },
+          {
+            "file": "events\\msca-digital-the-4th-international-conference-on-mathematics-and-statistics.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/msca-digital-the-4th-international-conference-on-mathematics-and-statistics&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-digital-the-4th-international-conference-on-mathematics-and-statistics.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/msca-digital-the-4th-international-conference-on-mathematics-and-statistics&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-digital-the-4th-international-conference-on-mathematics-and-statistics.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fmsca-digital-the-4th-international-conference-on-mathematics-and-statistics"
+          },
+          {
+            "file": "events\\msca-digital-training-m9-prague.md",
+            "url": "https://www.digital-finance-msca.com/"
+          },
+          {
+            "file": "events\\msca-digital-training-m9-prague.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/msca-digital-training-m9-prague&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-digital-training-m9-prague.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/msca-digital-training-m9-prague&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-digital-training-m9-prague.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fmsca-digital-training-m9-prague"
+          },
+          {
+            "file": "events\\msca-digital-wp3-research-seminar.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/msca-digital-wp3-research-seminar&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-digital-wp3-research-seminar.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/msca-digital-wp3-research-seminar&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-digital-wp3-research-seminar.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fmsca-digital-wp3-research-seminar"
+          },
+          {
+            "file": "events\\msca-midterm-meeting-1.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/msca-midterm-meeting-1&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-midterm-meeting-1.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/msca-midterm-meeting-1&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-midterm-meeting-1.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fmsca-midterm-meeting-1"
+          },
+          {
+            "file": "events\\msca-midterm-meeting.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/msca-midterm-meeting&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-midterm-meeting.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/msca-midterm-meeting&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-midterm-meeting.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fmsca-midterm-meeting"
+          },
+          {
+            "file": "events\\msca-midterm-report-meeting-utw.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/msca-midterm-report-meeting-utw&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-midterm-report-meeting-utw.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/msca-midterm-report-meeting-utw&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-midterm-report-meeting-utw.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fmsca-midterm-report-meeting-utw"
+          },
+          {
+            "file": "events\\msca-network-event-advanced-statistical-modelling-for-fintech-financial-inclusion-and-inequality-una-naples-msca.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/msca-network-event-advanced-statistical-modelling-for-fintech-financial-inclusion-and-inequality-una-naples-msca&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-network-event-advanced-statistical-modelling-for-fintech-financial-inclusion-and-inequality-una-naples-msca.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/msca-network-event-advanced-statistical-modelling-for-fintech-financial-inclusion-and-inequality-una-naples-msca&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-network-event-advanced-statistical-modelling-for-fintech-financial-inclusion-and-inequality-una-naples-msca.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fmsca-network-event-advanced-statistical-modelling-for-fintech-financial-inclusion-and-inequality-una-naples-msca"
+          },
+          {
+            "file": "events\\msca-network-event-advanced-statistical-modelling-for-fintech-financial-inclusion-and-inequality-una-naples.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/msca-network-event-advanced-statistical-modelling-for-fintech-financial-inclusion-and-inequality-una-naples&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-network-event-advanced-statistical-modelling-for-fintech-financial-inclusion-and-inequality-una-naples.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/msca-network-event-advanced-statistical-modelling-for-fintech-financial-inclusion-and-inequality-una-naples&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-network-event-advanced-statistical-modelling-for-fintech-financial-inclusion-and-inequality-una-naples.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fmsca-network-event-advanced-statistical-modelling-for-fintech-financial-inclusion-and-inequality-una-naples"
+          },
+          {
+            "file": "events\\msca-network-event-blended-intensive-program-methods-for-fintech-and-artificial-intelligence-in-finance-napl-1-1.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/msca-network-event-blended-intensive-program-methods-for-fintech-and-artificial-intelligence-in-finance-napl-1-1&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-network-event-blended-intensive-program-methods-for-fintech-and-artificial-intelligence-in-finance-napl-1-1.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/msca-network-event-blended-intensive-program-methods-for-fintech-and-artificial-intelligence-in-finance-napl-1-1&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-network-event-blended-intensive-program-methods-for-fintech-and-artificial-intelligence-in-finance-napl-1-1.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fmsca-network-event-blended-intensive-program-methods-for-fintech-and-artificial-intelligence-in-finance-napl-1-1"
+          },
+          {
+            "file": "events\\msca-network-event-blended-intensive-program-methods-for-fintech-and-artificial-intelligence-in-finance-naples-una.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/msca-network-event-blended-intensive-program-methods-for-fintech-and-artificial-intelligence-in-finance-naples-una&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-network-event-blended-intensive-program-methods-for-fintech-and-artificial-intelligence-in-finance-naples-una.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/msca-network-event-blended-intensive-program-methods-for-fintech-and-artificial-intelligence-in-finance-naples-una&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-network-event-blended-intensive-program-methods-for-fintech-and-artificial-intelligence-in-finance-naples-una.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fmsca-network-event-blended-intensive-program-methods-for-fintech-and-artificial-intelligence-in-finance-naples-una"
+          },
+          {
+            "file": "events\\msca-seminar-series-ai-in-digital-finance.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/msca-seminar-series-ai-in-digital-finance&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-seminar-series-ai-in-digital-finance.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/msca-seminar-series-ai-in-digital-finance&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-seminar-series-ai-in-digital-finance.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fmsca-seminar-series-ai-in-digital-finance"
+          },
+          {
+            "file": "events\\msca-training-history-and-prospects-of-digital-finance.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/msca-training-history-and-prospects-of-digital-finance&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-training-history-and-prospects-of-digital-finance.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/msca-training-history-and-prospects-of-digital-finance&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-training-history-and-prospects-of-digital-finance.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fmsca-training-history-and-prospects-of-digital-finance"
+          },
+          {
+            "file": "events\\msca-training-reinforcement-learning-utw.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/msca-training-reinforcement-learning-utw&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-training-reinforcement-learning-utw.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/msca-training-reinforcement-learning-utw&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-training-reinforcement-learning-utw.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fmsca-training-reinforcement-learning-utw"
+          },
+          {
+            "file": "events\\msca-training-school-on-ethics-in-ai-and-digital-finance-oradea.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/msca-training-school-on-ethics-in-ai-and-digital-finance-oradea&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-training-school-on-ethics-in-ai-and-digital-finance-oradea.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/msca-training-school-on-ethics-in-ai-and-digital-finance-oradea&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-training-school-on-ethics-in-ai-and-digital-finance-oradea.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fmsca-training-school-on-ethics-in-ai-and-digital-finance-oradea"
+          },
+          {
+            "file": "events\\msca-training-week-1.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/msca-training-week-1&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-training-week-1.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/msca-training-week-1&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-training-week-1.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fmsca-training-week-1"
+          },
+          {
+            "file": "events\\msca-training-week-2.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/msca-training-week-2&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-training-week-2.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/msca-training-week-2&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-training-week-2.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fmsca-training-week-2"
+          },
+          {
+            "file": "events\\msca-training-week-3.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/msca-training-week-3&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-training-week-3.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/msca-training-week-3&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-training-week-3.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fmsca-training-week-3"
+          },
+          {
+            "file": "events\\msca-training-week-bbu.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/msca-training-week-bbu&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-training-week-bbu.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/msca-training-week-bbu&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-training-week-bbu.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fmsca-training-week-bbu"
+          },
+          {
+            "file": "events\\msca-training-week-bfh.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/msca-training-week-bfh&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-training-week-bfh.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/msca-training-week-bfh&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-training-week-bfh.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fmsca-training-week-bfh"
+          },
+          {
+            "file": "events\\msca-training-week-ktu.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/msca-training-week-ktu&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-training-week-ktu.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/msca-training-week-ktu&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-training-week-ktu.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fmsca-training-week-ktu"
+          },
+          {
+            "file": "events\\msca-training-week-phd-training-school-on-blockchain-applications-in-finance.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/msca-training-week-phd-training-school-on-blockchain-applications-in-finance&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-training-week-phd-training-school-on-blockchain-applications-in-finance.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/msca-training-week-phd-training-school-on-blockchain-applications-in-finance&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-training-week-phd-training-school-on-blockchain-applications-in-finance.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fmsca-training-week-phd-training-school-on-blockchain-applications-in-finance"
+          },
+          {
+            "file": "events\\msca-training-week-ut.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/msca-training-week-ut&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-training-week-ut.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/msca-training-week-ut&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-training-week-ut.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fmsca-training-week-ut"
+          },
+          {
+            "file": "events\\msca-workshop-on-digital-finance.md",
+            "url": "https://www.digital-finance-msca.com/"
+          },
+          {
+            "file": "events\\msca-workshop-on-digital-finance.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/msca-workshop-on-digital-finance&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-workshop-on-digital-finance.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/msca-workshop-on-digital-finance&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\msca-workshop-on-digital-finance.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fmsca-workshop-on-digital-finance"
+          },
+          {
+            "file": "events\\network-event-4th-yushan-conference.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/network-event-4th-yushan-conference&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\network-event-4th-yushan-conference.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/network-event-4th-yushan-conference&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\network-event-4th-yushan-conference.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fnetwork-event-4th-yushan-conference"
+          },
+          {
+            "file": "events\\network-event-ai-in-digital-finance-risk-premia-in-the-bitcoin-market.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/network-event-ai-in-digital-finance-risk-premia-in-the-bitcoin-market&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\network-event-ai-in-digital-finance-risk-premia-in-the-bitcoin-market.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/network-event-ai-in-digital-finance-risk-premia-in-the-bitcoin-market&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\network-event-ai-in-digital-finance-risk-premia-in-the-bitcoin-market.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fnetwork-event-ai-in-digital-finance-risk-premia-in-the-bitcoin-market"
+          },
+          {
+            "file": "events\\network-event-the-4th-international-conference-on-mathematics-and-statistics.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/network-event-the-4th-international-conference-on-mathematics-and-statistics&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\network-event-the-4th-international-conference-on-mathematics-and-statistics.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/network-event-the-4th-international-conference-on-mathematics-and-statistics&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\network-event-the-4th-international-conference-on-mathematics-and-statistics.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fnetwork-event-the-4th-international-conference-on-mathematics-and-statistics"
+          },
+          {
+            "file": "events\\official-msca-kick-off-event.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/official-msca-kick-off-event&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\official-msca-kick-off-event.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/official-msca-kick-off-event&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\official-msca-kick-off-event.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fofficial-msca-kick-off-event"
+          },
+          {
+            "file": "events\\orientation-training-digital-finance.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/orientation-training-digital-finance&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\orientation-training-digital-finance.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/orientation-training-digital-finance&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\orientation-training-digital-finance.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Forientation-training-digital-finance"
+          },
+          {
+            "file": "events\\phd-training-school-on-cybersecurity.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/phd-training-school-on-cybersecurity&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\phd-training-school-on-cybersecurity.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/phd-training-school-on-cybersecurity&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\phd-training-school-on-cybersecurity.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fphd-training-school-on-cybersecurity"
+          },
+          {
+            "file": "events\\quantitative-finance-conference-at-american-university-of-sharjah-1.md",
+            "url": "https://www.digital-finance-msca.com/"
+          },
+          {
+            "file": "events\\quantitative-finance-conference-at-american-university-of-sharjah-1.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/quantitative-finance-conference-at-american-university-of-sharjah-1&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\quantitative-finance-conference-at-american-university-of-sharjah-1.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/quantitative-finance-conference-at-american-university-of-sharjah-1&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\quantitative-finance-conference-at-american-university-of-sharjah-1.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fquantitative-finance-conference-at-american-university-of-sharjah-1"
+          },
+          {
+            "file": "events\\quantitative-finance-conference-at-american-university-of-sharjah.md",
+            "url": "https://www.digital-finance-msca.com/"
+          },
+          {
+            "file": "events\\quantitative-finance-conference-at-american-university-of-sharjah.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/quantitative-finance-conference-at-american-university-of-sharjah&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\quantitative-finance-conference-at-american-university-of-sharjah.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/quantitative-finance-conference-at-american-university-of-sharjah&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\quantitative-finance-conference-at-american-university-of-sharjah.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fquantitative-finance-conference-at-american-university-of-sharjah"
+          },
+          {
+            "file": "events\\research-seminar-audience-dependent-explanations-for-ai-systems-wp3.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/research-seminar-audience-dependent-explanations-for-ai-systems-wp3&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\research-seminar-audience-dependent-explanations-for-ai-systems-wp3.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/research-seminar-audience-dependent-explanations-for-ai-systems-wp3&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\research-seminar-audience-dependent-explanations-for-ai-systems-wp3.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fresearch-seminar-audience-dependent-explanations-for-ai-systems-wp3"
+          },
+          {
+            "file": "events\\research-seminar-explainable-ai-methods-for-financial-time-series-wp3.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/research-seminar-explainable-ai-methods-for-financial-time-series-wp3&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\research-seminar-explainable-ai-methods-for-financial-time-series-wp3.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/research-seminar-explainable-ai-methods-for-financial-time-series-wp3&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\research-seminar-explainable-ai-methods-for-financial-time-series-wp3.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fresearch-seminar-explainable-ai-methods-for-financial-time-series-wp3"
+          },
+          {
+            "file": "events\\research-seminar-fair-algorithmic-design-wp3.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/research-seminar-fair-algorithmic-design-wp3&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\research-seminar-fair-algorithmic-design-wp3.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/research-seminar-fair-algorithmic-design-wp3&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\research-seminar-fair-algorithmic-design-wp3.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fresearch-seminar-fair-algorithmic-design-wp3"
+          },
+          {
+            "file": "events\\research-seminar-reinforcement-learning-applications-in-finance-wp3.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/research-seminar-reinforcement-learning-applications-in-finance-wp3&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\research-seminar-reinforcement-learning-applications-in-finance-wp3.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/research-seminar-reinforcement-learning-applications-in-finance-wp3&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\research-seminar-reinforcement-learning-applications-in-finance-wp3.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fresearch-seminar-reinforcement-learning-applications-in-finance-wp3"
+          },
+          {
+            "file": "events\\research-seminar-uncertainty-aware-statistical-learning-for-complex-decision-processes-wp5.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/research-seminar-uncertainty-aware-statistical-learning-for-complex-decision-processes-wp5&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\research-seminar-uncertainty-aware-statistical-learning-for-complex-decision-processes-wp5.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/research-seminar-uncertainty-aware-statistical-learning-for-complex-decision-processes-wp5&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\research-seminar-uncertainty-aware-statistical-learning-for-complex-decision-processes-wp5.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fresearch-seminar-uncertainty-aware-statistical-learning-for-complex-decision-processes-wp5"
+          },
+          {
+            "file": "events\\ssm-annual-research-conference.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/ssm-annual-research-conference&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\ssm-annual-research-conference.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/ssm-annual-research-conference&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\ssm-annual-research-conference.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fssm-annual-research-conference"
+          },
+          {
+            "file": "events\\test-1.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/test-1&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\test-1.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/test-1&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\test-1.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Ftest-1"
+          },
+          {
+            "file": "events\\test-2.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/test-2&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\test-2.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/test-2&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\test-2.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Ftest-2"
+          },
+          {
+            "file": "events\\test.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/test&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\test.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/test&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\test.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Ftest"
+          },
+          {
+            "file": "events\\test2.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/test2&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\test2.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/test2&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\test2.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Ftest2"
+          },
+          {
+            "file": "events\\training-week-on-blockchains-in-digital-finance.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/training-week-on-blockchains-in-digital-finance&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\training-week-on-blockchains-in-digital-finance.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/training-week-on-blockchains-in-digital-finance&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\training-week-on-blockchains-in-digital-finance.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Ftraining-week-on-blockchains-in-digital-finance"
+          },
+          {
+            "file": "events\\wp1-meeting-2024-09-02-19-00-1.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/wp1-meeting-2024-09-02-19-00-1&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\wp1-meeting-2024-09-02-19-00-1.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/wp1-meeting-2024-09-02-19-00-1&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\wp1-meeting-2024-09-02-19-00-1.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fwp1-meeting-2024-09-02-19-00-1"
+          },
+          {
+            "file": "events\\wp1-meeting-2024-10-07-19-00-1.md",
+            "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.digital-finance-msca.com/event-details-registration/wp1-meeting-2024-10-07-19-00-1&quote=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\wp1-meeting-2024-10-07-19-00-1.md",
+            "url": "https://twitter.com/intent/tweet?url=https://www.digital-finance-msca.com/event-details-registration/wp1-meeting-2024-10-07-19-00-1&text=Check%20out%20this%20event.%20Hope%20to%20see%20you%20there!"
+          },
+          {
+            "file": "events\\wp1-meeting-2024-10-07-19-00-1.md",
+            "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.digital-finance-msca.com%2Fevent-details-registration%2Fwp1-meeting-2024-10-07-19-00-1"
+          }
+        ]
+      }
+    },
+    "summary": {
+      "issues": [
+        "- 1 URLs failed to scrape (review scrape_progress.json)",
+        "- 26 pages found by crawl but not in sitemaps",
+        "- 10 pages have minimal content",
+        "- 502 broken links need manual review"
+      ],
+      "status": "needs_attention"
+    }
+  }
+}

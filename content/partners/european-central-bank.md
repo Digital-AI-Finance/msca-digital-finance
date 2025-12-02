@@ -45,4 +45,4 @@ Filippo Bartoli
 
 The ECB contributes various macro-economic datasets as well as overall expertise in banking supervision, statistics, foreign exchange operations, payment systems and defining monetary and fiscal policy, covering Europe, Hosting ESRs, Transferable Skills Training, Research.
 
-[All partners ](https://www.digital-finance-msca.com/our-partners)
+[All partners ](/our-partners/)

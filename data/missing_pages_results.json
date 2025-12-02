@@ -1,0 +1,184 @@
+{
+  "scrape_date": "2025-12-02T08:53:57.763367",
+  "total_urls": 26,
+  "scraped": [
+    {
+      "url": "https://www.digital-finance-msca.com/babe%C8%99-bolyai-university-bbu",
+      "status": "scraped",
+      "file": "content\\babeș-bolyai-university-bbu.md",
+      "title": "404",
+      "content_length": 70,
+      "images": 0
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/bern-university-of-applied-sciences-bfh",
+      "status": "scraped",
+      "file": "content\\bern-university-of-applied-sciences-bfh.md",
+      "title": "404",
+      "content_length": 70,
+      "images": 0
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/bucharest-university-of-economic-studies-ase",
+      "status": "scraped",
+      "file": "content\\bucharest-university-of-economic-studies-ase.md",
+      "title": "404",
+      "content_length": 70,
+      "images": 0
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/cardo-srl",
+      "status": "scraped",
+      "file": "content\\cardo-srl.md",
+      "title": "404",
+      "content_length": 70,
+      "images": 0
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/industry-standard-for-blockchain",
+      "status": "scraped",
+      "file": "content\\industry-standard-for-blockchain.md",
+      "title": "Machine learning for Digital Finance | Digital Finance MSCA",
+      "content_length": 2252,
+      "images": 0
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/joerg-osterrieder",
+      "status": "scraped",
+      "file": "content\\joerg-osterrieder.md",
+      "title": "404",
+      "content_length": 70,
+      "images": 0
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/kaunas-university-of-technology",
+      "status": "scraped",
+      "file": "content\\kaunas-university-of-technology.md",
+      "title": "404",
+      "content_length": 70,
+      "images": 0
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/members-area/b-vanbraak/events",
+      "status": "scraped",
+      "file": "content\\members-area\\b-vanbraak\\events.md",
+      "title": "Bjorn van Braak",
+      "content_length": 198,
+      "images": 0
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/members-area/brankahm/events",
+      "status": "scraped",
+      "file": "content\\members-area\\brankahm\\events.md",
+      "title": "Branka Hadji-Misheva",
+      "content_length": 210,
+      "images": 0
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/members-area/stephanie-blum/events",
+      "status": "scraped",
+      "file": "content\\members-area\\stephanie-blum\\events.md",
+      "title": "stephanieblum7",
+      "content_length": 213,
+      "images": 0
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/members-area/stephanie-blum/profile",
+      "status": "scraped",
+      "file": "content\\members-area\\stephanie-blum\\profile.md",
+      "title": "stephanieblum7",
+      "content_length": 249,
+      "images": 0
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/partners-area",
+      "status": "scraped",
+      "file": "content\\partners-area.md",
+      "title": "Digital Finance MSCA",
+      "content_length": 48,
+      "images": 0
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/pozna%C5%84-university-of-economics-and-business",
+      "status": "scraped",
+      "file": "content\\poznań-university-of-economics-and-business.md",
+      "title": "404",
+      "content_length": 70,
+      "images": 0
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/university-of-naples-federico-ii",
+      "status": "scraped",
+      "file": "content\\university-of-naples-federico-ii.md",
+      "title": "404",
+      "content_length": 70,
+      "images": 0
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/university-of-twente",
+      "status": "scraped",
+      "file": "content\\university-of-twente.md",
+      "title": "404",
+      "content_length": 70,
+      "images": 0
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/work-package-2",
+      "status": "scraped",
+      "file": "content\\work-package-2.md",
+      "title": "Artificial Intelligence for Financial Market | Digital Finance MSCA",
+      "content_length": 4365,
+      "images": 17
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/work-package-3",
+      "status": "scraped",
+      "file": "content\\work-package-3.md",
+      "title": "Towards Explainable and Fair AI-Generated Decisions | Digital Finance MSCA",
+      "content_length": 7071,
+      "images": 19
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/wu-vienna-university-of-economics",
+      "status": "scraped",
+      "file": "content\\wu-vienna-university-of-economics.md",
+      "title": "404",
+      "content_length": 70,
+      "images": 0
+    }
+  ],
+  "failed": [
+    {
+      "url": "https://www.digital-finance-msca.com/copy-of-home",
+      "error": "No content extracted"
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/event-details-registration/msca-network-event-rb-event-2024-ai-in-financial-markets-research-forum",
+      "error": "No content extracted"
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/members-area/b-vanbraak/profile",
+      "error": "No content extracted"
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/members-area/brankahm/profile",
+      "error": "No content extracted"
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/members-area/f-s-bernard/profile",
+      "error": "No content extracted"
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/work-package-1",
+      "error": "No content extracted"
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/work-package-4",
+      "error": "No content extracted"
+    },
+    {
+      "url": "https://www.digital-finance-msca.com/work-package-5",
+      "error": "No content extracted"
+    }
+  ]
+}

@@ -23,28 +23,28 @@ Today, Digital Finance does not exist as a standalone research discipline, despi
 
 Ensure sufficient data quality to contribute to the EU's efforts of building a single digital market for data
 
-[Read More](https://www.digital-finance-msca.com/wp1-financial-data-space)
+[Read More](/wp1-financial-data-space/)
 
 ##### Artificial intelligence for financial markets.
 
 Address deployment issues of complex artificial intelligence models for real-world financial problems
 
-[Read More](https://www.digital-finance-msca.com/wp2-ai-financial-markets)
+[Read More](/wp2-ai-financial-markets/)
 
 ##### Towards explainable and fair AI-generated decisions.
 
 Validate the utility of state-of-the-art explainable artificial intelligence (XAI) algorithms to financial applications and extend existing frameworks
 
-[Read More](https://www.digital-finance-msca.com/wp3-explainable-fair-ai)
+[Read More](/wp3-explainable-fair-ai/)
 
 ##### Driving digital innovations with Blockchain applications.
 
 Design risk management tools concerning the applications of the Blockchain technology in Finance
 
-[Read More](https://www.digital-finance-msca.com/wp4-digital-innovation-blockchain)
+[Read More](/wp4-digital-innovation-blockchain/)
 
 ##### Sustainability of Digital Finance.  
 
 Simulate financial markets and evaluate products with a sustainability component
 
-[Read More](https://www.digital-finance-msca.com/wp5-sustainability-digital-finance)
+[Read More](/wp5-sustainability-digital-finance/)

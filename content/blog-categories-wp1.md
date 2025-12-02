@@ -16,7 +16,7 @@ images:
 - /images/blog/quantinar_logo_fcc02fa4.png
 ---
 
-* [All Posts](https://www.digital-finance-msca.com/blog)
+* [All Posts](/blog/)
   * [WP1](https://www.digital-finance-msca.com/blog/categories/wp1)
   * [WP2](https://www.digital-finance-msca.com/blog/categories/wp2)
   * [WP3](https://www.digital-finance-msca.com/blog/categories/wp3)
@@ -25,24 +25,24 @@ images:
 
 ![dcs-midterm-meeting](/images/general/d826e4_84ad17b931a847de935d4e33d1b50379_mv2_4bd4c30f.webp)
 
-## [Progress and Partnership: MidTerm-Meeting and Technical Training at the University of Twente](https://www.digital-finance-msca.com/post/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente)
+## [Progress and Partnership: MidTerm-Meeting and Technical Training at the University of Twente](/blog/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente/)
 
 Last week, the University of Twente hosted a week of technical training and the MidTerm Meeting of the MSCA Digital project. The week...
 
-[](https://www.digital-finance-msca.com/members-area/stephanie-blum/profile)
+[](/members-area/stephanie-blum/profile/)
 
-[stephanieblum7](https://www.digital-finance-msca.com/members-area/stephanie-blum/profile)
+[stephanieblum7](/members-area/stephanie-blum/profile/)
 
 May 271 min read
 
 ![MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics \(ICMS25\)](/images/general/e64bca_d254ab4d6e2248fea09cfc247802b775_mv2_65226218.webp)
 
-## [MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics (ICMS25)](https://www.digital-finance-msca.com/post/msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i)
+## [MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics (ICMS25)](/blog/msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i/)
 
 February 20-22, 2025 | American University of Sharjah, UAE The Fourth International Conference on Mathematics and Statistics (ICMS25), ...
 
-[](https://www.digital-finance-msca.com/members-area/f-s-bernard/profile)
+[](/members-area/stephanie-blum/profile/)
 
-[fsbernard](https://www.digital-finance-msca.com/members-area/f-s-bernard/profile)
+[fsbernard](/members-area/stephanie-blum/profile/)
 
 Feb 142 min read

@@ -22,7 +22,7 @@ images:
 
 ![Agentic AI for Finance - Training Week](/images/general/d826e4_a9478570a8f4473f9c028b29134ebdab_mv2_cdd35c3d.jpg)
 
-[Agentic AI for Finance - Training Week](https://www.digital-finance-msca.com/event-details-registration/agentic-ai-for-finance-training-week)
+[Agentic AI for Finance - Training Week](/events/agentic-ai-for-finance-training-week/)
 
 Mon 01 Dec
 
@@ -30,13 +30,13 @@ Seminar Room EG 1, RBI Head Office
 
 More info
 
-[RSVP](https://www.digital-finance-msca.com/event-details-registration/agentic-ai-for-finance-training-week)
+[RSVP](/events/agentic-ai-for-finance-training-week/)
 
   * ![AI in Financial Markets Research Forum #2](/images/events/d826e4_a9478570a8f4473f9c028b29134ebdab_mv2_fe6561eb.jpg)
 
 ![AI in Financial Markets Research Forum #2](/images/general/d826e4_a9478570a8f4473f9c028b29134ebdab_mv2_cdd35c3d.jpg)
 
-[AI in Financial Markets Research Forum #2](https://www.digital-finance-msca.com/event-details-registration/ai-in-financial-markets-research-forum-2)
+[AI in Financial Markets Research Forum #2](/events/ai-in-financial-markets-research-forum-2/)
 
 Thu 04 Dec
 
@@ -44,13 +44,13 @@ Sky 1, RBI Head Office
 
 More info
 
-[Details](https://www.digital-finance-msca.com/event-details-registration/ai-in-financial-markets-research-forum-2)
+[Details](/events/ai-in-financial-markets-research-forum-2/)
 
   * ![MSCA TRAINING - History and prospects of Digital Finance](/images/events/be156d_8ae097b3ca684a358d60ab2d1f6953b7_mv2_a876c318.jpg)
 
 ![MSCA TRAINING - History and prospects of Digital Finance](/images/general/be156d_8ae097b3ca684a358d60ab2d1f6953b7_mv2_341b73c9.jpg)
 
-[MSCA TRAINING - History and prospects of Digital Finance](https://www.digital-finance-msca.com/event-details-registration/msca-training-history-and-prospects-of-digital-finance)
+[MSCA TRAINING - History and prospects of Digital Finance](/events/msca-training-history-and-prospects-of-digital-finance/)
 
 Tue 09 Dec
 
@@ -58,13 +58,13 @@ University of Naples Federico II
 
 More info
 
-[Details](https://www.digital-finance-msca.com/event-details-registration/msca-training-history-and-prospects-of-digital-finance)
+[Details](/events/msca-training-history-and-prospects-of-digital-finance/)
 
   * ![Machine Learning in Industry](/images/events/58ddb0_129fa770606340c3a3adaddf66364709_mv2_1087b41e.webp)
 
 ![Machine Learning in Industry](/images/general/58ddb0_129fa770606340c3a3adaddf66364709_mv2_31fbc2b0.webp)
 
-[Machine Learning in Industry](https://www.digital-finance-msca.com/event-details-registration/machine-learning-in-industry)
+[Machine Learning in Industry](/training-modules/machine-learning-in-industry/)
 
 Mon 16 Mar
 
@@ -72,13 +72,13 @@ Milano
 
 More info
 
-[Details](https://www.digital-finance-msca.com/event-details-registration/machine-learning-in-industry)
+[Details](/training-modules/machine-learning-in-industry/)
 
   * ![Training Week on Blockchains in Digital Finance](/images/events/1cd49e_a016279297484502abb50be78642fc92_mv2_26d0c7c4.jpg)
 
 ![Training Week on Blockchains in Digital Finance](/images/general/1cd49e_a016279297484502abb50be78642fc92_mv2_706a00c3.jpg)
 
-[Training Week on Blockchains in Digital Finance](https://www.digital-finance-msca.com/event-details-registration/training-week-on-blockchains-in-digital-finance)
+[Training Week on Blockchains in Digital Finance](/events/training-week-on-blockchains-in-digital-finance/)
 
 Mon 30 Mar
 
@@ -86,13 +86,13 @@ Bucharest University of Economic Studies
 
 More info
 
-[Details](https://www.digital-finance-msca.com/event-details-registration/training-week-on-blockchains-in-digital-finance)
+[Details](/events/training-week-on-blockchains-in-digital-finance/)
 
   * ![Deep Learning in Finance](/images/events/58ddb0_f28f24feff434da5abdf59dfe1f1da14_mv2_8158cbfb.jpg)
 
 ![Deep Learning in Finance](/images/general/58ddb0_f28f24feff434da5abdf59dfe1f1da14_mv2_846d8648.jpg)
 
-[Deep Learning in Finance](https://www.digital-finance-msca.com/event-details-registration/deep-learning-in-finance-1)
+[Deep Learning in Finance](/events/deep-learning-in-finance-1/)
 
 Mon 11 May
 
@@ -100,13 +100,13 @@ Coimbra
 
 More info
 
-[Details](https://www.digital-finance-msca.com/event-details-registration/deep-learning-in-finance-1)
+[Details](/events/deep-learning-in-finance-1/)
 
   * ![PhD Training School on Cybersecurity](/images/events/e64bca_2d5d4657e33b45d9a703a214894b1f63_mv2_d562c838.jpg)
 
 ![PhD Training School on Cybersecurity](/images/general/e64bca_2d5d4657e33b45d9a703a214894b1f63_mv2_8822f1b4.jpg)
 
-[PhD Training School on Cybersecurity](https://www.digital-finance-msca.com/event-details-registration/phd-training-school-on-cybersecurity)
+[PhD Training School on Cybersecurity](/events/phd-training-school-on-cybersecurity/)
 
 Mon 08 Jun
 
@@ -114,13 +114,13 @@ Enschede
 
 More info
 
-[Details](https://www.digital-finance-msca.com/event-details-registration/phd-training-school-on-cybersecurity)
+[Details](/events/phd-training-school-on-cybersecurity/)
 
   * ![1st ARC Training Week](/images/events/58ddb0_4a176a4cd3804881bf8aca68dfc11f6b_mv2_fc1522b2.jpg)
 
 ![1st ARC Training Week](/images/general/58ddb0_4a176a4cd3804881bf8aca68dfc11f6b_mv2_b4f0b81d.jpg)
 
-[1st ARC Training Week](https://www.digital-finance-msca.com/event-details-registration/1st-arc-training-week)
+[1st ARC Training Week](/events/1st-arc-training-week/)
 
 Mon 07 Dec
 
@@ -128,7 +128,7 @@ Athens
 
 More info
 
-[Details](https://www.digital-finance-msca.com/event-details-registration/1st-arc-training-week)
+[Details](/events/1st-arc-training-week/)
 
 [![](/images/general/d826e4_97c6cbffbbea407ab9e9c7328124b4af_mv2_9c41ed61.png)](https://www.meetup.com/fintech_ai_in_finance/?eventOrigin=event_home_page)
 
@@ -150,7 +150,7 @@ Introduction to Blockchain Applications in Finance - Training Week /
 
 Bucharest University of Economic Studies
 
-[Details](https://www.digital-finance-msca.com/event-details-registration/introduction-to-blockchain-applications-in-finance-training-week)
+[Details](/events/introduction-to-blockchain-applications-in-finance-training-week/)
 
 03 Nov 2025, 09:00 – 07 Nov 2025, 17:00
 
@@ -170,7 +170,7 @@ Research Seminar: Audience Dependent Explanations for AI Systems (WP3) /
 
 Microsoft Teams
 
-[Details](https://www.digital-finance-msca.com/event-details-registration/research-seminar-audience-dependent-explanations-for-ai-systems-wp3)
+[Details](/events/research-seminar-audience-dependent-explanations-for-ai-systems-wp3/)
 
 29 Oct 2025, 11:00 – 12:00
 
@@ -188,7 +188,7 @@ Explainable AI - Training Week /
 
 BFH Business School
 
-[Details](https://www.digital-finance-msca.com/event-details-registration/explainable-ai-training-week)
+[Details](/events/explainable-ai-training-week/)
 
 06 Oct 2025, 08:30 – 10 Oct 2025, 18:00
 
@@ -210,7 +210,7 @@ Orientation Training Digital Finance /
 
 University of Economics and Business
 
-[Details](https://www.digital-finance-msca.com/event-details-registration/orientation-training-digital-finance)
+[Details](/training-events/orientation-training-digital-finance/)
 
 15 Sept 2025, 09:00 – 19 Sept 2025, 17:00
 
@@ -228,7 +228,7 @@ Research Seminar: Fair Algorithmic Design (WP3) /
 
 Microsoft Teams
 
-[Details](https://www.digital-finance-msca.com/event-details-registration/research-seminar-fair-algorithmic-design-wp3)
+[Details](/events/research-seminar-fair-algorithmic-design-wp3/)
 
 03 Sept 2025, 11:00 – 12:00
 
@@ -246,7 +246,7 @@ Green Digital Finance - Training Week /
 
 Kaunas University of Technology
 
-[Details](https://www.digital-finance-msca.com/event-details-registration/green-digital-finance-training-week)
+[Details](/events/green-digital-finance-training-week/)
 
 30 Jun 2025, 07:00 – 04 Jul 2025, 19:00
 
@@ -266,7 +266,7 @@ Research Seminar: Uncertainty-Aware Statistical Learning for Complex Decision Pr
 
 University of Milan & online
 
-[Details](https://www.digital-finance-msca.com/event-details-registration/research-seminar-uncertainty-aware-statistical-learning-for-complex-decision-processes-wp5)
+[Details](/events/research-seminar-uncertainty-aware-statistical-learning-for-complex-decision-processes-wp5/)
 
 11 Jun 2025, 14:30 – 15:30
 
@@ -284,7 +284,7 @@ Lecture: Spectral Risk Measures and Spectral Analysis /
 
 Zoom
 
-[Details](https://www.digital-finance-msca.com/event-details-registration/lecture-spectral-risk-measures-and-spectral-analysis)
+[Details](/events/lecture-spectral-risk-measures-and-spectral-analysis/)
 
 11 Jun 2025, 11:00 – 13:00
 
@@ -304,7 +304,7 @@ Research Seminar: Explainable AI Methods for Financial Time Series (WP3) /
 
 Microsoft Teams
 
-[Details](https://www.digital-finance-msca.com/event-details-registration/research-seminar-explainable-ai-methods-for-financial-time-series-wp3)
+[Details](/events/research-seminar-explainable-ai-methods-for-financial-time-series-wp3/)
 
 04 Jun 2025, 11:00 – 12:00
 
@@ -322,7 +322,7 @@ Mid-Term Meeting & Technical Training Week /
 
 Erlenmeyer Room - The Gallery - UTwente 
 
-[Details](https://www.digital-finance-msca.com/event-details-registration/mid-term-meeting-technical-training-week)
+[Details](/events/mid-term-meeting-technical-training-week/)
 
 19 May 2025, 09:00 – 23 May 2025, 17:30
 
@@ -342,7 +342,7 @@ Research Seminar: Reinforcement Learning Applications in Finance (WP3) /
 
 Microsoft Teams
 
-[Details](https://www.digital-finance-msca.com/event-details-registration/research-seminar-reinforcement-learning-applications-in-finance-wp3)
+[Details](/events/research-seminar-reinforcement-learning-applications-in-finance-wp3/)
 
 16 Apr 2025, 11:00 – 11:45
 
@@ -360,7 +360,7 @@ Foundations of Data Science - Training Week /
 
 Babes-Bolyai University (BBU)
 
-[Details](https://www.digital-finance-msca.com/event-details-registration/foundations-of-data-science-training-week)
+[Details](/events/foundations-of-data-science-training-week/)
 
 20 Mar 2025, 13:00 – 04 Apr 2025, 18:30
 
@@ -380,7 +380,7 @@ MSCA TRAINING - Reinforcement Learning @UTW /
 
 Ravelijn building, University of Twente
 
-[Details](https://www.digital-finance-msca.com/event-details-registration/msca-training-reinforcement-learning-utw)
+[Details](/events/msca-training-reinforcement-learning-utw/)
 
 03 Feb 2025, 10:00 – 07 Feb 2025, 13:00
 
@@ -400,7 +400,7 @@ MSCA Training School on Ethics in AI and Digital Finance @Oradea /
 
 Oradea Tech Hub
 
-[Details](https://www.digital-finance-msca.com/event-details-registration/msca-training-school-on-ethics-in-ai-and-digital-finance-oradea)
+[Details](/events/msca-training-school-on-ethics-in-ai-and-digital-finance-oradea/)
 
 20 Jan 2025, 08:00 EET – 22 Jan 2025, 18:30 EET
 
@@ -420,7 +420,7 @@ MSCA DIGITAL - Supervisory Board Meeting #3 /
 
 Location is Hybrid
 
-[Details](https://www.digital-finance-msca.com/event-details-registration/msca-digital-supervisory-board-meeting-3)
+[Details](/events/msca-digital-supervisory-board-meeting-3/)
 
 09 Sept 2024, 15:00 – 16:30
 

@@ -65,7 +65,7 @@ Under this research stream, FOUR doctoral candidates will tackle the following r
 
 ### Collaborative learning across data silos
 
-[Collaborative learning across data silos](https://www.digital-finance-msca.com/collaborative-learning-across-data-silos)
+[Collaborative learning across data silos](/collaborative-learning-across-data-silos/)
 
   
 
@@ -73,7 +73,7 @@ Description: Connecting several dozen different data pipeline components and int
 
   
 
-Host: [WU Vienna University of Economics and Business](https://www.digital-finance-msca.com/wu-vienna-university-of-economics)
+Host: [WU Vienna University of Economics and Business](/wu-vienna-university-of-economics/)
 
   
 
@@ -85,13 +85,13 @@ Fraunhofer Institute (FRA). Prof. Dr. Ralf Korn, M41, 4 months, applied industry
 
 ### Detecting anomalies and dependence structures in high dimensional, high frequency financial data 
 
-[Detecting anomalies and dependence structures in high dimensional, high frequency financial data](https://www.digital-finance-msca.com/detecting-anomalies-and-dependence-structures)
+[Detecting anomalies and dependence structures in high dimensional, high frequency financial data](/detecting-anomalies-and-dependence-structures/)
 
 Description:  Herding, a well-known financial anomaly, is thought to cause high volatility, volatile prices, and low liquidity (Bikhchandani and Sharma, 2000). Greed and herd behaviour caused the seventeenth-century tulip mania, the 1995–2000 Internet bubble, and the 2015 Chinese stock market crash. This project studies high-dimensional sentiment networks and herd behaviour on the stock market. To better fit investor sentiment, the project will calibrate the option pricing model, Stochastic Volatility and Correlated Jump (SVCJ).
 
   
 
-Host: [Bucharest University of Economic Studies, Romania (ASE)](https://www.digital-finance-msca.com/bucharest-university-of-economic-studies-ase)
+Host: [Bucharest University of Economic Studies, Romania (ASE)](/bucharest-university-of-economic-studies-ase/)
 
   
 
@@ -103,7 +103,7 @@ Royalton (ROY). Dr. Michael Althof, M33, 12 months, for training in portfolio op
 
 ### Predicting financial trends using text mining and NLP
 
-[Predicting financial trends using text mining and NLP](https://www.digital-finance-msca.com/predicting-financial-trends)
+[Predicting financial trends using text mining and NLP](/predicting-financial-trends/)
 
 Description:  The main goal of this doctoral candidate is to enhance the application of AI-driven natural language processing (NLP) techniques for forecasting credit risk and detecting financial fraud. This involves analyzing speech text from audit reports, social media, and various other sources. The focus is on predicting non-compliance by interpreting the sentiment in free-text answers from survey participants. Additionally, the project aims to develop attitudinal indices derived from free text and integrate them into behavioral models. These models, which also consider other qualitative and quantitative elements, will help in assessing the probability of system fraud and determining the risk level associated with accreditation processes.
 
@@ -121,13 +121,13 @@ European Central Bank (ECB), Dr. Lukasz Kubicki, M33, 12 months, exposure to glo
 
 ### Deep Generation of Financial Time Series
 
-[Deep Generation of Financial Time Series](https://www.digital-finance-msca.com/deep-generation-of-financial)
+[Deep Generation of Financial Time Series](/deep-generation-of-financial/)
 
 Description:  ​Macroeconomics factors such as central banks’ interest rates, inflation, unemployment rate, house price indices, to name a few, are of foremost importance in Financial Markets. The aim of this project is to benchmark various methods from classical statistical learning and modern machine learning in order to predict their point value in the future. As a second step the student will be using the above predictions to forecast future market scenarios in a what-if fashion.
 
   
 
-Host: [Cardo S.R.L](https://www.digital-finance-msca.com/cardo-srl)
+Host: [Cardo S.R.L](/cardo-srl/)
 
   
 
@@ -141,26 +141,26 @@ Fraunhofer Institute (FRA), Prof. Dr. Ralf Korn, M41, 4 months, applied industry
 
 ## News
 
-## [Professor Härdle on FinTech, Machine Learning, and the Future of Economics](https://www.digital-finance-msca.com/post/professor-härdle-on-fintech-machine-learning-and-the-future-of-economics)
+## [Professor Härdle on FinTech, Machine Learning, and the Future of Economics](/blog/professor-härdle-on-fintech-machine-learning-and-the-future-of-economics/)
 
 ![Professor Härdle on FinTech, Machine Learning, and the Future of Economics](/images/general/1cd49e_5d6b52789fe142d7bdd0070add493908_mv2_05f7d8eb.webp)![Professor Härdle on FinTech, Machine Learning, and the Future of Economics](/images/general/1cd49e_5d6b52789fe142d7bdd0070add493908_mv2_085132e1.webp)
 
-## [Boundaries of Explainable AI in Financial Time Series](https://www.digital-finance-msca.com/post/boundaries-of-explainable-ai-in-financial-time-series)
+## [Boundaries of Explainable AI in Financial Time Series](/blog/boundaries-of-explainable-ai-in-financial-time-series/)
 
 ![Boundaries of Explainable AI in Financial Time Series](/images/general/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_71790cd4.webp)![Boundaries of Explainable AI in Financial Time Series](/images/general/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_97e49b44.webp)
 
-## [Progress and Partnership: MidTerm-Meeting and Technical Training at the University of Twente](https://www.digital-finance-msca.com/post/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente)
+## [Progress and Partnership: MidTerm-Meeting and Technical Training at the University of Twente](/blog/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente/)
 
 ![dcs-midterm-meeting](/images/general/d826e4_84ad17b931a847de935d4e33d1b50379_mv2_1f776234.webp)![dcs-midterm-meeting](/images/general/d826e4_84ad17b931a847de935d4e33d1b50379_mv2_676ef052.webp)
 
-## [Rethinking Reinforcement Learning in Finance](https://www.digital-finance-msca.com/post/rethinking-reinforcement-learning-in-finance)
+## [Rethinking Reinforcement Learning in Finance](/blog/rethinking-reinforcement-learning-in-finance/)
 
 ![Rethinking Reinforcement Learning in Finance](/images/general/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_71790cd4.webp)![Rethinking Reinforcement Learning in Finance](/images/general/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_97e49b44.webp)
 
-## [MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics (ICMS25)](https://www.digital-finance-msca.com/post/msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i)
+## [MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics (ICMS25)](/blog/msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i/)
 
 ![MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics \(ICMS25\)](/images/general/e64bca_d254ab4d6e2248fea09cfc247802b775_mv2_e2ebc614.webp)![MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics \(ICMS25\)](/images/general/e64bca_d254ab4d6e2248fea09cfc247802b775_mv2_e5fd6819.webp)
 
-## [MSCA DIGITAL at AI in Financial Markets Research Forum](https://www.digital-finance-msca.com/post/msca-digital-at-ai-in-financial-markets-research-forum)
+## [MSCA DIGITAL at AI in Financial Markets Research Forum](/blog/msca-digital-at-ai-in-financial-markets-research-forum/)
 
 ![MSCA DIGITAL at AI in Financial Markets Research Forum](/images/general/a607fb_41431d2040214d8e91cdf7830b9b7cf1_mv2_d9a57e23.webp)![MSCA DIGITAL at AI in Financial Markets Research Forum](/images/general/a607fb_41431d2040214d8e91cdf7830b9b7cf1_mv2_2f5a1c12.webp)

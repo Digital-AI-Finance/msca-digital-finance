@@ -155,4 +155,4 @@ Abhista Abhista
 
 Project coordinator. WP 6, 8 Lead. Contribute data on crowdfunding, financial time series and ESG scores as well as theoretical and applied expertise in ML modelling, Fintech business models, sustainable finance, blockchain technologies
 
-[All partners ](https://www.digital-finance-msca.com/our-partners)
+[All partners ](/our-partners/)

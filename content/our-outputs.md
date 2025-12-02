@@ -24,18 +24,18 @@ DIGITAL's network members are engaged as board members, editors and co-editors o
 
 You can find here a list of these journals, outlets and repositories, as well as a link to the list of publications stemming from DIGITAL.
 
-[![Open Textbook in Library.webp](/images/general/Open_Textbook_in_Library_a34cd3e9.webp)](https://www.digital-finance-msca.com/journals-outlets)
+[![Open Textbook in Library.webp](/images/general/Open_Textbook_in_Library_a34cd3e9.webp)](/journals-outlets/)
 
-[All journals ](https://www.digital-finance-msca.com/journals-outlets)
+[All journals ](/journals-outlets/)
 
-[![Open Textbook in Library.webp](/images/general/Open_Textbook_in_Library_019d1777.webp)](https://www.digital-finance-msca.com/journals-outlets)
+[![Open Textbook in Library.webp](/images/general/Open_Textbook_in_Library_019d1777.webp)](/journals-outlets/)
 
 Collaboration within the Network
 
 DIGITAL's network engages in many collaborations such as joint publications, events or additional third party funded projects. Through these collaborations, the network ensures a multidisciplinary approach and allows for a wide array of research topics within digital finance.
 
-[![Students Typing at Their Computers](/images/general/Students_Typing_at_Their_Computers_d0b1cff1.jpg)](https://www.digital-finance-msca.com/collaborations-within-the-network)
+[![Students Typing at Their Computers](/images/general/Students_Typing_at_Their_Computers_d0b1cff1.jpg)](/collaborations-within-the-network/)
 
-[All collaborations ](https://www.digital-finance-msca.com/collaborations-within-the-network)
+[All collaborations ](/collaborations-within-the-network/)
 
-[![Students Typing at Their Computers](/images/general/Students_Typing_at_Their_Computers_043841c9.jpg)](https://www.digital-finance-msca.com/collaborations-within-the-network)
+[![Students Typing at Their Computers](/images/general/Students_Typing_at_Their_Computers_043841c9.jpg)](/collaborations-within-the-network/)

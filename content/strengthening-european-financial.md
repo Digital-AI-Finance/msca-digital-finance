@@ -27,7 +27,7 @@ images:
 
   * Work Packages Included: WP3, WP6, WP7, WP8
 
-  * Lead researcher: [Mathis Jander](https://www.digital-finance-msca.com/people/mathis-jander)
+  * Lead researcher: [Mathis Jander](/people/mathis-jander/)
 
 ### Objectives
 

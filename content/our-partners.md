@@ -28,125 +28,125 @@ Associated partnersBeneficiariesNetwork members
 
 Accesa
 
-[ ](https://www.digital-finance-msca.com/partner-new/accesa)
+[ ](/partners/accesa/)
 
 ![](/images/general/d826e4_9efdad3b82fd4962945e462f438f4ca8_mv2_fb3f9480.jpg)
 
 Bank for International Settlements
 
-[ ](https://www.digital-finance-msca.com/partner-new/bank-for-international-settlements)
+[ ](/partners/bank-for-international-settlements/)
 
 ![](/images/general/d826e4_d70f948c8c7f498ba55cacc1099331a7_mv2_7be7cf40.jpg)
 
 Cardo AI
 
-[ ](https://www.digital-finance-msca.com/partner-new/cardo-ai)
+[ ](/partners/cardo-ai/)
 
 ![](/images/general/d826e4_3ad5d1fb0db14041906e1a63b3252075_mv2_b921baa4.jpg)
 
 Deutsche Boerse
 
-[ ](https://www.digital-finance-msca.com/partner-new/deutsche-boerse)
+[ ](/partners/deutsche-boerse/)
 
 ![](/images/general/58ddb0_a1aaaa8e4ec64dffb18d5d1c7cdc4d28_mv2_32c8fbcb.webp)
 
 G-Research
 
-[ ](https://www.digital-finance-msca.com/partner-new/g-research)
+[ ](/partners/g-research/)
 
 ![](/images/general/d826e4_46c289bf1c5f4068a853e2a6b18e4b4d_mv2_5bbc16cc.jpg)
 
 Quoniam
 
-[ ](https://www.digital-finance-msca.com/partner-new/quoniam)
+[ ](/partners/quoniam/)
 
 ![](/images/general/d826e4_6fd64619dd054b95b6c5fa6a4104daea_mv2_3290b7c6.jpg)
 
 St Kliment Ohridski University Bitola
 
-[ ](https://www.digital-finance-msca.com/partner-new/st-kliment-ohridski-university-bitola)
+[ ](/partners/st-kliment-ohridski-university-bitola/)
 
 University of Calabria
 
-[ ](https://www.digital-finance-msca.com/partner-new/university-of-calabria)
+[ ](/partners/university-of-calabria/)
 
 University of Naples Federico II
 
-[ ](https://www.digital-finance-msca.com/partner-new/university-of-naples-federico-ii)
+[ ](/partners/university-of-naples-federico-ii/)
 
 University of Tirana
 
-[ ](https://www.digital-finance-msca.com/partner-new/university-of-tirana)
+[ ](/partners/university-of-tirana/)
 
 ![](/images/general/d826e4_f3046aa7ac974dc7a63b18461adce378_mv2_5c0d5aa0.jpg)
 
 American University of Sharjah
 
-[ ](https://www.digital-finance-msca.com/partner-new/american-university-of-sharjah)
+[ ](/partners/american-university-of-sharjah/)
 
 ![](/images/general/d826e4_794ce929996c4915aa85468778988bb9_mv2_3f59585e.jpg)
 
 Bern University of Applied Sciences
 
-[ ](https://www.digital-finance-msca.com/partner-new/bern-university-of-applied-sciences)
+[ ](/partners/bern-university-of-applied-sciences/)
 
 City University of Hong Kong
 
-[ ](https://www.digital-finance-msca.com/partner-new/city-university-of-hong-kong)
+[ ](/partners/city-university-of-hong-kong/)
 
 ![](/images/general/d826e4_1d3b571703654349b2830a6047206a57_mv2_0f5f2a5b.jpg)
 
 European Central Bank
 
-[ ](https://www.digital-finance-msca.com/partner-new/european-central-bank)
+[ ](/partners/european-central-bank/)
 
 ![](/images/general/d826e4_fd149c593a0c40f883181e43fdd80d46_mv2_7061a10c.jpg)
 
 Kaunas University of Technology
 
-[ ](https://www.digital-finance-msca.com/partner-new/kaunas-university-of-technology)
+[ ](/partners/kaunas-university-of-technology/)
 
 ![](/images/general/d826e4_aa89a8a32bb142aab1b1ca76d19e80cc_mv2_9992ff60.jpg)
 
 Raiffeisen Bank International AG
 
-[ ](https://www.digital-finance-msca.com/partner-new/raiffeisen-bank-international-ag)
+[ ](/partners/raiffeisen-bank-international-ag/)
 
 ![](/images/general/1cd49e_1860a5d1cfc44386bec7b56bbec02666_mv2_07ac9c19.png)
 
 Sun Yat-sen University
 
-[ ](https://www.digital-finance-msca.com/partner-new/sun-yat-sen-university)
+[ ](/partners/sun-yat-sen-university/)
 
 University of Coimbra
 
-[ ](https://www.digital-finance-msca.com/partner-new/university-of-coimbra)
+[ ](/partners/university-of-coimbra/)
 
 University of Oradea
 
-[ ](https://www.digital-finance-msca.com/partner-new/university-of-oradea)
+[ ](/partners/university-of-oradea/)
 
 University of Twente
 
-[ ](https://www.digital-finance-msca.com/partner-new/university-of-twente)
+[ ](/partners/university-of-twente/)
 
 ![](/images/general/d826e4_44734ef0dc0b4e308db1df2671b747bb_mv2_a1f5c76d.jpg)
 
 Athena Research Center
 
-[ ](https://www.digital-finance-msca.com/partner-new/athena-research-center)
+[ ](/partners/athena-research-center/)
 
 ![](/images/general/d826e4_4628e3a4820e4dc78bd9ec92fcf5430b_mv2_bbe4487e.jpg)
 
 Bifroest University
 
-[ ](https://www.digital-finance-msca.com/partner-new/bifroest-university)
+[ ](/partners/bifroest-university/)
 
 ![](/images/general/d826e4_9f0ee03e0db54ae9b80f06b0db4bd440_mv2_ce6af931.jpg)
 
 Deloitte Consulting
 
-[ ](https://www.digital-finance-msca.com/partner-new/deloitte-consulting)
+[ ](/partners/deloitte-consulting/)
 
 ![](/images/general/d826e4_291600413c444444bd77a6ff977a343d_mv2_5715897e.jpg)
 
@@ -158,55 +158,55 @@ European Institute for Technology - Digital
 
 LPA Group
 
-[ ](https://www.digital-finance-msca.com/partner-new/lpa-group)
+[ ](/partners/lpa-group/)
 
 ![](/images/general/d826e4_d515498e47b449aaa1dd33248fc8b911_mv2_23ff64d8.jpg)
 
 Renmin University of China
 
-[ ](https://www.digital-finance-msca.com/partner-new/renmin-university-of-china)
+[ ](/partners/renmin-university-of-china/)
 
 ![](/images/general/d826e4_0f4d317677be416bb79a1fc9ebdab6fb_mv2_61e21547.jpg)
 
 Swedbank AB
 
-[ ](https://www.digital-finance-msca.com/partner-new/swedbank-ab)
+[ ](/partners/swedbank-ab/)
 
 University of Kaiserslautern-Landau
 
-[ ](https://www.digital-finance-msca.com/partner-new/university-of-kaiserslautern-landau)
+[ ](/partners/university-of-kaiserslautern-landau/)
 
 University of Pavia
 
-[ ](https://www.digital-finance-msca.com/partner-new/university-of-pavia)
+[ ](/partners/university-of-pavia/)
 
 WU Vienna University of Economics and Business
 
-[ ](https://www.digital-finance-msca.com/partner-new/wu-vienna-university-of-economics-and-business)
+[ ](/partners/wu-vienna-university-of-economics-and-business/)
 
 ![](/images/general/d826e4_093a40c1975942bf9794e3095c0f772a_mv2_6122ecec.jpg)
 
 Babes-Bolyai University
 
-[ ](https://www.digital-finance-msca.com/partner-new/babes-bolyai-university)
+[ ](/partners/babes-bolyai-university/)
 
 ![](/images/general/d826e4_8f3a2973c480417398630c6e9db9f0ff_mv2_ac390d88.jpg)
 
 Bucharest University of Economic Studies
 
-[ ](https://www.digital-finance-msca.com/partner-new/bucharest-university-of-economic-studies)
+[ ](/partners/bucharest-university-of-economic-studies/)
 
 ![](/images/general/d826e4_048b6e8ebf1d42eda502d76b71281357_mv2_ca062e69.jpg)
 
 Deutsche Bank
 
-[ ](https://www.digital-finance-msca.com/partner-new/deutsche-bank)
+[ ](/partners/deutsche-bank/)
 
 ![](/images/general/d826e4_9620e557866e4e39955274ff00e4c524_mv2_f4852d00.jpg)
 
 Fraunhofer Institute
 
-[ ](https://www.digital-finance-msca.com/partner-new/fraunhofer-institute)
+[ ](/partners/fraunhofer-institute/)
 
 ![](/images/general/d826e4_9c1559d3aaa04ec0a132c5eacb0fdc5c_mv2_30863f0e.jpg)
 
@@ -218,18 +218,18 @@ Poznań University of Economics and Business
 
 Royalton Partners
 
-[ ](https://www.digital-finance-msca.com/partner-new/royalton-partners)
+[ ](/partners/royalton-partners/)
 
 ![](/images/general/d826e4_1b11530f995e401e99c3da809ad30f04_mv2_4aef3a15.jpg)
 
 TED University
 
-[ ](https://www.digital-finance-msca.com/partner-new/ted-university)
+[ ](/partners/ted-university/)
 
 University of Milan
 
-[ ](https://www.digital-finance-msca.com/partner-new/university-of-milan)
+[ ](/partners/university-of-milan/)
 
 University of Prishtina
 
-[ ](https://www.digital-finance-msca.com/partner-new/university-of-prishtina)
+[ ](/partners/university-of-prishtina/)

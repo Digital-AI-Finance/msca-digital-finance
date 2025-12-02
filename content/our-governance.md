@@ -23,13 +23,13 @@ Consists of:
 
   * All WP leaders - BBU, WWU, BFH, UNA, UTW
 
-  * Project Coordinator - [Jörg Osterrieder ](https://www.digital-finance-msca.com/joerg-osterrieder)
+  * Project Coordinator - [Jörg Osterrieder ](/people/joerg-osterrieder/)
 
-  * Project Co-coordinator - [Branka Hadji Misheva](https://www.digital-finance-msca.com/people/branka-hadji-misheva)
+  * Project Co-coordinator - [Branka Hadji Misheva](/people/branka-hadji-misheva/)
 
   * Project Manager - [Frédérik Sinan Bernard](https://www.digital-finance-msca.com/people/fr%C3%A9d%C3%A9rik-sinan-bernard)
 
-  * Diversity Coordinator - [Codruta Mare](https://www.digital-finance-msca.com/people/codruta-mare)
+  * Diversity Coordinator - [Codruta Mare](/people/codruta-mare/)
 
 The Executive Board is responsible for:
 
@@ -109,19 +109,19 @@ Consists of:
 
   * Two members from the academic sector:
 
-\- [Ioana Coita](https://www.digital-finance-msca.com/people/ioana-coita) (chair; University of Oradea)
+\- [Ioana Coita](/people/ioana-coita/) (chair; University of Oradea)
 
-\- [Audrius Kabasinskas](https://www.digital-finance-msca.com/people/audrius-kabasinskas) (Kaunas Institute of Technology)
+\- [Audrius Kabasinskas](/people/audrius-kabasinskas/) (Kaunas Institute of Technology)
 
   * Two members from the non-academic sector:
 
-\- [Aidas Malakauskas](https://www.digital-finance-msca.com/people/aidas-malakauskas) (co-chair, Swedbank)
+\- [Aidas Malakauskas](/people/aidas-malakauskas/) (co-chair, Swedbank)
 
-\- [Renato Rocha Souza](https://www.digital-finance-msca.com/people/renato-rocha-souza) (Raiffeisen Bank International)
+\- [Renato Rocha Souza](/people/renato-rocha-souza/) (Raiffeisen Bank International)
 
   * A representative from an associated partner:
 
-\- [Gennaro Di Brino](https://www.digital-finance-msca.com/people/gennaro-di-brino) (Cardo AI)
+\- [Gennaro Di Brino](/people/gennaro-di-brino/) (Cardo AI)
 
 Is responsible for:
 
@@ -135,23 +135,23 @@ Is responsible for:
 
 Consists of:
 
-  * Chair: [Branka Hadji Misheva](https://www.digital-finance-msca.com/people/branka-hadji-misheva) (Bern University of Applied Sciences)
+  * Chair: [Branka Hadji Misheva](/people/branka-hadji-misheva/) (Bern University of Applied Sciences)
 
   * Members:
 
-\- [Codruta Mare](https://www.digital-finance-msca.com/people/codruta-mare) (Babes-Bolyai University)
+\- [Codruta Mare](/people/codruta-mare/) (Babes-Bolyai University)
 
-\- [Monica Achim](https://www.digital-finance-msca.com/people/monica-violeta-achim) (Babes-Bolyai University)
+\- [Monica Achim](/people/monica-violeta-achim/) (Babes-Bolyai University)
 
-\- [Rubin Haxhiymeri](https://www.digital-finance-msca.com/people/rubin-haxhiymeri) (Cardo AI)
+\- [Rubin Haxhiymeri](/people/rubin-haxhiymeri/) (Cardo AI)
 
-\- [Aidas Malakauskas](https://www.digital-finance-msca.com/people/aidas-malakauskas) (Swedbank)
+\- [Aidas Malakauskas](/people/aidas-malakauskas/) (Swedbank)
 
-\- [Ioana Coita](https://www.digital-finance-msca.com/people/ioana-coita) (University of Twente)
+\- [Ioana Coita](/people/ioana-coita/) (University of Twente)
 
-\- [Christina Kolb](https://www.digital-finance-msca.com/people/christina-kolb) (University of Twente)
+\- [Christina Kolb](/people/christina-kolb/) (University of Twente)
 
-\- [Joerg Osterrieder](https://www.digital-finance-msca.com/people/joerg-osterrieder) (University of Twente)
+\- [Joerg Osterrieder](/people/joerg-osterrieder/) (University of Twente)
 
 Is responsible for:
 

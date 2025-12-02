@@ -28,29 +28,29 @@ Charting the Future of Finance
 
 Welcome to the MSCA Industrial Doctoral Network on Digital Finance! Have a quick tour of our project!
 
-## [MSCA Digital Finance](https://www.digital-finance-msca.com/home-old)
+## [MSCA Digital Finance](/home-old/)
 
-[Learn about our project and its goal](https://www.digital-finance-msca.com/home-old)
+[Learn about our project and its goal](/home-old/)
 
-## [Trainings](https://www.digital-finance-msca.com/trainings)
+## [Trainings](/trainings/)
 
-[Learn about our trainings directed at PhD candidates](https://www.digital-finance-msca.com/trainings)
+[Learn about our trainings directed at PhD candidates](/trainings/)
 
-## [Who We Are](https://www.digital-finance-msca.com/home-old)
+## [Who We Are](/home-old/)
 
-[Learn about our team of academic and industry experts](https://www.digital-finance-msca.com/home-old)
+[Learn about our team of academic and industry experts](/home-old/)
 
-## [Events](https://www.digital-finance-msca.com/events)
+## [Events](/members-area/stephanie-blum/events/)
 
-[Learn about our upcoming networking and training events](https://www.digital-finance-msca.com/events)
+[Learn about our upcoming networking and training events](/members-area/stephanie-blum/events/)
 
-## [Our Research](https://www.digital-finance-msca.com/research-projects)
+## [Our Research](/research-projects/)
 
-[Learn about our research topics and individual research projects](https://www.digital-finance-msca.com/research-projects)
+[Learn about our research topics and individual research projects](/research-projects/)
 
-## [Secondments ](https://www.digital-finance-msca.com/home-old)
+## [Secondments ](/home-old/)
 
-[Learn about the detailed secondments plan](https://www.digital-finance-msca.com/home-old)
+[Learn about the detailed secondments plan](/home-old/)
 
 ## What is MSCA Digital Finance?
 
@@ -78,13 +78,13 @@ Budget: EUR 4,473,972
 
 Key people
 
-Principal Investigator and coordinator: [Joerg R. Osterrieder](https://www.digital-finance-msca.com/people/joerg-osterrieder)
+Principal Investigator and coordinator: [Joerg R. Osterrieder](/people/joerg-osterrieder/)
 
 Prof. Dr, Joerg R. Osterrieder is an Associate Professor of Finance and AI at the University of Twente, Professor of Sustainable Finance at Bern Business School, and Advisor on AI to ING Group, with over 15 years of experience in financial statistics, quantitative finance, and the digitization of finance. He leads numerous research initiatives, including the European COST Action 19130 Fintech and AI in Finance, and coordinates the Marie Sklodowska-Curie Action Industrial Doctoral Network on Digital Finance, bridging academia and industry.​
 
 ​
 
-Project co-chair: [Branka Hadji Misheva](https://www.digital-finance-msca.com/people/branka-hadji-misheva)​
+Project co-chair: [Branka Hadji Misheva](/people/branka-hadji-misheva/)​
 
 ​Prof. Dr. Branka Hadji Misheva is a Professor of Applied Data Science and Finance at BFH, specializing in AI applications in finance, XAI methods, network models, and fintech risk management. She leads/co-leads multiple significant research projects, including two large EU-funded initiatives on fintech compliance and AI in finance, and has contributed to over 20 projects, publishing extensively on credit risk modeling, graph theory, and explainable AI.
 
@@ -104,9 +104,9 @@ Collaborative Network: The MSCA Digital Finance brings together a diverse networ
 
 Impact and Benefits: The program is designed to produce a significant impact on both the academic and industrial sectors in digital finance. Graduates of MSCA Digital Finance are expected to emerge as leaders and innovators, driving forward the digital transformation in the financial industry, enhancing the competitiveness of the European digital finance sector on a global scale.
 
-[![1cd49e_f7478479e3f64190804bd3df886359e1~mv2.webp](/images/general/1cd49e_f7478479e3f64190804bd3df886359e1_mv2_d8d2e534.webp)](https://www.digital-finance-msca.com/people/joerg-osterrieder)
+[![1cd49e_f7478479e3f64190804bd3df886359e1~mv2.webp](/images/general/1cd49e_f7478479e3f64190804bd3df886359e1_mv2_d8d2e534.webp)](/people/joerg-osterrieder/)
 
-[![Hadji Misheva.jpg](/images/general/Hadji_Misheva_9d50f3fe.jpg)](https://www.digital-finance-msca.com/people/branka-hadji-misheva)
+[![Hadji Misheva.jpg](/images/general/Hadji_Misheva_9d50f3fe.jpg)](/people/branka-hadji-misheva/)
 
 ## Who Are We?
 
@@ -114,13 +114,13 @@ DIGITAL brings together a consortium of leading European universities, major int
 
 ![](/images/general/1cd49e_eb1275ce99344223b64f13656eb08ce1f000_b403d63a.jpg)
 
-[Learn More](https://www.digital-finance-msca.com/about-us)
+[Learn More](/about-us/)
 
 ## Our Partners
 
 ![All partners_NEW.png](/images/general/All_partners_NEW_8bcdf18c.png)
 
-[Discover More](https://www.digital-finance-msca.com/our-partners)
+[Discover More](/our-partners/)
 
 ## Research Topics & Individual Research Project
 
@@ -128,67 +128,67 @@ Currently, Digital Finance lacks recognition as an independent research field, d
 
 ![](/images/general/4bb5b1_b1e51c3ff7d040b3aeef7dc7de5015d0_mv2_e537e562.png)
 
-[Read More](https://www.digital-finance-msca.com/research-projects)
+[Read More](/research-projects/)
 
 ### Towards a European Financial Data Space (WP1)
 
-IRP6 - [Collaborative learning across data silos ](https://www.digital-finance-msca.com/collaborative-learning-across-data-silos)
+IRP6 - [Collaborative learning across data silos ](/collaborative-learning-across-data-silos/)
 
-IRP8 - [Detecting anomalies and dependence structures in high dimensional, high frequency financial data](https://www.digital-finance-msca.com/detecting-anomalies-and-dependence-structures)
+IRP8 - [Detecting anomalies and dependence structures in high dimensional, high frequency financial data](/detecting-anomalies-and-dependence-structures/)
 
-IRP13 - [Predicting financial trends using text mining and NLP](https://www.digital-finance-msca.com/predicting-financial-trends)
+IRP13 - [Predicting financial trends using text mining and NLP](/predicting-financial-trends/)
 
-IRP15 - [Deep Generation of Financial Time Series](https://www.digital-finance-msca.com/deep-generation-of-financial)
+IRP15 - [Deep Generation of Financial Time Series](/deep-generation-of-financial/)
 
-[Work Package 1 Page](https://www.digital-finance-msca.com/work-package-1)
+[Work Package 1 Page](/work-package-1/)
 
 ### Artificial Intelligence for Financial Markets (WP2)
 
-IRP12 - [Developing industry-ready automated trading systems to conduct EcoFin analysis using deep learning algorithms](https://www.digital-finance-msca.com/developing-industry-ready)
+IRP12 - [Developing industry-ready automated trading systems to conduct EcoFin analysis using deep learning algorithms](/developing-industry-ready/)
 
-IRP14 - [Challenges and opportunities for the uptaking of technological development by industry](https://www.digital-finance-msca.com/challenges-and-opportunities)
+IRP14 - [Challenges and opportunities for the uptaking of technological development by industry](/challenges-and-opportunities/)
 
   
 
-[Work Package 2 Page](https://www.digital-finance-msca.com/work-package-2)
+[Work Package 2 Page](/work-package-2/)
 
 ### Towards explainable and fair AI-generated decisions (WP3)
 
-IRP1 - [Strengthening European financial service providers through applicable reinforcement learning](https://www.digital-finance-msca.com/strengthening-european-financial)
+IRP1 - [Strengthening European financial service providers through applicable reinforcement learning](/strengthening-european-financial/)
 
-IRP9 - [Audience-dependent explanations](https://www.digital-finance-msca.com/audience-dependent-explanations)
+IRP9 - [Audience-dependent explanations](/audience-dependent-explanations/)
 
-IRP16 - [Investigating the utility of classical XAI methods in financial time series](https://www.digital-finance-msca.com/investigating-the-utility)
+IRP16 - [Investigating the utility of classical XAI methods in financial time series](/investigating-the-utility/)
 
-IRP17 - [Fair Algorithmic Design and Portfolio Optimization under Sustainability Concerns](https://www.digital-finance-msca.com/fair-algorithmic-design)
+IRP17 - [Fair Algorithmic Design and Portfolio Optimization under Sustainability Concerns](/fair-algorithmic-design/)
 
   
 
-[Work Package 3 Page](https://www.digital-finance-msca.com/work-package-3)
+[Work Package 3 Page](/work-package-3/)
 
 ### Driving digital innovations with Blockchain applications (WP4)
 
-IRP3 - [Machine learning for digital finance](https://www.digital-finance-msca.com/industry-standard-for-blockchain)
+IRP3 - [Machine learning for digital finance](/industry-standard-for-blockchain/)
 
-IRP5 - [Fraud detection in financial networks](https://www.digital-finance-msca.com/fraud-detection-in-financial-networks)
+IRP5 - [Fraud detection in financial networks](/fraud-detection-in-financial-networks/)
 
-IRP7 - [Risk index for cryptos](https://www.digital-finance-msca.com/risk-index-for-cryptos)
+IRP7 - [Risk index for cryptos](/risk-index-for-cryptos/)
 
-[Work Package 4 Page](https://www.digital-finance-msca.com/work-package-4)
+[Work Package 4 Page](/work-package-4/)
 
 ### Sustainability of Digital Finance (WP5)
 
-IRP2 - [Modelling green credit scores for a network of retail and business clients](https://www.digital-finance-msca.com/modelling-green-credit-scores)
+IRP2 - [Modelling green credit scores for a network of retail and business clients](/modelling-green-credit-scores/)
 
-IRP4 - [A recommender system to re-orient investments towards more sustainable technologies and businesses](https://www.digital-finance-msca.com/a-recommender-system)
+IRP4 - [A recommender system to re-orient investments towards more sustainable technologies and businesses](/a-recommender-system/)
 
-IRP10 - [Experimenting with Green AI to reduce processing time and contributes to creating a low-carbon economy](https://www.digital-finance-msca.com/experimenting-with-green-ai)
+IRP10 - [Experimenting with Green AI to reduce processing time and contributes to creating a low-carbon economy](/experimenting-with-green-ai/)
 
-IRP11 - [Applications of Agent-based Models (ABM) to analyse finance growth in a sustainable manner over a long-term period](https://www.digital-finance-msca.com/applications-of-agent-based-models)
+IRP11 - [Applications of Agent-based Models (ABM) to analyse finance growth in a sustainable manner over a long-term period](/applications-of-agent-based-models/)
 
   
 
-[Work Package 5 Page](https://www.digital-finance-msca.com/work-package-5)
+[Work Package 5 Page](/work-package-5/)
 
 DIGITAL will hire a total of 17 doctoral candidates, each will tackle one specific research project from the outlined research topics. 
 
@@ -222,7 +222,7 @@ A tailored program focusing on transferable skills, primarily carried out throug
 
 Each researcher will spend 18 months at leading institutions and in the industry to gain practical experience 
 
-[Read More](https://www.digital-finance-msca.com/trainings)
+[Read More](/trainings/)
 
 ## Secondments
 
@@ -236,4 +236,4 @@ Each candidate will also spend 4 months at a research centre and/or a government
 
 This combination of industry and research experience ensures that our doctoral candidates are not only well-versed in theoretical knowledge but also gain practical, real-world experience that is essential in today’s dynamic work environment.
 
-[Read More](https://www.digital-finance-msca.com/secondments)
+[Read More](/secondments/)

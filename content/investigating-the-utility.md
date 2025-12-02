@@ -27,7 +27,7 @@ images:
 
   * Work Packages: WP3
 
-  * Lead Researcher: [Jens Reil](https://www.digital-finance-msca.com/people/jens-reil)
+  * Lead Researcher: [Jens Reil](/people/jens-reil/)
 
 ### Objectives
 

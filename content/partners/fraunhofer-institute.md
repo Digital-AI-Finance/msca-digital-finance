@@ -51,4 +51,4 @@ Jorg Wenzel
 
 The Fraunhofer Institute contributes data and overall expertise in enabling efficient and sustainable transfer of scientific knowledge into commercial use. Furthermore, it provides exposure to a world-leading applied research environment, hosting ESRs, Transferable Skills Training, Research
 
-[All partners ](https://www.digital-finance-msca.com/our-partners)
+[All partners ](/our-partners/)

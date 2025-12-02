@@ -159,7 +159,7 @@ The objectives of WP9 are to:
 
 ​
 
-[Link to dedicated Page](https://www.digital-finance-msca.com/wp9-ethics-digital)
+[Link to dedicated Page](/wp9-ethics-digital/)
 
 ![](/images/general/1cd49e_67ac532e9c0c42c6a25f217ec90f0b30_mv2_249b622c.png)
 

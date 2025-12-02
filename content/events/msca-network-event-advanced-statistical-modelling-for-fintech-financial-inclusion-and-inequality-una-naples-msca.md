@@ -79,7 +79,7 @@ _Detailed schedule_ **Face-to-face** ; 4 days
 
   * Noon. 12:00 FRM Financial Risk Meter
 
-**Please be aware of the BIP event :**[ https://www.digital-finance-msca.com/event-details-registration/msca-network-event-blended-intensive-program-methods-for-fintech-and-artificial-intelligence-in-finance-naples-una](https://www.digital-finance-msca.com/event-details-registration/msca-network-event-blended-intensive-program-methods-for-fintech-and-artificial-intelligence-in-finance-naples-una)
+**Please be aware of the BIP event :**[ https://www.digital-finance-msca.com/event-details-registration/msca-network-event-blended-intensive-program-methods-for-fintech-and-artificial-intelligence-in-finance-naples-una](/events/msca-network-event-blended-intensive-program-methods-for-fintech-and-artificial-intelligence-in-finance-naples-una/)
 
 **Meetup Webpage :**[ https://www.meetup.com/fintech_ai_in_finance/events/297066068/](https://www.meetup.com/fintech_ai_in_finance/events/297066068/)
 

@@ -18,7 +18,7 @@ images:
 - /images/blog/logo-nobackground-500_c3c8414f.png
 ---
 
-* [All Posts](https://www.digital-finance-msca.com/blog)
+* [All Posts](/blog/)
   * [WP1](https://www.digital-finance-msca.com/blog/categories/wp1)
   * [WP2](https://www.digital-finance-msca.com/blog/categories/wp2)
   * [WP3](https://www.digital-finance-msca.com/blog/categories/wp3)
@@ -29,11 +29,11 @@ Search
 
 # Rethinking Reinforcement Learning in Finance
 
-  * [stephanieblum7](https://www.digital-finance-msca.com/members-area/stephanie-blum/profile)
+  * [stephanieblum7](/members-area/stephanie-blum/profile/)
   * Apr 29
   * 1 min read
 
-In his recent research talk, [_Mathis Jander_](https://www.digital-finance-msca.com/people/mathis-jander) presented critical insights from his ongoing research on the use of reinforcement learning (RL) in finance. After reviewing 166 academic publications, he questioned the field's reliance on benchmark testing to validate new RL models.
+In his recent research talk, [_Mathis Jander_](/people/mathis-jander/) presented critical insights from his ongoing research on the use of reinforcement learning (RL) in finance. After reviewing 166 academic publications, he questioned the field's reliance on benchmark testing to validate new RL models.
 
   
 
@@ -49,7 +49,7 @@ He concluded that current research practices need to evolve, calling for new met
 
   
 
-[Presentation and Event Information](https://www.digital-finance-msca.com/event-details-registration/research-seminar-reinforcement-learning-applications-in-finance-wp3)
+[Presentation and Event Information](/events/research-seminar-reinforcement-learning-applications-in-finance-wp3/)
 
   
 
@@ -75,11 +75,11 @@ Post not marked as liked
 
 ## Recent Posts
 
-[See All](https://www.digital-finance-msca.com/blog)
+[See All](/blog/)
 
-[![Boundaries of Explainable AI in Financial Time Series](/images/blog/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_a9c296d0.jpg)](https://www.digital-finance-msca.com/post/boundaries-of-explainable-ai-in-financial-time-series)
+[![Boundaries of Explainable AI in Financial Time Series](/images/blog/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_a9c296d0.jpg)](/blog/boundaries-of-explainable-ai-in-financial-time-series/)
 
-[Boundaries of Explainable AI in Financial Time Series](https://www.digital-finance-msca.com/post/boundaries-of-explainable-ai-in-financial-time-series)
+[Boundaries of Explainable AI in Financial Time Series](/blog/boundaries-of-explainable-ai-in-financial-time-series/)
 
 34
 
@@ -87,9 +87,9 @@ Post not marked as liked
 
 1 like. Post not marked as liked1
 
-[![dcs-midterm-meeting](/images/blog/d826e4_84ad17b931a847de935d4e33d1b50379_mv2_cd0f0cf9.jpg)](https://www.digital-finance-msca.com/post/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente)
+[![dcs-midterm-meeting](/images/blog/d826e4_84ad17b931a847de935d4e33d1b50379_mv2_cd0f0cf9.jpg)](/blog/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente/)
 
-[Progress and Partnership: MidTerm-Meeting and Technical Training at the University of Twente](https://www.digital-finance-msca.com/post/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente)
+[Progress and Partnership: MidTerm-Meeting and Technical Training at the University of Twente](/blog/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente/)
 
 89
 
@@ -97,9 +97,9 @@ Post not marked as liked
 
 1 like. Post not marked as liked1
 
-[![MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics \(ICMS25\)](/images/blog/e64bca_d254ab4d6e2248fea09cfc247802b775_mv2_702ebb53.jpg)](https://www.digital-finance-msca.com/post/msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i)
+[![MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics \(ICMS25\)](/images/blog/e64bca_d254ab4d6e2248fea09cfc247802b775_mv2_702ebb53.jpg)](/blog/msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i/)
 
-[MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics (ICMS25)](https://www.digital-finance-msca.com/post/msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i)
+[MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics (ICMS25)](/blog/msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i/)
 
 26
 

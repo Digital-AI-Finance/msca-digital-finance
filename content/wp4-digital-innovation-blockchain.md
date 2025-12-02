@@ -65,7 +65,7 @@ Under this research stream, THREE doctoral candidates will tackle the following 
 
 ### Machine learning for digital finance
 
-[Machine learning for digital finance](https://www.digital-finance-msca.com/industry-standard-for-blockchain)
+[Machine learning for digital finance](/industry-standard-for-blockchain/)
 
 Description:  The project aims to design and enhance the functionality and user interaction of applications that model Early Warning Signals.
 
@@ -75,7 +75,7 @@ stakeholders. This project also seeks to implement and evaluate explainability m
 
   
 
-Host: [University of Twente](https://www.digital-finance-msca.com/university-of-twente)
+Host: [University of Twente](/partners/university-of-twente/)
 
   
 
@@ -91,13 +91,13 @@ Swedbank (SWE). Prof. Dr. Tadas Gudaitis, M39, 6 months, ESG and credit score mo
 
 ### Fraud detection in financial networks
 
-[Fraud detection in financial networks](https://www.digital-finance-msca.com/fraud-detection-in-financial-networks)
+[Fraud detection in financial networks](/fraud-detection-in-financial-networks/)
 
 Description:  Detecting fraud is currently one of the most important topics in Finance. However, it is also one of the most complex, given that fraudsters typically represent and generate a highly dynamic system, requiring that the boundaries and objectives of any system designed to detect and reduce fraud be constantly adapted to new extrinsic structures. This enables the definition of not only a static fraud detection system, but also a dynamic AI learning system, particularly in relation to network analysis.
 
   
 
-Host: [WU Vienna University of Economics and Business](https://www.digital-finance-msca.com/wu-vienna-university-of-economics)
+Host: [WU Vienna University of Economics and Business](/wu-vienna-university-of-economics/)
 
   
 
@@ -107,7 +107,7 @@ Raiffeisen Bank International (RAI), Dr. Stefan Theußl, M27, 18 months, researc
 
 ### Risk index for cryptos 
 
-[Risk index for cryptos](https://www.digital-finance-msca.com/risk-index-for-cryptos)
+[Risk index for cryptos](/risk-index-for-cryptos/)
 
 Description:  The cryptocurrency market is exceptional: it is volatile, with a constantly shifting market structure. As cryptocurrencies evolve into a class of investable assets, the need for an index product arises. We investigate the dependencies of tail risk events within cryptocurrencies, which entails identifying coins with high or low joint tail event risks. Based on this, we intend to develop a risk index for cryptocurrencies to measure joint tail events, which will be an important tool for communicating risks to the public and regulators.
 
@@ -125,26 +125,26 @@ Royalton Partners (ROY), Dr. Michael Althof, M27, 18 months, research in innovat
 
 ## News
 
-## [Professor Härdle on FinTech, Machine Learning, and the Future of Economics](https://www.digital-finance-msca.com/post/professor-härdle-on-fintech-machine-learning-and-the-future-of-economics)
+## [Professor Härdle on FinTech, Machine Learning, and the Future of Economics](/blog/professor-härdle-on-fintech-machine-learning-and-the-future-of-economics/)
 
 ![Professor Härdle on FinTech, Machine Learning, and the Future of Economics](/images/general/1cd49e_5d6b52789fe142d7bdd0070add493908_mv2_05f7d8eb.webp)![Professor Härdle on FinTech, Machine Learning, and the Future of Economics](/images/general/1cd49e_5d6b52789fe142d7bdd0070add493908_mv2_085132e1.webp)
 
-## [Boundaries of Explainable AI in Financial Time Series](https://www.digital-finance-msca.com/post/boundaries-of-explainable-ai-in-financial-time-series)
+## [Boundaries of Explainable AI in Financial Time Series](/blog/boundaries-of-explainable-ai-in-financial-time-series/)
 
 ![Boundaries of Explainable AI in Financial Time Series](/images/general/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_71790cd4.webp)![Boundaries of Explainable AI in Financial Time Series](/images/general/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_97e49b44.webp)
 
-## [Progress and Partnership: MidTerm-Meeting and Technical Training at the University of Twente](https://www.digital-finance-msca.com/post/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente)
+## [Progress and Partnership: MidTerm-Meeting and Technical Training at the University of Twente](/blog/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente/)
 
 ![dcs-midterm-meeting](/images/general/d826e4_84ad17b931a847de935d4e33d1b50379_mv2_1f776234.webp)![dcs-midterm-meeting](/images/general/d826e4_84ad17b931a847de935d4e33d1b50379_mv2_676ef052.webp)
 
-## [Rethinking Reinforcement Learning in Finance](https://www.digital-finance-msca.com/post/rethinking-reinforcement-learning-in-finance)
+## [Rethinking Reinforcement Learning in Finance](/blog/rethinking-reinforcement-learning-in-finance/)
 
 ![Rethinking Reinforcement Learning in Finance](/images/general/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_71790cd4.webp)![Rethinking Reinforcement Learning in Finance](/images/general/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_97e49b44.webp)
 
-## [MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics (ICMS25)](https://www.digital-finance-msca.com/post/msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i)
+## [MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics (ICMS25)](/blog/msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i/)
 
 ![MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics \(ICMS25\)](/images/general/e64bca_d254ab4d6e2248fea09cfc247802b775_mv2_e2ebc614.webp)![MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics \(ICMS25\)](/images/general/e64bca_d254ab4d6e2248fea09cfc247802b775_mv2_e5fd6819.webp)
 
-## [MSCA DIGITAL at AI in Financial Markets Research Forum](https://www.digital-finance-msca.com/post/msca-digital-at-ai-in-financial-markets-research-forum)
+## [MSCA DIGITAL at AI in Financial Markets Research Forum](/blog/msca-digital-at-ai-in-financial-markets-research-forum/)
 
 ![MSCA DIGITAL at AI in Financial Markets Research Forum](/images/general/a607fb_41431d2040214d8e91cdf7830b9b7cf1_mv2_d9a57e23.webp)![MSCA DIGITAL at AI in Financial Markets Research Forum](/images/general/a607fb_41431d2040214d8e91cdf7830b9b7cf1_mv2_2f5a1c12.webp)

@@ -78,31 +78,31 @@ University of Twente · Bern Business School
 
 [Learn about our project and its goal](https://www.digital-finance-msca.com)
 
-## [Trainings](https://www.digital-finance-msca.com/trainings)
+## [Trainings](/trainings/)
 
-[Learn about our trainings directed at PhD candidates](https://www.digital-finance-msca.com/trainings)
+[Learn about our trainings directed at PhD candidates](/trainings/)
 
-## [Who We Are](https://www.digital-finance-msca.com/home-old)
+## [Who We Are](/home-old/)
 
-[Learn about our team of academic and industry experts](https://www.digital-finance-msca.com/home-old)
+[Learn about our team of academic and industry experts](/home-old/)
 
-## [Events](https://www.digital-finance-msca.com/events)
+## [Events](/members-area/stephanie-blum/events/)
 
-[Learn about our upcoming networking and training events](https://www.digital-finance-msca.com/events)
+[Learn about our upcoming networking and training events](/members-area/stephanie-blum/events/)
 
-## [Our Research](https://www.digital-finance-msca.com/research-projects)
+## [Our Research](/research-projects/)
 
-[Learn about our research topics and individual research projects](https://www.digital-finance-msca.com/research-projects)
+[Learn about our research topics and individual research projects](/research-projects/)
 
-## [Secondments ](https://www.digital-finance-msca.com/home-old)
+## [Secondments ](/home-old/)
 
-[Learn about the detailed secondments plan](https://www.digital-finance-msca.com/home-old)
+[Learn about the detailed secondments plan](/home-old/)
 
 We are an Industrial Doctoral Network established within the [Marie Sklodowska-Curie Actions](https://marie-sklodowska-curie-actions.ec.europa.eu/) (MSCA) which aims at training highly skilled doctoral candidates in Digital Finance. We bring together a consortium of leading European universities, major international corporations with significant R&D presence, innovative SMEs, renowned research centers, and governmental agencies. Our goal is to foster collaboration and innovation among its diverse members, aiming to advance knowledge, technology and solutions.
 
 ![](/images/general/1cd49e_eb1275ce99344223b64f13656eb08ce1f000_b403d63a.jpg)
 
-[Learn More](https://www.digital-finance-msca.com/about-us)
+[Learn More](/about-us/)
 
 ## Upcoming Events
 
@@ -110,7 +110,7 @@ We are an Industrial Doctoral Network established within the [Marie Sklodowska-C
 
 ![Agentic AI for Finance - Training Week](/images/general/d826e4_a9478570a8f4473f9c028b29134ebdab_mv2_cdd35c3d.jpg)
 
-[Agentic AI for Finance - Training Week](https://www.digital-finance-msca.com/event-details-registration/agentic-ai-for-finance-training-week)
+[Agentic AI for Finance - Training Week](/events/agentic-ai-for-finance-training-week/)
 
 Mon 01 Dec
 
@@ -118,13 +118,13 @@ Seminar Room EG 1, RBI Head Office
 
 More info
 
-[RSVP](https://www.digital-finance-msca.com/event-details-registration/agentic-ai-for-finance-training-week)
+[RSVP](/events/agentic-ai-for-finance-training-week/)
 
   * ![AI in Financial Markets Research Forum #2](/images/events/d826e4_a9478570a8f4473f9c028b29134ebdab_mv2_fe6561eb.jpg)
 
 ![AI in Financial Markets Research Forum #2](/images/general/d826e4_a9478570a8f4473f9c028b29134ebdab_mv2_cdd35c3d.jpg)
 
-[AI in Financial Markets Research Forum #2](https://www.digital-finance-msca.com/event-details-registration/ai-in-financial-markets-research-forum-2)
+[AI in Financial Markets Research Forum #2](/events/ai-in-financial-markets-research-forum-2/)
 
 Thu 04 Dec
 
@@ -132,13 +132,13 @@ Sky 1, RBI Head Office
 
 More info
 
-[Details](https://www.digital-finance-msca.com/event-details-registration/ai-in-financial-markets-research-forum-2)
+[Details](/events/ai-in-financial-markets-research-forum-2/)
 
   * ![MSCA TRAINING - History and prospects of Digital Finance](/images/events/be156d_8ae097b3ca684a358d60ab2d1f6953b7_mv2_a876c318.jpg)
 
 ![MSCA TRAINING - History and prospects of Digital Finance](/images/general/be156d_8ae097b3ca684a358d60ab2d1f6953b7_mv2_341b73c9.jpg)
 
-[MSCA TRAINING - History and prospects of Digital Finance](https://www.digital-finance-msca.com/event-details-registration/msca-training-history-and-prospects-of-digital-finance)
+[MSCA TRAINING - History and prospects of Digital Finance](/events/msca-training-history-and-prospects-of-digital-finance/)
 
 Tue 09 Dec
 
@@ -146,13 +146,13 @@ University of Naples Federico II
 
 More info
 
-[Details](https://www.digital-finance-msca.com/event-details-registration/msca-training-history-and-prospects-of-digital-finance)
+[Details](/events/msca-training-history-and-prospects-of-digital-finance/)
 
   * ![SSM Annual Research Conference](/images/events/d826e4_62ca734927164fddb5cf20aa18f3df97_mv2_f3f3e8b1.jpg)
 
 ![SSM Annual Research Conference](/images/events/d826e4_62ca734927164fddb5cf20aa18f3df97_mv2_f3f3e8b1.jpg)
 
-[SSM Annual Research Conference](https://www.digital-finance-msca.com/event-details-registration/ssm-annual-research-conference)
+[SSM Annual Research Conference](/events/ssm-annual-research-conference/)
 
 Tue 09 Dec
 
@@ -160,13 +160,13 @@ Frankfurt am Main
 
 More info
 
-[Details](https://www.digital-finance-msca.com/event-details-registration/ssm-annual-research-conference)
+[Details](/events/ssm-annual-research-conference/)
 
   * ![Machine Learning in Industry](/images/events/58ddb0_129fa770606340c3a3adaddf66364709_mv2_1087b41e.webp)
 
 ![Machine Learning in Industry](/images/events/58ddb0_129fa770606340c3a3adaddf66364709_mv2_1087b41e.webp)
 
-[Machine Learning in Industry](https://www.digital-finance-msca.com/event-details-registration/machine-learning-in-industry)
+[Machine Learning in Industry](/training-modules/machine-learning-in-industry/)
 
 Mon 16 Mar
 
@@ -174,13 +174,13 @@ Milano
 
 More info
 
-[Details](https://www.digital-finance-msca.com/event-details-registration/machine-learning-in-industry)
+[Details](/training-modules/machine-learning-in-industry/)
 
   * ![Training Week on Blockchains in Digital Finance](/images/events/1cd49e_a016279297484502abb50be78642fc92_mv2_26d0c7c4.jpg)
 
 ![Training Week on Blockchains in Digital Finance](/images/events/1cd49e_a016279297484502abb50be78642fc92_mv2_26d0c7c4.jpg)
 
-[Training Week on Blockchains in Digital Finance](https://www.digital-finance-msca.com/event-details-registration/training-week-on-blockchains-in-digital-finance)
+[Training Week on Blockchains in Digital Finance](/events/training-week-on-blockchains-in-digital-finance/)
 
 Mon 30 Mar
 
@@ -188,17 +188,17 @@ Bucharest University of Economic Studies
 
 More info
 
-[Details](https://www.digital-finance-msca.com/event-details-registration/training-week-on-blockchains-in-digital-finance)
+[Details](/events/training-week-on-blockchains-in-digital-finance/)
 
 Load More
 
-[All Events](https://www.digital-finance-msca.com/events)
+[All Events](/members-area/stephanie-blum/events/)
 
 ## News
 
 ![Professor Härdle on FinTech, Machine Learning, and the Future of Economics](/images/general/1cd49e_5d6b52789fe142d7bdd0070add493908_mv2_39913031.webp)![Professor Härdle on FinTech, Machine Learning, and the Future of Economics](/images/general/1cd49e_5d6b52789fe142d7bdd0070add493908_mv2_00671474.webp)
 
-## [Professor Härdle on FinTech, Machine Learning, and the Future of Economics](https://www.digital-finance-msca.com/post/professor-härdle-on-fintech-machine-learning-and-the-future-of-economics)
+## [Professor Härdle on FinTech, Machine Learning, and the Future of Economics](/blog/professor-härdle-on-fintech-machine-learning-and-the-future-of-economics/)
 
 In an engaging conversation at Fudan University, Professor Wolfgang Härdle reflected on the role of machine learning and data science in...
 
@@ -206,7 +206,7 @@ Aug 28
 
 ![Boundaries of Explainable AI in Financial Time Series](/images/general/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_89b1e96c.webp)![Boundaries of Explainable AI in Financial Time Series](/images/general/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_89ce1829.webp)
 
-## [Boundaries of Explainable AI in Financial Time Series](https://www.digital-finance-msca.com/post/boundaries-of-explainable-ai-in-financial-time-series)
+## [Boundaries of Explainable AI in Financial Time Series](/blog/boundaries-of-explainable-ai-in-financial-time-series/)
 
 Studies on Explainable AI (XAI) have greatly increased in number - but there are issues. In a research seminar at Bern University of...
 
@@ -214,10 +214,10 @@ Jun 5
 
 ![dcs-midterm-meeting](/images/general/d826e4_84ad17b931a847de935d4e33d1b50379_mv2_6073565d.webp)![dcs-midterm-meeting](/images/general/d826e4_84ad17b931a847de935d4e33d1b50379_mv2_199c6f31.webp)
 
-## [Progress and Partnership: MidTerm-Meeting and Technical Training at the University of Twente](https://www.digital-finance-msca.com/post/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente)
+## [Progress and Partnership: MidTerm-Meeting and Technical Training at the University of Twente](/blog/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente/)
 
 Last week, the University of Twente hosted a week of technical training and the MidTerm Meeting of the MSCA Digital project. The week...
 
 May 27
 
-[All News](https://www.digital-finance-msca.com/blog)
+[All News](/blog/)

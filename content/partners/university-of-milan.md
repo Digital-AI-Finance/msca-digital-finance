@@ -33,4 +33,4 @@ Claudia Tarantola
 
 ​
 
-[All partners ](https://www.digital-finance-msca.com/our-partners)
+[All partners ](/our-partners/)

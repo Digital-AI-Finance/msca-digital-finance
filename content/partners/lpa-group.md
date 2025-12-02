@@ -39,4 +39,4 @@ Sandro Schmid
 
 Training and expertise in AI, risk and financial advisory, hosting ESRs, research
 
-[All partners ](https://www.digital-finance-msca.com/our-partners)
+[All partners ](/our-partners/)

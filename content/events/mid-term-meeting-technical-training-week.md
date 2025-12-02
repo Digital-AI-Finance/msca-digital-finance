@@ -38,7 +38,7 @@ Erlenmeyer Room - The Gallery - UTwente , The Gallery, Hengelosestraat 500, 7521
 
 ## About the event
 
-👉 [_Event review and pictures_](https://www.digital-finance-msca.com/post/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente)
+👉 [_Event review and pictures_](/blog/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente/)
 
   
 

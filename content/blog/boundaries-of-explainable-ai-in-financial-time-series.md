@@ -18,7 +18,7 @@ images:
 - /images/blog/logo-nobackground-500_c3c8414f.png
 ---
 
-* [All Posts](https://www.digital-finance-msca.com/blog)
+* [All Posts](/blog/)
   * [WP1](https://www.digital-finance-msca.com/blog/categories/wp1)
   * [WP2](https://www.digital-finance-msca.com/blog/categories/wp2)
   * [WP3](https://www.digital-finance-msca.com/blog/categories/wp3)
@@ -29,7 +29,7 @@ Search
 
 # Boundaries of Explainable AI in Financial Time Series
 
-  * [stephanieblum7](https://www.digital-finance-msca.com/members-area/stephanie-blum/profile)
+  * [stephanieblum7](/members-area/stephanie-blum/profile/)
   * Jun 5
   * 1 min read
 
@@ -53,7 +53,7 @@ The project is funded by the European Union’s Horizon Europe programme under t
 
   
 
-[Presentation and Event Information](https://www.digital-finance-msca.com/event-details-registration/research-seminar-explainable-ai-methods-for-financial-time-series-wp3)
+[Presentation and Event Information](/events/research-seminar-explainable-ai-methods-for-financial-time-series-wp3/)
 
   
 
@@ -75,11 +75,11 @@ The project is funded by the European Union’s Horizon Europe programme under t
 
 ## Recent Posts
 
-[See All](https://www.digital-finance-msca.com/blog)
+[See All](/blog/)
 
-[![dcs-midterm-meeting](/images/blog/d826e4_84ad17b931a847de935d4e33d1b50379_mv2_cd0f0cf9.jpg)](https://www.digital-finance-msca.com/post/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente)
+[![dcs-midterm-meeting](/images/blog/d826e4_84ad17b931a847de935d4e33d1b50379_mv2_cd0f0cf9.jpg)](/blog/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente/)
 
-[Progress and Partnership: MidTerm-Meeting and Technical Training at the University of Twente](https://www.digital-finance-msca.com/post/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente)
+[Progress and Partnership: MidTerm-Meeting and Technical Training at the University of Twente](/blog/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente/)
 
 89
 
@@ -87,9 +87,9 @@ The project is funded by the European Union’s Horizon Europe programme under t
 
 1 like. Post not marked as liked1
 
-[![Rethinking Reinforcement Learning in Finance](/images/blog/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_a9c296d0.jpg)](https://www.digital-finance-msca.com/post/rethinking-reinforcement-learning-in-finance)
+[![Rethinking Reinforcement Learning in Finance](/images/blog/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_a9c296d0.jpg)](/blog/rethinking-reinforcement-learning-in-finance/)
 
-[Rethinking Reinforcement Learning in Finance](https://www.digital-finance-msca.com/post/rethinking-reinforcement-learning-in-finance)
+[Rethinking Reinforcement Learning in Finance](/blog/rethinking-reinforcement-learning-in-finance/)
 
 28
 
@@ -97,9 +97,9 @@ The project is funded by the European Union’s Horizon Europe programme under t
 
 Post not marked as liked
 
-[![MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics \(ICMS25\)](/images/blog/e64bca_d254ab4d6e2248fea09cfc247802b775_mv2_702ebb53.jpg)](https://www.digital-finance-msca.com/post/msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i)
+[![MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics \(ICMS25\)](/images/blog/e64bca_d254ab4d6e2248fea09cfc247802b775_mv2_702ebb53.jpg)](/blog/msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i/)
 
-[MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics (ICMS25)](https://www.digital-finance-msca.com/post/msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i)
+[MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics (ICMS25)](/blog/msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i/)
 
 26
 

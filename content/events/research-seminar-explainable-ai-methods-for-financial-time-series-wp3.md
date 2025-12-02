@@ -58,7 +58,7 @@ The WP3 meeting and research seminar includes a research talk by **Jens Reil** ,
 
   * [ _Presentation_](https://d826e4cd-c8f5-4a33-8796-53db3c44a7be.usrfiles.com/ugd/d826e4_f5ade505c31a4f5c8430b02e0f4ef3d6.pdf)
 
-  * [ _News article_](/post/boundaries-of-explainable-ai-in-financial-time-series)
+  * [ _News article_](/blog/boundaries-of-explainable-ai-in-financial-time-series/)
 
   
 

@@ -18,7 +18,7 @@ images:
 - /images/blog/11062b_9e78da3320da497ab23ce28d738d388a_mv2_ae27c472.png
 ---
 
-* [All Posts](https://www.digital-finance-msca.com/blog)
+* [All Posts](/blog/)
   * [WP1](https://www.digital-finance-msca.com/blog/categories/wp1)
   * [WP2](https://www.digital-finance-msca.com/blog/categories/wp2)
   * [WP3](https://www.digital-finance-msca.com/blog/categories/wp3)
@@ -31,7 +31,7 @@ Search
 
   * ![Writer: Branka Hadji-Misheva](/images/blog/AATXAJy16JcE0FkJ6L_EZT3EZBrSKxyZAhDR-WdJ_d2e4fc6f.jpg)
 
-[Branka Hadji-Misheva](https://www.digital-finance-msca.com/members-area/brankahm/profile)
+[Branka Hadji-Misheva](/members-area/stephanie-blum/profile/)
   * May 31, 2024
   * 2 min read
 
@@ -99,11 +99,11 @@ Post not marked as liked
 
 ## Recent Posts
 
-[See All](https://www.digital-finance-msca.com/blog)
+[See All](/blog/)
 
-[![Professor Härdle on FinTech, Machine Learning, and the Future of Economics](/images/blog/1cd49e_5d6b52789fe142d7bdd0070add493908_mv2_4f28601f.webp)](https://www.digital-finance-msca.com/post/professor-härdle-on-fintech-machine-learning-and-the-future-of-economics)
+[![Professor Härdle on FinTech, Machine Learning, and the Future of Economics](/images/blog/1cd49e_5d6b52789fe142d7bdd0070add493908_mv2_4f28601f.webp)](/blog/professor-härdle-on-fintech-machine-learning-and-the-future-of-economics/)
 
-[Professor Härdle on FinTech, Machine Learning, and the Future of Economics](https://www.digital-finance-msca.com/post/professor-härdle-on-fintech-machine-learning-and-the-future-of-economics)
+[Professor Härdle on FinTech, Machine Learning, and the Future of Economics](/blog/professor-härdle-on-fintech-machine-learning-and-the-future-of-economics/)
 
 69
 
@@ -111,9 +111,9 @@ Post not marked as liked
 
 1 like. Post not marked as liked1
 
-[![Boundaries of Explainable AI in Financial Time Series](/images/blog/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_a9c296d0.jpg)](https://www.digital-finance-msca.com/post/boundaries-of-explainable-ai-in-financial-time-series)
+[![Boundaries of Explainable AI in Financial Time Series](/images/blog/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_a9c296d0.jpg)](/blog/boundaries-of-explainable-ai-in-financial-time-series/)
 
-[Boundaries of Explainable AI in Financial Time Series](https://www.digital-finance-msca.com/post/boundaries-of-explainable-ai-in-financial-time-series)
+[Boundaries of Explainable AI in Financial Time Series](/blog/boundaries-of-explainable-ai-in-financial-time-series/)
 
 35
 
@@ -121,9 +121,9 @@ Post not marked as liked
 
 1 like. Post not marked as liked1
 
-[![dcs-midterm-meeting](/images/blog/d826e4_84ad17b931a847de935d4e33d1b50379_mv2_cd0f0cf9.jpg)](https://www.digital-finance-msca.com/post/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente)
+[![dcs-midterm-meeting](/images/blog/d826e4_84ad17b931a847de935d4e33d1b50379_mv2_cd0f0cf9.jpg)](/blog/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente/)
 
-[Progress and Partnership: MidTerm-Meeting and Technical Training at the University of Twente](https://www.digital-finance-msca.com/post/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente)
+[Progress and Partnership: MidTerm-Meeting and Technical Training at the University of Twente](/blog/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente/)
 
 90
 

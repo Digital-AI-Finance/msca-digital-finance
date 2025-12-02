@@ -102,7 +102,7 @@ MSCA DIGITAL takes part in multiple events​ advocating for Open Science:
 
   * Annually attend an Open Science Festival
 
-  * DIGITAL provides a [course on Open Science Principles](https://www.digital-finance-msca.com/training-modules/open-science-principles) (with mandatory attendees for PhD candidates)
+  * DIGITAL provides a [course on Open Science Principles](/training-modules/open-science-principles/) (with mandatory attendees for PhD candidates)
 
 ## Q&A about Open Science in MSCA DIGITAL
 

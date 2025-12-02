@@ -61,13 +61,13 @@ Under this research stream, FOUR doctoral candidates will tackle the following r
 
 ### Audience-dependent explanations
 
-[Audience-dependent explanations](https://www.digital-finance-msca.com/audience-dependent-explanations)
+[Audience-dependent explanations](/audience-dependent-explanations/)
 
 Description:  To address the issue of explainability in complex models, the literature has proposed an ever-expanding list of post-hoc explainability methods that can be used to gain some understanding of the inner workings of complex models. However, explaining the inner workings of algorithms and their interpretation is entirely dependent on the target audience. The existing literature fails to match the growing number of explainable AI (XAI) methods with the varying explainability requirements of stakeholders. To promote the widespread adoption of AI-based systems in finance, additional research is required to map the requirements of explainable systems across the various stakeholders in the finance industry.
 
   
 
-Host: [University of Naples Federico II](https://www.digital-finance-msca.com/university-of-naples-federico-ii)
+Host: [University of Naples Federico II](/partners/university-of-naples-federico-ii/)
 
   
 
@@ -83,7 +83,7 @@ Fraunhofer Institute (FRA), Prof. Dr. Ralf Korn, M39, 6 months, improve know-how
 
 ### Investigating the utility of classical XAI methods in financial time series
 
-[Investigating the utility of classical XAI methods in financial time series ](https://www.digital-finance-msca.com/investigating-the-utility)
+[Investigating the utility of classical XAI methods in financial time series ](/investigating-the-utility/)
 
   
 
@@ -91,7 +91,7 @@ Description:  The introduction of complex ML and DL methods for financial time s
 
   
 
-Host: [Bern Business School](https://www.digital-finance-msca.com/bern-university-of-applied-sciences-bfh)
+Host: [Bern Business School](/bern-university-of-applied-sciences-bfh/)
 
   
 
@@ -105,7 +105,7 @@ Bank for International Settlements (BIS). Rafael Schmidt, M39, 6 months, contrib
 
 ### Fair Algorithmic Design and Portfolio Optimization under Sustainability Concerns
 
-[Fair Algorithmic Design and Portfolio Optimization under Sustainability Concerns](https://www.digital-finance-msca.com/fair-algorithmic-design)
+[Fair Algorithmic Design and Portfolio Optimization under Sustainability Concerns](/fair-algorithmic-design/)
 
   
 
@@ -113,7 +113,7 @@ Description: The surge in interest in algorithmic fairness and sustainability is
 
   
 
-Host: [Bern Business School](https://www.digital-finance-msca.com/bern-university-of-applied-sciences-bfh)
+Host: [Bern Business School](/bern-university-of-applied-sciences-bfh/)
 
   
 
@@ -127,7 +127,7 @@ European Central Bank (ECB). Dr. Lukazs Kubicki, M33, 12 months, exposure to glo
 
 ### Strengthening European financial service providers through applicable reinforcement learning
 
-[Strengthening European financial service providers through applicable reinforcement learning](https://www.digital-finance-msca.com/strengthening-european-financial)
+[Strengthening European financial service providers through applicable reinforcement learning](/strengthening-european-financial/)
 
   
 
@@ -135,7 +135,7 @@ Description: Reinforcement Learning (RL) has become popular for automating uncer
 
   
 
-Host: [University of Twente](https://www.digital-finance-msca.com/university-of-twente)
+Host: [University of Twente](/partners/university-of-twente/)
 
   
 
@@ -149,26 +149,26 @@ European Central Bank (ECB), Lukasz Kubicki, M33, 12 months, training on EU prin
 
 ## News
 
-## [Professor Härdle on FinTech, Machine Learning, and the Future of Economics](https://www.digital-finance-msca.com/post/professor-härdle-on-fintech-machine-learning-and-the-future-of-economics)
+## [Professor Härdle on FinTech, Machine Learning, and the Future of Economics](/blog/professor-härdle-on-fintech-machine-learning-and-the-future-of-economics/)
 
 ![Professor Härdle on FinTech, Machine Learning, and the Future of Economics](/images/general/1cd49e_5d6b52789fe142d7bdd0070add493908_mv2_05f7d8eb.webp)![Professor Härdle on FinTech, Machine Learning, and the Future of Economics](/images/general/1cd49e_5d6b52789fe142d7bdd0070add493908_mv2_085132e1.webp)
 
-## [Boundaries of Explainable AI in Financial Time Series](https://www.digital-finance-msca.com/post/boundaries-of-explainable-ai-in-financial-time-series)
+## [Boundaries of Explainable AI in Financial Time Series](/blog/boundaries-of-explainable-ai-in-financial-time-series/)
 
 ![Boundaries of Explainable AI in Financial Time Series](/images/general/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_71790cd4.webp)![Boundaries of Explainable AI in Financial Time Series](/images/general/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_97e49b44.webp)
 
-## [Progress and Partnership: MidTerm-Meeting and Technical Training at the University of Twente](https://www.digital-finance-msca.com/post/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente)
+## [Progress and Partnership: MidTerm-Meeting and Technical Training at the University of Twente](/blog/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente/)
 
 ![dcs-midterm-meeting](/images/general/d826e4_84ad17b931a847de935d4e33d1b50379_mv2_1f776234.webp)![dcs-midterm-meeting](/images/general/d826e4_84ad17b931a847de935d4e33d1b50379_mv2_676ef052.webp)
 
-## [Rethinking Reinforcement Learning in Finance](https://www.digital-finance-msca.com/post/rethinking-reinforcement-learning-in-finance)
+## [Rethinking Reinforcement Learning in Finance](/blog/rethinking-reinforcement-learning-in-finance/)
 
 ![Rethinking Reinforcement Learning in Finance](/images/general/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_71790cd4.webp)![Rethinking Reinforcement Learning in Finance](/images/general/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_97e49b44.webp)
 
-## [MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics (ICMS25)](https://www.digital-finance-msca.com/post/msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i)
+## [MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics (ICMS25)](/blog/msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i/)
 
 ![MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics \(ICMS25\)](/images/general/e64bca_d254ab4d6e2248fea09cfc247802b775_mv2_e2ebc614.webp)![MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics \(ICMS25\)](/images/general/e64bca_d254ab4d6e2248fea09cfc247802b775_mv2_e5fd6819.webp)
 
-## [MSCA DIGITAL at AI in Financial Markets Research Forum](https://www.digital-finance-msca.com/post/msca-digital-at-ai-in-financial-markets-research-forum)
+## [MSCA DIGITAL at AI in Financial Markets Research Forum](/blog/msca-digital-at-ai-in-financial-markets-research-forum/)
 
 ![MSCA DIGITAL at AI in Financial Markets Research Forum](/images/general/a607fb_41431d2040214d8e91cdf7830b9b7cf1_mv2_d9a57e23.webp)![MSCA DIGITAL at AI in Financial Markets Research Forum](/images/general/a607fb_41431d2040214d8e91cdf7830b9b7cf1_mv2_2f5a1c12.webp)

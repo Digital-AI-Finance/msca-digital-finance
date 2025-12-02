@@ -37,4 +37,4 @@ Ralf Korn
 
 Theoretical and applied expertise in machine learning, times-series forecasting and credit portfolio analysis.
 
-[All partners ](https://www.digital-finance-msca.com/our-partners)
+[All partners ](/our-partners/)

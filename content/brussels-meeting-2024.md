@@ -16,12 +16,12 @@ images:
 - /images/general/Liu_Yiting_2dea6393.jpg
 ---
 
-* [Summary](https://www.digital-finance-msca.com/brussels-meeting-2024)
-  * [Date & Venue](https://www.digital-finance-msca.com/brussels-meeting-2024)
-  * [Schedule](https://www.digital-finance-msca.com/brussels-meeting-2024)
-  * [Speakers](https://www.digital-finance-msca.com/brussels-meeting-2024)
-  * [Organizing Committee](https://www.digital-finance-msca.com/brussels-meeting-2024)
-  * [How to Attend](https://www.digital-finance-msca.com/brussels-meeting-2024)
+* [Summary](/brussels-meeting-2024/)
+  * [Date & Venue](/brussels-meeting-2024/)
+  * [Schedule](/brussels-meeting-2024/)
+  * [Speakers](/brussels-meeting-2024/)
+  * [Organizing Committee](/brussels-meeting-2024/)
+  * [How to Attend](/brussels-meeting-2024/)
 
 ![Black Hole Grid](/images/general/11062b_eea4abb7bfb949028c1923e7b90e232a_mv2_e06bdc10.jpg)
 

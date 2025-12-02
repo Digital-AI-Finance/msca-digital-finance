@@ -21,13 +21,13 @@ images:
 
 This project will study the problem of anomaly and fraud detection from the perspective of blockchain-based networks. Anomaly and fraud detection in blockchain-based networks is more complex due to their unique properties such as decentralisation, global reach, anonymity, etc., which make them different from traditional networks.
 
-[DISCOVER MORE](https://www.digital-finance-msca.com/blockchain)
+[DISCOVER MORE](/blockchain/)
 
 ### International Advanced Fellowship on Digital Finance
 
 The ongoing programme for strengthening and supporting research excellence at the Babeș-Bolyai University (UBB) is further developed through the “STAR-UBB Academic Research Network of Excellence (STAR-UBB-N)” project, based on the Science, Technology, Engineering and Mathematics (STEM+) model implemented at an institutional level and coordinated by the Institute for Advanced Studies in Science and Technology – STAR-UBB – (STAR – Scientific and Technological Advanced Research)
 
-[DISCOVER MORE](https://www.digital-finance-msca.com/international-advanced-fellowship-ubb)
+[DISCOVER MORE](/international-advanced-fellowship-ubb/)
 
 ### COST Action 19130 - Fintech and AI in Finance
 
@@ -46,16 +46,16 @@ At Kickstart AI we believe the future is positively shaped by AI. That is why ou
 The detection of financial bubbles is a topic of significant importance, not only for the financial industry but for society overall. For central banks it is crucial to identify systemic risks from imbalanced markets as early as possible in order to counteract timely and avoid financial crises.  
 The SNSF Narrative Digital Finance project aims to explore financial markets analysis around asset price bubbles and structural breaks with a novel approach, integrating narrative economics and natural language processing (NLP), with the ultimate goal of formulating a more holistic approach by including more available data.
 
-[DISCOVER MORE](https://www.digital-finance-msca.com/snsf-narrative-digital-finance)
+[DISCOVER MORE](/snsf-narrative-digital-finance/)
 
 ### SNSF - Network-based Credit Risk Modeling in Peer-to-Peer Lending Markets 
 
 The SNSF project "Network-Based Credit Risk Models in P2P Lending Markets" focuses on developing advanced and interpretable credit risk models tailored for peer-to-peer (P2P) lending platforms. Unlike traditional bank lending, P2P lending connects borrowers directly with investors via online platforms, bypassing banks. While P2P platforms offer lower operational costs and attract diverse investors, they also face higher credit risks due to looser regulation and greater information asymmetry. The project aims to address these risks by creating robust credit risk models to build trust and mitigate issues like adverse selection and moral hazard, especially in the face of economic crises.
 
-[DISCOVER MORE](https://www.digital-finance-msca.com/network-based-credit-risk-models-snsf)
+[DISCOVER MORE](/network-based-credit-risk-models-snsf/)
 
 ## Want to collaborate & work with MSCA DIGITAL?
 
-Whether you are a [student looking for a paid PhD position](https://www.digital-finance-msca.com/open-phd-positions), an academic actor (university, research center) who is interested in contributing to [research and training](https://www.digital-finance-msca.com/research-projects), an institution/company/business who wants to contribute through [secondments](https://www.digital-finance-msca.com/secondments) and funding opportunities from new frontier research, ​or if you are a media outlet who would like to discuss access to our [events](https://www.digital-finance-msca.com) and communication [material](https://www.digital-finance-msca.com/media), make sure you [contact us.](https://www.digital-finance-msca.com/contact-us)
+Whether you are a [student looking for a paid PhD position](/open-phd-positions/), an academic actor (university, research center) who is interested in contributing to [research and training](/research-projects/), an institution/company/business who wants to contribute through [secondments](/secondments/) and funding opportunities from new frontier research, ​or if you are a media outlet who would like to discuss access to our [events](https://www.digital-finance-msca.com) and communication [material](/media/), make sure you [contact us.](/contact-us/)
 
 ​

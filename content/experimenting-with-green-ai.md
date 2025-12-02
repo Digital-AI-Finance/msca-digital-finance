@@ -27,7 +27,7 @@ images:
 
   * Work Packages: WP5, WP6, WP7, WP8
 
-  * Lead researcher: [Ismail Elbouknify](https://www.digital-finance-msca.com/people/ismail-elbouknify)
+  * Lead researcher: [Ismail Elbouknify](/people/ismail-elbouknify/)
 
 ### Objectives
 

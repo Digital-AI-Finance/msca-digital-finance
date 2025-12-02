@@ -32,4 +32,4 @@ With more than 1,200 IT professionals, Accesa also has a fast-growing footprint,
 
 Accesa is open to collaborations across the network.
 
-[All partners ](https://www.digital-finance-msca.com/our-partners)
+[All partners ](/our-partners/)

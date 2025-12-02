@@ -37,4 +37,4 @@ Barbara Będowska-Sójka
 
 The PUEB contributes data on cryptos and expertise in portfolio and risk management, compliance and regulatory reporting.
 
-[All partners ](https://www.digital-finance-msca.com/our-partners)
+[All partners ](/our-partners/)

@@ -1,0 +1,24 @@
+{
+  "sync_date": "2025-12-02T16:00:08.290170",
+  "summary": {
+    "total_urls_discovered": 387,
+    "urls_to_download": 1,
+    "urls_unchanged": 386,
+    "new_urls": 0,
+    "downloaded": 1,
+    "empty": 0,
+    "errors": 0
+  },
+  "downloaded": [
+    {
+      "url": "https://www.digital-finance-msca.com/blog",
+      "status": "downloaded",
+      "file": "content\\blog.md",
+      "title": "Blog | Digital Finance MSCA",
+      "content_length": 1009,
+      "images": 8
+    }
+  ],
+  "errors": [],
+  "empty": []
+}

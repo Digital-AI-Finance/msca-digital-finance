@@ -27,7 +27,7 @@ images:
 
   * Work Packages: WP1, WP6, WP7, WP8
 
-  * Lead researcher: [David Siang-Li Jheng](https://www.digital-finance-msca.com/people/david-siang-li-jheng)
+  * Lead researcher: [David Siang-Li Jheng](/people/david-siang-li-jheng/)
 
 ### Objectives
 

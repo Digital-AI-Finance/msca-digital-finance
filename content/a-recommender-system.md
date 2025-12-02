@@ -27,7 +27,7 @@ images:
 
   * Work Packages: WP5, WP6, WP7, WP8
 
-  * Lead researcher: [Mohamed Faid](https://www.digital-finance-msca.com/people/mohamed-faid)
+  * Lead researcher: [Mohamed Faid](/people/mohamed-faid/)
 
 ### Objectives
 

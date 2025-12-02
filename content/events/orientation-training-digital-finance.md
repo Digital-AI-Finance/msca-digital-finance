@@ -36,7 +36,7 @@ Credits: 3 ECTS
 
   
 
-[ _More information on trainings_](https://www.digital-finance-msca.com/training-events/orientation-training-digital-finance)
+[ _More information on trainings_](/training-events/orientation-training-digital-finance/)
 
   
 

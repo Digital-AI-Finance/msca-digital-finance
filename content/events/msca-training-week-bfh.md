@@ -30,7 +30,7 @@ Bern, Eigerpl. 5A, 3007 Bern, Switzerland
 
 ## About the event
 
-Link to further details: [_https://www.digital-finance-msca.com/event-details-registration/explainable-ai-training-week_](https://www.digital-finance-msca.com/event-details-registration/explainable-ai-training-week)
+Link to further details: [_https://www.digital-finance-msca.com/event-details-registration/explainable-ai-training-week_](/events/explainable-ai-training-week/)
 
 Show More
 

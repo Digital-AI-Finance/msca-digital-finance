@@ -49,4 +49,4 @@ Franz Xaver Zobl
 
 Raiffeisen Research contributes data, training on financial research, and overall expertise in retail banking, asset management, covering Eastern Europe. Furthermore, Raiffeisen Research is hosting ESRs and transferable skills training, and doing research
 
-[All partners ](https://www.digital-finance-msca.com/our-partners)
+[All partners ](/our-partners/)

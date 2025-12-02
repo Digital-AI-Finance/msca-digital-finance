@@ -75,4 +75,4 @@ Adrian Costea
 
 ASE contributes data on cryptos, SMEs financial data as well as theoretical and applied expertise in building predictive ML and DL models for finance, clustering and community detection algorithms, and case-study analysis.
 
-[All partners ](https://www.digital-finance-msca.com/our-partners)
+[All partners ](/our-partners/)

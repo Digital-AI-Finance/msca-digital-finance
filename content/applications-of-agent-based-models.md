@@ -27,7 +27,7 @@ images:
 
   * Work Packages: WP5, WP6, WP7, WP8
 
-  * Lead researcher: [Megang Nkamga Junile Staures](https://www.digital-finance-msca.com/people/megang-nkamga-junile-staures)
+  * Lead researcher: [Megang Nkamga Junile Staures](/people/megang-nkamga-junile-staures/)
 
 ### Objectives
 

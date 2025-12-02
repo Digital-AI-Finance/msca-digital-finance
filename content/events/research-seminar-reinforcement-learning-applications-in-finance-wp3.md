@@ -62,7 +62,7 @@ During the presentation, Mathis will share his insights into the existing litera
 
   * [ _Presentation_](https://d826e4cd-c8f5-4a33-8796-53db3c44a7be.usrfiles.com/ugd/d826e4_1ea50c5078b64060b6b80f87329411eb.pdf)
 
-  * [ _News article_](https://www.digital-finance-msca.com/post/rethinking-reinforcement-learning-in-finance)
+  * [ _News article_](/blog/rethinking-reinforcement-learning-in-finance/)
 
   
 

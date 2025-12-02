@@ -24,7 +24,7 @@ Technology has already changed the way Finance industry works. To deal with the 
 
 This is DIGITAL FINANCE
 
-[About Us](https://www.digital-finance-msca.com/our-partners)
+[About Us](/our-partners/)
 
 MSCA Digital Finance
 
@@ -81,7 +81,7 @@ Who we are
 
 We have gathered an internationally recognized network consisting of eight leading European Universities (WU Vienna University of Economics and Business, Humboldt-Universität zu Berlin, University of Twente, Bucharest University of Economic Studies, Babes-Bolyai University, Bern Business School, Kaunas University of Technology and University of Naples), all ranked among the top 200 universities globally in their fields, five major international corporations (Deloitte, Swedbank, Intesa Sanpaolo, Bank for International Settlements (BIS), and Raiffeisen Bank) with a significant R&D presence across Europe, two SMEs (Cardo AI and Royalton Partners) being some of the most innovative ones in their field, three large and internationally renowned research centres (ARC Greece, EIT Digital and Fraunhofer Institute) and the European Central Bank, as one of the seven principal decision-making bodies of the European Union and the Euratom as well as one of the world's most important central banks. 
 
-[Learn More](https://www.digital-finance-msca.com/our-partners)
+[Learn More](/our-partners/)
 
 Outputs
 
@@ -235,7 +235,7 @@ Blog
 
 ![Professor Härdle on FinTech, Machine Learning, and the Future of Economics](/images/general/1cd49e_5d6b52789fe142d7bdd0070add493908_mv2_60578734.webp)![Professor Härdle on FinTech, Machine Learning, and the Future of Economics](/images/general/1cd49e_5d6b52789fe142d7bdd0070add493908_mv2_303c9f4b.webp)
 
-## [Professor Härdle on FinTech, Machine Learning, and the Future of Economics](https://www.digital-finance-msca.com/post/professor-härdle-on-fintech-machine-learning-and-the-future-of-economics)
+## [Professor Härdle on FinTech, Machine Learning, and the Future of Economics](/blog/professor-härdle-on-fintech-machine-learning-and-the-future-of-economics/)
 
 In an engaging conversation at Fudan University, Professor Wolfgang Härdle reflected on the role of machine learning and data science in...
 
@@ -243,7 +243,7 @@ Aug 28
 
 ![Boundaries of Explainable AI in Financial Time Series](/images/general/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_c6809467.webp)![Boundaries of Explainable AI in Financial Time Series](/images/general/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_e616107b.webp)
 
-## [Boundaries of Explainable AI in Financial Time Series](https://www.digital-finance-msca.com/post/boundaries-of-explainable-ai-in-financial-time-series)
+## [Boundaries of Explainable AI in Financial Time Series](/blog/boundaries-of-explainable-ai-in-financial-time-series/)
 
 Studies on Explainable AI (XAI) have greatly increased in number - but there are issues. In a research seminar at Bern University of...
 
@@ -251,7 +251,7 @@ Jun 5
 
 ![dcs-midterm-meeting](/images/general/d826e4_84ad17b931a847de935d4e33d1b50379_mv2_6073565d.webp)![dcs-midterm-meeting](/images/general/d826e4_84ad17b931a847de935d4e33d1b50379_mv2_4a2d7228.webp)
 
-## [Progress and Partnership: MidTerm-Meeting and Technical Training at the University of Twente](https://www.digital-finance-msca.com/post/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente)
+## [Progress and Partnership: MidTerm-Meeting and Technical Training at the University of Twente](/blog/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente/)
 
 Last week, the University of Twente hosted a week of technical training and the MidTerm Meeting of the MSCA Digital project. The week...
 

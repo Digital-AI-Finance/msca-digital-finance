@@ -19,7 +19,7 @@ images:
 - /images/blog/unnamed_c029ae93.png
 ---
 
-* [All Posts](https://www.digital-finance-msca.com/blog)
+* [All Posts](/blog/)
   * [WP1](https://www.digital-finance-msca.com/blog/categories/wp1)
   * [WP2](https://www.digital-finance-msca.com/blog/categories/wp2)
   * [WP3](https://www.digital-finance-msca.com/blog/categories/wp3)
@@ -30,7 +30,7 @@ Search
 
 # Progress and Partnership: MidTerm-Meeting and Technical Training at the University of Twente
 
-  * [stephanieblum7](https://www.digital-finance-msca.com/members-area/stephanie-blum/profile)
+  * [stephanieblum7](/members-area/stephanie-blum/profile/)
   * May 27
   * 1 min read
 
@@ -66,7 +66,7 @@ The training week also served as a reminder of the rich diversity and expertise 
 
 **Links**
 
-  * [ _Event program_](https://www.digital-finance-msca.com/event-details-registration/mid-term-meeting-technical-training-week)
+  * [ _Event program_](/events/mid-term-meeting-technical-training-week/)
 
   * [ _News article of the University of Naples Federico II_](https://www.unina.it/-/73942953-la-federico-ii-protagonista-alla-midterm-conference)
 
@@ -86,11 +86,11 @@ The training week also served as a reminder of the rich diversity and expertise 
 
 ## Recent Posts
 
-[See All](https://www.digital-finance-msca.com/blog)
+[See All](/blog/)
 
-[![Boundaries of Explainable AI in Financial Time Series](/images/blog/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_a9c296d0.jpg)](https://www.digital-finance-msca.com/post/boundaries-of-explainable-ai-in-financial-time-series)
+[![Boundaries of Explainable AI in Financial Time Series](/images/blog/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_a9c296d0.jpg)](/blog/boundaries-of-explainable-ai-in-financial-time-series/)
 
-[Boundaries of Explainable AI in Financial Time Series](https://www.digital-finance-msca.com/post/boundaries-of-explainable-ai-in-financial-time-series)
+[Boundaries of Explainable AI in Financial Time Series](/blog/boundaries-of-explainable-ai-in-financial-time-series/)
 
 35
 
@@ -98,9 +98,9 @@ The training week also served as a reminder of the rich diversity and expertise 
 
 1 like. Post not marked as liked1
 
-[![Rethinking Reinforcement Learning in Finance](/images/blog/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_a9c296d0.jpg)](https://www.digital-finance-msca.com/post/rethinking-reinforcement-learning-in-finance)
+[![Rethinking Reinforcement Learning in Finance](/images/blog/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_a9c296d0.jpg)](/blog/rethinking-reinforcement-learning-in-finance/)
 
-[Rethinking Reinforcement Learning in Finance](https://www.digital-finance-msca.com/post/rethinking-reinforcement-learning-in-finance)
+[Rethinking Reinforcement Learning in Finance](/blog/rethinking-reinforcement-learning-in-finance/)
 
 28
 
@@ -108,9 +108,9 @@ The training week also served as a reminder of the rich diversity and expertise 
 
 Post not marked as liked
 
-[![MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics \(ICMS25\)](/images/blog/e64bca_d254ab4d6e2248fea09cfc247802b775_mv2_702ebb53.jpg)](https://www.digital-finance-msca.com/post/msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i)
+[![MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics \(ICMS25\)](/images/blog/e64bca_d254ab4d6e2248fea09cfc247802b775_mv2_702ebb53.jpg)](/blog/msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i/)
 
-[MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics (ICMS25)](https://www.digital-finance-msca.com/post/msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i)
+[MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics (ICMS25)](/blog/msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i/)
 
 26
 

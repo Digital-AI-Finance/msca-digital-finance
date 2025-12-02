@@ -27,7 +27,7 @@ images:
 
   * Work Packages: WP2, WP6, WP7, WP8
 
-  * Lead researcher: [Owen Chaffard](https://www.digital-finance-msca.com/people/owen-chaffard)
+  * Lead researcher: [Owen Chaffard](/people/owen-chaffard/)
 
 ### Objectives
 

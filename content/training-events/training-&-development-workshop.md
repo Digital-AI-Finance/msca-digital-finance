@@ -21,7 +21,7 @@ images:
   * Leading institution: Kaunas University of Technology
 
   * EC: 2[ _**  
-**_](https://www.digital-finance-msca.com/kaunas-university-of-technology)
+**_](/partners/kaunas-university-of-technology/)
 
 ### General Description
 

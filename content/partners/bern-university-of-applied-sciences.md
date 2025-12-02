@@ -87,4 +87,4 @@ Gabin Taibi
 
 Co-lead of DN, WP 3, 7 Lead. The BFH contributes data on SME and personal loan performance and ESG scoring as well as expertise in algorithmic design, ML and DL models for credit risk management, deploying explainable AI systems, hosting ESRs, Transferable Skills Training, Research.
 
-[All partners ](https://www.digital-finance-msca.com/our-partners)
+[All partners ](/our-partners/)

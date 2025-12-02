@@ -16,14 +16,14 @@ images:
 - /images/general/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_71790cd4.webp
 ---
 
-* [Untitled](https://www.digital-finance-msca.com/wp9-ethics-digital)
-  * [About](https://www.digital-finance-msca.com/wp9-ethics-digital)
-  * [Untitled](https://www.digital-finance-msca.com/wp9-ethics-digital)
-  * [Team](https://www.digital-finance-msca.com/wp9-ethics-digital)
-  * [Research topics](https://www.digital-finance-msca.com/wp9-ethics-digital)
-  * [Events](https://www.digital-finance-msca.com/wp9-ethics-digital)
-  * [News](https://www.digital-finance-msca.com/wp9-ethics-digital)
-  * [Footer](https://www.digital-finance-msca.com/wp9-ethics-digital)
+* [Untitled](/wp9-ethics-digital/)
+  * [About](/wp9-ethics-digital/)
+  * [Untitled](/wp9-ethics-digital/)
+  * [Team](/wp9-ethics-digital/)
+  * [Research topics](/wp9-ethics-digital/)
+  * [Events](/wp9-ethics-digital/)
+  * [News](/wp9-ethics-digital/)
+  * [Footer](/wp9-ethics-digital/)
 
 ## Work Package 9  
 Ethics in DIGITAL
@@ -174,26 +174,26 @@ These measurements needs to be documented in a report at month 24 and another re
 
 ## News
 
-## [Professor Härdle on FinTech, Machine Learning, and the Future of Economics](https://www.digital-finance-msca.com/post/professor-härdle-on-fintech-machine-learning-and-the-future-of-economics)
+## [Professor Härdle on FinTech, Machine Learning, and the Future of Economics](/blog/professor-härdle-on-fintech-machine-learning-and-the-future-of-economics/)
 
 ![Professor Härdle on FinTech, Machine Learning, and the Future of Economics](/images/general/1cd49e_5d6b52789fe142d7bdd0070add493908_mv2_05f7d8eb.webp)![Professor Härdle on FinTech, Machine Learning, and the Future of Economics](/images/general/1cd49e_5d6b52789fe142d7bdd0070add493908_mv2_085132e1.webp)
 
-## [Boundaries of Explainable AI in Financial Time Series](https://www.digital-finance-msca.com/post/boundaries-of-explainable-ai-in-financial-time-series)
+## [Boundaries of Explainable AI in Financial Time Series](/blog/boundaries-of-explainable-ai-in-financial-time-series/)
 
 ![Boundaries of Explainable AI in Financial Time Series](/images/general/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_71790cd4.webp)![Boundaries of Explainable AI in Financial Time Series](/images/general/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_97e49b44.webp)
 
-## [Progress and Partnership: MidTerm-Meeting and Technical Training at the University of Twente](https://www.digital-finance-msca.com/post/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente)
+## [Progress and Partnership: MidTerm-Meeting and Technical Training at the University of Twente](/blog/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente/)
 
 ![dcs-midterm-meeting](/images/general/d826e4_84ad17b931a847de935d4e33d1b50379_mv2_1f776234.webp)![dcs-midterm-meeting](/images/general/d826e4_84ad17b931a847de935d4e33d1b50379_mv2_676ef052.webp)
 
-## [Rethinking Reinforcement Learning in Finance](https://www.digital-finance-msca.com/post/rethinking-reinforcement-learning-in-finance)
+## [Rethinking Reinforcement Learning in Finance](/blog/rethinking-reinforcement-learning-in-finance/)
 
 ![Rethinking Reinforcement Learning in Finance](/images/general/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_71790cd4.webp)![Rethinking Reinforcement Learning in Finance](/images/general/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_97e49b44.webp)
 
-## [MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics (ICMS25)](https://www.digital-finance-msca.com/post/msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i)
+## [MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics (ICMS25)](/blog/msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i/)
 
 ![MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics \(ICMS25\)](/images/general/e64bca_d254ab4d6e2248fea09cfc247802b775_mv2_e2ebc614.webp)![MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics \(ICMS25\)](/images/general/e64bca_d254ab4d6e2248fea09cfc247802b775_mv2_e5fd6819.webp)
 
-## [MSCA DIGITAL at AI in Financial Markets Research Forum](https://www.digital-finance-msca.com/post/msca-digital-at-ai-in-financial-markets-research-forum)
+## [MSCA DIGITAL at AI in Financial Markets Research Forum](/blog/msca-digital-at-ai-in-financial-markets-research-forum/)
 
 ![MSCA DIGITAL at AI in Financial Markets Research Forum](/images/general/a607fb_41431d2040214d8e91cdf7830b9b7cf1_mv2_d9a57e23.webp)![MSCA DIGITAL at AI in Financial Markets Research Forum](/images/general/a607fb_41431d2040214d8e91cdf7830b9b7cf1_mv2_2f5a1c12.webp)

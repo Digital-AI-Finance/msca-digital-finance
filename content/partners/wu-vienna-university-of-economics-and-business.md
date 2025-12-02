@@ -47,4 +47,4 @@ Bettina Grun
 
 WP 2 Lead, theoretical and applied expertise in building supervised and unsupervised ML systems, AI and financial technology, applied mathematical programming
 
-[All partners ](https://www.digital-finance-msca.com/our-partners)
+[All partners ](/our-partners/)

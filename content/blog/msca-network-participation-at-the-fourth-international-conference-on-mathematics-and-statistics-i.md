@@ -19,7 +19,7 @@ images:
 - /images/blog/d826e4_7dcbe49c67394160a8efaf859c585a9b_mv2_a8413586.png
 ---
 
-* [All Posts](https://www.digital-finance-msca.com/blog)
+* [All Posts](/blog/)
   * [WP1](https://www.digital-finance-msca.com/blog/categories/wp1)
   * [WP2](https://www.digital-finance-msca.com/blog/categories/wp2)
   * [WP3](https://www.digital-finance-msca.com/blog/categories/wp3)
@@ -30,7 +30,7 @@ Search
 
 # MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics (ICMS25)
 
-  * [fsbernard](https://www.digital-finance-msca.com/members-area/f-s-bernard/profile)
+  * [fsbernard](/members-area/stephanie-blum/profile/)
   * Feb 14
   * 2 min read
 
@@ -38,11 +38,11 @@ Search
 
   
 
-The [_Fourth International Conference on Mathematics and Statistics (ICMS25),_](https://www.digital-finance-msca.com/event-details-registration/msca-digital-the-4th-international-conference-on-mathematics-and-statistics) hosted by the American University of Sharjah, will serve as a premier forum for scholars, industry experts, and policymakers to discuss cutting-edge research and advancements in mathematical sciences and statistical methodologies. Against the backdrop of rapid technological progress and evolving financial ecosystems, this conference will provide an interdisciplinary platform to explore the role of mathematical and statistical tools in economic, financial, and technological developments.
+The [_Fourth International Conference on Mathematics and Statistics (ICMS25),_](/events/msca-digital-the-4th-international-conference-on-mathematics-and-statistics/) hosted by the American University of Sharjah, will serve as a premier forum for scholars, industry experts, and policymakers to discuss cutting-edge research and advancements in mathematical sciences and statistical methodologies. Against the backdrop of rapid technological progress and evolving financial ecosystems, this conference will provide an interdisciplinary platform to explore the role of mathematical and statistical tools in economic, financial, and technological developments.
 
   
 
-[_Joerg Osterrieder_](https://www.digital-finance-msca.com/people/joerg-osterrieder) , PI of MSCA DIGITAL, continues to foster the close partnerships the project has with participants beyond the core network, and notably by participating at ICMS25 in multiple capacities, contributing to discussions on high-frequency trading, financial econometrics, and digital finance. The engagements at the conference will include:
+[_Joerg Osterrieder_](/people/joerg-osterrieder/) , PI of MSCA DIGITAL, continues to foster the close partnerships the project has with participants beyond the core network, and notably by participating at ICMS25 in multiple capacities, contributing to discussions on high-frequency trading, financial econometrics, and digital finance. The engagements at the conference will include:
 
   
 
@@ -72,16 +72,16 @@ We look forward to engaging with scholars, practitioners, and policymakers at IC
 
 ## Recent Posts
 
-[See All](https://www.digital-finance-msca.com/blog)
+[See All](/blog/)
 
-[![Boundaries of Explainable AI in Financial Time Series](/images/blog/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_a9c296d0.jpg)](https://www.digital-finance-msca.com/post/boundaries-of-explainable-ai-in-financial-time-series)
+[![Boundaries of Explainable AI in Financial Time Series](/images/blog/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_a9c296d0.jpg)](/blog/boundaries-of-explainable-ai-in-financial-time-series/)
 
-[Boundaries of Explainable AI in Financial Time Series](https://www.digital-finance-msca.com/post/boundaries-of-explainable-ai-in-financial-time-series)
+[Boundaries of Explainable AI in Financial Time Series](/blog/boundaries-of-explainable-ai-in-financial-time-series/)
 
-[![dcs-midterm-meeting](/images/blog/d826e4_84ad17b931a847de935d4e33d1b50379_mv2_cd0f0cf9.jpg)](https://www.digital-finance-msca.com/post/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente)
+[![dcs-midterm-meeting](/images/blog/d826e4_84ad17b931a847de935d4e33d1b50379_mv2_cd0f0cf9.jpg)](/blog/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente/)
 
-[Progress and Partnership: MidTerm-Meeting and Technical Training at the University of Twente](https://www.digital-finance-msca.com/post/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente)
+[Progress and Partnership: MidTerm-Meeting and Technical Training at the University of Twente](/blog/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente/)
 
-[![Rethinking Reinforcement Learning in Finance](/images/blog/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_a9c296d0.jpg)](https://www.digital-finance-msca.com/post/rethinking-reinforcement-learning-in-finance)
+[![Rethinking Reinforcement Learning in Finance](/images/blog/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_a9c296d0.jpg)](/blog/rethinking-reinforcement-learning-in-finance/)
 
-[Rethinking Reinforcement Learning in Finance](https://www.digital-finance-msca.com/post/rethinking-reinforcement-learning-in-finance)
+[Rethinking Reinforcement Learning in Finance](/blog/rethinking-reinforcement-learning-in-finance/)

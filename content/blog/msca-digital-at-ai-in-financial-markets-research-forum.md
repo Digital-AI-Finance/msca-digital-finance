@@ -18,7 +18,7 @@ images:
 - /images/blog/logo-nobackground-500_c3c8414f.png
 ---
 
-* [All Posts](https://www.digital-finance-msca.com/blog)
+* [All Posts](/blog/)
   * [WP1](https://www.digital-finance-msca.com/blog/categories/wp1)
   * [WP2](https://www.digital-finance-msca.com/blog/categories/wp2)
   * [WP3](https://www.digital-finance-msca.com/blog/categories/wp3)
@@ -31,7 +31,7 @@ Search
 
   * ![Writer: Bjorn van Braak](/images/blog/ACg8ocJeSbf9mEFxd10z9gx4zAkJ5kc5ec3slzdv_d2da825e.jpg)
 
-[Bjorn van Braak](https://www.digital-finance-msca.com/members-area/b-vanbraak/profile)
+[Bjorn van Braak](/members-area/stephanie-blum/profile/)
   * Dec 11, 2024
   * 1 min read
 
@@ -39,13 +39,13 @@ The MSCA DIGITAL Network was cordially invited by Raiffeisen Research for hostin
 
   
 
-In the morning Dr. [Frédérik Sinan Bernard](https://www.digital-finance-msca.com/people/fr%C3%A9d%C3%A9rik-sinan-bernard), post-doctoral researcher at the University of Twente and project manager of MSCA DIGITAL, got the opportunity to introduce the research project and our mission. Thereafter, Dr. [Codruta Mare](https://www.digital-finance-msca.com/people/codruta-mare) underscored the importance of industry involved within creating her Work Package, related to European Financial Data Space. 
+In the morning Dr. [Frédérik Sinan Bernard](https://www.digital-finance-msca.com/people/fr%C3%A9d%C3%A9rik-sinan-bernard), post-doctoral researcher at the University of Twente and project manager of MSCA DIGITAL, got the opportunity to introduce the research project and our mission. Thereafter, Dr. [Codruta Mare](/people/codruta-mare/) underscored the importance of industry involved within creating her Work Package, related to European Financial Data Space. 
 
-Dr. [Ronald Hochreiter](https://www.digital-finance-msca.com/people/ronald-hochreiter) then concluded and talked about the role AI will play in Financial Market and how companies can benefit. The speakers also took part in the afternoon session 'AI for Financial Markets and Applications in Finance'.
+Dr. [Ronald Hochreiter](/people/ronald-hochreiter/) then concluded and talked about the role AI will play in Financial Market and how companies can benefit. The speakers also took part in the afternoon session 'AI for Financial Markets and Applications in Finance'.
 
   
 
-We would like to thank [Stefan Theussl](https://www.digital-finance-msca.com/people/stefan-theussl) and associates of Raiffeisen Research for facilitating the event and discussions on AI in Finance. See the link to their [_original LinkedIn post_](https://www.linkedin.com/posts/raiffeisen-research_thank-you-for-making-ai-in-financial-markets-activity-7262423325421805568-SyNY?utm_source=share&utm_medium=member_desktop) for more details about the event.
+We would like to thank [Stefan Theussl](/people/stefan-theussl/) and associates of Raiffeisen Research for facilitating the event and discussions on AI in Finance. See the link to their [_original LinkedIn post_](https://www.linkedin.com/posts/raiffeisen-research_thank-you-for-making-ai-in-financial-markets-activity-7262423325421805568-SyNY?utm_source=share&utm_medium=member_desktop) for more details about the event.
 
 101
 
@@ -59,11 +59,11 @@ Post not marked as liked
 
 ## Recent Posts
 
-[See All](https://www.digital-finance-msca.com/blog)
+[See All](/blog/)
 
-[![Professor Härdle on FinTech, Machine Learning, and the Future of Economics](/images/blog/1cd49e_5d6b52789fe142d7bdd0070add493908_mv2_4f28601f.webp)](https://www.digital-finance-msca.com/post/professor-härdle-on-fintech-machine-learning-and-the-future-of-economics)
+[![Professor Härdle on FinTech, Machine Learning, and the Future of Economics](/images/blog/1cd49e_5d6b52789fe142d7bdd0070add493908_mv2_4f28601f.webp)](/blog/professor-härdle-on-fintech-machine-learning-and-the-future-of-economics/)
 
-[Professor Härdle on FinTech, Machine Learning, and the Future of Economics](https://www.digital-finance-msca.com/post/professor-härdle-on-fintech-machine-learning-and-the-future-of-economics)
+[Professor Härdle on FinTech, Machine Learning, and the Future of Economics](/blog/professor-härdle-on-fintech-machine-learning-and-the-future-of-economics/)
 
 69
 
@@ -71,9 +71,9 @@ Post not marked as liked
 
 1 like. Post not marked as liked1
 
-[![Boundaries of Explainable AI in Financial Time Series](/images/blog/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_a9c296d0.jpg)](https://www.digital-finance-msca.com/post/boundaries-of-explainable-ai-in-financial-time-series)
+[![Boundaries of Explainable AI in Financial Time Series](/images/blog/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_a9c296d0.jpg)](/blog/boundaries-of-explainable-ai-in-financial-time-series/)
 
-[Boundaries of Explainable AI in Financial Time Series](https://www.digital-finance-msca.com/post/boundaries-of-explainable-ai-in-financial-time-series)
+[Boundaries of Explainable AI in Financial Time Series](/blog/boundaries-of-explainable-ai-in-financial-time-series/)
 
 35
 
@@ -81,9 +81,9 @@ Post not marked as liked
 
 1 like. Post not marked as liked1
 
-[![dcs-midterm-meeting](/images/blog/d826e4_84ad17b931a847de935d4e33d1b50379_mv2_cd0f0cf9.jpg)](https://www.digital-finance-msca.com/post/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente)
+[![dcs-midterm-meeting](/images/blog/d826e4_84ad17b931a847de935d4e33d1b50379_mv2_cd0f0cf9.jpg)](/blog/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente/)
 
-[Progress and Partnership: MidTerm-Meeting and Technical Training at the University of Twente](https://www.digital-finance-msca.com/post/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente)
+[Progress and Partnership: MidTerm-Meeting and Technical Training at the University of Twente](/blog/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente/)
 
 90
 

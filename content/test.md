@@ -38,17 +38,17 @@ Network members
 
 ![](/images/general/1cd49e_8010f3ff4a44434db91f6190cddac31d_mv2_e4244a78.png)
 
-[![](/images/general/1cd49e_6d1978dfccc94ec0bf4e476f84c1d02f_mv2_9b78380d.jpg)](https://www.digital-finance-msca.com/university-of-kaiserslautern-landau)
+[![](/images/general/1cd49e_6d1978dfccc94ec0bf4e476f84c1d02f_mv2_9b78380d.jpg)](/partners/university-of-kaiserslautern-landau/)
 
 ![](/images/general/1cd49e_f8e9f4c68c6c45b1956d0d81fc44c9eb_mv2_f0c6bf47.png)
 
-[![](/images/general/1cd49e_addcfb49777e4a119d9cf0d9a4aacdd9_mv2_2867f0af.png)](https://www.digital-finance-msca.com/bank-for-international-settlements)
+[![](/images/general/1cd49e_addcfb49777e4a119d9cf0d9a4aacdd9_mv2_2867f0af.png)](/partners/bank-for-international-settlements/)
 
 ![](/images/general/1cd49e_10f10ad078e64dd383d7d7f8ed044f02_mv2_b60eef2a.png)
 
 ![](/images/general/1cd49e_ba8a9de6244949c5a654cfdacf1da124_mv2_6209863f.png)
 
-[![](/images/general/4bb5b1_83bb995e4b54470fac4b5fe0d8028fe1_mv2_88225eed.jpg)](https://www.digital-finance-msca.com/deutsche-bank)
+[![](/images/general/4bb5b1_83bb995e4b54470fac4b5fe0d8028fe1_mv2_88225eed.jpg)](/partners/deutsche-bank/)
 
 ![](/images/general/1cd49e_1bc3fb664787440ba4616444e494fa7e_mv2_f45bbc4c.png)
 
@@ -60,7 +60,7 @@ Network members
 
 ![](/images/general/1cd49e_96676fa5ffbe4f808d93951da014285b_mv2_7b382463.png)
 
-[![](/images/general/1cd49e_c973ff91e63c4b739ab1562c314bcc5e_mv2_aad7383e.png)](https://www.digital-finance-msca.com/american-university-of-sharjah)
+[![](/images/general/1cd49e_c973ff91e63c4b739ab1562c314bcc5e_mv2_aad7383e.png)](/partners/american-university-of-sharjah/)
 
 ![](/images/general/4bb5b1_dae14a96eaa24c6880abec1c8b5f7bdc_mv2_1a8183ee.png)
 
@@ -144,8 +144,8 @@ Date| Start Time| Session| Topic| Speaker
 | | | |   
   
 [![](/images/general/1cd49e_f7478479e3f64190804bd3df886359e1_mv2_469cb6f4.jpg)Joerg OsterriederProfessor of Applied Data Science and Finance at BFH  
-](https://www.digital-finance-msca.com/people/joerg-osterrieder)[![](/images/general/1cd49e_08083793a0494a7b926eb182b10367b2_mv2_84bb3db7.jpg)Branka Hadji MishevaProfessor of Applied Data Science and Finance at BFH  
-](https://www.digital-finance-msca.com/people/branka-hadji-misheva)
+](/people/joerg-osterrieder/)[![](/images/general/1cd49e_08083793a0494a7b926eb182b10367b2_mv2_84bb3db7.jpg)Branka Hadji MishevaProfessor of Applied Data Science and Finance at BFH  
+](/people/branka-hadji-misheva/)
 
 ![](/images/general/1cd49e_4175ba63b4f341f2b34f902806cf6456_mv2_cd899d98.png)
 
@@ -209,7 +209,7 @@ Please register [here](https://utwente-nl.zoom.us/meeting/register/tZwufuGqqz4iG
 
 ​
 
-[![Osterrieder.jpg](/images/general/Osterrieder_db6768aa.jpg)](https://www.digital-finance-msca.com/people/joerg-osterrieder)
+[![Osterrieder.jpg](/images/general/Osterrieder_db6768aa.jpg)](/people/joerg-osterrieder/)
 
 ### Artificial Intelligence and Deep Reinforcement Learning in Finance
 
@@ -262,197 +262,197 @@ WP 9
 
 [If you want to collaborate on WP3 - click here ](https://universiteittwente.sharepoint.com/:x:/r/sites/MSCADigitalFinance2/Gedeelde%20documenten/WP3%20Towards%20EXPLAINABLE%20AI/Joint%20collaborations/Collaboration%20on%20papers%20\(prior%20PhD%20hiring\).xlsx?d=w7fbe93a3907143a799d00cf743f47c38&csf=1&web=1&e=1L3RFJ)
 
-  * ###### [Adrian Costea (ASE, Bucharest)](https://www.digital-finance-msca.com/people/adrian-costea)
+  * ###### [Adrian Costea (ASE, Bucharest)](/people/adrian-costea/)
 
-  * ###### [Daniel Traian Pele (ASE, Bucharest)](https://www.digital-finance-msca.com/people/daniel-traian-pele)
+  * ###### [Daniel Traian Pele (ASE, Bucharest)](/people/daniel-traian-pele/)
 
-  * ###### [Vasile Strat (ASE, Bucharest)](https://www.digital-finance-msca.com/people/vasile-strat)
+  * ###### [Vasile Strat (ASE, Bucharest)](/people/vasile-strat/)
 
-  * ###### [Catalina Chinie (ASE, Bucharest)](https://www.digital-finance-msca.com/people/catalina-chinie)
+  * ###### [Catalina Chinie (ASE, Bucharest)](/people/catalina-chinie/)
 
-  * ###### [Theodore Dalamagas (Athena Research Center, Greece)](https://www.digital-finance-msca.com/people/theodore-dalamagas)
+  * ###### [Theodore Dalamagas (Athena Research Center, Greece)](/people/theodore-dalamagas/)
 
-  * ###### [Giorgos Giannopoulos (Athena Research Center, Greece)](https://www.digital-finance-msca.com/people/giorgos-giannopoulos)
+  * ###### [Giorgos Giannopoulos (Athena Research Center, Greece)](/people/giorgos-giannopoulos/)
 
-  * ###### [Ioannis Emiris (Athena Research Center, Greece, and U. Athens)](https://www.digital-finance-msca.com/people/ioannis-emiris)
+  * ###### [Ioannis Emiris (Athena Research Center, Greece, and U. Athens)](/people/ioannis-emiris/)
 
-  * ###### [Codruta Mare (Babes-Bolyai University)](https://www.digital-finance-msca.com/people/codruta-mare)
+  * ###### [Codruta Mare (Babes-Bolyai University)](/people/codruta-mare/)
 
-  * ###### [Cristian Mihai Dragoș (Babes-Bolyai University)](https://www.digital-finance-msca.com/people/cristian-mihai-dragos)
+  * ###### [Cristian Mihai Dragoș (Babes-Bolyai University)](/people/cristian-mihai-dragos/)
 
-  * ###### [Monica Violeta Achim (Babes-Bolyai University)](https://www.digital-finance-msca.com/people/monica-violeta-achim)
+  * ###### [Monica Violeta Achim (Babes-Bolyai University)](/people/monica-violeta-achim/)
 
-  * ###### [Adam Kurpisz (Bern Business School)](https://www.digital-finance-msca.com/people/adam-kurpisz)
+  * ###### [Adam Kurpisz (Bern Business School)](/people/adam-kurpisz/)
 
-  * ###### [Branka Hadji Misheva (Bern Business School)](https://www.digital-finance-msca.com/people/branka-hadji-misheva)
+  * ###### [Branka Hadji Misheva (Bern Business School)](/people/branka-hadji-misheva/)
 
-  * ###### [Christian Hopp (Bern Business School)](https://www.digital-finance-msca.com/people/christian-hopp)
+  * ###### [Christian Hopp (Bern Business School)](/people/christian-hopp/)
 
-  * ###### [Lennart Baals (Bern Business School)](https://www.digital-finance-msca.com/people/lennart-baals)
+  * ###### [Lennart Baals (Bern Business School)](/people/lennart-baals/)
 
-  * ###### [Yiting Liu (Bern Business School)](https://www.digital-finance-msca.com/people/yiting-liu)
+  * ###### [Yiting Liu (Bern Business School)](/people/yiting-liu/)
 
-  * ###### [Gennaro Di Brino (Cardo AI)](https://www.digital-finance-msca.com/people/gennaro-di-brino)
+  * ###### [Gennaro Di Brino (Cardo AI)](/people/gennaro-di-brino/)
 
-  * ###### [Rubin Haxhiymeri (Cardo AI)](https://www.digital-finance-msca.com/people/rubin-haxhiymeri)
+  * ###### [Rubin Haxhiymeri (Cardo AI)](/people/rubin-haxhiymeri/)
 
-  * ###### [Arben Zibri (Cardo AI)](https://www.digital-finance-msca.com/people/arben-zibri)
+  * ###### [Arben Zibri (Cardo AI)](/people/arben-zibri/)
 
-  * ###### [Stefano Panazzi (Cardo AI)](https://www.digital-finance-msca.com/people/stefano-penazzi)
+  * ###### [Stefano Panazzi (Cardo AI)](/people/stefano-penazzi/)
 
-  * ###### [Alberto Ferrario (Deloitte Consulting)](https://www.digital-finance-msca.com/people/alberto-ferrario)
+  * ###### [Alberto Ferrario (Deloitte Consulting)](/people/alberto-ferrario/)
 
-  * ###### [Maurizio Di Noia (Deloitte Consulting)](https://www.digital-finance-msca.com/people/maurizio-di-noia)
+  * ###### [Maurizio Di Noia (Deloitte Consulting)](/people/maurizio-di-noia/)
 
-  * ###### [Matteo Macera Zappavigna (Deloitte Consulting)](https://www.digital-finance-msca.com/people/matteo-macera-zappavigna)
+  * ###### [Matteo Macera Zappavigna (Deloitte Consulting)](/people/matteo-macera-zappavigna/)
 
-  * ###### [Filippo Bartoli (ECB)](https://www.digital-finance-msca.com/people/filippo-bartoli)
+  * ###### [Filippo Bartoli (ECB)](/people/filippo-bartoli/)
 
-  * ###### [Theodoros Mastrokostopoulos (ECB)](https://www.digital-finance-msca.com/people/theodoros-mastrokostopoulos)
+  * ###### [Theodoros Mastrokostopoulos (ECB)](/people/theodoros-mastrokostopoulos/)
 
-  * ###### [Ronald Hochreiter (WU Vienna University of Economics and Business)](https://www.digital-finance-msca.com/people/ronald-hochreiter)[Salvatore ](https://www.digital-finance-msca.com/people/salvatore-moccia)
+  * ###### [Ronald Hochreiter (WU Vienna University of Economics and Business)](/people/ronald-hochreiter/)[Salvatore ](/people/salvatore-moccia/)
 
   * ###### Moccia (EIT Digital)
 
-  * ###### [Tuan Trinh (EIT Digital)](https://www.digital-finance-msca.com/people/tuan-trinh)
+  * ###### [Tuan Trinh (EIT Digital)](/people/tuan-trinh/)
 
-  * ###### [Mattia Bellotti (EIT Digital)](https://www.digital-finance-msca.com/people/mattia-bellotti)
+  * ###### [Mattia Bellotti (EIT Digital)](/people/mattia-bellotti/)
 
-  * ###### [Jörg Wenzel (Fraunhofer ITWM)](https://www.digital-finance-msca.com/people/jorg-wenzel)
+  * ###### [Jörg Wenzel (Fraunhofer ITWM)](/people/jorg-wenzel/)
 
-  * ###### [Ralf Korn (Fraunhofer ITWM)](https://www.digital-finance-msca.com/people/ralf-korn)
+  * ###### [Ralf Korn (Fraunhofer ITWM)](/people/ralf-korn/)
 
-  * ###### [Stefanie Schwaar (Fraunhofer ITWM)](https://www.digital-finance-msca.com/people/stefanie-schwaar)
+  * ###### [Stefanie Schwaar (Fraunhofer ITWM)](/people/stefanie-schwaar/)
 
-  * ###### [Stefano Penazzi (Cardo AI)](https://www.digital-finance-msca.com/people/stefano-penazzi)
+  * ###### [Stefano Penazzi (Cardo AI)](/people/stefano-penazzi/)
 
-  * ###### [Audrius Kabasinskas (Kaunas University of Technology)](https://www.digital-finance-msca.com/people/audrius-kabasinskas)
+  * ###### [Audrius Kabasinskas (Kaunas University of Technology)](/people/audrius-kabasinskas/)
 
-  * ###### [Eimutis Valakevičius (Kaunas University of Technology)](https://www.digital-finance-msca.com/people/eimutis-valakevicius)
+  * ###### [Eimutis Valakevičius (Kaunas University of Technology)](/people/eimutis-valakevicius/)
 
-  * ###### [Kristina Šutienė (Kaunas University of Technology)](https://www.digital-finance-msca.com/people/kristina-sutiene)
+  * ###### [Kristina Šutienė (Kaunas University of Technology)](/people/kristina-sutiene/)
 
-  * ###### [Franz Xaver Zobl (Raiffeisen Bank International AG)](https://www.digital-finance-msca.com/people/franz-xaver-zobl)
+  * ###### [Franz Xaver Zobl (Raiffeisen Bank International AG)](/people/franz-xaver-zobl/)
 
-  * ###### [Simon Haller (Raiffeisen Bank International AG)](https://www.digital-finance-msca.com/people/simon-haller)
+  * ###### [Simon Haller (Raiffeisen Bank International AG)](/people/simon-haller/)
 
-  * ###### [Stefan Theussl (Raiffeisen Bank International AG)](https://www.digital-finance-msca.com/people/stefan-theussl)
+  * ###### [Stefan Theussl (Raiffeisen Bank International AG)](/people/stefan-theussl/)
 
   * ###### Roman Bakba (Royalton Partners)
 
-  * ###### [Julian Winkel (Royalton Partners)](https://www.digital-finance-msca.com/people/julian-winkel)
+  * ###### [Julian Winkel (Royalton Partners)](/people/julian-winkel/)
 
-  * ###### [Przemyslaw Bielicki (Royalton Partners)](https://www.digital-finance-msca.com/people/przemyslaw-bielicki)
+  * ###### [Przemyslaw Bielicki (Royalton Partners)](/people/przemyslaw-bielicki/)
 
-  * ###### [Nigel Williams (Royalton Partners)](https://www.digital-finance-msca.com/people/nigel-williams)
+  * ###### [Nigel Williams (Royalton Partners)](/people/nigel-williams/)
 
-  * ###### [Aidas Malakauskas (Swedbank)](https://www.digital-finance-msca.com/people/aidas-malakauskas)
+  * ###### [Aidas Malakauskas (Swedbank)](/people/aidas-malakauskas/)
 
-  * ###### [Tadas Gudaitis (Swedbank)](https://www.digital-finance-msca.com/people/tadas-gudaitis)
+  * ###### [Tadas Gudaitis (Swedbank)](/people/tadas-gudaitis/)
 
-  * ###### [Nerijus Mačiulis (Swedbank)](https://www.digital-finance-msca.com/people/nerijus-maciulis)
+  * ###### [Nerijus Mačiulis (Swedbank)](/people/nerijus-maciulis/)
 
-  * ###### [Kyrylo Medianovskyi (Swedbank)](https://www.digital-finance-msca.com/people/kyrylo-medianovskyi)
+  * ###### [Kyrylo Medianovskyi (Swedbank)](/people/kyrylo-medianovskyi/)
 
-  * ###### [Huei-Wen Teng (National Yang Ming Chiao Tung University)](https://www.digital-finance-msca.com/people/huei-wen-teng)
+  * ###### [Huei-Wen Teng (National Yang Ming Chiao Tung University)](/people/huei-wen-teng/)
 
-  * ###### [Bettina Grün (WU Vienna University of Economics and Business)](https://www.digital-finance-msca.com/people/bettina-grun)
+  * ###### [Bettina Grün (WU Vienna University of Economics and Business)](/people/bettina-grun/)
 
-  * ###### [Kurt Hornik (WU Vienna University of Economics and Business)](https://www.digital-finance-msca.com/people/kurt-hornik)
+  * ###### [Kurt Hornik (WU Vienna University of Economics and Business)](/people/kurt-hornik/)
 
-  * ###### ​[Wolfgang Härdle (Humboldt-Universität zu Berlin)](https://www.digital-finance-msca.com/people/wolfgang-hardle)
+  * ###### ​[Wolfgang Härdle (Humboldt-Universität zu Berlin)](/people/wolfgang-hardle/)
 
-  * ###### [Rui Ren (Humboldt-Universität zu Berlin)](https://www.digital-finance-msca.com/people/rui-ren)
+  * ###### [Rui Ren (Humboldt-Universität zu Berlin)](/people/rui-ren/)
 
-  * ###### [Francesco Palumbo (University of Naples Federico II)](https://www.digital-finance-msca.com/people/francesco-palumbo)
+  * ###### [Francesco Palumbo (University of Naples Federico II)](/people/francesco-palumbo/)
 
-  * ###### [Alfonso Iodice D'Enza (University of Naples Federico II)](https://www.digital-finance-msca.com/people/alfonso-iodice-d'enza)
+  * ###### [Alfonso Iodice D'Enza (University of Naples Federico II)](/people/alfonso-iodice-d'enza/)
 
-  * ###### [Maria Iannario (University of Naples Federico II)](https://www.digital-finance-msca.com/people/maria-iannario)
+  * ###### [Maria Iannario (University of Naples Federico II)](/people/maria-iannario/)
 
-  * ###### [Domenico Cuonzo (University of Naples Federico II)](https://www.digital-finance-msca.com/people/domenico-ciuonzo)
+  * ###### [Domenico Cuonzo (University of Naples Federico II)](/people/domenico-ciuonzo/)
 
-  * ###### [Abhista Abhista (University of Twente)](https://www.digital-finance-msca.com/people/abhista-abhista)
+  * ###### [Abhista Abhista (University of Twente)](/people/abhista-abhista/)
 
-  * ###### [Lukasz Kubicki (European Central Bank)](https://www.digital-finance-msca.com/people/lukasz-kubicki)
+  * ###### [Lukasz Kubicki (European Central Bank)](/people/lukasz-kubicki/)
 
-  * ###### [Daniela Schackis (European Central Bank)](https://www.digital-finance-msca.com/people/daniela-schackis)
+  * ###### [Daniela Schackis (European Central Bank)](/people/daniela-schackis/)
 
-  * ###### [Ioana Coita (University of Twente)](https://www.digital-finance-msca.com/people/ioana-coita)
+  * ###### [Ioana Coita (University of Twente)](/people/ioana-coita/)
 
-  * ###### [Joerg Osterrieder (University of Twente)](https://www.digital-finance-msca.com/people/joerg-osterrieder)
+  * ###### [Joerg Osterrieder (University of Twente)](/people/joerg-osterrieder/)
 
-  * ###### [Jos van Hillegersberg (University of Twente)](https://www.digital-finance-msca.com/people/jos-van-hillegersberg)
+  * ###### [Jos van Hillegersberg (University of Twente)](/people/jos-van-hillegersberg/)
 
-  * ###### ​[Laura Spierdijk (University of Twente)](https://www.digital-finance-msca.com/people/laura-spierdijk)
+  * ###### ​[Laura Spierdijk (University of Twente)](/people/laura-spierdijk/)
 
-  * ###### [Marcos Machado (University of Twente)](https://www.digital-finance-msca.com/people/marcos-machado)
+  * ###### [Marcos Machado (University of Twente)](/people/marcos-machado/)
 
-  * ###### [Martijn Mes (University of Twente)](https://www.digital-finance-msca.com/people/martijn-mes)
+  * ###### [Martijn Mes (University of Twente)](/people/martijn-mes/)
 
-  * ###### [Wouter van Heeswijk (University of Twente)](https://www.digital-finance-msca.com/people/wouter-van-heeswijk)
+  * ###### [Wouter van Heeswijk (University of Twente)](/people/wouter-van-heeswijk/)
 
-  * ###### [Julius Kooistra (University of Twente)](https://www.digital-finance-msca.com/people/julius-kooistra)
+  * ###### [Julius Kooistra (University of Twente)](/people/julius-kooistra/)
 
-  * ###### [Stijn van der Pol (University of Twente)](https://www.digital-finance-msca.com/people/stijn-van-der-pol)
+  * ###### [Stijn van der Pol (University of Twente)](/people/stijn-van-der-pol/)
 
-  * ###### [Xiaohong Huang (University of Twente)](https://www.digital-finance-msca.com/people/xiaohong-huang)
+  * ###### [Xiaohong Huang (University of Twente)](/people/xiaohong-huang/)
 
-  * ###### [Robin Effing (University of Twente)](https://www.digital-finance-msca.com/people/robin-effing)
+  * ###### [Robin Effing (University of Twente)](/people/robin-effing/)
 
-  * ###### [Alessio Trivella (University of Twente)](https://www.digital-finance-msca.com/people/alessio-trivella)
+  * ###### [Alessio Trivella (University of Twente)](/people/alessio-trivella/)
 
-  * ###### [Daniel Braun (University of Twente)](https://www.digital-finance-msca.com/people/daniel-braun)
+  * ###### [Daniel Braun (University of Twente)](/people/daniel-braun/)
 
-  * ###### [Joschka Hüllmann (University of Twente)](https://www.digital-finance-msca.com/people/joschka-hullmann)
+  * ###### [Joschka Hüllmann (University of Twente)](/people/joschka-hullmann/)
 
-  * [Polina Khrennikova (University of Twente)](https://www.digital-finance-msca.com/people/polina-khrennikova)
+  * [Polina Khrennikova (University of Twente)](/people/polina-khrennikova/)
 
-  * [Sharma Mahak (University of Twente)](https://www.digital-finance-msca.com/people/mahak-sharma)
+  * [Sharma Mahak (University of Twente)](/people/mahak-sharma/)
 
-  * ###### [Christina Kolb (University of Twente)](https://www.digital-finance-msca.com/people/christina-kolb)
+  * ###### [Christina Kolb (University of Twente)](/people/christina-kolb/)
 
-  * ###### [Alexandra Ioana Conda (ASE)](https://www.digital-finance-msca.com/people/alexandra-ioana-conda)
+  * ###### [Alexandra Ioana Conda (ASE)](/people/alexandra-ioana-conda/)
 
-  * ###### [Altin Kadareja (Cardo AI)](https://www.digital-finance-msca.com/people/altin-kadareja)
+  * ###### [Altin Kadareja (Cardo AI)](/people/altin-kadareja/)
 
-  * ###### [Antonio Pescapè (University of Naples Federico II)](https://www.digital-finance-msca.com/people/antonio-pescape)
+  * ###### [Antonio Pescapè (University of Naples Federico II)](/people/antonio-pescape/)
 
-  * ###### [Bruno Spilak (Royalton Partners)](https://www.digital-finance-msca.com/people/bruno-spilak)
+  * ###### [Bruno Spilak (Royalton Partners)](/people/bruno-spilak/)
 
-  * ###### [Fons Wijnhoven (University of Twente)](https://www.digital-finance-msca.com/people/fons-wijnhoven)
+  * ###### [Fons Wijnhoven (University of Twente)](/people/fons-wijnhoven/)
 
-  * ###### [Gabin Taibi (University of Twente)](https://www.digital-finance-msca.com/people/gabin-taibi)
+  * ###### [Gabin Taibi (University of Twente)](/people/gabin-taibi/)
 
-  * ###### [Karolina Bolesta (Warsaw School of Economics)](https://www.digital-finance-msca.com/people/karolina-bolesta)
+  * ###### [Karolina Bolesta (Warsaw School of Economics)](/people/karolina-bolesta/)
 
-  * ###### [Meng-Jou Lu (Asia Unversity, Taiwan)](https://www.digital-finance-msca.com/people/meng-jou-lu)
+  * ###### [Meng-Jou Lu (Asia Unversity, Taiwan)](/people/meng-jou-lu/)
 
-  * ###### [Robert Buch (Fraunhofer ITWM)](https://www.digital-finance-msca.com/people/robert-buch)
+  * ###### [Robert Buch (Fraunhofer ITWM)](/people/robert-buch/)
 
-  * ###### [Stefan Gaman (ASE)](https://www.digital-finance-msca.com/people/stefan-gaman)
+  * ###### [Stefan Gaman (ASE)](/people/stefan-gaman/)
 
-  * ###### [Sandro Schmid (LPA Group)](https://www.digital-finance-msca.com/people/sandro-schmid)
+  * ###### [Sandro Schmid (LPA Group)](/people/sandro-schmid/)
 
-  * ###### [Axel Gross-Klussmann (Quoniam)](https://www.digital-finance-msca.com/people/axel-gross-klussmann)
+  * ###### [Axel Gross-Klussmann (Quoniam)](/people/axel-gross-klussmann/)
 
-  * ###### [Markus Ebner (Quoniam)](https://www.digital-finance-msca.com/people/markus-ebner)
+  * ###### [Markus Ebner (Quoniam)](/people/markus-ebner/)
 
-  * ###### [Maximilian Stroh (Quoniam)](https://www.digital-finance-msca.com/people/maximilian-stroh)
+  * ###### [Maximilian Stroh (Quoniam)](/people/maximilian-stroh/)
 
-  * ###### [Roman Timofeev (Deutsche Bank)](https://www.digital-finance-msca.com/people/roman-timofeev)
+  * ###### [Roman Timofeev (Deutsche Bank)](/people/roman-timofeev/)
 
-  * ###### [Bjorn van Braak (University of Twente)](https://www.digital-finance-msca.com/people/bjorn-van-braak)
+  * ###### [Bjorn van Braak (University of Twente)](/people/bjorn-van-braak/)
 
   * ###### [Frédérik Sinan Bernard (University of Twente)](https://www.digital-finance-msca.com/people/fr%C3%A9d%C3%A9rik-sinan-bernard)
 
-  * ###### [Ekaterina Svetlova (University of Twente)](https://www.digital-finance-msca.com/people/ekaterina-svetlova)
+  * ###### [Ekaterina Svetlova (University of Twente)](/people/ekaterina-svetlova/)
 
-  * ###### [Lucia Gomez Teijeiro (Bern University of Applied Sciences and University of Geneva)](https://www.digital-finance-msca.com/people/lucia-gomez-teijeiro)
+  * ###### [Lucia Gomez Teijeiro (Bern University of Applied Sciences and University of Geneva)](/people/lucia-gomez-teijeiro/)
 
-  * ###### [Stephen Chan (American University of Sharjah)](https://www.digital-finance-msca.com/people/stephen-chan)
+  * ###### [Stephen Chan (American University of Sharjah)](/people/stephen-chan/)
 
-  * ###### [Mathis Jander (University of Twente)](https://www.digital-finance-msca.com/people/mathis-jander)
+  * ###### [Mathis Jander (University of Twente)](/people/mathis-jander/)
 
 [![](/images/general/1cd49e_886365926b7f489dae4f5cf78895442a_mv2_bc3afcf9.png)](https://www.digital-finance-msca.com/kaunas-university-of-technology)
 
@@ -472,7 +472,7 @@ WP 9
 
 ![](/images/general/1cd49e_f8e9f4c68c6c45b1956d0d81fc44c9eb_mv2_f0c6bf47.png)
 
-[![](/images/general/1cd49e_addcfb49777e4a119d9cf0d9a4aacdd9_mv2_2867f0af.png)](https://www.digital-finance-msca.com/bank-for-international-settlements)
+[![](/images/general/1cd49e_addcfb49777e4a119d9cf0d9a4aacdd9_mv2_2867f0af.png)](/partners/bank-for-international-settlements/)
 
 ![](/images/general/1cd49e_24b1eca096874a40b897dff6d812f7be_mv2_161b924b.png)
 
@@ -494,7 +494,7 @@ WP 9
 
 ![](/images/general/4bb5b1_dae14a96eaa24c6880abec1c8b5f7bdc_mv2_17a9623b.png)
 
-[![](/images/general/4bb5b1_83bb995e4b54470fac4b5fe0d8028fe1_mv2_88225eed.jpg)](https://www.digital-finance-msca.com/deutsche-bank)[![](/images/general/a607fb_63c1fee693ec41f0a97637e1e05d24b7_mv2_d7de35b6.jpg)](https://www.digital-finance-msca.com/pozna%C5%84-university-of-economics-and-business)[![](/images/general/1cd49e_c973ff91e63c4b739ab1562c314bcc5e_mv2_e8870fae.png)](https://www.digital-finance-msca.com/american-university-of-sharjah)[![](/images/general/1cd49e_6d1978dfccc94ec0bf4e476f84c1d02f_mv2_9b78380d.jpg)](https://www.digital-finance-msca.com/university-of-kaiserslautern-landau)
+[![](/images/general/4bb5b1_83bb995e4b54470fac4b5fe0d8028fe1_mv2_88225eed.jpg)](/partners/deutsche-bank/)[![](/images/general/a607fb_63c1fee693ec41f0a97637e1e05d24b7_mv2_d7de35b6.jpg)](https://www.digital-finance-msca.com/pozna%C5%84-university-of-economics-and-business)[![](/images/general/1cd49e_c973ff91e63c4b739ab1562c314bcc5e_mv2_e8870fae.png)](/partners/american-university-of-sharjah/)[![](/images/general/1cd49e_6d1978dfccc94ec0bf4e476f84c1d02f_mv2_9b78380d.jpg)](/partners/university-of-kaiserslautern-landau/)
 
 ![](/images/general/1cd49e_96676fa5ffbe4f808d93951da014285b_mv2_a9fdcefe.png)
 
@@ -666,7 +666,7 @@ Agentic AI for Finance - Training Week /
 
 Seminar Room EG 1, RBI Head Office
 
-[RSVP](https://www.digital-finance-msca.com/event-details-registration/agentic-ai-for-finance-training-week)
+[RSVP](/events/agentic-ai-for-finance-training-week/)
 
 01 Dec 2025, 09:00 – 03 Dec 2025, 17:00
 
@@ -688,7 +688,7 @@ AI in Financial Markets Research Forum #2 /
 
 Sky 1, RBI Head Office
 
-[Details](https://www.digital-finance-msca.com/event-details-registration/ai-in-financial-markets-research-forum-2)
+[Details](/events/ai-in-financial-markets-research-forum-2/)
 
 04 Dec 2025, 09:30 – 17:00
 
@@ -708,7 +708,7 @@ MSCA TRAINING - History and prospects of Digital Finance /
 
 University of Naples Federico II
 
-[Details](https://www.digital-finance-msca.com/event-details-registration/msca-training-history-and-prospects-of-digital-finance)
+[Details](/events/msca-training-history-and-prospects-of-digital-finance/)
 
 09 Dec 2025, 09:00 – 12 Dec 2025, 18:00
 
@@ -728,7 +728,7 @@ Machine Learning in Industry /
 
 Milano
 
-[Details](https://www.digital-finance-msca.com/event-details-registration/machine-learning-in-industry)
+[Details](/training-modules/machine-learning-in-industry/)
 
 16 Mar 2026, 11:00 – 20 Mar 2026, 19:00
 
@@ -746,7 +746,7 @@ Training Week on Blockchains in Digital Finance /
 
 Bucharest University of Economic Studies
 
-[Details](https://www.digital-finance-msca.com/event-details-registration/training-week-on-blockchains-in-digital-finance)
+[Details](/events/training-week-on-blockchains-in-digital-finance/)
 
 30 Mar 2026, 09:00 – 02 Apr 2026, 17:00
 
@@ -766,7 +766,7 @@ Deep Learning in Finance /
 
 Coimbra
 
-[Details](https://www.digital-finance-msca.com/event-details-registration/deep-learning-in-finance-1)
+[Details](/events/deep-learning-in-finance-1/)
 
 11 May 2026, 09:00 – 14 May 2026, 18:00
 
@@ -784,7 +784,7 @@ PhD Training School on Cybersecurity /
 
 Enschede
 
-[Details](https://www.digital-finance-msca.com/event-details-registration/phd-training-school-on-cybersecurity)
+[Details](/events/phd-training-school-on-cybersecurity/)
 
 08 Jun 2026, 09:00 – 12 Jun 2026, 18:00
 
@@ -802,7 +802,7 @@ Mon 07 Dec
 
 Athens
 
-[Details](https://www.digital-finance-msca.com/event-details-registration/1st-arc-training-week)
+[Details](/events/1st-arc-training-week/)
 
 07 Dec 2026, 09:00 – 11 Dec 2026, 18:00
 
@@ -1010,17 +1010,17 @@ Network members
 
 ![](/images/general/1cd49e_8010f3ff4a44434db91f6190cddac31d_mv2_e4244a78.png)
 
-[![](/images/general/1cd49e_6d1978dfccc94ec0bf4e476f84c1d02f_mv2_9b78380d.jpg)](https://www.digital-finance-msca.com/university-of-kaiserslautern-landau)
+[![](/images/general/1cd49e_6d1978dfccc94ec0bf4e476f84c1d02f_mv2_9b78380d.jpg)](/partners/university-of-kaiserslautern-landau/)
 
 ![](/images/general/1cd49e_f8e9f4c68c6c45b1956d0d81fc44c9eb_mv2_f0c6bf47.png)
 
-[![](/images/general/1cd49e_addcfb49777e4a119d9cf0d9a4aacdd9_mv2_2867f0af.png)](https://www.digital-finance-msca.com/bank-for-international-settlements)
+[![](/images/general/1cd49e_addcfb49777e4a119d9cf0d9a4aacdd9_mv2_2867f0af.png)](/partners/bank-for-international-settlements/)
 
 ![](/images/general/1cd49e_10f10ad078e64dd383d7d7f8ed044f02_mv2_b60eef2a.png)
 
 ![](/images/general/1cd49e_ba8a9de6244949c5a654cfdacf1da124_mv2_6209863f.png)
 
-[![](/images/general/4bb5b1_83bb995e4b54470fac4b5fe0d8028fe1_mv2_88225eed.jpg)](https://www.digital-finance-msca.com/deutsche-bank)
+[![](/images/general/4bb5b1_83bb995e4b54470fac4b5fe0d8028fe1_mv2_88225eed.jpg)](/partners/deutsche-bank/)
 
 ![](/images/general/1cd49e_1bc3fb664787440ba4616444e494fa7e_mv2_f45bbc4c.png)
 
@@ -1032,7 +1032,7 @@ Network members
 
 ![](/images/general/1cd49e_96676fa5ffbe4f808d93951da014285b_mv2_7b382463.png)
 
-[![](/images/general/1cd49e_c973ff91e63c4b739ab1562c314bcc5e_mv2_aad7383e.png)](https://www.digital-finance-msca.com/american-university-of-sharjah)
+[![](/images/general/1cd49e_c973ff91e63c4b739ab1562c314bcc5e_mv2_aad7383e.png)](/partners/american-university-of-sharjah/)
 
 ![](/images/general/4bb5b1_dae14a96eaa24c6880abec1c8b5f7bdc_mv2_1a8183ee.png)
 
@@ -1080,7 +1080,7 @@ Network members
 
   * ###### [​](https://www.digital-finance-msca.com)[Bern Business School](https://www.digital-finance-msca.com)​
 
-  * ###### [University of Kaiserslautern-Landau](https://www.digital-finance-msca.com/university-of-kaiserslautern-landau)
+  * ###### [University of Kaiserslautern-Landau](/partners/university-of-kaiserslautern-landau/)
 
   * ###### [University of Pavia](https://www.digital-finance-msca.com)
 
@@ -1094,7 +1094,7 @@ Network members
 
   * ###### [Deloitte Consulting S.r.l. Societa Benefit](https://www.digital-finance-msca.com)
 
-  * ###### [Bank for International Settlements](https://www.digital-finance-msca.com/bank-for-international-settlements)
+  * ###### [Bank for International Settlements](/partners/bank-for-international-settlements/)
 
   * ###### [Royalton Partners Holdings SA](https://www.digital-finance-msca.com)
 
@@ -1102,9 +1102,9 @@ Network members
 
   * ###### [European Institute of Technology Digital](https://www.digital-finance-msca.com)
 
-  * ###### [Deutsche Bank](https://www.digital-finance-msca.com/deutsche-bank)
+  * ###### [Deutsche Bank](/partners/deutsche-bank/)
 
-  * ###### [American University of Sharjah](https://www.digital-finance-msca.com/american-university-of-sharjah)
+  * ###### [American University of Sharjah](/partners/american-university-of-sharjah/)
 
   * ###### [University of Pavia](https://www.digital-finance-msca.com)
 

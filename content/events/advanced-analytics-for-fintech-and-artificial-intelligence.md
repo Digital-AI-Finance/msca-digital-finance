@@ -36,13 +36,13 @@ The scientific programme includes invited and contributed sessions. Statistical 
 
 **Scientific committee**
 
-  * [ _Maria Iannario_](https://www.digital-finance-msca.com/people/maria-iannario) , Università degli Studi di Napoli Federico II
+  * [ _Maria Iannario_](/people/maria-iannario/) , Università degli Studi di Napoli Federico II
 
-  * [ _Francesco Palumbo_](https://www.digital-finance-msca.com/people/francesco-palumbo) , Università degli Studi di Napoli Federico II
+  * [ _Francesco Palumbo_](/people/francesco-palumbo/) , Università degli Studi di Napoli Federico II
 
-  * [ _Joerg Osterrieder_](https://www.digital-finance-msca.com/people/joerg-osterrieder) , University of Twente, Netherlands
+  * [ _Joerg Osterrieder_](/people/joerg-osterrieder/) , University of Twente, Netherlands
 
-  * [ _Codruta Mare_](https://www.digital-finance-msca.com/people/codruta-mare) , Babes-Bolyai University in Cluj-Napoca, Romania
+  * [ _Codruta Mare_](/people/codruta-mare/) , Babes-Bolyai University in Cluj-Napoca, Romania
 
   * Martin Alexy, University of Economics, Bratislava
 
@@ -84,9 +84,9 @@ Maria Iannario, University of Naples Federico II
 
   * 11.00 - Master and PhD students presentation on Methods for Fintech and Artificial Intelligence in Finance from the following universities
 
-\- [_Università degli Studi di Napoli Federico II_](https://www.digital-finance-msca.com/university-of-naples-federico-ii) , Italy
+\- [_Università degli Studi di Napoli Federico II_](/partners/university-of-naples-federico-ii/) , Italy
 
-\- [_University of Twente_](https://www.digital-finance-msca.com/university-of-twente) , Netherlands
+\- [_University of Twente_](/partners/university-of-twente/) , Netherlands
 
 \- [_Babes-Bolyai University_](https://www.digital-finance-msca.com/babe%C8%99-bolyai-university-bbu) , Cluj-Napoca, Romania
 

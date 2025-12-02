@@ -27,7 +27,7 @@ images:
 
   * Work Packages Included: WP5, WP6, WP7, WP8
 
-  * Lead researcher: [Manuele Massei](https://www.digital-finance-msca.com/people/manuele-massei)
+  * Lead researcher: [Manuele Massei](/people/manuele-massei/)
 
 ### Objectives
 

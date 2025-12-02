@@ -133,7 +133,7 @@ Prof. Dr. Joerg Osterrieder
 
 Current topics and challenges in Digital Finance
 
-[READ MORE](https://www.digital-finance-msca.com/ubb-endava)
+[READ MORE](/ubb-endava/)
 
 ![](/images/general/a3c153_c32e66b082614a0bb8072e32e0de9ce2_mv2_97ff45bc.png)
 

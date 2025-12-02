@@ -28,4 +28,4 @@ The Bank for International Settlements (BIS) is an international financial insti
 
 The BIS contributes macro-economic datasets, assists in ongoing projects, and provides overall expertise in banking supervision.
 
-[All partners ](https://www.digital-finance-msca.com/our-partners)
+[All partners ](/our-partners/)

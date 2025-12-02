@@ -27,7 +27,7 @@ images:
 
   * Work Packages: [WP1](https://wiki.fin-ai.eu/index.php/MSCA_Work_Packages#WP1_Towards_a_European_financial_data_space), [WP6](https://wiki.fin-ai.eu/index.php/MSCA_Work_Packages#WP6_Doctoral_Training), [WP7](https://wiki.fin-ai.eu/index.php/MSCA_Work_Packages#WP7_Dissemination.2C_Outreach_and_Exploitation), [WP8](https://wiki.fin-ai.eu/index.php/MSCA_Work_Packages#WP8_Project_Management)
 
-  * Lead researcher: [Karolina Weyna](https://www.digital-finance-msca.com/people/karolina-weyna)
+  * Lead researcher: [Karolina Weyna](/people/karolina-weyna/)
 
 ### Objectives
 

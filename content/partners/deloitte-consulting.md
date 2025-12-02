@@ -43,4 +43,4 @@ Alberto Ferrario
 
 Deloitte contributes training and expertise in audit and assurance, risk and financial advisory, legal management consulting, as well as hosting ESRs and transferable skills training and research.
 
-[All partners ](https://www.digital-finance-msca.com/our-partners)
+[All partners ](/our-partners/)

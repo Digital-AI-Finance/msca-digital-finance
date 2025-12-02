@@ -181,7 +181,7 @@ _Main topic: Hybrid methods; Implementations of dimension reduction for continuo
 
 **October 21** – hybrid
 
-  * 09:30 Introduction. [_Maria Iannario_](https://www.digital-finance-msca.com/people/maria-iannario)
+  * 09:30 Introduction. [_Maria Iannario_](/people/maria-iannario/)
 
   * 9:45 Copula Additive Distributional Regression, [_Giampiero Marra_](https://www.homepages.ucl.ac.uk/~ucakgm0/) , Department of Statistical Science, University College London,[_Rosalba Radice_](https://www.bayes.city.ac.uk/faculties-and-research/experts/rosalba-radice) , Bayes Business School City, University of London. 
 
@@ -197,7 +197,7 @@ _Main topic: Hybrid methods; Implementations of dimension reduction for continuo
 
   
 
-**Please be aware of the AFFINE event :**[ https://www.digital-finance-msca.com/event-details-registration/msca-network-event-advanced-statistical-modelling-for-fintech-financial-inclusion-and-inequality-una-naples-msca](https://www.digital-finance-msca.com/event-details-registration/msca-network-event-advanced-statistical-modelling-for-fintech-financial-inclusion-and-inequality-una-naples-msca)
+**Please be aware of the AFFINE event :**[ https://www.digital-finance-msca.com/event-details-registration/msca-network-event-advanced-statistical-modelling-for-fintech-financial-inclusion-and-inequality-una-naples-msca](/events/msca-network-event-advanced-statistical-modelling-for-fintech-financial-inclusion-and-inequality-una-naples-msca/)
 
   
 

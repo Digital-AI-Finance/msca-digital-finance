@@ -27,7 +27,7 @@ images:
 
   * Work Packages: WP1, WP6, WP7, WP8
 
-  * Lead researcher: [Fulvio Raddi](https://www.digital-finance-msca.com/people/fulvio-raddi)
+  * Lead researcher: [Fulvio Raddi](/people/fulvio-raddi/)
 
 ### Objectives
 

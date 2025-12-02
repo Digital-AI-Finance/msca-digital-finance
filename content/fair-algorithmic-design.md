@@ -27,7 +27,7 @@ images:
 
   * Work Packages: WP3
 
-  * Lead Researcher: [Rebecca Di Francesco](https://www.digital-finance-msca.com/people/rebecca-di-francesco)
+  * Lead Researcher: [Rebecca Di Francesco](/people/rebecca-di-francesco/)
 
 ### Objectives
 

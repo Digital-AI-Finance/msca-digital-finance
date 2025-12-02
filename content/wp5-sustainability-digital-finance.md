@@ -70,13 +70,13 @@ Under this research stream, FOUR doctoral candidates will tackle the following r
 
 ### IRP 2: Modelling green credit scores for a network of retail and business clients
 
-[Modelling green credit scores for a network of retail and business clients](https://www.digital-finance-msca.com/modelling-green-credit-scores)
+[Modelling green credit scores for a network of retail and business clients](/modelling-green-credit-scores/)
 
 Description:  Some markets use green credit scores to assess SME credit risk in sustainable and circular economies. Simultaneously, network customers' default likelihood has been studied. This study develops and deploys green credit score models that account for customers' networks. We show the impact and give financial institutions methods to improve credit risk assessment and access.
 
   
 
-Host: [University of Twente](https://www.digital-finance-msca.com/university-of-twente)
+Host: [University of Twente](/partners/university-of-twente/)
 
   
 
@@ -88,13 +88,13 @@ Bank for International Settlement (BIS). Rafael Schmidt, M27, 18 months, contrib
 
 ### IRP 4: A recommender system to re-orient investments towards more sustainable technologies and businesses 
 
-[A recommender system to re-orient investments towards more sustainable technologies and businesses](https://www.digital-finance-msca.com/a-recommender-system)
+[A recommender system to re-orient investments towards more sustainable technologies and businesses](/a-recommender-system/)
 
 Description:  Recommender systems are well-known information filtering systems that suggest items most relevant to a user. To our knowledge, there are none that suggest investments in sustainable technologies and businesses. This project will develop and deploy a recommender system to help financial institutions and their clients invest in sustainable technologies.
 
   
 
-Host: [University of Twente](https://www.digital-finance-msca.com/university-of-twente)
+Host: [University of Twente](/partners/university-of-twente/)
 
   
 
@@ -106,13 +106,13 @@ Athena Research and Innovation Center (ARC). Prof. Dr. Ioannis Emiris, M39, 6 mo
 
 ### IRP 10: Experimenting with Green AI to reduce processing time and contributes to creating a low-carbon economy 
 
-[Experimenting with Green AI to reduce processing time and contributes to creating a low-carbon economy](https://www.digital-finance-msca.com/experimenting-with-green-ai)
+[Experimenting with Green AI to reduce processing time and contributes to creating a low-carbon economy](/experimenting-with-green-ai/)
 
 Description:  Green AI supports the use of resources more efficiently and conserves them for future generations. Multiple applications have been presented in different areas, however, there are no studies exploring the impact that the use of green AI concepts can have in the Financial industry. This research objective focuses on experimenting with green AI concepts in multiple applications in finance, analysing economical and practical impact of its deployment in industry. It facilitates the exchange of innovative ideas and cooperation opportunities in the field of Environmental, Social, and Governance (ESG), Sustainable Finance, and ESG Technology.
 
   
 
-Host: [University of Naples Federico II](https://www.digital-finance-msca.com/university-of-naples-federico-ii)
+Host: [University of Naples Federico II](/partners/university-of-naples-federico-ii/)
 
   
 
@@ -124,13 +124,13 @@ Athena Research and Innovation Center (ARC). Prof. Dr. Ioannis Emiris, M39, 6 mo
 
 ### IRP 11: Applications of Agent-based Models (ABM) to analyse finance growth in a sustainable manner over a long-term period 
 
-[Applications of Agent-based Models (ABM) to analyse finance growth in a sustainable manner over a long-term period](https://www.digital-finance-msca.com/applications-of-agent-based-models)
+[Applications of Agent-based Models (ABM) to analyse finance growth in a sustainable manner over a long-term period](/applications-of-agent-based-models/)
 
 Description:  Agent-based systems are computer models that simulate the behaviours and interactions of autonomous agents, either as individuals or in groups, in order to gain a deeper understanding of how a system behaves and what factors influence its outcomes. In agent-based modelling, a system is represented as a collection of autonomous decision-making units, or agents (ABM). Each agent evaluates its own situation and makes decisions according to a set of rules. Agents are capable of a variety of appropriate behaviours for the system they represent. ABM has been utilised in numerous financial investigations. The literature contains few ABM studies that model economies and markets while assuming the industry's adoption of sustainable finance
 
   
 
-Host: [Kaunas University of Technology](https://www.digital-finance-msca.com/kaunas-university-of-technology)
+Host: [Kaunas University of Technology](/partners/kaunas-university-of-technology/)
 
   
 
@@ -142,26 +142,26 @@ Athena Research and Innovation Center (ARC). Prof. Dr. Ioannis Emiris, M39, 6 mo
 
 ## News
 
-## [Professor Härdle on FinTech, Machine Learning, and the Future of Economics](https://www.digital-finance-msca.com/post/professor-härdle-on-fintech-machine-learning-and-the-future-of-economics)
+## [Professor Härdle on FinTech, Machine Learning, and the Future of Economics](/blog/professor-härdle-on-fintech-machine-learning-and-the-future-of-economics/)
 
 ![Professor Härdle on FinTech, Machine Learning, and the Future of Economics](/images/general/1cd49e_5d6b52789fe142d7bdd0070add493908_mv2_05f7d8eb.webp)![Professor Härdle on FinTech, Machine Learning, and the Future of Economics](/images/general/1cd49e_5d6b52789fe142d7bdd0070add493908_mv2_085132e1.webp)
 
-## [Boundaries of Explainable AI in Financial Time Series](https://www.digital-finance-msca.com/post/boundaries-of-explainable-ai-in-financial-time-series)
+## [Boundaries of Explainable AI in Financial Time Series](/blog/boundaries-of-explainable-ai-in-financial-time-series/)
 
 ![Boundaries of Explainable AI in Financial Time Series](/images/general/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_71790cd4.webp)![Boundaries of Explainable AI in Financial Time Series](/images/general/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_97e49b44.webp)
 
-## [Progress and Partnership: MidTerm-Meeting and Technical Training at the University of Twente](https://www.digital-finance-msca.com/post/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente)
+## [Progress and Partnership: MidTerm-Meeting and Technical Training at the University of Twente](/blog/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente/)
 
 ![dcs-midterm-meeting](/images/general/d826e4_84ad17b931a847de935d4e33d1b50379_mv2_1f776234.webp)![dcs-midterm-meeting](/images/general/d826e4_84ad17b931a847de935d4e33d1b50379_mv2_676ef052.webp)
 
-## [Rethinking Reinforcement Learning in Finance](https://www.digital-finance-msca.com/post/rethinking-reinforcement-learning-in-finance)
+## [Rethinking Reinforcement Learning in Finance](/blog/rethinking-reinforcement-learning-in-finance/)
 
 ![Rethinking Reinforcement Learning in Finance](/images/general/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_71790cd4.webp)![Rethinking Reinforcement Learning in Finance](/images/general/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_97e49b44.webp)
 
-## [MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics (ICMS25)](https://www.digital-finance-msca.com/post/msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i)
+## [MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics (ICMS25)](/blog/msca-network-participation-at-the-fourth-international-conference-on-mathematics-and-statistics-i/)
 
 ![MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics \(ICMS25\)](/images/general/e64bca_d254ab4d6e2248fea09cfc247802b775_mv2_e2ebc614.webp)![MSCA Network : Participation at the Fourth International Conference on Mathematics and Statistics \(ICMS25\)](/images/general/e64bca_d254ab4d6e2248fea09cfc247802b775_mv2_e5fd6819.webp)
 
-## [MSCA DIGITAL at AI in Financial Markets Research Forum](https://www.digital-finance-msca.com/post/msca-digital-at-ai-in-financial-markets-research-forum)
+## [MSCA DIGITAL at AI in Financial Markets Research Forum](/blog/msca-digital-at-ai-in-financial-markets-research-forum/)
 
 ![MSCA DIGITAL at AI in Financial Markets Research Forum](/images/general/a607fb_41431d2040214d8e91cdf7830b9b7cf1_mv2_d9a57e23.webp)![MSCA DIGITAL at AI in Financial Markets Research Forum](/images/general/a607fb_41431d2040214d8e91cdf7830b9b7cf1_mv2_2f5a1c12.webp)

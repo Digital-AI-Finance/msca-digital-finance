@@ -28,4 +28,4 @@ G-Research is a leading quantitative research and technology firm based in Londo
 
 G-Research provides sponsorship support surrounding a collaborative engagement with the MSCA DIGITAL for events, outreach, and mutual reputation enhancement.
 
-[All partners ](https://www.digital-finance-msca.com/our-partners)
+[All partners ](/our-partners/)

@@ -27,7 +27,7 @@ images:
 
 ## About
 
-Megang is a PhD candidate working in [_work package 5 (Sustainability of Digital Finance)_](https://www.digital-finance-msca.com/wp5-sustainability-digital-finance), specifically for the [_IRP11_](https://www.digital-finance-msca.com/applications-of-agent-based-models). Her research focuses on using Agent-Based Modeling to analyze sustainable finance growth patterns. 
+Megang is a PhD candidate working in [_work package 5 (Sustainability of Digital Finance)_](/wp5-sustainability-digital-finance/), specifically for the [_IRP11_](/applications-of-agent-based-models/). Her research focuses on using Agent-Based Modeling to analyze sustainable finance growth patterns. 
 
   
 

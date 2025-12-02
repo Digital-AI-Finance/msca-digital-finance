@@ -45,4 +45,4 @@ Aidas Malakauskas
 
 Swedbank AB contributes data, training on retail banking, and expertise in asset management and other financial services, covering Northern Europe. Furthermore, Swedbank AB is hosting ESRs and transferable skills training as well as research.
 
-[All partners ](https://www.digital-finance-msca.com/our-partners)
+[All partners ](/our-partners/)

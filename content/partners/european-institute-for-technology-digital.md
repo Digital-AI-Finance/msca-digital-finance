@@ -47,4 +47,4 @@ Mattia Bellotti
 
 EIT is co-setting the specific training objectives within WP 7; ensuring the excellence of the training program, by bringing in their experience from the European Master in Digital Finance, Training on Digital Finance, Hosting ESRs, and Research.
 
-[All partners ](https://www.digital-finance-msca.com/our-partners)
+[All partners ](/our-partners/)

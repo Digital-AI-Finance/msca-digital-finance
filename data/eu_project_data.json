@@ -1,0 +1,171 @@
+{
+  "project": {
+    "title": "Digital Finance - Reaching New Frontiers",
+    "identifier": "101119635",
+    "doi": "10.3030/101119635",
+    "acronym": "DIGITAL",
+    "program": "Horizon Europe - MSCA Doctoral Networks",
+    "funding_scheme": "HORIZON-TMA-MSCA-DN-ID",
+    "topic": "HORIZON-MSCA-2022-DN-01-01",
+    "status": "Active",
+    "dates": {
+      "ec_signature": "2023-11-08",
+      "start": "2024-01-01",
+      "end": "2027-12-31"
+    },
+    "budget": {
+      "eu_contribution": 3792542.40,
+      "currency": "EUR"
+    },
+    "policy_alignment": {
+      "digital_agenda": 40,
+      "artificial_intelligence": 40,
+      "climate_action": 0,
+      "biodiversity": 0,
+      "clean_air": 0
+    },
+    "coordinator": {
+      "name": "Universiteit Twente",
+      "country": "Netherlands",
+      "address": "Drienerlolaan 5, 7522 NB Enschede",
+      "net_eu_contribution": 1097481.60,
+      "website": "http://www.utwente.nl"
+    },
+    "description": "Research initiative addressing five domains: European financial data space, AI in financial markets, explainable/fair AI decisions, blockchain innovations, and sustainable digital finance.",
+    "keywords": [
+      "Digital Finance",
+      "Fintech",
+      "Sustainable Finance",
+      "Data",
+      "Explainable AI",
+      "Blockchain",
+      "Artificial Intelligence"
+    ],
+    "participants": [
+      {
+        "name": "Wirtschaftsuniversitat Wien",
+        "country": "Austria",
+        "address": "Welthandelsplatz 1, 1020 Wien",
+        "eu_contribution": 540662.40,
+        "type": "Higher Education Institution",
+        "website": "http://www.wu-wien.ac.at"
+      },
+      {
+        "name": "Universita degli Studi di Napoli Federico II",
+        "country": "Italy",
+        "address": "Corso Umberto I 40, 80138 Napoli",
+        "eu_contribution": 518875.20,
+        "type": "Higher Education Institution",
+        "website": "https://www.unina.it"
+      },
+      {
+        "name": "Kauno Technologijos Universitetas",
+        "country": "Lithuania",
+        "address": "K Donelaicio 73, LT-44029 Kaunas",
+        "eu_contribution": 229327.20,
+        "type": "Higher Education Institution"
+      },
+      {
+        "name": "Academia de Studii Economice din Bucuresti",
+        "country": "Romania",
+        "address": "Piata Romana 6 OP 22 Sector 1, 010374 Bucuresti",
+        "eu_contribution": 440539.20,
+        "type": "Higher Education Institution",
+        "website": "http://www.ase.ro"
+      },
+      {
+        "name": "Universitatea Babes Bolyai",
+        "country": "Romania",
+        "address": "Mihail Kogalniceanu 1, 400084 Cluj Napoca",
+        "eu_contribution": 220269.60,
+        "type": "Higher Education Institution",
+        "website": "http://www.ubbcluj.ro"
+      },
+      {
+        "name": "CARDO S.R.L.",
+        "country": "Italy",
+        "address": "Via San Francesco D'Assisi 15, 20122 Milan",
+        "eu_contribution": 518875.20,
+        "type": "SME"
+      },
+      {
+        "name": "Uniwersytet Ekonomiczny w Poznaniu",
+        "country": "Poland",
+        "address": "Al Niepodleglosci 10, 61 875 Poznan",
+        "eu_contribution": 226512.00,
+        "type": "Higher Education Institution"
+      }
+    ],
+    "partners": [
+      {
+        "name": "Raiffeisen Bank International AG",
+        "country": "Austria",
+        "type": "Private for-profit entity"
+      },
+      {
+        "name": "Swedbank AB",
+        "country": "Lithuania",
+        "type": "Private for-profit entity"
+      },
+      {
+        "name": "European Central Bank",
+        "country": "Germany",
+        "type": "Public body"
+      },
+      {
+        "name": "Deutsche Bank AG",
+        "country": "Germany",
+        "type": "Private for-profit entity"
+      },
+      {
+        "name": "Fraunhofer Gesellschaft",
+        "country": "Germany",
+        "type": "Research Organisation",
+        "website": "https://www.fraunhofer.de"
+      },
+      {
+        "name": "Bank for International Settlements",
+        "country": "Switzerland",
+        "type": "Public body"
+      },
+      {
+        "name": "Berner Fachhochschule",
+        "country": "Switzerland",
+        "type": "Higher Education Institution",
+        "website": "http://www.bfh.ch"
+      },
+      {
+        "name": "Rheinland-Pfalzische Technische Universitat",
+        "country": "Germany",
+        "type": "Higher Education Institution"
+      },
+      {
+        "name": "Athina-Erevnitiko Kentro Kainotomias",
+        "country": "Greece",
+        "type": "Research Organisation"
+      },
+      {
+        "name": "Royalton Partners Holdings SA",
+        "country": "Luxembourg",
+        "type": "Private for-profit entity"
+      },
+      {
+        "name": "28DIGITAL",
+        "country": "Belgium",
+        "type": "SME"
+      }
+    ],
+    "research_outputs": {
+      "peer_reviewed_articles": 20,
+      "additional_publications": 12,
+      "conference_proceedings": 3,
+      "monographic_books": 1,
+      "project_deliverables": 1
+    }
+  },
+  "last_updated": "2025-12-02T16:00:00Z",
+  "sources": [
+    "https://cordis.europa.eu/project/id/101119635",
+    "https://cordis.europa.eu/project/id/101119635/results"
+  ]
+}

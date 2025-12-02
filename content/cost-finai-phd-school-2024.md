@@ -16,13 +16,13 @@ images:
 - /images/general/Liu_Yiting_2dea6393.jpg
 ---
 
-* [Summary](https://www.digital-finance-msca.com/cost-finai-phd-school-2024)
-  * [Date & Venue](https://www.digital-finance-msca.com/cost-finai-phd-school-2024)
-  * [Schedule](https://www.digital-finance-msca.com/cost-finai-phd-school-2024)
-  * [Speakers](https://www.digital-finance-msca.com/cost-finai-phd-school-2024)
-  * [Organizing Committee](https://www.digital-finance-msca.com/cost-finai-phd-school-2024)
-  * [How to Attend](https://www.digital-finance-msca.com/cost-finai-phd-school-2024)
-  * [Footer](https://www.digital-finance-msca.com/cost-finai-phd-school-2024)
+* [Summary](/cost-finai-phd-school-2024/)
+  * [Date & Venue](/cost-finai-phd-school-2024/)
+  * [Schedule](/cost-finai-phd-school-2024/)
+  * [Speakers](/cost-finai-phd-school-2024/)
+  * [Organizing Committee](/cost-finai-phd-school-2024/)
+  * [How to Attend](/cost-finai-phd-school-2024/)
+  * [Footer](/cost-finai-phd-school-2024/)
 
 ![Black Hole Grid](/images/general/11062b_eea4abb7bfb949028c1923e7b90e232a_mv2_e06bdc10.jpg)
 
