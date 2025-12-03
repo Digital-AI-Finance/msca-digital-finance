@@ -4,6 +4,7 @@ date: 2025-12-02
 type: "eu-data"
 source: "https://cordis.europa.eu/project/id/101119635/results"
 draft: false
+image: "/images/defaults/default.jpg"
 ---
 
 # Digital Finance - Project Results and Publications

@@ -15,6 +15,7 @@ images:
 - /images/blog/d826e4_7dcbe49c67394160a8efaf859c585a9b_mv2_a8413586.png
 - /images/blog/quantinar_logo_fcc02fa4.png
 ShowToc: true
+image: "/images/defaults/default.jpg"
 ---
 
 ![](/images/general/a3c153_3592f141741849e8b2cb99afa8e3a412_mv2_c4fcf809.jpg)

@@ -20,6 +20,7 @@ cover:
   image: "/images/people/Bartoli_5bbdda9a.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Filippo Bartoli**

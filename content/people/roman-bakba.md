@@ -20,6 +20,7 @@ cover:
   image: "/images/people/Roman_Bakba_aaab463d.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Roman Bakba**

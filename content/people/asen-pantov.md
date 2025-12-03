@@ -21,6 +21,7 @@ cover:
   image: "/images/people/1677186526019-modified_93cbef20.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Asen Pantov**

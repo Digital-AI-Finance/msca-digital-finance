@@ -20,6 +20,7 @@ cover:
   image: "/images/people/Franz_Zobl_90429d95.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Franz Xaver Zobl**

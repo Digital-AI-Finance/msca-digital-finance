@@ -15,6 +15,7 @@ images:
 - /images/general/34dd6b_1e73c063ef6c47cba3a71daba5db4f60_mv2_a2278f9b.jpg
 - /images/general/34dd6b_1e73c063ef6c47cba3a71daba5db4f60_mv2_a2278f9b.jpg
 ShowToc: true
+image: "/images/defaults/default.jpg"
 ---
 
 ## Our People

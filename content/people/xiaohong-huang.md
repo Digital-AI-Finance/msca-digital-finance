@@ -21,6 +21,7 @@ cover:
   image: "/images/people/X_Huang2023_be45bf4f.JPG"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Xiaohong Huang**

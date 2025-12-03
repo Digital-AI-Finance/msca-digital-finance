@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Rocha-Souza_circle_e189390b.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## Renato Rocha Souza

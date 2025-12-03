@@ -19,6 +19,7 @@ cover:
   image: "/images/events/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_4e57e4cf.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/event-default.jpg"
 ---
 
 # Research Seminar: Explainable AI Methods for Financial Time Series (WP3)

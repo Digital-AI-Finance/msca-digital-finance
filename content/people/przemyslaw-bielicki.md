@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Bielicki_fe3a481f.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Przemyslaw Bielicki**

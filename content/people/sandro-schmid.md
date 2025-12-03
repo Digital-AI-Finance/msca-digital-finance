@@ -21,6 +21,7 @@ cover:
   image: "/images/people/sandro-Schmid_5fccc32d.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Sandro Schmid**

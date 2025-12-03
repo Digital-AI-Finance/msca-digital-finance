@@ -1,0 +1,15 @@
+<header class="site-header">
+    <div class="container header-inner">
+        <a href="{{ .Site.BaseURL }}" class="logo">
+            <span class="logo-text">MSCA Digital Finance</span>
+        </a>
+        <button class="menu-toggle" aria-label="Toggle menu" aria-expanded="false">
+            <span class="hamburger"></span>
+        </button>
+        <nav class="main-nav" id="main-nav">
+            {{ range .Site.Menus.main }}
+            <a href="{{ .URL | relURL }}" class="nav-link{{ if $.IsMenuCurrent "main" . }} active{{ end }}">{{ .Name }}</a>
+            {{ end }}
+        </nav>
+    </div>
+</header>

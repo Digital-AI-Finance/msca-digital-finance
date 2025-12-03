@@ -1,0 +1,12 @@
+{
+  "date": "2025-12-04T00:23:39.472686",
+  "hugo_installed": false,
+  "build_success": false,
+  "build_output": "",
+  "pages_generated": 0,
+  "site_size_mb": 0,
+  "asset_counts": {},
+  "errors": [
+    "Hugo not installed"
+  ]
+}

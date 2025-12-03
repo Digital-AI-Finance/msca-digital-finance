@@ -15,6 +15,7 @@ images:
 - /images/general/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_97e49b44.webp
 - /images/general/d826e4_84ad17b931a847de935d4e33d1b50379_mv2_1f776234.webp
 ShowToc: true
+image: "/images/defaults/default.jpg"
 ---
 
 * [Untitled](/wp6-doctoral-training/)

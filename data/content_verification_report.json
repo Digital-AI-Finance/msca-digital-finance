@@ -1,0 +1,167 @@
+{
+  "date": "2025-12-04T00:22:31.130037",
+  "quality": {
+    "total_files": 444,
+    "empty_pages": 98,
+    "no_title": 0,
+    "no_image": 12,
+    "empty_files": [
+      "content\\babeș-bolyai-university-bbu.md",
+      "content\\bern-university-of-applied-sciences-bfh.md",
+      "content\\bucharest-university-of-economic-studies-ase.md",
+      "content\\cardo-srl.md",
+      "content\\contact.md",
+      "content\\copy-of-research-topics.md",
+      "content\\digital-finance-research-projects.md",
+      "content\\joerg-osterrieder.md",
+      "content\\kaunas-university-of-technology.md",
+      "content\\legal.md",
+      "content\\media.md",
+      "content\\partners-area.md",
+      "content\\poznań-university-of-economics-and-business.md",
+      "content\\privacy.md",
+      "content\\research-domains.md",
+      "content\\university-of-naples-federico-ii.md",
+      "content\\university-of-twente.md",
+      "content\\wu-vienna-university-of-economics.md",
+      "content\\blog\\index.md",
+      "content\\blog\\_index.md"
+    ]
+  },
+  "comparison": {
+    "original_count": 0,
+    "hugo_count": 435,
+    "missing_in_hugo": [],
+    "extra_in_hugo": [
+      "",
+      "people/jens-reil",
+      "events/cost-finai-brussels-may-14-15-2024",
+      "people/meng-jou-lu",
+      "training-modules/introduction-to-blockchain-applications-in-finance",
+      "university-of-naples-federico-ii",
+      "training-modules/multi-criteria-decision-making-in-sustainable-finance",
+      "people/simon-haller",
+      "people/maurizio-di-noia",
+      "training-modules/he-framework-and-research-project-management",
+      "people/nerijus-maciulis",
+      "people/liana-stanca",
+      "applications-of-agent-based-models",
+      "kaunas-university-of-technology",
+      "people/megang-nkamga-junile-staures",
+      "events/phd-training-school-on-cybersecurity",
+      "experimenting-with-green-ai",
+      "people/gokce-nur-yilmaz",
+      "people/gennaro-di-brino",
+      "events",
+      "blog/progress-and-partnership-midterm-meeting-and-technical-training-at-the-university-of-twente",
+      "people/mathis-jander",
+      "events/msca-network-event-blended-intensive-program-methods-for-fintech-and-artificial-intelligence-in-finance-napl-1-1",
+      "people/manuele-massei",
+      "media",
+      "events/research-seminar-audience-dependent-explanations-for-ai-systems-wp3",
+      "people/gabin-taibi",
+      "people/lennart-baals",
+      "blog/our-project-in-the-spotlight",
+      "snsf-narrative-digital-finance",
+      "privacy-policy",
+      "people/altin-kadareja",
+      "university-of-twente",
+      "events/conference",
+      "blog/categories/wp5",
+      "wp9-ethics-digital",
+      "events/blockchains-in-digital-finance",
+      "work-package-9",
+      "people/maria-iannario",
+      "people/stefana-belbe",
+      "detecting-anomalies-and-dependence-structures",
+      "deep-generation-of-financial",
+      "people/kurt-hornik",
+      "collaborations-within-the-network",
+      "about-us",
+      "bucharest-university-of-economic-studies-ase",
+      "people/axel-gross-klussmann",
+      "training-modules/ethical-dimensions",
+      "people",
+      "blog/european-research-and-phd-training-programme-in-digital-finance-launches-shaping-the-future-of-fina"
+    ],
+    "coverage_percent": 0.0
+  },
+  "broken_links": [
+    {
+      "source_file": "content\\copy-of-research-topics.md",
+      "link_text": "Go to Homepage",
+      "link_url": "//www.digital-finance-msca.com"
+    },
+    {
+      "source_file": "content\\test.md",
+      "link_text": "Alfonso Iodice D'Enza (University of Naples Federico II)",
+      "link_url": "/people/alfonso-iodice-d'enza/"
+    }
+  ],
+  "section_stats": {
+    "root": {
+      "count": 99,
+      "total_words": 59263,
+      "with_images": 94,
+      "avg_words": 599
+    },
+    "blog": {
+      "count": 29,
+      "total_words": 8235,
+      "with_images": 28,
+      "avg_words": 284
+    },
+    "blog-categories": {
+      "count": 1,
+      "total_words": 3,
+      "with_images": 1,
+      "avg_words": 3
+    },
+    "events": {
+      "count": 69,
+      "total_words": 20925,
+      "with_images": 68,
+      "avg_words": 303
+    },
+    "partners": {
+      "count": 42,
+      "total_words": 6167,
+      "with_images": 41,
+      "avg_words": 147
+    },
+    "people": {
+      "count": 142,
+      "total_words": 21298,
+      "with_images": 141,
+      "avg_words": 150
+    },
+    "research-domains": {
+      "count": 1,
+      "total_words": 8,
+      "with_images": 0,
+      "avg_words": 8
+    },
+    "training-events": {
+      "count": 10,
+      "total_words": 516,
+      "with_images": 9,
+      "avg_words": 52
+    },
+    "training-modules": {
+      "count": 44,
+      "total_words": 4768,
+      "with_images": 43,
+      "avg_words": 108
+    },
+    "members-area": {
+      "count": 7,
+      "total_words": 317,
+      "with_images": 7,
+      "avg_words": 45
+    }
+  },
+  "issues": [
+    "98 pages have very little content",
+    "Content coverage is only 0.0%"
+  ]
+}

@@ -21,6 +21,7 @@ cover:
   image: "/images/people/58ddb0_7d4f3a72b8e94a66affe5024870bb36a_mv2_3ad37b57.webp"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Sabrina Giordano**

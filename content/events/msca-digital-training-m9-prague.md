@@ -22,6 +22,7 @@ cover:
   image: "https://static.wixstatic.com/media/11062b_54a8b3b85cfd48f9b560fc3c6fa9b986~mv2.jpg/v1/fill/w_7323,h_4882,al_c,q_90/11062b_54a8b3b85cfd48f9b560fc3c6fa9b986~mv2.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/event-default.jpg"
 ---
 
 # MSCA DIGITAL - TRAINING M9 - PRAGUE

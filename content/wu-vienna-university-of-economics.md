@@ -4,6 +4,7 @@ date: 2025-12-02
 type: "page"
 original_url: "https://www.digital-finance-msca.com/wu-vienna-university-of-economics"
 draft: false
+image: "/images/defaults/default.jpg"
 ---
 
 ERROR: PAGE NOT FOUND

@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Haxhiymeri_1215b589.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Rubin Haxhiymeri**

@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Winkel_09597921.jpeg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Julian Winkel**

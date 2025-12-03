@@ -2,7 +2,9 @@
 title: "European Institute for Technology - Digital | Digital Finance MSCA"
 date: 2025-12-02
 type: "partners"
-original_url: "https://www.digital-finance-msca.com/partner-new/european-institute-for-technology---digital"
+original_url: "https://www.digital-finance-msca.com/partner-new/european-institute-for-technology
+image: "/images/defaults/partner-default.png"
+---digital"
 last_synced: "2025-12-02T14:55:01.472222"
 draft: false
 ---

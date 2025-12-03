@@ -16,6 +16,7 @@ images:
 - /images/partners/GettyImages-591216789_9c798c28.png
 - /images/partners/GettyImages-591216789_6b51f5d5.jpeg
 ShowToc: true
+image: "/images/defaults/partner-default.png"
 ---
 
 ### Bern University of Applied Sciences (BFH)

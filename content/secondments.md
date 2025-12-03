@@ -15,6 +15,7 @@ images:
 - /images/general/Person_7e0ff101.png
 - /images/general/Person_7e0ff101.png
 ShowToc: true
+image: "/images/defaults/default.jpg"
 ---
 
 ## Secondments

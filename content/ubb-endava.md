@@ -15,6 +15,7 @@ images:
 - /images/general/WhatsApp_Image_2024-04-24_at_13_44_49_20ec8cf6_5e37f9a3.jpg
 - /images/general/image007_628cec5b.jpg
 ShowToc: true
+image: "/images/defaults/default.jpg"
 ---
 
 ## [International Advanced Fellowship on Digital Finance](https://www.mysnf.ch/grants/grant.aspx?id=c8d8081e-6eee-4418-92bb-21dc2c89566a)

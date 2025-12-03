@@ -24,6 +24,7 @@ cover:
   image: "/images/events/1cd49e_d77eb829f2b3402191aaf44feb6b8ea0_mv2_b404c343.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/event-default.jpg"
 ---
 
 # Doctoral Training school

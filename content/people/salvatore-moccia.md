@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Salvatore_Moccia_EIT_Digital_edited_c3e3016c.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Salvatore Moccia**

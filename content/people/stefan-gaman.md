@@ -20,6 +20,7 @@ cover:
   image: "/images/people/Gaman_2bebdff9.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## Stefan Gaman

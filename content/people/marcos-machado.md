@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Machado_7f8c4e0e.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Marcos Machado**

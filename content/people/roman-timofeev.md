@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Roman_Timofeev_56ce29f7.jpeg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Roman Timofeev**

@@ -20,6 +20,7 @@ cover:
   image: "/images/events/81d732d39924437ebec704b59eb379ac_369ae53b.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/event-default.jpg"
 ---
 
 # Conference

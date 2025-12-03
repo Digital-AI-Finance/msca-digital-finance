@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Costea_Adrian_a90e7564.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Adrian Costea**

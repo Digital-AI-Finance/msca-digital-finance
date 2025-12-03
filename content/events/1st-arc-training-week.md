@@ -19,6 +19,7 @@ cover:
   image: "/images/events/58ddb0_4a176a4cd3804881bf8aca68dfc11f6b_mv2_d13e922a.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/event-default.jpg"
 ---
 
 # 1st ARC Training Week

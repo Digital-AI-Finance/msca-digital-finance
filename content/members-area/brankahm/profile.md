@@ -3,6 +3,7 @@ title: "Branka Hadji-Misheva"
 date: 2025-12-02
 original_url: "https://www.digital-finance-msca.com/members-area/brankahm/profile"
 draft: false
+image: "/images/defaults/default.jpg"
 ---
 
 Branka Hadji-Misheva

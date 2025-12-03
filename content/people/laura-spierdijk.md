@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Spierdijk_8a6734e8.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Laura Spierdijk**

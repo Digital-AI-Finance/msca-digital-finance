@@ -20,6 +20,7 @@ cover:
   image: "/images/people/Wijnhoven_a966b62c.jpeg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Fons Wijnhoven**

@@ -3,6 +3,7 @@ title: "Network Event - RB Event 2024: \"AI in Financial Markets Research Forum\
 date: 2025-12-02
 original_url: "https://www.digital-finance-msca.com/event-details-registration/msca-network-event-rb-event-2024-ai-in-financial-markets-research-forum"
 draft: false
+image: "/images/defaults/event-default.jpg"
 ---
 
 Network Event - RB Event 2024: "AI in Financial Markets Research Forum"

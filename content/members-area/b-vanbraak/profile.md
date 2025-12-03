@@ -3,6 +3,7 @@ title: "Bjorn van Braak"
 date: 2025-12-02
 original_url: "https://www.digital-finance-msca.com/members-area/b-vanbraak/profile"
 draft: false
+image: "/images/defaults/default.jpg"
 ---
 
 Bjorn van Braak

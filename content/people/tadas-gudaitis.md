@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Gudaitis_61f9ed38.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Tadas Gudaitis**

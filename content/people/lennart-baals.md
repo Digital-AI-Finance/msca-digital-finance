@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Baals_f71da25d.JPG"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Lennart Baals**

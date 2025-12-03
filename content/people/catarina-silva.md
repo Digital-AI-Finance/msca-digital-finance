@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Silva_824eb91d.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Catarina Silva**

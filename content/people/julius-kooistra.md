@@ -21,6 +21,7 @@ cover:
   image: "/images/people/36AF15AD-758A-4F32-B861-D16666095C9A_1_201_a_4b0b4917.jpeg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Julius Kooistra**

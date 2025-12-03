@@ -23,6 +23,7 @@ cover:
   alt: "Cover image"
   hidden: false
 ShowToc: true
+image: "/images/defaults/event-default.jpg"
 ---
 
 # Network Event - AI in Digital Finance - Risk Premia in the Bitcoin Market

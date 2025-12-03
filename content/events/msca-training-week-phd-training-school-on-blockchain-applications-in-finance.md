@@ -21,6 +21,7 @@ cover:
   image: "/images/events/d826e4_d69f6014416a4547a71eeaf53f62a116_mv2_6b8f0e06.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/event-default.jpg"
 ---
 
 # MSCA Training Week - PhD Training School on Blockchain Applications in Finance

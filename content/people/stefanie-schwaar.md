@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Schwaar_a1303a07.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Stefanie Schwaar**

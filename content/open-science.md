@@ -15,6 +15,7 @@ images:
 - /images/blog/quantinar_logo_fcc02fa4.png
 - /images/events/FinAI_COST_aecdeae5.png
 ShowToc: true
+image: "/images/defaults/default.jpg"
 ---
 
 ![brussels_eu_flags_1200x600px.jpg](/images/general/a607fb_719fe0bae2164cd8b7d8ec9fd5d3f3e6_mv2_e228f76e.jpg)

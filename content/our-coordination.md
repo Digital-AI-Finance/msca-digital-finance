@@ -15,6 +15,7 @@ images:
 - /images/general/1cd49e_a3ff9be2ce73451ba4036c4017af4695_mv2_dab45d73.png
 - /images/general/1cd49e_08083793a0494a7b926eb182b10367b2_mv2_84bb3db7.jpg
 ShowToc: true
+image: "/images/defaults/default.jpg"
 ---
 
 # Our Project Coordination

@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Tanda-modified_5a6d4764.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## Alessandra Tanda

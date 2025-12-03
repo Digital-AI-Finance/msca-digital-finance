@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Abhishta_217925fc.JPG"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Abhista Abhista**

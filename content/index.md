@@ -2,6 +2,7 @@
 title: "MSCA Digital Finance"
 layout: "home"
 description: "Digital Finance - Reaching New Frontiers | EU Horizon MSCA Doctoral Network"
+image: "/images/defaults/default.jpg"
 ---
 
 ## Welcome to MSCA Digital Finance

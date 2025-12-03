@@ -15,6 +15,7 @@ images:
 - /images/partners/GettyImages-591216789_1d755647.jpg
 - /images/partners/GettyImages-591216789_ed9ca39e.jpg
 - /images/partners/GettyImages-591216789_81996ab5.jpg
+image: "/images/defaults/partner-default.png"
 ---
 
 ### Babeș-Bolyai University (BBU)

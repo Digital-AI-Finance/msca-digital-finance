@@ -20,6 +20,7 @@ cover:
   image: "/images/people/Chaffard_circle_bb4fcc69.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## Owen Chaffard

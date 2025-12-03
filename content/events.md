@@ -15,6 +15,7 @@ images:
 - /images/events/58ddb0_129fa770606340c3a3adaddf66364709_mv2_1087b41e.webp
 - /images/general/58ddb0_129fa770606340c3a3adaddf66364709_mv2_31fbc2b0.webp
 ShowToc: true
+image: "/images/defaults/default.jpg"
 ---
 
 ## Upcoming MSCA Network Events

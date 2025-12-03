@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Heeswijk_edited_434c9e18.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Wouter van Heeswijk**

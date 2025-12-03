@@ -23,6 +23,7 @@ cover:
   image: "/images/events/1cd49e_0a12ea250a9a45679e7f16c804cf9231_mv2_2af415c8.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/event-default.jpg"
 ---
 
 # MSCA DIGITAL - Supervisory Board Meeting #3

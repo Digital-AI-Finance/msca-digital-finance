@@ -20,6 +20,7 @@ cover:
   image: "/images/people/doina_5a7dadc4.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Doina Bucur**

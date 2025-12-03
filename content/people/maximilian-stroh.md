@@ -20,6 +20,7 @@ cover:
   image: "/images/people/Maximilian_Stroh_5c453675.jpeg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Maximilian Stroh**

@@ -21,6 +21,7 @@ cover:
   image: "/images/people/stefan-schlamp_edited_c4559c58.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Stefan Schlamp**

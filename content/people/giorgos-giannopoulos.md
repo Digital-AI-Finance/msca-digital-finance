@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Giannopoulos_cb493d71.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Giorgos Giannopoulos**

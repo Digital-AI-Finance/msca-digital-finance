@@ -21,6 +21,7 @@ cover:
   image: "/images/people/1cd49e_ca1ef1f8b97e4444ac08c6b29b03a9ec_mv2_8b36a63a.webp"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## Ruting Wang

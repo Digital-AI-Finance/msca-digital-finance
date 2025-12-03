@@ -15,6 +15,7 @@ images:
 - /images/blog/unnamed_c029ae93.png
 - /images/blog/1cd49e_46e17462b534409c9a46ee2aad6648ab_mv2_933b9f21.png
 ShowToc: true
+image: "/images/defaults/default.jpg"
 ---
 
 ![](/images/general/11062b_03c50f8fe4a34cc297a984e483a282eff000_2fa9f247.jpg)

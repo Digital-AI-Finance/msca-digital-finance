@@ -15,6 +15,7 @@ images:
 - /images/general/image-38_2ab1b95f.png
 - /images/general/Liu_Yiting_2dea6393.jpg
 ShowToc: true
+image: "/images/defaults/default.jpg"
 ---
 
 * [Summary](/brussels-meeting-2024/)

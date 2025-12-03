@@ -20,6 +20,7 @@ cover:
   image: "/images/people/Coita_c15acfc1.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Ioana Coita**

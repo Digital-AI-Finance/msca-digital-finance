@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Kolb_ca5a2f36.JPG"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Christina Kolb**

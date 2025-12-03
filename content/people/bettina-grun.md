@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Grun_4d258fa8.jpeg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Bettina Grün**

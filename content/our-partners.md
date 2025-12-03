@@ -15,6 +15,7 @@ images:
 - /images/general/d826e4_46c289bf1c5f4068a853e2a6b18e4b4d_mv2_5bbc16cc.jpg
 - /images/general/d826e4_6fd64619dd054b95b6c5fa6a4104daea_mv2_3290b7c6.jpg
 ShowToc: true
+image: "/images/defaults/default.jpg"
 ---
 
 # Our Partners

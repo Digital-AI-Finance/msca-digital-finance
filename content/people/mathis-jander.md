@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Jander_circle_d4800121.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Mathis Jander**

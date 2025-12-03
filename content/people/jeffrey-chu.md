@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Chu_circle_9a319c71.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 #### Jeffrey Chu

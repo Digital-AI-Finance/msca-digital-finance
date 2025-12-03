@@ -19,6 +19,7 @@ cover:
   image: "/images/blog/1cd49e_62b17b5c28fc48b48655434dba9c3989_mv2_59fb3053.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/blog-default.jpg"
 ---
 
 * [All Posts](/blog/)

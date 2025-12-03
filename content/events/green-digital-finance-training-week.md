@@ -21,6 +21,7 @@ cover:
   image: "/images/events/d826e4_95eea93ceabe491fb5708aa033eaed2b_mv2_f1d399d9.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/event-default.jpg"
 ---
 
 # Green Digital Finance - Training Week

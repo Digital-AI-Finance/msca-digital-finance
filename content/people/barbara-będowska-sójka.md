@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Barbara_Bedowska_Sojka_83651df4.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Barbara Będowska-Sójka**

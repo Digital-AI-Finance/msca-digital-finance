@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Penazzi_7bd83af2.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Stefano Penazzi**

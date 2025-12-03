@@ -20,6 +20,7 @@ cover:
   image: "/images/people/Raddi_circle_f102b453.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## Fulvio Raddi

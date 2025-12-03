@@ -21,6 +21,7 @@ cover:
   image: "/images/people/axel-gross-modified_4c268533.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Axel Gross-Klussmann**

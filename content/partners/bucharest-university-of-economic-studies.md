@@ -15,6 +15,7 @@ images:
 - /images/partners/GettyImages-591216789_dc45f89d.jpg
 - /images/partners/GettyImages-591216789_4d9da482.jpg
 - /images/partners/GettyImages-591216789_edf07967.jpg
+image: "/images/defaults/partner-default.png"
 ---
 
 ### Bucharest University of Economic Studies (ASE)

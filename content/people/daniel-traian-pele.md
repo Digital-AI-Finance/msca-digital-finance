@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Pele_86d02222.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Daniel Traian Pele**

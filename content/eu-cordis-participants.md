@@ -5,6 +5,7 @@ type: "eu-data"
 source: "https://cordis.europa.eu/project/id/101119635"
 draft: false
 ShowToc: true
+image: "/images/defaults/default.jpg"
 ---
 
 # Digital Finance - Participants and Partners

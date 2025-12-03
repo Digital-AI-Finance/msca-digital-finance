@@ -21,6 +21,7 @@ cover:
   image: "/images/people/image_3399fd3d.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Maria Moloney**

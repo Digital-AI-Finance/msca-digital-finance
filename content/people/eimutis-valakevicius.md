@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Valakevic_îius_57912490.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Eimutis Valakevičius**

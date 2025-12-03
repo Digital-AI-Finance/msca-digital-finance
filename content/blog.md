@@ -5,6 +5,7 @@ type: "pages"
 original_url: "https://www.digital-finance-msca.com/blog"
 last_synced: "2025-12-02T16:00:04.694393"
 draft: false
+image: "/images/defaults/default.jpg"
 ---
 
 All Posts

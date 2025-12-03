@@ -21,6 +21,7 @@ cover:
   image: "/images/people/1701036160329-modified_63a10d9b.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## Matei Mocanu

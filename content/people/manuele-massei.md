@@ -21,6 +21,7 @@ cover:
   image: "/images/people/manuele-modified_26cd3e64.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## Manuele Massei

@@ -20,6 +20,7 @@ cover:
   image: "/images/people/Domenico_Ciuonzo_UNA_68f63337.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Domenico Ciuonzo**

@@ -20,6 +20,7 @@ cover:
   image: "/images/people/Kyrylo_b2a88ca0.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Kyrylo Medianovskyi**

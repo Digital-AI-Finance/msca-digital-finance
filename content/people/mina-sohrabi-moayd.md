@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Mina_Sohrabi-modified_ba0e0360.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## Mina Sohrabi Moayd

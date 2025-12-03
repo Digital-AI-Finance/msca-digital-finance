@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Tarantola_59d55808.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 Claudia Tarantola

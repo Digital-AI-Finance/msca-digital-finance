@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Trivella_1aee5a0a.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Alessio Trivella**

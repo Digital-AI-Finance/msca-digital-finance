@@ -19,6 +19,7 @@ cover:
   alt: "Cover image"
   hidden: false
 ShowToc: true
+image: "/images/defaults/default.jpg"
 ---
 
 ## [Graph-Theoretic Analysis for Consumer Credit Risk Assessment in Personal Lending](https://www.mysnf.ch/grants/grant.aspx?id=c8d8081e-6eee-4418-92bb-21dc2c89566a)

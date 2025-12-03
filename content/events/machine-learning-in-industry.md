@@ -19,6 +19,7 @@ cover:
   image: "/images/events/58ddb0_129fa770606340c3a3adaddf66364709_mv2_24bfdd8e.webp"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/event-default.jpg"
 ---
 
 # Machine Learning in Industry

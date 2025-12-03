@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Andreev_edited_1a591081.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Valeri Andreev**

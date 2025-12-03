@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Sadighi-modified_6ab408f4.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Armin Sadighi**

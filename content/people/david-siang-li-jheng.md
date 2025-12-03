@@ -20,6 +20,7 @@ cover:
   image: "/images/people/Jheng_circle_d652d508.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## David Siang-Li Jheng

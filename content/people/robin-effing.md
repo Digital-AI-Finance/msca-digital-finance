@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Effing_071f5795.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Robin Effing**

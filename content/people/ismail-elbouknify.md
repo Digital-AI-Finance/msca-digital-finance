@@ -21,6 +21,7 @@ cover:
   image: "/images/people/561f6f2c-9d2f-4dba-9f57-65e7a0ba03fd-modified_35570a11.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## Ismail Elbouknify

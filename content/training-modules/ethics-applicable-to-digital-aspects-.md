@@ -5,6 +5,7 @@ type: "training-modules"
 original_url: "https://www.digital-finance-msca.com/training-modules/ethics-applicable-to-digital-aspects-"
 last_synced: "2025-12-02T14:55:07.345529"
 draft: false
+image: "/images/defaults/training-default.jpg"
 ---
 
 Ethics applicable to digital aspects

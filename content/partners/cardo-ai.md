@@ -15,6 +15,7 @@ images:
 - /images/partners/GettyImages-591216789_08c44f14.jpg
 - /images/blog/unnamed_c029ae93.png
 - /images/blog/1cd49e_46e17462b534409c9a46ee2aad6648ab_mv2_933b9f21.png
+image: "/images/defaults/partner-default.png"
 ---
 
 ### Cardo AI

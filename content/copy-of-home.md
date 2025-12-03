@@ -4,6 +4,7 @@ date: 2025-12-02
 original_url: "https://www.digital-finance-msca.com/copy-of-home"
 draft: false
 ShowToc: true
+image: "/images/defaults/default.jpg"
 ---
 
 The DIGITAL FINANCE Pathway to Industry and Academia

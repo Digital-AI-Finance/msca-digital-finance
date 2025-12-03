@@ -3,7 +3,9 @@ title: European Institute for Technology - Digital
 date: '2025-12-01'
 draft: false
 type: partners
-original_url: https://www.digital-finance-msca.com/partner-new/european-institute-for-technology---digital
+original_url: https://www.digital-finance-msca.com/partner-new/european-institute-for-technology
+image: "/images/defaults/partner-default.png"
+---digital
 images:
 - /images/blog/logo_d9d66bb7.jpg
 - /images/blog/logo-nobackground-500_dccd868e.png

@@ -20,6 +20,7 @@ cover:
   image: "/images/people/Markus_Ebner_a666ff85.jpeg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Markus Ebner**

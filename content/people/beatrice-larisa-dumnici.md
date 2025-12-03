@@ -20,6 +20,7 @@ cover:
   image: "/images/people/Dumnici_circle_366162eb.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## Beatrice-Larisa Dumnici

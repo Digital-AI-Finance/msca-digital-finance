@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Yilmaz-modified_e1104dcc.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## Gokce Nur Yilmaz

@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Ren_edited_ad451f87.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Rui Ren**

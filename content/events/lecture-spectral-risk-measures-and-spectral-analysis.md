@@ -21,6 +21,7 @@ cover:
   image: "/images/events/d826e4_549b38d17ab34a7a83b3aca4f8f42400_mv2_1c22cfdb.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/event-default.jpg"
 ---
 
 # Lecture: Spectral Risk Measures and Spectral Analysis

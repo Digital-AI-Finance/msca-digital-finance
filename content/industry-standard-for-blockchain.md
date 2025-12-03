@@ -4,6 +4,7 @@ date: 2025-12-02
 type: "page"
 original_url: "https://www.digital-finance-msca.com/industry-standard-for-blockchain"
 draft: false
+image: "/images/defaults/default.jpg"
 ---
 
 Machine Learning for Digital Finance

@@ -15,6 +15,7 @@ images:
 - /images/general/1cd49e_5d6b52789fe142d7bdd0070add493908_mv2_085132e1.webp
 - /images/general/d826e4_0ad08710a8ac4a41a1bae43a215b8c13_mv2_71790cd4.webp
 ShowToc: true
+image: "/images/defaults/default.jpg"
 ---
 
 * [Untitled](/wp9-ethics-digital/)

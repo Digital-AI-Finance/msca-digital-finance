@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Malakauskas_dccbd7c1.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Aidas Malakauskas**

@@ -1,0 +1,28 @@
+{{ define "main" }}
+<section class="page-header">
+    <div class="container">
+        <h1>{{ .Title }}</h1>
+        <p class="lead">Latest news and updates from our network</p>
+    </div>
+</section>
+
+<section class="blog-section">
+    <div class="container">
+        <div class="blog-grid">
+            {{ range .Pages }}
+            <article class="blog-card">
+                {{ with .Params.image }}
+                <img src="{{ . }}" alt="{{ $.Title }}" class="blog-image">
+                {{ end }}
+                <div class="blog-content">
+                    <time>{{ .Date.Format "January 2, 2006" }}</time>
+                    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                    <p>{{ .Summary | truncate 150 }}</p>
+                    <a href="{{ .Permalink }}" class="read-more">Read more</a>
+                </div>
+            </article>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}

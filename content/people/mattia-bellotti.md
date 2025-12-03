@@ -20,6 +20,7 @@ cover:
   image: "/images/people/matia_edited_f317bd86.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Mattia Bellotti**

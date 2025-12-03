@@ -1,0 +1,667 @@
+/*
+ * MSCA Digital Finance Theme
+ * Custom Hugo theme for EU-funded research network
+ * Generated: 2025-12-04
+ */
+
+/* ==================== VARIABLES ==================== */
+:root {
+    --eu-blue: #003399;
+    --eu-gold: #FFD700;
+    --primary: #003399;
+    --secondary: #0055CC;
+    --accent: #FFD700;
+    --text: #333333;
+    --text-light: #666666;
+    --bg: #FFFFFF;
+    --bg-light: #F5F7FA;
+    --border: #E0E4E8;
+    --shadow: rgba(0, 51, 153, 0.1);
+    --radius: 8px;
+    --transition: 0.3s ease;
+}
+
+/* ==================== RESET ==================== */
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 16px;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    line-height: 1.6;
+    color: var(--text);
+    background: var(--bg);
+}
+
+/* ==================== LAYOUT ==================== */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* ==================== HEADER ==================== */
+.site-header {
+    background: var(--eu-blue);
+    color: white;
+    padding: 15px 0;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0 2px 10px var(--shadow);
+}
+
+.header-inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    text-decoration: none;
+    color: white;
+}
+
+.logo-text {
+    font-size: 1.25rem;
+    font-weight: 700;
+}
+
+.main-nav {
+    display: flex;
+    gap: 5px;
+}
+
+.nav-link {
+    color: white;
+    text-decoration: none;
+    padding: 8px 12px;
+    border-radius: var(--radius);
+    font-size: 0.9rem;
+    transition: background var(--transition);
+}
+
+.nav-link:hover,
+.nav-link.active {
+    background: rgba(255, 255, 255, 0.15);
+}
+
+.menu-toggle {
+    display: none;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+}
+
+.hamburger {
+    display: block;
+    width: 24px;
+    height: 2px;
+    background: white;
+    position: relative;
+}
+
+.hamburger::before,
+.hamburger::after {
+    content: '';
+    position: absolute;
+    width: 24px;
+    height: 2px;
+    background: white;
+    left: 0;
+}
+
+.hamburger::before { top: -8px; }
+.hamburger::after { top: 8px; }
+
+/* ==================== HERO ==================== */
+.hero {
+    background: linear-gradient(135deg, var(--eu-blue) 0%, #001a4d 100%);
+    color: white;
+    padding: 80px 0;
+    text-align: center;
+}
+
+.hero-title {
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.hero-subtitle {
+    font-size: 1.5rem;
+    font-weight: 300;
+    margin-bottom: 20px;
+    color: var(--eu-gold);
+}
+
+.hero-desc {
+    font-size: 1.1rem;
+    opacity: 0.9;
+    max-width: 600px;
+    margin: 0 auto 20px;
+}
+
+.hero-badge {
+    display: inline-block;
+    background: var(--eu-gold);
+    color: var(--eu-blue);
+    padding: 8px 20px;
+    border-radius: 20px;
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+
+/* ==================== SECTIONS ==================== */
+section {
+    padding: 60px 0;
+}
+
+section:nth-child(even) {
+    background: var(--bg-light);
+}
+
+section h2 {
+    font-size: 2rem;
+    color: var(--eu-blue);
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.page-header {
+    background: var(--eu-blue);
+    color: white;
+    padding: 40px 0;
+    text-align: center;
+}
+
+.page-header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+.page-header .lead {
+    font-size: 1.1rem;
+    opacity: 0.9;
+}
+
+/* ==================== RESEARCH DOMAINS ==================== */
+.domain-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 20px;
+}
+
+.domain-card {
+    background: white;
+    padding: 30px 20px;
+    border-radius: var(--radius);
+    text-align: center;
+    box-shadow: 0 2px 10px var(--shadow);
+    transition: transform var(--transition);
+}
+
+.domain-card:hover {
+    transform: translateY(-5px);
+}
+
+.domain-icon {
+    width: 50px;
+    height: 50px;
+    background: var(--eu-blue);
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin: 0 auto 15px;
+}
+
+.domain-card h3 {
+    font-size: 1.1rem;
+    color: var(--eu-blue);
+    margin-bottom: 10px;
+}
+
+.domain-card p {
+    font-size: 0.9rem;
+    color: var(--text-light);
+}
+
+/* ==================== CARDS ==================== */
+.card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 25px;
+}
+
+.card {
+    background: white;
+    border-radius: var(--radius);
+    overflow: hidden;
+    box-shadow: 0 2px 10px var(--shadow);
+    transition: transform var(--transition);
+}
+
+.card:hover {
+    transform: translateY(-3px);
+}
+
+.card-image {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.card h3 {
+    font-size: 1.1rem;
+    margin-bottom: 8px;
+}
+
+.card h3 a {
+    color: var(--eu-blue);
+    text-decoration: none;
+}
+
+.card h3 a:hover {
+    text-decoration: underline;
+}
+
+.card .role {
+    color: var(--secondary);
+    font-size: 0.9rem;
+    margin-bottom: 3px;
+}
+
+.card .institution {
+    color: var(--text-light);
+    font-size: 0.85rem;
+}
+
+/* ==================== PEOPLE ==================== */
+.people-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 25px;
+}
+
+.person-card {
+    background: white;
+    border-radius: var(--radius);
+    padding: 25px 15px;
+    text-align: center;
+    box-shadow: 0 2px 10px var(--shadow);
+    transition: transform var(--transition);
+}
+
+.person-card:hover {
+    transform: translateY(-3px);
+}
+
+.person-photo {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 0 auto 15px;
+    border: 3px solid var(--eu-blue);
+}
+
+.person-photo.placeholder {
+    background: var(--bg-light);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.person-info h3 {
+    font-size: 1rem;
+    margin-bottom: 5px;
+}
+
+.person-info h3 a {
+    color: var(--eu-blue);
+    text-decoration: none;
+}
+
+.person-info .role {
+    color: var(--secondary);
+    font-size: 0.85rem;
+}
+
+.person-info .institution {
+    color: var(--text-light);
+    font-size: 0.8rem;
+}
+
+/* ==================== PROFILE ==================== */
+.profile-header {
+    background: var(--eu-blue);
+    color: white;
+    padding: 50px 0;
+}
+
+.profile-top {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+.profile-photo {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid white;
+    flex-shrink: 0;
+}
+
+.profile-meta h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.profile-meta .role {
+    font-size: 1.1rem;
+    color: var(--eu-gold);
+}
+
+.profile-meta .institution {
+    opacity: 0.9;
+}
+
+.profile-meta .email a {
+    color: white;
+}
+
+.profile-content {
+    padding: 40px 0;
+}
+
+/* ==================== PARTNERS ==================== */
+.partners-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 25px;
+}
+
+.partner-card {
+    background: white;
+    border-radius: var(--radius);
+    padding: 25px;
+    text-align: center;
+    box-shadow: 0 2px 10px var(--shadow);
+}
+
+.partner-image {
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+    margin: 0 auto 15px;
+}
+
+.partner-image.placeholder {
+    background: var(--bg-light);
+    border-radius: var(--radius);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--eu-blue);
+}
+
+.partner-info h3 {
+    font-size: 1rem;
+}
+
+.partner-info h3 a {
+    color: var(--eu-blue);
+    text-decoration: none;
+}
+
+.partners-logos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 30px;
+}
+
+.partner-logo {
+    height: 60px;
+    width: auto;
+    object-fit: contain;
+    filter: grayscale(50%);
+    transition: filter var(--transition);
+}
+
+.partner-logo:hover {
+    filter: grayscale(0%);
+}
+
+/* ==================== BLOG/NEWS ==================== */
+.news-grid, .blog-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 25px;
+}
+
+.news-card, .blog-card {
+    background: white;
+    border-radius: var(--radius);
+    overflow: hidden;
+    box-shadow: 0 2px 10px var(--shadow);
+}
+
+.news-image, .blog-image {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+}
+
+.news-content, .blog-content {
+    padding: 20px;
+}
+
+.news-content time, .blog-content time {
+    font-size: 0.8rem;
+    color: var(--text-light);
+}
+
+.news-content h3, .blog-content h3 {
+    font-size: 1.1rem;
+    margin: 8px 0;
+}
+
+.news-content h3 a, .blog-content h3 a {
+    color: var(--eu-blue);
+    text-decoration: none;
+}
+
+.read-more {
+    color: var(--secondary);
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+
+/* ==================== CONTENT ==================== */
+.content-body {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.content-body h2, .content-body h3 {
+    color: var(--eu-blue);
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+.content-body p {
+    margin-bottom: 15px;
+}
+
+.content-body ul, .content-body ol {
+    margin-bottom: 15px;
+    padding-left: 25px;
+}
+
+.content-body li {
+    margin-bottom: 5px;
+}
+
+.content-body a {
+    color: var(--secondary);
+}
+
+.content-body img {
+    max-width: 100%;
+    height: auto;
+    border-radius: var(--radius);
+    margin: 20px 0;
+}
+
+.featured-image {
+    margin-bottom: 30px;
+}
+
+.featured-image img {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    border-radius: var(--radius);
+}
+
+/* ==================== BUTTONS ==================== */
+.btn {
+    display: inline-block;
+    padding: 12px 30px;
+    background: var(--eu-blue);
+    color: white;
+    text-decoration: none;
+    border-radius: var(--radius);
+    font-weight: 600;
+    transition: background var(--transition);
+}
+
+.btn:hover {
+    background: var(--secondary);
+}
+
+.btn-outline {
+    background: transparent;
+    border: 2px solid var(--eu-blue);
+    color: var(--eu-blue);
+}
+
+.btn-outline:hover {
+    background: var(--eu-blue);
+    color: white;
+}
+
+/* ==================== FOOTER ==================== */
+.site-footer {
+    background: #1a1a2e;
+    color: white;
+    padding: 50px 0 30px;
+}
+
+.eu-funding {
+    background: rgba(255, 215, 0, 0.1);
+    border-left: 4px solid var(--eu-gold);
+    padding: 15px 20px;
+    margin-bottom: 40px;
+    font-size: 0.9rem;
+}
+
+.footer-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 30px;
+    margin-bottom: 30px;
+}
+
+.footer-col h4 {
+    color: var(--eu-gold);
+    margin-bottom: 15px;
+    font-size: 1rem;
+}
+
+.footer-col ul {
+    list-style: none;
+}
+
+.footer-col li {
+    margin-bottom: 8px;
+}
+
+.footer-col a {
+    color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+    font-size: 0.9rem;
+}
+
+.footer-col a:hover {
+    color: white;
+}
+
+.footer-col p {
+    font-size: 0.9rem;
+    opacity: 0.8;
+}
+
+.copyright {
+    text-align: center;
+    padding-top: 20px;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    font-size: 0.85rem;
+    opacity: 0.7;
+}
+
+/* ==================== RESPONSIVE ==================== */
+@media (max-width: 768px) {
+    .hero-title { font-size: 2rem; }
+    .hero-subtitle { font-size: 1.2rem; }
+
+    .menu-toggle { display: block; }
+
+    .main-nav {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background: var(--eu-blue);
+        flex-direction: column;
+        padding: 10px 20px 20px;
+    }
+
+    .main-nav.active { display: flex; }
+
+    .nav-link {
+        padding: 12px;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    .profile-top {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .people-grid { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }
+    .person-photo { width: 100px; height: 100px; }
+}

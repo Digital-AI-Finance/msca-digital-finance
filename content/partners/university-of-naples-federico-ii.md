@@ -15,6 +15,7 @@ images:
 - /images/partners/GettyImages-591216789_88939f4a.jpg
 - /images/partners/GettyImages-591216789_cb039e48.jpg
 - /images/partners/GettyImages-591216789_cfc32069.png
+image: "/images/defaults/partner-default.png"
 ---
 
 ### University of Naples Federico II

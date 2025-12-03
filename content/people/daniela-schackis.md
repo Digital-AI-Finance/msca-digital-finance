@@ -20,6 +20,7 @@ cover:
   image: "/images/people/Daniela_Schackis_eb82e9c2.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Daniela Schackis**

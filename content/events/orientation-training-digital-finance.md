@@ -19,6 +19,7 @@ cover:
   image: "/images/events/d826e4_d3a1a48e86ad42f08458adcf9a521f1c_mv2_9f10f53e.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/event-default.jpg"
 ---
 
 # Orientation Training Digital Finance

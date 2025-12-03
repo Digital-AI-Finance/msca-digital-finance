@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Mastrokostopoulos_edited_add2be40.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Theodoros Mastrokostopoulos**

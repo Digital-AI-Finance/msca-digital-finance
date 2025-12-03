@@ -5,7 +5,7 @@
 baseURL = "https://digital-ai-finance.github.io/msca-digital-finance/"
 languageCode = "en-us"
 title = "MSCA Digital Finance"
-theme = "PaperMod"
+theme = "msca-digital-finance"
 
 # Build settings
 enableRobotsTXT = true
@@ -72,56 +72,7 @@ minMatchCharLength = 0
 keys = ["title", "permalink", "summary", "content"]
 
 # Menu
-[menu]
-[[menu.main]]
-identifier = "home"
-name = "Home"
-url = "/"
-weight = 1
 
-[[menu.main]]
-identifier = "about"
-name = "About"
-url = "/about-the-project/"
-weight = 10
-
-[[menu.main]]
-identifier = "people"
-name = "People"
-url = "/people/"
-weight = 20
-
-[[menu.main]]
-identifier = "partners"
-name = "Partners"
-url = "/partners/"
-weight = 30
-
-[[menu.main]]
-identifier = "training"
-name = "Training"
-url = "/training-modules/"
-weight = 40
-
-[[menu.main]]
-identifier = "events"
-name = "Events"
-url = "/training-events/"
-weight = 50
-
-[[menu.main]]
-identifier = "blog"
-name = "News"
-url = "/blog/"
-weight = 60
-
-[[menu.main]]
-identifier = "eu-data"
-name = "EU Data"
-url = "/eu-cordis-project/"
-weight = 70
-
-# Outputs
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 
@@ -138,3 +89,71 @@ noClasses = false
 style = "dracula"
 [markup.goldmark.renderer]
 unsafe = true
+
+# Main Navigation Menu
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 10
+
+[[menu.main]]
+  name = "About"
+  url = "/about-the-project/"
+  weight = 20
+
+[[menu.main]]
+  name = "People"
+  url = "/people/"
+  weight = 30
+
+[[menu.main]]
+  name = "Partners"
+  url = "/partners/"
+  weight = 40
+
+[[menu.main]]
+  name = "Research"
+  url = "/research-domains/"
+  weight = 50
+
+[[menu.main]]
+  name = "Training"
+  url = "/training-modules/"
+  weight = 60
+
+[[menu.main]]
+  name = "Events"
+  url = "/training-events/"
+  weight = 70
+
+[[menu.main]]
+  name = "News"
+  url = "/blog/"
+  weight = 80
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 90
+
+# Footer Navigation Menu
+[[menu.footer]]
+  name = "About"
+  url = "/about-the-project/"
+  weight = 10
+
+[[menu.footer]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 20
+
+[[menu.footer]]
+  name = "Privacy"
+  url = "/privacy/"
+  weight = 30
+
+[[menu.footer]]
+  name = "Legal"
+  url = "/legal/"
+  weight = 40
+

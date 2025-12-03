@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Teng_b3685f30.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Huei-Wen Teng**

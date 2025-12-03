@@ -15,6 +15,7 @@ images:
 - /images/general/d826e4_24004ffefd784f62b8d1665308ffea1f_mv2_9cc432dc.png
 - /images/general/1cd49e_5d6b52789fe142d7bdd0070add493908_mv2_05f7d8eb.webp
 ShowToc: true
+image: "/images/defaults/default.jpg"
 ---
 
 ## Work Package 3  

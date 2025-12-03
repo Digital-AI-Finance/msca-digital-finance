@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Braun_679c2c89.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Daniel Braun**

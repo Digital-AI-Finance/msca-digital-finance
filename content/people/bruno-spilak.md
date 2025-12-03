@@ -20,6 +20,7 @@ cover:
   image: "/images/people/1706717069496_4c92c4e8.jpeg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Bruno Spilak**

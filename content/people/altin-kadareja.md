@@ -20,6 +20,7 @@ cover:
   image: "/images/people/Kadareja_7c5208b2.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Altin Kadareja**

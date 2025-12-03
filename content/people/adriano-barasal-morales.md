@@ -21,6 +21,7 @@ cover:
   image: "/images/people/new_646fe718.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 Adriano Barasal Morales

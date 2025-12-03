@@ -1,0 +1,82 @@
+{{ define "main" }}
+<section class="hero">
+    <div class="container">
+        <h1 class="hero-title">Digital Finance</h1>
+        <p class="hero-subtitle">Reaching New Frontiers</p>
+        <p class="hero-desc">A Horizon Europe MSCA Doctoral Network funded by the European Union</p>
+        <div class="hero-badge">Grant Agreement No. 101119635</div>
+    </div>
+</section>
+
+<section class="research-domains">
+    <div class="container">
+        <h2>Research Domains</h2>
+        <div class="domain-grid">
+            <div class="domain-card">
+                <div class="domain-icon">1</div>
+                <h3>European Financial Data Space</h3>
+                <p>Building infrastructure for financial data sharing across Europe</p>
+            </div>
+            <div class="domain-card">
+                <div class="domain-icon">2</div>
+                <h3>AI in Financial Markets</h3>
+                <p>Applying machine learning to trading and risk management</p>
+            </div>
+            <div class="domain-card">
+                <div class="domain-icon">3</div>
+                <h3>Explainable AI Decisions</h3>
+                <p>Making AI transparent and fair in financial applications</p>
+            </div>
+            <div class="domain-card">
+                <div class="domain-icon">4</div>
+                <h3>Blockchain Innovations</h3>
+                <p>DeFi, cryptocurrencies, and distributed ledger technology</p>
+            </div>
+            <div class="domain-card">
+                <div class="domain-icon">5</div>
+                <h3>Sustainable Digital Finance</h3>
+                <p>ESG investing and green fintech solutions</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="latest-news">
+    <div class="container">
+        <h2>Latest News</h2>
+        <div class="news-grid">
+            {{ range first 3 (where .Site.RegularPages "Section" "blog") }}
+            <article class="news-card">
+                {{ with .Params.image }}
+                <img src="{{ . }}" alt="{{ $.Title }}" class="news-image">
+                {{ end }}
+                <div class="news-content">
+                    <time>{{ .Date.Format "January 2, 2006" }}</time>
+                    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                    <p>{{ .Summary | truncate 120 }}</p>
+                </div>
+            </article>
+            {{ end }}
+        </div>
+        <a href="{{ "blog/" | relURL }}" class="btn">View All News</a>
+    </div>
+</section>
+
+<section class="partners-preview">
+    <div class="container">
+        <h2>Our Partners</h2>
+        <div class="partners-logos">
+            {{ range first 8 (where .Site.RegularPages "Section" "partners") }}
+            <a href="{{ .Permalink }}" class="partner-logo-link" title="{{ .Title }}">
+                {{ with .Params.image }}
+                <img src="{{ . }}" alt="{{ $.Title }}" class="partner-logo">
+                {{ else }}
+                <span class="partner-name">{{ $.Title }}</span>
+                {{ end }}
+            </a>
+            {{ end }}
+        </div>
+        <a href="{{ "partners/" | relURL }}" class="btn btn-outline">View All Partners</a>
+    </div>
+</section>
+{{ end }}

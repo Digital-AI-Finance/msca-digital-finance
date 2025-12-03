@@ -4,6 +4,7 @@ date: 2025-12-02
 type: "page"
 original_url: "https://www.digital-finance-msca.com/bern-university-of-applied-sciences-bfh"
 draft: false
+image: "/images/defaults/default.jpg"
 ---
 
 ERROR: PAGE NOT FOUND

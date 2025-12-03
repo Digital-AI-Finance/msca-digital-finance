@@ -20,6 +20,7 @@ cover:
   image: "/images/people/FrancescoPalumbo_pict_3f2c2bfb.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Francesco Palumbo**

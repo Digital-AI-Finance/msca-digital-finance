@@ -21,6 +21,7 @@ cover:
   image: "/images/events/1cd49e_a016279297484502abb50be78642fc92_mv2_dcf6ea3a.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/event-default.jpg"
 ---
 
 # Training Week on Blockchains in Digital Finance

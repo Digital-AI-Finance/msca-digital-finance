@@ -21,6 +21,7 @@ cover:
   image: "/images/people/vanderPol_feddce5f.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Stijn van der Pol**

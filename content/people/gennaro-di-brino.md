@@ -21,6 +21,7 @@ cover:
   image: "/images/people/DiBrino_1f19d092.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Gennaro Di Brino**

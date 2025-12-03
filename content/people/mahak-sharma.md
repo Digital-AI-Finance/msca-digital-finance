@@ -20,6 +20,7 @@ cover:
   image: "/images/people/Mahak_e53a69cf.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Mahak Sharma**

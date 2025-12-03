@@ -15,6 +15,7 @@ images:
 - /images/blog/11062b_9e78da3320da497ab23ce28d738d388a_mv2_ae27c472.png
 - /images/blog/logo-nobackground-500_c3c8414f.png
 ShowToc: true
+image: "/images/defaults/default.jpg"
 ---
 
 ## [Narrative Digital Finance: a tale of structural breaks, bubbles & market narratives](https://www.mysnf.ch/grants/grant.aspx?id=c8d8081e-6eee-4418-92bb-21dc2c89566a)

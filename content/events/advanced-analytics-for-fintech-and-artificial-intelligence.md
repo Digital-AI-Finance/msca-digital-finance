@@ -15,6 +15,7 @@ images:
 - /images/blog/quantinar_logo_fcc02fa4.png
 - /images/events/FinAI_COST_aecdeae5.png
 ShowToc: true
+image: "/images/defaults/event-default.jpg"
 ---
 
 # Advanced Analytics for Fintech and Artificial Intelligence

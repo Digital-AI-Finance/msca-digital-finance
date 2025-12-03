@@ -25,6 +25,7 @@ cover:
   alt: "Cover image"
   hidden: false
 ShowToc: true
+image: "/images/defaults/event-default.jpg"
 ---
 
 #  MSCA Network Event - Advanced Statistical Modelling for Fintech, financial inclusion and inequality (UNA, Naples) MSCA 

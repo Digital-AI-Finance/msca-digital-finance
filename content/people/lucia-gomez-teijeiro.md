@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Gomez_72cf4014.jpeg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Lucia Gomez Teijeiro**

@@ -20,6 +20,7 @@ cover:
   image: "/images/people/Ferrario_f79663be.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Alberto Ferrario**

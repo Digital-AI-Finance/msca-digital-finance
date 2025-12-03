@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Haerdle_edited_b14e5129.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Wolfgang Härdle**

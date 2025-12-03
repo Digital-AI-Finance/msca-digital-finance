@@ -20,6 +20,7 @@ cover:
   image: "/images/people/Lukasz_Kubicki_57a62af4.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Lukasz Kubicki**

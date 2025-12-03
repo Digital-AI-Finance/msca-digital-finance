@@ -20,6 +20,7 @@ cover:
   image: "/images/people/Simon_Haller_ea595fae.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Simon Haller**

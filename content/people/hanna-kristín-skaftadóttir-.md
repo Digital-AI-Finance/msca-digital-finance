@@ -5,6 +5,7 @@ type: "people"
 original_url: "https://www.digital-finance-msca.com/people/hanna-krist%C3%ADn-skaftad%C3%B3ttir-"
 last_synced: "2025-12-02T14:54:55.299979"
 draft: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 Hanna Kristín Skaftadóttir

@@ -1,0 +1,13 @@
+# MSCA Digital Finance Theme
+name = "MSCA Digital Finance"
+license = "MIT"
+licenselink = "https://github.com/Digital-AI-Finance/msca-digital-finance"
+description = "Custom Hugo theme for MSCA Digital Finance project"
+homepage = "https://digital-ai-finance.github.io/msca-digital-finance/"
+tags = ["academic", "eu-funded", "research", "responsive"]
+features = ["responsive", "mobile-friendly", "eu-branding"]
+min_version = "0.100.0"
+
+[author]
+  name = "Digital Finance Consortium"
+  homepage = "https://www.digital-finance-msca.com/"

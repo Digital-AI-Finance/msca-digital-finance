@@ -20,6 +20,7 @@ cover:
   image: "/images/people/Stephen_chan.jpg_copy_d5a6f624.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Stephen Chan**

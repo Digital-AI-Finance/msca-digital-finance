@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Alfonso_Iodice_bc558923.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Alfonso Iodice D'Enza**

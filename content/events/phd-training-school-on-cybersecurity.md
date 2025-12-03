@@ -19,6 +19,7 @@ cover:
   image: "/images/events/e64bca_2d5d4657e33b45d9a703a214894b1f63_mv2_8770e887.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/event-default.jpg"
 ---
 
 # PhD Training School on Cybersecurity

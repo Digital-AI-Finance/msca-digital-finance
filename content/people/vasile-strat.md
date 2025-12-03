@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Strat_edited_e959a2e2.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Vasile Strat**

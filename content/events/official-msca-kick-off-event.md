@@ -22,6 +22,7 @@ cover:
   image: "/images/events/1cd49e_1c8b259169eb49ffbe783a7e4d7d4265_mv2_03c26faf.jpeg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/event-default.jpg"
 ---
 
 # Official MSCA Kick-off Event

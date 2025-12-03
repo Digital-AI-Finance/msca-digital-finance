@@ -21,6 +21,7 @@ cover:
   image: "/images/people/AdrianaAnaMariaDividescu_c1fd60f0.jpeg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 Adriana AnaMaria Davidescu

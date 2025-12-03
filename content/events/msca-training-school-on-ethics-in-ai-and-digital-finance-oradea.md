@@ -22,6 +22,7 @@ cover:
   image: "/images/events/e64bca_25fd0f90ce3c46649c34818e876a7e03_mv2_2c55f894.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/event-default.jpg"
 ---
 
 # MSCA Training School on Ethics in AI and Digital Finance @Oradea

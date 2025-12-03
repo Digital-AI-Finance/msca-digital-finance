@@ -76,6 +76,7 @@ cover:
   image: "/images/events/e64bca_12ee388a09744175b66366429b6c9f5c_mv2_305b1e3b.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/event-default.jpg"
 ---
 
 # Network Event - The 4th International Conference on Mathematics and Statistics

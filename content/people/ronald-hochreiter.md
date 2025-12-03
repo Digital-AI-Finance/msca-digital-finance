@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Hochreiter_edited_5883dafb.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Ronald Hochreiter**

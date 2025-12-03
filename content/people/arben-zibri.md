@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Zibri_6c06c3d8.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Arben Zibri**

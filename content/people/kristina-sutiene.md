@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Sutiene_e3bbadbd.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Kristina Šutienė**

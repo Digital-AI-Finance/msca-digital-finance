@@ -1,0 +1,85 @@
+{
+  "date": "2025-12-04T00:19:11.650654",
+  "content": {
+    "total": 432,
+    "by_section": {
+      "root": 94,
+      "blog": 28,
+      "blog-categories": 1,
+      "events": 68,
+      "partners": 41,
+      "people": 141,
+      "training-events": 9,
+      "training-modules": 43,
+      "members-area": 7
+    }
+  },
+  "images": {
+    "files": {
+      "total": 1090,
+      "by_directory": {
+        "blog": 48,
+        "events": 197,
+        "general": 448,
+        "partners": 130,
+        "people": 267
+      }
+    },
+    "references": {
+      "total": 1008,
+      "found": 1839,
+      "missing_count": 0,
+      "missing": []
+    }
+  },
+  "navigation": [
+    {
+      "name": "Home",
+      "url": "/",
+      "exists": true
+    },
+    {
+      "name": "About",
+      "url": "/about-the-project/",
+      "exists": true
+    },
+    {
+      "name": "People",
+      "url": "/people/",
+      "exists": true
+    },
+    {
+      "name": "Partners",
+      "url": "/partners/",
+      "exists": true
+    },
+    {
+      "name": "Training",
+      "url": "/training-modules/",
+      "exists": true
+    },
+    {
+      "name": "Events",
+      "url": "/training-events/",
+      "exists": true
+    },
+    {
+      "name": "News",
+      "url": "/blog/",
+      "exists": true
+    },
+    {
+      "name": "EU Data",
+      "url": "/eu-cordis-project/",
+      "exists": true
+    }
+  ],
+  "themes": [
+    {
+      "name": "PaperMod",
+      "has_layouts": true,
+      "path": "D:\\Joerg\\Research\\slides\\MSCA_Digital_Finance\\msca-digital-finance\\themes\\PaperMod"
+    }
+  ],
+  "issues": []
+}

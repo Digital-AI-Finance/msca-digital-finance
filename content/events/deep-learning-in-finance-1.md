@@ -19,6 +19,7 @@ cover:
   image: "/images/events/58ddb0_f28f24feff434da5abdf59dfe1f1da14_mv2_79db3933.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/event-default.jpg"
 ---
 
 # Deep Learning in Finance

@@ -23,6 +23,7 @@ cover:
   image: "/images/events/e64bca_2cebf9d7b2b14227a895f971725e3c43_mv2_ad819fed.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/event-default.jpg"
 ---
 
 # Network Event - 4th Yushan Conference

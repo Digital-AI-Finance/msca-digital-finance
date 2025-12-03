@@ -13,6 +13,7 @@ images:
 - /images/blog/d826e4_7dcbe49c67394160a8efaf859c585a9b_mv2_a8413586.png
 - /images/blog/quantinar_logo_fcc02fa4.png
 - /images/events/FinAI_COST_aecdeae5.png
+image: "/images/defaults/default.jpg"
 ---
 
 ### Challenges and opportunities for the uptaking of technological development by industry

@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Corduas_5476dbb9.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 Marcella Corduas

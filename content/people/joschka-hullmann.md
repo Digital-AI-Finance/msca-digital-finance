@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Huellmann_a857ba0a.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Joschka Hüllmann**

@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Belbe_circle_0a9895b5.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## Stefana Belbe

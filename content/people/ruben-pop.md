@@ -20,6 +20,7 @@ cover:
   image: "/images/people/Pop_circle_deccabcb.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## Ruben Pop

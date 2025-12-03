@@ -20,6 +20,7 @@ cover:
   image: "/images/people/Williams_edited_8a5f3ba3.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Nigel Williams**

@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Bernard_3f5e7f67.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Frédérik Sinan Bernard**

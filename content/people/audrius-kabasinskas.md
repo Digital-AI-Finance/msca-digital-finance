@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Kabasinskas_deb3f21d.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Audrius Kabasinskas**

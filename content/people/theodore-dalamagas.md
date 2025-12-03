@@ -20,6 +20,7 @@ cover:
   image: "/images/people/Dalamagas_edited_ab69aa58.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Theodore Dalamagas**

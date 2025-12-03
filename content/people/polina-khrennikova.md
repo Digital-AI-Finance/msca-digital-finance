@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Khrennikova_44ae784b.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Polina Khrennikova**

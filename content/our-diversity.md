@@ -15,6 +15,7 @@ images:
 - /images/blog/11062b_9e78da3320da497ab23ce28d738d388a_mv2_ae27c472.png
 - /images/blog/logo-nobackground-500_c3c8414f.png
 ShowToc: true
+image: "/images/defaults/default.jpg"
 ---
 
 # Our Diversity

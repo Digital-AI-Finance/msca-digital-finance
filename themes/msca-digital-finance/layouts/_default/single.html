@@ -1,0 +1,30 @@
+{{ define "main" }}
+<article class="single-page">
+    <header class="page-header">
+        <div class="container">
+            <h1>{{ .Title }}</h1>
+            {{ with .Params.date }}<time>{{ . | time.Format "January 2, 2006" }}</time>{{ end }}
+        </div>
+    </header>
+
+    <section class="page-content">
+        <div class="container">
+            {{ with .Params.image }}
+            <figure class="featured-image">
+                <img src="{{ . }}" alt="{{ $.Title }}">
+            </figure>
+            {{ end }}
+
+            <div class="content-body">
+                {{ .Content }}
+            </div>
+
+            {{ with .Params.email }}
+            <div class="contact-info">
+                <p><strong>Email:</strong> <a href="mailto:{{ . }}">{{ . }}</a></p>
+            </div>
+            {{ end }}
+        </div>
+    </section>
+</article>
+{{ end }}

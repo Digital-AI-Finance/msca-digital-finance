@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Svetlova_b1505feb.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Ekaterina Svetlova**

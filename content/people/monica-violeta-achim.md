@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Achim_ae0d274d.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Monica Violeta Achim**

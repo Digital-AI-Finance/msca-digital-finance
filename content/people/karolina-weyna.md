@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Weyna-modified_6a288b7a.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Karolina Weyna**

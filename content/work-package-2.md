@@ -5,6 +5,7 @@ type: "work-package"
 original_url: "https://www.digital-finance-msca.com/work-package-2"
 draft: false
 ShowToc: true
+image: "/images/defaults/default.jpg"
 ---
 
 Work Package 2

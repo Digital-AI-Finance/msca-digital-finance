@@ -19,6 +19,7 @@ cover:
   image: "/images/events/d826e4_62ca734927164fddb5cf20aa18f3df97_mv2_3ec030c2.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/event-default.jpg"
 ---
 
 # SSM Annual Research Conference

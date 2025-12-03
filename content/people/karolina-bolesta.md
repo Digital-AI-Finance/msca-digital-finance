@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Bolesta_54f0022b.JPG"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Karolina Bolesta**

@@ -20,6 +20,7 @@ cover:
   image: "/images/people/Bojan_circle_c51dcda0.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## Adrian Bojan

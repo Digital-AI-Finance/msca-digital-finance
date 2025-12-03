@@ -1,0 +1,30 @@
+{{ define "main" }}
+<section class="page-header">
+    <div class="container">
+        <h1>{{ .Title }}</h1>
+        <p class="lead">Our consortium members and associated partners</p>
+    </div>
+</section>
+
+<section class="partners-section">
+    <div class="container">
+        {{ .Content }}
+
+        <div class="partners-grid">
+            {{ range .Pages }}
+            <article class="partner-card">
+                {{ with .Params.image }}
+                <img src="{{ . }}" alt="{{ $.Title }}" class="partner-image">
+                {{ else }}
+                <div class="partner-image placeholder">{{ substr $.Title 0 2 | upper }}</div>
+                {{ end }}
+                <div class="partner-info">
+                    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                    {{ with .Params.country }}<p class="country">{{ . }}</p>{{ end }}
+                </div>
+            </article>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}

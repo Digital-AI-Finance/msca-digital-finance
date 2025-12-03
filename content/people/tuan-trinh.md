@@ -20,6 +20,7 @@ cover:
   image: "/images/people/trin_20702723.jpeg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Tuan Trinh**

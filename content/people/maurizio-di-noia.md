@@ -20,6 +20,7 @@ cover:
   image: "/images/people/Maurizio_di_Noia_Deloitte_2bf2d09b.jpeg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Maurizio Di Noia**

@@ -21,6 +21,7 @@ cover:
   image: "/images/people/van-Hillegersberg_ae74f06a.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Jos van Hillegersberg**

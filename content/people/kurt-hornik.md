@@ -20,6 +20,7 @@ cover:
   image: "/images/people/Hornik_79928e63.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Kurt Hornik**

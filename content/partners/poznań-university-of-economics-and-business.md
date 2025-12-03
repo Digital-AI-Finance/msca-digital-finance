@@ -15,6 +15,7 @@ images:
 - /images/blog/logo-nobackground-500_c3c8414f.png
 - /images/blog/d826e4_7dcbe49c67394160a8efaf859c585a9b_mv2_a8413586.png
 - /images/blog/quantinar_logo_fcc02fa4.png
+image: "/images/defaults/partner-default.png"
 ---
 
 ### Poznań University of Economics and Business

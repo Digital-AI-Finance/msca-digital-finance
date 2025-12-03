@@ -20,6 +20,7 @@ cover:
   image: "/images/people/temporary-profile-placeholder-1_d6c173b0.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Stefan Lessmann**

@@ -20,6 +20,7 @@ cover:
   image: "/images/people/Theussl_5710801f.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Stefan Theussl**

@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Jens_Updated_29904555.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Jens Reil**

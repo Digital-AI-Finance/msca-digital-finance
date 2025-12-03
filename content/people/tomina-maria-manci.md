@@ -20,6 +20,7 @@ cover:
   image: "/images/people/Manci_circle_5cb7aac4.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## Tomina-Maria Manci

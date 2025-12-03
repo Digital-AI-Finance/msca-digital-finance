@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Skaftadottir_e8d88139.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 Hanna Kristín Skaftadóttir

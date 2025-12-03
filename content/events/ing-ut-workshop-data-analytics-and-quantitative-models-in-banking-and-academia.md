@@ -21,6 +21,7 @@ cover:
   alt: "Cover image"
   hidden: false
 ShowToc: true
+image: "/images/defaults/event-default.jpg"
 ---
 
 # ING-UT Workshop Data Analytics and Quantitative Models in Banking and Academia

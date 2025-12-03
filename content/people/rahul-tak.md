@@ -20,6 +20,7 @@ cover:
   image: "/images/people/RahulTak_circle_3c316af3.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## Rahul Tak

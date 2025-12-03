@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Anastas_Dzurovski-modified_ec36ccb4.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## Anastas Dzurovski

@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Korn_8e46dbf3.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Ralf Korn**

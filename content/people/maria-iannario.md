@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Iannario_edited_ceaa91b8.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Maria Iannario**

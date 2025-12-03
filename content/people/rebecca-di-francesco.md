@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Di_Francesco-circle_591ad341.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## Rebecca Di Francesco

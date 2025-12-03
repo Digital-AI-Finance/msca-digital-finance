@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Wenzel_e8281e23.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Jörg Wenzel**

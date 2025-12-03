@@ -20,6 +20,7 @@ cover:
   image: "/images/people/Nerijus_305ae62f.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Nerijus Mačiulis**

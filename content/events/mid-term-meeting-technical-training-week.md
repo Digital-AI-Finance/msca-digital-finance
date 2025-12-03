@@ -24,6 +24,7 @@ cover:
   alt: "Cover image"
   hidden: false
 ShowToc: true
+image: "/images/defaults/event-default.jpg"
 ---
 
 # Mid-Term Meeting & Technical Training Week

@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Taibi_7bf3252b.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Gabin Taibi**

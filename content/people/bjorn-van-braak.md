@@ -21,6 +21,7 @@ cover:
   image: "/images/people/vanBraak_ca5f4f12.jpeg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Bjorn van Braak**

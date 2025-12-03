@@ -1,0 +1,31 @@
+{{ define "main" }}
+<section class="page-header">
+    <div class="container">
+        <h1>{{ .Title }}</h1>
+        <p class="lead">Meet our researchers, supervisors, and partners</p>
+    </div>
+</section>
+
+<section class="people-section">
+    <div class="container">
+        {{ .Content }}
+
+        <div class="people-grid">
+            {{ range .Pages }}
+            <article class="person-card">
+                {{ with .Params.image }}
+                <img src="{{ . }}" alt="{{ $.Title }}" class="person-photo">
+                {{ else }}
+                <div class="person-photo placeholder"></div>
+                {{ end }}
+                <div class="person-info">
+                    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                    {{ with .Params.role }}<p class="role">{{ . }}</p>{{ end }}
+                    {{ with .Params.institution }}<p class="institution">{{ . }}</p>{{ end }}
+                </div>
+            </article>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}

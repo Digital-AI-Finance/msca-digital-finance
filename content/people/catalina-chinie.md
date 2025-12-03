@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Catalina_Chinie_dec1b3ab.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Catalina Chinie**

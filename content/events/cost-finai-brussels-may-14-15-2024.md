@@ -28,6 +28,7 @@ cover:
   image: "/images/events/1cd49e_79f83ee34b6a454c99913cf838927974_mv2_a798db23.jpg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/event-default.jpg"
 ---
 
 # COST FinAI Brussels, May 14-15, 2024

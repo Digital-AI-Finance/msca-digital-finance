@@ -20,6 +20,7 @@ cover:
   image: "/images/people/Megang_circle_5094ef32.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## Megang Nkamga Junile Staures

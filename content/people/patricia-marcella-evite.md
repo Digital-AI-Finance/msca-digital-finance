@@ -20,6 +20,7 @@ cover:
   image: "/images/people/Evite_circle_54c65f43.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## Patricia Marcella Evite

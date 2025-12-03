@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Blum_circle_725b7646.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## Stephanie Blum

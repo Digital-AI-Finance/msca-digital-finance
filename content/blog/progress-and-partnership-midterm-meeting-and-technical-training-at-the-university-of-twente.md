@@ -21,6 +21,7 @@ cover:
   alt: "Cover image"
   hidden: false
 ShowToc: true
+image: "/images/defaults/blog-default.jpg"
 ---
 
 * [All Posts](/blog/)

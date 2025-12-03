@@ -21,6 +21,7 @@ cover:
   image: "/images/people/Mohamed-modified_8771149f.png"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Mohamed Faid**

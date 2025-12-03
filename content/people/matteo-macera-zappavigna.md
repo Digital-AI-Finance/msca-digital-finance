@@ -20,6 +20,7 @@ cover:
   image: "/images/people/Matteo_Macera_Zappavigna_Deloitte_Consulting__2faf7979.jpeg"
   alt: "Cover image"
   hidden: false
+image: "/images/defaults/person-default.jpg"
 ---
 
 ## **Matteo Macera Zappavigna**
