@@ -1,0 +1,31 @@
+{
+  "timestamp": "2025-12-04T12:29:03.802636",
+  "hugo_stats": {
+    "total_pages": 444,
+    "people": 142,
+    "partners": 42,
+    "blog_posts": 29,
+    "training_modules": 44,
+    "training_events": 10,
+    "research_domains": 1,
+    "images": 1096
+  },
+  "empty_files": [
+    "partners-area.md",
+    "blog\\index.md",
+    "blog-categories\\index.md",
+    "events\\ai-in-financial-markets-research-forum-2.md",
+    "events\\index.md",
+    "events\\network-event-rb-event-2024-ai-in-financial-markets-research-forum.md",
+    "partners\\index.md",
+    "people\\index.md",
+    "research-domains\\_index.md",
+    "training-events\\index.md",
+    "training-events\\_index.md",
+    "training-modules\\index.md"
+  ],
+  "missing_images": [],
+  "recommendations": [
+    "Fill content for 12 empty/sparse pages"
+  ]
+}

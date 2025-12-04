@@ -7,16 +7,102 @@
     <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
-    {{ partial "head.html" . }}
 </head>
 <body>
-    {{ partial "header.html" . }}
-    <main>
-        {{ block "main" . }}{{ end }}
-    </main>
-    {{ partial "footer.html" . }}
+    <div class="page-wrapper">
+        <!-- Mobile Toggle Button -->
+        <button class="mobile-toggle" onclick="document.querySelector('.sidebar').classList.toggle('active')">
+            ☰ Menu
+        </button>
+
+        <!-- Left Sidebar -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <a href="{{ .Site.BaseURL }}" class="sidebar-logo">
+                    <div class="sidebar-logo-icon">
+                        <svg viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <circle cx="20" cy="20" r="18" stroke="#FFD700" stroke-width="2"/>
+                            <path d="M12 20L18 26L28 14" stroke="#FFD700" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    </div>
+                    <div class="sidebar-logo-text">
+                        <span class="sidebar-title">DIGITAL</span>
+                        <span class="sidebar-subtitle">MSCA Doctoral Network</span>
+                    </div>
+                </a>
+            </div>
+
+            <nav class="sidebar-nav">
+                <div class="nav-section">
+                    <a href="{{ .Site.BaseURL }}" class="nav-link{{ if .IsHome }} active{{ end }}">Home</a>
+                    <a href="{{ "about-the-project/" | relURL }}" class="nav-link{{ if eq .RelPermalink "/about-the-project/" }} active{{ end }}">About</a>
+                </div>
+
+                <div class="nav-section">
+                    <div class="nav-section-title">Network</div>
+                    <a href="{{ "people/" | relURL }}" class="nav-link{{ if hasPrefix .RelPermalink "/people" }} active{{ end }}">People</a>
+                    <a href="{{ "partners/" | relURL }}" class="nav-link{{ if hasPrefix .RelPermalink "/partners" }} active{{ end }}">Partners</a>
+                </div>
+
+                <div class="nav-section">
+                    <div class="nav-section-title">Research</div>
+                    <a href="{{ "research-domains/" | relURL }}" class="nav-link{{ if hasPrefix .RelPermalink "/research-domains" }} active{{ end }}">Research Domains</a>
+                    <a href="{{ "wp1-financial-data-space/" | relURL }}" class="nav-link">WP1: Data Space</a>
+                    <a href="{{ "wp2-ai-financial-markets/" | relURL }}" class="nav-link">WP2: AI Markets</a>
+                    <a href="{{ "wp3-explainable-fair-ai/" | relURL }}" class="nav-link">WP3: Fair AI</a>
+                    <a href="{{ "wp4-digital-innovation-blockchain/" | relURL }}" class="nav-link">WP4: Blockchain</a>
+                    <a href="{{ "wp5-sustainability-digital-finance/" | relURL }}" class="nav-link">WP5: Sustainability</a>
+                </div>
+
+                <div class="nav-section">
+                    <div class="nav-section-title">Training</div>
+                    <a href="{{ "training-modules/" | relURL }}" class="nav-link{{ if hasPrefix .RelPermalink "/training-modules" }} active{{ end }}">Modules</a>
+                    <a href="{{ "training-events/" | relURL }}" class="nav-link{{ if hasPrefix .RelPermalink "/training-events" }} active{{ end }}">Events</a>
+                    <a href="{{ "secondments/" | relURL }}" class="nav-link">Secondments</a>
+                </div>
+
+                <div class="nav-section">
+                    <div class="nav-section-title">Resources</div>
+                    <a href="{{ "blog/" | relURL }}" class="nav-link{{ if hasPrefix .RelPermalink "/blog" }} active{{ end }}">News & Blog</a>
+                    <a href="{{ "open-science/" | relURL }}" class="nav-link">Open Science</a>
+                    <a href="{{ "contact/" | relURL }}" class="nav-link{{ if eq .RelPermalink "/contact/" }} active{{ end }}">Contact</a>
+                </div>
+            </nav>
+
+            <div class="sidebar-footer">
+                <div class="eu-badge">
+                    <img src="{{ "images/general/eu-flag.png" | relURL }}" alt="EU" class="eu-flag-small" onerror="this.style.display='none'">
+                    <span>EU Horizon Europe<br>Grant No. 101119635</span>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Content Area -->
+        <div class="main-content">
+            <main>
+                {{ block "main" . }}{{ end }}
+            </main>
+
+            <footer class="site-footer">
+                <div class="footer-content">
+                    <div class="footer-eu">
+                        <span>Funded by the European Union's Horizon Europe programme under Marie Sklodowska-Curie grant agreement No. 101119635</span>
+                    </div>
+                    <div class="footer-links">
+                        <a href="{{ "about-the-project/" | relURL }}">About</a>
+                        <a href="{{ "privacy/" | relURL }}">Privacy</a>
+                        <a href="{{ "contact/" | relURL }}">Contact</a>
+                    </div>
+                </div>
+                <div class="copyright">
+                    &copy; {{ now.Year }} MSCA Digital Finance Consortium. All rights reserved.
+                </div>
+            </footer>
+        </div>
+    </div>
+
     <script src="{{ "js/main.js" | relURL }}"></script>
 </body>
 </html>
