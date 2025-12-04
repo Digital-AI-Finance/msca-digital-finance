@@ -1,0 +1,155 @@
+{
+  "date": "2025-12-04T08:20:51.133164",
+  "summary": {
+    "total_images": 1096,
+    "total_references": 2271,
+    "missing_count": 0,
+    "orphan_count": 82,
+    "large_count": 64
+  },
+  "existing_images": {},
+  "references": [],
+  "missing_images": [],
+  "orphan_images": [
+    "/images/blog/11062b_9e78da3320da497ab23ce28d738d388a_mv2_ae27c472.png",
+    "/images/blog/d826e4_7dcbe49c67394160a8efaf859c585a9b_mv2_a8413586.png",
+    "/images/blog/logo-nobackground-500_c3c8414f.png",
+    "/images/blog/logo-nobackground-500_dccd868e.png",
+    "/images/blog/logo_d9d66bb7.jpg",
+    "/images/blog/quantinar_logo_fcc02fa4.png",
+    "/images/events/1cd49e_08083793a0494a7b926eb182b10367b2__09b85734.jpg",
+    "/images/events/1cd49e_14e5f722b84742babaf4561c688658c4__e9daeafe.png",
+    "/images/events/1cd49e_3479a564049448c0a87c8c851953e09f__affff12a.jpg",
+    "/images/events/1cd49e_3f286618b7eb45fd9b320d612bba009f__90e741e6.png",
+    "/images/events/1cd49e_4175ba63b4f341f2b34f902806cf6456__5b157d4c.png",
+    "/images/events/1cd49e_602518c818664fdcbf830fb406a2045f__723d6325.png",
+    "/images/events/1cd49e_68aa8e8a93b3410491e2d6e96c721751__df47606d.jpg",
+    "/images/events/1cd49e_6aa30cf2dda34cf1a482e18f54fc2a7a__de51b299.png",
+    "/images/events/1cd49e_6d4b06e00163412b82ee24340ce8cec7__03794c49.png",
+    "/images/events/1cd49e_7a7fa7a9733348408e6060a8fcb018b1__f20796ad.png",
+    "/images/events/1cd49e_81aec364922c46a5ba7d702e883faf71__28eb2c9e.jpg",
+    "/images/events/1cd49e_96aa88a694ed420b90f47cbc4474ad76__0796668d.png",
+    "/images/events/1cd49e_97fce4aeea0f41348cd4ef000114b785__1ef17446.jpg",
+    "/images/events/1cd49e_9c9902e806b74bfab2acb234b0bf0520__8b7d71a6.jpg",
+    "/images/events/1cd49e_a3ff9be2ce73451ba4036c4017af4695__7c632951.png",
+    "/images/events/1cd49e_a82c1436dcc940d5b8710be63cb77e41__51e00a63.png",
+    "/images/events/1cd49e_a82c1436dcc940d5b8710be63cb77e41__a8edf58c.png",
+    "/images/events/1cd49e_a82c1436dcc940d5b8710be63cb77e41__de628602.png",
+    "/images/events/1cd49e_d171767e53cf4640b0a7ec24afb16556__e298055b.jpg",
+    "/images/events/1cd49e_db3995bef1f846029bb3b3b369a4fa9a__4021191c.png",
+    "/images/events/4027cc_f1c92922190a4c9d8ed69a9c27fa073a__a628fede.jpg",
+    "/images/events/4bb5b1_1c27bdf6f7e94383802f394ca853a19a__1e1124e2.png",
+    "/images/events/4bb5b1_a52b7756e2f64fd5866cfd8334513f6d__ead3dd33.png",
+    "/images/events/d826e4_0f81e4d43e784619a5b228b6386efc98__3ccb68a3.png",
+    "/images/events/d826e4_24004ffefd784f62b8d1665308ffea1f__76981c0e.png",
+    "/images/events/d826e4_24004ffefd784f62b8d1665308ffea1f__a3727c60.png",
+    "/images/events/d826e4_9219d5c3fa074989aabba49b9fd209e4__f2190ef2.jpg",
+    "/images/events/d826e4_97ca7ac20c3e4cc8a5ba059ece98d74f__989e29a2.png",
+    "/images/events/d826e4_c00630ad7a8c4c3aa52274f9f78a87e5__ee297ab3.png",
+    "/images/events/FinAI_COST_aecdeae5.png",
+    "/images/general/1cd49e_08083793a0494a7b926eb182b10367b2__be1d01ab.jpg",
+    "/images/general/1cd49e_3479a564049448c0a87c8c851953e09f__616095ec.jpg",
+    "/images/general/1cd49e_49adef98d9a140bb94f756b1cfd733c6__79552cbc.jpg",
+    "/images/general/1cd49e_4b2364e928b6434e9ddb216f4a498520__4c85f8fe.jpg",
+    "/images/general/1cd49e_57af256cd64748f49057b9c8e655292a__da0a884a.jpg",
+    "/images/general/1cd49e_58b6a3de978449369e295379075d3864__829d6886.jpg",
+    "/images/general/1cd49e_5d6b52789fe142d7bdd0070add493908_mv2_00671474.webp",
+    "/images/general/1cd49e_5d6b52789fe142d7bdd0070add493908_mv2_2b6f27a4.webp",
+    "/images/general/1cd49e_5d6b52789fe142d7bdd0070add493908_mv2_39913031.webp",
+    "/images/general/1cd49e_5d6b52789fe142d7bdd0070add493908__268417a6.webp",
+    "/images/general/1cd49e_5d6b52789fe142d7bdd0070add493908__3bef706c.webp",
+    "/images/general/1cd49e_5d6b52789fe142d7bdd0070add493908__f9df9838.webp",
+    "/images/general/1cd49e_5d6b52789fe142d7bdd0070add493908~mv2.webp",
+    "/images/general/1cd49e_62b17b5c28fc48b48655434dba9c3989~mv2.webp"
+  ],
+  "large_images": [
+    {
+      "path": "/images/people/Di_Francesco-circle_591ad341.png",
+      "size_kb": 14206.9
+    },
+    {
+      "path": "/images/people/Weyna-modified_6a288b7a.png",
+      "size_kb": 13884.9
+    },
+    {
+      "path": "/images/people/Sadighi-modified_6ab408f4.png",
+      "size_kb": 11308.3
+    },
+    {
+      "path": "/images/people/Bolesta_54f0022b.JPG",
+      "size_kb": 9957.0
+    },
+    {
+      "path": "/images/people/RahulTak_circle_3c316af3.png",
+      "size_kb": 6436.2
+    },
+    {
+      "path": "/images/people/manuele-modified_26cd3e64.png",
+      "size_kb": 5799.1
+    },
+    {
+      "path": "/images/people/561f6f2c-9d2f-4dba-9f57-65e7a0ba03fd-modified_35570a11.png",
+      "size_kb": 5157.7
+    },
+    {
+      "path": "/images/people/Blum_circle_725b7646.png",
+      "size_kb": 4675.1
+    },
+    {
+      "path": "/images/people/Gudaitis_61f9ed38.jpg",
+      "size_kb": 4627.6
+    },
+    {
+      "path": "/images/events/d826e4_62ca734927164fddb5cf20aa18f3df97_mv2_3ec030c2.jpg",
+      "size_kb": 3954.1
+    },
+    {
+      "path": "/images/people/Kolb_ca5a2f36.JPG",
+      "size_kb": 3944.7
+    },
+    {
+      "path": "/images/people/Kyrylo_b2a88ca0.jpg",
+      "size_kb": 3005.5
+    },
+    {
+      "path": "/images/events/e64bca_9dc7d79d8f124aecbb5e2ce89c7c5e64_mv2_be4dd487.jpg",
+      "size_kb": 3005.1
+    },
+    {
+      "path": "/images/people/Tanda-modified_5a6d4764.png",
+      "size_kb": 2878.1
+    },
+    {
+      "path": "/images/people/Coita_c15acfc1.jpg",
+      "size_kb": 2603.2
+    },
+    {
+      "path": "/images/people/Sutiene_e3bbadbd.jpg",
+      "size_kb": 2517.9
+    },
+    {
+      "path": "/images/events/1cd49e_d77eb829f2b3402191aaf44feb6b8ea0_mv2_b404c343.png",
+      "size_kb": 2474.7
+    },
+    {
+      "path": "/images/people/Hadji_Misheva_c01d368f.jpg",
+      "size_kb": 2174.8
+    },
+    {
+      "path": "/images/people/X_Huang2023_be45bf4f.JPG",
+      "size_kb": 2136.6
+    },
+    {
+      "path": "/images/people/image_3399fd3d.png",
+      "size_kb": 2063.8
+    }
+  ],
+  "by_directory": {
+    "blog": 48,
+    "defaults": 6,
+    "events": 197,
+    "general": 448,
+    "partners": 130,
+    "people": 267
+  }
+}
