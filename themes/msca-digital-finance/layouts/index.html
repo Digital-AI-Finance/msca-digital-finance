@@ -1,42 +1,93 @@
 {{ define "main" }}
 <section class="hero">
     <div class="container">
-        <h1 class="hero-title">Digital Finance</h1>
-        <p class="hero-subtitle">Reaching New Frontiers</p>
-        <p class="hero-desc">A Horizon Europe MSCA Doctoral Network funded by the European Union</p>
-        <div class="hero-badge">Grant Agreement No. 101119635</div>
+        <div class="hero-content">
+            <h1 class="hero-title">Digital Finance</h1>
+            <p class="hero-subtitle">Reaching New Frontiers</p>
+            <p class="hero-desc">A Horizon Europe MSCA Doctoral Network funded by the European Union</p>
+            <div class="hero-badges">
+                <div class="hero-badge">Grant Agreement No. 101119635</div>
+                <div class="eu-funding-badge">
+                    <span class="eu-flag">&#127466;&#127482;</span>
+                    <span>Funded by the European Union</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="about-intro">
+    <div class="container">
+        <div class="intro-content">
+            <h2>Transforming Financial Services Through Innovation</h2>
+            <p class="lead">DIGITAL is an ambitious Marie Sklodowska-Curie Actions Doctoral Network that brings together leading academic institutions and industry partners across Europe to train the next generation of digital finance experts.</p>
+            <div class="intro-stats">
+                <div class="stat-item">
+                    <div class="stat-number">19</div>
+                    <div class="stat-label">PhD Positions</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">8</div>
+                    <div class="stat-label">Partner Institutions</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">5</div>
+                    <div class="stat-label">Work Packages</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">2024-2027</div>
+                    <div class="stat-label">Project Duration</div>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 
 <section class="research-domains">
     <div class="container">
-        <h2>Research Domains</h2>
+        <h2>Our Research Domains</h2>
+        <p class="section-intro">Interdisciplinary research at the intersection of finance, AI, and technology</p>
         <div class="domain-grid">
-            <div class="domain-card">
-                <div class="domain-icon">1</div>
+            <a href="{{ "work-package-1/" | relURL }}" class="domain-card">
+                <div class="domain-icon">
+                    <span class="icon-number">WP1</span>
+                </div>
                 <h3>European Financial Data Space</h3>
-                <p>Building infrastructure for financial data sharing across Europe</p>
-            </div>
-            <div class="domain-card">
-                <div class="domain-icon">2</div>
+                <p>Building infrastructure for financial data sharing across Europe through advanced data quality methodologies and augmentation techniques</p>
+                <span class="domain-link">Learn more &rarr;</span>
+            </a>
+            <a href="{{ "work-package-2/" | relURL }}" class="domain-card">
+                <div class="domain-icon">
+                    <span class="icon-number">WP2</span>
+                </div>
                 <h3>AI in Financial Markets</h3>
-                <p>Applying machine learning to trading and risk management</p>
-            </div>
-            <div class="domain-card">
-                <div class="domain-icon">3</div>
-                <h3>Explainable AI Decisions</h3>
-                <p>Making AI transparent and fair in financial applications</p>
-            </div>
-            <div class="domain-card">
-                <div class="domain-icon">4</div>
-                <h3>Blockchain Innovations</h3>
-                <p>DeFi, cryptocurrencies, and distributed ledger technology</p>
-            </div>
-            <div class="domain-card">
-                <div class="domain-icon">5</div>
+                <p>Applying machine learning to trading, risk management, and market prediction using cutting-edge algorithms</p>
+                <span class="domain-link">Learn more &rarr;</span>
+            </a>
+            <a href="{{ "work-package-3/" | relURL }}" class="domain-card">
+                <div class="domain-icon">
+                    <span class="icon-number">WP3</span>
+                </div>
+                <h3>Explainable & Fair AI</h3>
+                <p>Making AI transparent, interpretable, and fair in financial applications to build trust and ensure regulatory compliance</p>
+                <span class="domain-link">Learn more &rarr;</span>
+            </a>
+            <a href="{{ "work-package-4/" | relURL }}" class="domain-card">
+                <div class="domain-icon">
+                    <span class="icon-number">WP4</span>
+                </div>
+                <h3>Blockchain & Digital Innovation</h3>
+                <p>Exploring DeFi, cryptocurrencies, smart contracts, and distributed ledger technology for financial services</p>
+                <span class="domain-link">Learn more &rarr;</span>
+            </a>
+            <a href="{{ "work-package-5/" | relURL }}" class="domain-card">
+                <div class="domain-icon">
+                    <span class="icon-number">WP5</span>
+                </div>
                 <h3>Sustainable Digital Finance</h3>
-                <p>ESG investing and green fintech solutions</p>
-            </div>
+                <p>ESG investing, green fintech solutions, and sustainable finance for a better future</p>
+                <span class="domain-link">Learn more &rarr;</span>
+            </a>
         </div>
     </div>
 </section>

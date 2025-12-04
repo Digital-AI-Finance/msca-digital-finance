@@ -1,0 +1,35 @@
+{{ define "main" }}
+<section class="page-header">
+    <div class="container">
+        <h1>{{ .Title }}</h1>
+        <p class="lead">Comprehensive training modules for doctoral candidates</p>
+    </div>
+</section>
+
+<section class="training-section">
+    <div class="container">
+        <div class="training-grid">
+            {{ range .Pages }}
+            <article class="training-card">
+                <a href="{{ .Permalink }}" class="card-link-wrapper">
+                    {{ if .Params.image }}
+                    <div class="training-image-wrapper">
+                        <img src="{{ .Params.image }}" alt="{{ .Title }}" class="training-image">
+                    </div>
+                    {{ else }}
+                    <div class="training-image-wrapper">
+                        <img src="/images/defaults/training-default.jpg" alt="{{ .Title }}" class="training-image">
+                    </div>
+                    {{ end }}
+                    <div class="training-content">
+                        <h3 class="training-title">{{ .Title }}</h3>
+                        <p class="training-excerpt">{{ .Summary | plainify | truncate 120 }}</p>
+                        <span class="read-more">Learn more &rarr;</span>
+                    </div>
+                </a>
+            </article>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}

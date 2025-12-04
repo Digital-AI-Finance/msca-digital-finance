@@ -13,15 +13,21 @@
         <div class="partners-grid">
             {{ range .Pages }}
             <article class="partner-card">
-                {{ with .Params.image }}
-                <img src="{{ . }}" alt="{{ $.Title }}" class="partner-image">
-                {{ else }}
-                <div class="partner-image placeholder">{{ substr $.Title 0 2 | upper }}</div>
-                {{ end }}
-                <div class="partner-info">
-                    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-                    {{ with .Params.country }}<p class="country">{{ . }}</p>{{ end }}
-                </div>
+                <a href="{{ .Permalink }}" class="partner-link">
+                    <div class="partner-logo-wrapper">
+                        {{ if .Params.cover.image }}
+                        <img src="{{ .Params.cover.image }}" alt="{{ .Title }}" class="partner-logo">
+                        {{ else if .Params.image }}
+                        <img src="{{ .Params.image }}" alt="{{ .Title }}" class="partner-logo">
+                        {{ else }}
+                        <div class="partner-logo placeholder">{{ substr .Title 0 2 | upper }}</div>
+                        {{ end }}
+                    </div>
+                    <div class="partner-info">
+                        <h3>{{ .Title }}</h3>
+                        {{ with .Params.country }}<p class="country">{{ . }}</p>{{ end }}
+                    </div>
+                </a>
             </article>
             {{ end }}
         </div>

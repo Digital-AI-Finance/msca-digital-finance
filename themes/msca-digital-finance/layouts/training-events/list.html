@@ -1,0 +1,40 @@
+{{ define "main" }}
+<section class="page-header">
+    <div class="container">
+        <h1>{{ .Title }}</h1>
+        <p class="lead">Network-wide training events and workshops</p>
+    </div>
+</section>
+
+<section class="events-section">
+    <div class="container">
+        <div class="events-grid">
+            {{ range .Pages }}
+            <article class="event-card">
+                <a href="{{ .Permalink }}" class="card-link-wrapper">
+                    {{ if .Params.image }}
+                    <div class="event-image-wrapper">
+                        <img src="{{ .Params.image }}" alt="{{ .Title }}" class="event-image">
+                    </div>
+                    {{ else }}
+                    <div class="event-image-wrapper">
+                        <img src="/images/defaults/event-default.jpg" alt="{{ .Title }}" class="event-image">
+                    </div>
+                    {{ end }}
+                    <div class="event-content">
+                        {{ if .Date }}
+                        <div class="event-meta">
+                            <time class="event-date">{{ .Date.Format "January 2, 2006" }}</time>
+                        </div>
+                        {{ end }}
+                        <h3 class="event-title">{{ .Title }}</h3>
+                        <p class="event-excerpt">{{ .Summary | plainify | truncate 120 }}</p>
+                        <span class="read-more">View details &rarr;</span>
+                    </div>
+                </a>
+            </article>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}
