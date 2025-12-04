@@ -1,22 +1,38 @@
 <header class="site-header">
-    <button class="menu-toggle" aria-label="Toggle menu" aria-expanded="false">&#9776;</button>
-        <nav class="navbar">
+    <div class="header-top">
         <div class="container">
-            <a href="{{ .Site.BaseURL }}" class="logo">
-                <span class="logo-text">MSCA Digital Finance</span>
-            </a>
-
-            <button class="nav-toggle" aria-label="Toggle navigation">
-                <span class="hamburger"></span>
-            </button>
-
-            <ul class="nav-menu">
-                {{ range .Site.Menus.main }}
-                <li class="nav-item{{ if $.IsMenuCurrent "main" . }} active{{ end }}">
-                    <a href="{{ .URL }}" class="nav-link">{{ .Name }}</a>
-                </li>
-                {{ end }}
-            </ul>
+            <div class="eu-banner">
+                <img src="{{ "images/general/eu-flag.png" | relURL }}" alt="EU Flag" class="eu-flag" onerror="this.style.display='none'">
+                <span>Funded by the European Union | Horizon Europe | Grant Agreement No. 101119635</span>
+            </div>
         </div>
-    </nav>
+    </div>
+    <div class="header-main">
+        <div class="container header-inner">
+            <a href="{{ .Site.BaseURL }}" class="logo">
+                <div class="logo-icon">
+                    <svg viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <circle cx="20" cy="20" r="18" stroke="#FFD700" stroke-width="2"/>
+                        <path d="M12 20L18 26L28 14" stroke="#FFD700" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </div>
+                <div class="logo-text">
+                    <span class="logo-title">DIGITAL</span>
+                    <span class="logo-subtitle">MSCA Doctoral Network</span>
+                </div>
+            </a>
+            <button class="menu-toggle" aria-label="Toggle menu" aria-expanded="false">
+                <span class="hamburger-line"></span>
+                <span class="hamburger-line"></span>
+                <span class="hamburger-line"></span>
+            </button>
+            <nav class="main-nav" id="main-nav">
+                {{ range .Site.Menus.main }}
+                <a href="{{ .URL | relURL }}" class="nav-link{{ if $.IsMenuCurrent "main" . }} active{{ end }}">
+                    {{ .Name }}
+                </a>
+                {{ end }}
+            </nav>
+        </div>
+    </div>
 </header>
