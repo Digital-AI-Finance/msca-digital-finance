@@ -1,6 +1,6 @@
 ---
 title: MSCA Seminar Series - AI in Digital Finance
-date: '2025-12-01'
+date: '2025-02-28'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/msca-seminar-series-ai-in-digital-finance

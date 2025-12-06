@@ -1,6 +1,6 @@
 ---
 title: ING-UT Workshop Data Analytics and Quantitative Models in Banking and Academia
-date: '2025-12-01'
+date: '2025-02-28'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/ing-ut-workshop-data-analytics-and-quantitative-models-in-banking-and-academia

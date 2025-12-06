@@ -1,6 +1,6 @@
 ---
 title: Deep Learning in Finance
-date: '2025-12-01'
+date: '2026-05-11'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/deep-learning-in-finance

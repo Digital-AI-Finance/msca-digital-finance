@@ -1,6 +1,6 @@
 ---
 title: Explainable AI - Training Week
-date: '2025-12-01'
+date: '2025-10-06'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/explainable-ai-training-week

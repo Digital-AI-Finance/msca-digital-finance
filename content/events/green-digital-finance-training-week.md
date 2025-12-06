@@ -1,6 +1,6 @@
 ---
 title: Green Digital Finance - Training Week
-date: '2025-12-01'
+date: '2025-06-30'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/green-digital-finance-training-week

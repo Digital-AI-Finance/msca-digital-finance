@@ -1,6 +1,6 @@
 ---
 title: MSCA Training School on Ethics in AI and Digital Finance @Oradea
-date: '2025-12-01'
+date: '2025-01-20'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/msca-training-school-on-ethics-in-ai-and-digital-finance-oradea

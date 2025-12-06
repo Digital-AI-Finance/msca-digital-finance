@@ -82,6 +82,9 @@
         <!-- Main Content Area -->
         <div class="main-content">
             <main>
+                {{ if not .IsHome }}
+                {{ partial "breadcrumbs.html" . }}
+                {{ end }}
                 {{ block "main" . }}{{ end }}
             </main>
 
@@ -102,6 +105,13 @@
             </footer>
         </div>
     </div>
+
+    <!-- Back to Top Button -->
+    <button id="back-to-top" class="back-to-top" aria-label="Back to top" title="Back to top">
+        <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M10 4L10 16M10 4L4 10M10 4L16 10" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+    </button>
 
     <script src="{{ "js/main.js" | relURL }}"></script>
 </body>

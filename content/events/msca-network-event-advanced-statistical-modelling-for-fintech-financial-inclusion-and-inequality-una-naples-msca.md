@@ -1,7 +1,7 @@
 ---
 title: MSCA Network Event - Advanced Statistical Modelling for Fintech, financial
   inclusion and inequality (UNA, Naples) MSCA
-date: '2025-12-01'
+date: '2025-06-22'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/msca-network-event-advanced-statistical-modelling-for-fintech-financial-inclusion-and-inequality-una-naples-msca

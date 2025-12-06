@@ -22,6 +22,7 @@ cover:
   hidden: false
 ShowToc: true
 image: "/images/defaults/blog-default.jpg"
+description: "* All Posts * WP1 * WP2 * WP3 * WP4 * WP5 Search * !Writer: Bjorn van Braak Bjorn van Braak * Sep 2, 2024 * 1 min read _Dr. Frédérik Sinan Bernard_..."
 ---
 
 * [All Posts](/blog/)

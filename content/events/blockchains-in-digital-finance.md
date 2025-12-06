@@ -1,6 +1,6 @@
 ---
 title: Blockchains in Digital Finance
-date: '2025-12-01'
+date: '2025-03-15'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/blockchains-in-digital-finance

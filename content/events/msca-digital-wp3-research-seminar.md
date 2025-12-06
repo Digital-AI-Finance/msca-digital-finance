@@ -1,6 +1,6 @@
 ---
 title: MSCA Digital WP3 Research Seminar
-date: '2025-12-01'
+date: '2025-05-27'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/msca-digital-wp3-research-seminar

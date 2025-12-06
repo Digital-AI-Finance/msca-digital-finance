@@ -1,7 +1,7 @@
 ---
 title: 'Research Seminar: Uncertainty-Aware Statistical Learning for Complex Decision
   Processes (WP5)'
-date: '2025-12-01'
+date: '2025-06-11'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/research-seminar-uncertainty-aware-statistical-learning-for-complex-decision-processes-wp5

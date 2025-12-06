@@ -1,6 +1,6 @@
 ---
 title: Official MSCA Kick-off Event
-date: '2025-12-01'
+date: '2024-01-30'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/official-msca-kick-off-event

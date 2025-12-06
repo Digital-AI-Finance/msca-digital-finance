@@ -1,0 +1,37 @@
+{{ define "main" }}
+<div class="page-header">
+    <div class="container">
+        <h1>{{ .Title }}</h1>
+        <p class="lead">{{ .Description }}</p>
+    </div>
+</div>
+
+<div class="container">
+    <div class="events-grid">
+        {{ range .Pages }}
+        <article class="event-card">
+            {{ with .Params.image }}
+            <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="event-image">
+            {{ end }}
+            <div class="event-content">
+                <div class="event-date-badge">
+                    <span class="event-month">{{ .Date.Format "Jan" }}</span>
+                    <span class="event-day">{{ .Date.Format "02" }}</span>
+                    <span class="event-year">{{ .Date.Format "2006" }}</span>
+                </div>
+                <div class="event-details">
+                    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                    {{ with .Params.location }}
+                    <p class="event-location">{{ . }}</p>
+                    {{ end }}
+                    {{ with .Summary }}
+                    <p class="event-description">{{ . | truncate 120 }}</p>
+                    {{ end }}
+                    <a href="{{ .Permalink }}" class="event-link">View Details &rarr;</a>
+                </div>
+            </div>
+        </article>
+        {{ end }}
+    </div>
+</div>
+{{ end }}

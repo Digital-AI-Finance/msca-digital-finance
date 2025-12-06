@@ -1,6 +1,6 @@
 ---
 title: 'Research Seminar: Fair Algorithmic Design (WP3)'
-date: '2025-12-01'
+date: '2025-10-01'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/research-seminar-fair-algorithmic-design-wp3

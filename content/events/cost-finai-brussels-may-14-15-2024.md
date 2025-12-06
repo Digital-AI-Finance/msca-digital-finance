@@ -1,6 +1,6 @@
 ---
 title: COST FinAI Brussels, May 14-15, 2024
-date: '2025-12-01'
+date: '2024-05-14'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/cost-finai-brussels-may-14-15-2024

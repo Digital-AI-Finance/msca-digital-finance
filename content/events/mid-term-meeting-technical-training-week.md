@@ -1,6 +1,6 @@
 ---
 title: Mid-Term Meeting & Technical Training Week
-date: '2025-12-01'
+date: '2025-05-19'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/mid-term-meeting-technical-training-week

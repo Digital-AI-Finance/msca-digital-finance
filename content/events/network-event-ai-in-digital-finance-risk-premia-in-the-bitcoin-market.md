@@ -1,6 +1,6 @@
 ---
 title: Network Event - AI in Digital Finance - Risk Premia in the Bitcoin Market
-date: '2025-12-01'
+date: '2024-12-13'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/network-event-ai-in-digital-finance-risk-premia-in-the-bitcoin-market

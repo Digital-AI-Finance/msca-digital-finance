@@ -4,7 +4,7 @@
         <div class="profile-header">
             {{ with .Params.image }}
             <div class="profile-image">
-                <img src="{{ . }}" alt="{{ $.Title }}">
+                <img src="{{ . | relURL }}" alt="{{ $.Title }}">
             </div>
             {{ end }}
 

@@ -1,6 +1,6 @@
 ---
 title: Regulation in Digital Finance Workshop
-date: '2025-12-01'
+date: '2025-08-19'
 draft: false
 type: training-events
 original_url: https://www.digital-finance-msca.com/training-events/regulation-in-digital-finance-workshop

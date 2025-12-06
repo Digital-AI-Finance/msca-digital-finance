@@ -1,6 +1,6 @@
 ---
 title: MSCA Training Week - PhD Training School on Blockchain Applications in Finance
-date: '2025-12-01'
+date: '2025-11-03'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/msca-training-week-phd-training-school-on-blockchain-applications-in-finance

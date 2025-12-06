@@ -1,6 +1,6 @@
 ---
 title: 'Research Seminar: Audience Dependent Explanations for AI Systems (WP3)'
-date: '2025-12-01'
+date: '2025-10-29'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/research-seminar-audience-dependent-explanations-for-ai-systems-wp3

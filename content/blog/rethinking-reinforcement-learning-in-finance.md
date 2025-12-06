@@ -21,6 +21,7 @@ cover:
   hidden: false
 ShowToc: true
 image: "/images/defaults/blog-default.jpg"
+description: "* All Posts * WP1 * WP2 * WP3 * WP4 * WP5 Search * stephanieblum7 * Apr 29 * 1 min read In his recent research talk, _Mathis Jander_ presented..."
 ---
 
 * [All Posts](/blog/)

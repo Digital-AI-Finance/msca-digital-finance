@@ -1,0 +1,23 @@
+<!-- Breadcrumb Navigation -->
+<nav class="breadcrumbs" aria-label="Breadcrumb">
+    <a href="{{ .Site.BaseURL }}" class="breadcrumb-link">Home</a>
+    {{ $path := .RelPermalink }}
+    {{ $scratch := newScratch }}
+    {{ $scratch.Set "segments" (split (trim $path "/") "/") }}
+    {{ $segments := $scratch.Get "segments" }}
+
+    {{ if gt (len $segments) 0 }}
+        {{ range $index, $segment := $segments }}
+            {{ if ne $segment "" }}
+                {{ $isLast := eq $index (sub (len $segments) 1) }}
+                <span class="breadcrumb-separator">&gt;</span>
+                {{ if $isLast }}
+                    <span class="breadcrumb-current">{{ $.Title }}</span>
+                {{ else }}
+                    {{ $url := printf "/%s/" $segment }}
+                    <a href="{{ $url }}" class="breadcrumb-link">{{ humanize $segment }}</a>
+                {{ end }}
+            {{ end }}
+        {{ end }}
+    {{ end }}
+</nav>

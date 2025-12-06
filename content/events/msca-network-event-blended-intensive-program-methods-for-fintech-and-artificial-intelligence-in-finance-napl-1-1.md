@@ -1,7 +1,7 @@
 ---
 title: MSCA Network Event - Blended Intensive Program. Methods for Fintech and Artificial
   Intelligence in Finance, Napl... (1)
-date: '2025-12-01'
+date: '2024-10-21'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/msca-network-event-blended-intensive-program-methods-for-fintech-and-artificial-intelligence-in-finance-napl-1-1

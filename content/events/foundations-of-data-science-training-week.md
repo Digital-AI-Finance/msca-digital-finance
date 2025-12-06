@@ -1,6 +1,6 @@
 ---
 title: Foundations of Data Science - Training Week
-date: '2025-12-01'
+date: '2025-03-20'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/foundations-of-data-science-training-week

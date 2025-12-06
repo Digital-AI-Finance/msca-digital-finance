@@ -99,7 +99,7 @@
             {{ range first 3 (where .Site.RegularPages "Section" "blog") }}
             <article class="news-card">
                 {{ with .Params.image }}
-                <img src="{{ . }}" alt="{{ $.Title }}" class="news-image">
+                <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="news-image">
                 {{ end }}
                 <div class="news-content">
                     <time>{{ .Date.Format "January 2, 2006" }}</time>
@@ -120,7 +120,7 @@
             {{ range first 8 (where .Site.RegularPages "Section" "partners") }}
             <a href="{{ .Permalink }}" class="partner-logo-link" title="{{ .Title }}">
                 {{ with .Params.image }}
-                <img src="{{ . }}" alt="{{ $.Title }}" class="partner-logo">
+                <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="partner-logo">
                 {{ else }}
                 <span class="partner-name">{{ $.Title }}</span>
                 {{ end }}

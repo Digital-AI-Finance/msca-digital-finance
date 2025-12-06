@@ -1,6 +1,6 @@
 ---
 title: TEST2
-date: '2025-12-01'
+date: '2025-12-29'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/test2

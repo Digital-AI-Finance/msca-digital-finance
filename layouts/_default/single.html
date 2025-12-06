@@ -10,7 +10,7 @@
 
         {{ with .Params.image }}
         <div class="featured-image">
-            <img src="{{ . }}" alt="{{ $.Title }}">
+            <img src="{{ . | relURL }}" alt="{{ $.Title }}">
         </div>
         {{ end }}
 

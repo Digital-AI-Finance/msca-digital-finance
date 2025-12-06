@@ -1,6 +1,6 @@
 ---
 title: Introduction to Blockchain Applications in Finance - Training Week
-date: '2025-12-01'
+date: '2025-11-03'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/introduction-to-blockchain-applications-in-finance-training-week

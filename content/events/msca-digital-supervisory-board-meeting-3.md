@@ -1,6 +1,6 @@
 ---
 title: 'MSCA DIGITAL - Supervisory Board Meeting #3'
-date: '2025-12-01'
+date: '2025-04-24'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/msca-digital-supervisory-board-meeting-3

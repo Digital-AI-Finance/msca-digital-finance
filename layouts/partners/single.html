@@ -4,7 +4,7 @@
         <header class="page-header">
             {{ with .Params.image }}
             <div class="partner-logo">
-                <img src="{{ . }}" alt="{{ $.Title }}">
+                <img src="{{ . | relURL }}" alt="{{ $.Title }}">
             </div>
             {{ end }}
             <h1>{{ .Title }}</h1>

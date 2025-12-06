@@ -1,6 +1,6 @@
 ---
 title: Conference
-date: '2025-12-01'
+date: '2024-04-22'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/conference

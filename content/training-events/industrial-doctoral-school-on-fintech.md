@@ -1,6 +1,6 @@
 ---
 title: Industrial Doctoral School on FinTech
-date: '2025-12-01'
+date: '2025-05-17'
 draft: false
 type: training-events
 original_url: https://www.digital-finance-msca.com/training-events/industrial-doctoral-school-on-fintech

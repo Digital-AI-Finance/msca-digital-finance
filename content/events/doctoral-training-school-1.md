@@ -1,6 +1,6 @@
 ---
 title: Doctoral Training school
-date: '2025-12-01'
+date: '2024-06-09'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/doctoral-training-school-1

@@ -1,6 +1,6 @@
 ---
 title: Advanced Analytics for Fintech and Artificial Intelligence
-date: '2025-12-01'
+date: '2024-10-21'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/advanced-analytics-for-fintech-and-artificial-intelligence

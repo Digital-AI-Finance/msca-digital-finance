@@ -1,6 +1,6 @@
 ---
 title: Mid-term Review Event
-date: '2025-12-01'
+date: '2025-06-29'
 draft: false
 type: training-events
 original_url: https://www.digital-finance-msca.com/training-events/mid-term-review-event

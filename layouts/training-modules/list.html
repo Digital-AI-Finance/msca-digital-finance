@@ -1,0 +1,36 @@
+{{ define "main" }}
+<div class="page-header">
+    <div class="container">
+        <h1>{{ .Title }}</h1>
+        <p class="lead">{{ .Description }}</p>
+    </div>
+</div>
+
+<div class="container">
+    <div class="modules-grid">
+        {{ range .Pages }}
+        <div class="module-card">
+            {{ with .Params.icon }}
+            <div class="module-icon">{{ . }}</div>
+            {{ end }}
+            <div class="module-content">
+                {{ with .Params.code }}
+                <span class="module-code">{{ . }}</span>
+                {{ end }}
+                <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                {{ with .Params.instructor }}
+                <p class="module-instructor">Instructor: {{ . }}</p>
+                {{ end }}
+                {{ with .Summary }}
+                <p class="module-description">{{ . | truncate 120 }}</p>
+                {{ end }}
+                {{ with .Params.duration }}
+                <p class="module-duration">Duration: {{ . }}</p>
+                {{ end }}
+                <a href="{{ .Permalink }}" class="module-link">Learn More &rarr;</a>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</div>
+{{ end }}

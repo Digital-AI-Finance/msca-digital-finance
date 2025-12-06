@@ -1,6 +1,6 @@
 ---
 title: 4th Yushan Conference
-date: '2025-12-01'
+date: '2024-12-05'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/4th-yushan-conference

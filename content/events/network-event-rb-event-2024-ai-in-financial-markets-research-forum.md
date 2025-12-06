@@ -1,6 +1,6 @@
 ---
 title: Event Details & Registration
-date: '2025-12-01'
+date: '2025-08-17'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/network-event-rb-event-2024-ai-in-financial-markets-research-forum

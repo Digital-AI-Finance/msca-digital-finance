@@ -20,6 +20,7 @@ cover:
   alt: "Cover image"
   hidden: false
 image: "/images/defaults/blog-default.jpg"
+description: "* All Posts * WP1 * WP2 * WP3 * WP4 * WP5 Search * !Writer: Bjorn van Braak Bjorn van Braak * May 7, 2024 * 1 min read In a dynamic convergence of..."
 ---
 
 * [All Posts](/blog/)

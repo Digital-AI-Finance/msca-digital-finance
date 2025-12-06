@@ -22,6 +22,7 @@ cover:
   hidden: false
 ShowToc: true
 image: "/images/defaults/blog-default.jpg"
+description: "* All Posts * WP1 * WP2 * WP3 * WP4 * WP5 Search * fsbernard * Feb 14 * 2 min read **February 20-22, 2025 | American University of Sharjah, UAE** The..."
 ---
 
 * [All Posts](/blog/)

@@ -1,0 +1,33 @@
+{{ define "main" }}
+<div class="page-header">
+    <div class="container">
+        <h1>{{ .Title }}</h1>
+        <p class="lead">{{ .Description }}</p>
+    </div>
+</div>
+
+<div class="container">
+    <div class="content-body">
+        {{ .Content }}
+    </div>
+
+    {{ if .Pages }}
+    <div class="domain-grid" style="margin-top: 30px;">
+        {{ range .Pages }}
+        <a href="{{ .Permalink }}" class="domain-card">
+            {{ with .Params.icon }}
+            <div class="domain-icon">
+                <span class="icon-number">{{ . }}</span>
+            </div>
+            {{ end }}
+            <h3>{{ .Title }}</h3>
+            {{ with .Description }}
+            <p>{{ . }}</p>
+            {{ end }}
+            <span class="domain-link">Learn more &rarr;</span>
+        </a>
+        {{ end }}
+    </div>
+    {{ end }}
+</div>
+{{ end }}

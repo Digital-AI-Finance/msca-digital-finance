@@ -1,6 +1,6 @@
 ---
 title: 1st ARC Training Week
-date: '2025-12-01'
+date: '2026-12-07'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/1st-arc-training-week

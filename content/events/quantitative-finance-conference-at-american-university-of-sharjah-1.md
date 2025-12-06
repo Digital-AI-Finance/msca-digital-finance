@@ -1,6 +1,6 @@
 ---
 title: Quantitative Finance conference at American University of Sharjah
-date: '2025-12-01'
+date: '2025-02-20'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/quantitative-finance-conference-at-american-university-of-sharjah-1

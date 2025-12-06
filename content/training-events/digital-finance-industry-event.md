@@ -1,6 +1,6 @@
 ---
 title: Digital Finance Industry Event
-date: '2025-12-01'
+date: '2025-03-26'
 draft: false
 type: training-events
 original_url: https://www.digital-finance-msca.com/training-events/digital-finance-industry-event

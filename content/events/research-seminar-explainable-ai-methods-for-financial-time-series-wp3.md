@@ -1,6 +1,6 @@
 ---
 title: 'Research Seminar: Explainable AI Methods for Financial Time Series (WP3)'
-date: '2025-12-01'
+date: '2025-06-04'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/research-seminar-explainable-ai-methods-for-financial-time-series-wp3

@@ -1,6 +1,6 @@
 ---
 title: PhD Training School on Cybersecurity
-date: '2025-12-01'
+date: '2026-06-08'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/phd-training-school-on-cybersecurity

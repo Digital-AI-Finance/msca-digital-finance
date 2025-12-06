@@ -1,6 +1,6 @@
 ---
 title: MSCA - Midterm Report Meeting @UTW
-date: '2025-12-01'
+date: '2025-05-20'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/msca-midterm-report-meeting-utw

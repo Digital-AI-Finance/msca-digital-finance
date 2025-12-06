@@ -1,6 +1,6 @@
 ---
 title: Orientation Training Digital Finance
-date: '2025-12-01'
+date: '2025-07-25'
 draft: false
 type: training-events
 original_url: https://www.digital-finance-msca.com/training-events/orientation-training-digital-finance

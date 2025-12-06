@@ -1,6 +1,6 @@
 ---
 title: SSM Annual Research Conference
-date: '2025-12-01'
+date: '2025-12-09'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/ssm-annual-research-conference

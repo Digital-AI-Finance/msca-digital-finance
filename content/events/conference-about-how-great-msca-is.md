@@ -1,6 +1,6 @@
 ---
 title: Conference about how great MSCA is
-date: '2025-12-01'
+date: '2024-07-18'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/conference-about-how-great-msca-is

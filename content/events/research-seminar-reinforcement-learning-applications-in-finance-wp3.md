@@ -1,6 +1,6 @@
 ---
 title: 'Research Seminar: Reinforcement Learning Applications in Finance (WP3)'
-date: '2025-12-01'
+date: '2025-04-16'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/research-seminar-reinforcement-learning-applications-in-finance-wp3

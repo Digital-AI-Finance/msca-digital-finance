@@ -1,6 +1,6 @@
 ---
 title: MSCA DIGITAL - The 4th International Conference on Mathematics and Statistics
-date: '2025-12-01'
+date: '2025-02-20'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/msca-digital-the-4th-international-conference-on-mathematics-and-statistics

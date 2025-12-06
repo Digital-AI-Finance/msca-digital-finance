@@ -20,6 +20,7 @@ cover:
   alt: "Cover image"
   hidden: false
 image: "/images/defaults/blog-default.jpg"
+description: "* All Posts * WP1 * WP2 * WP3 * WP4 * WP5 Search * !Writer: Branka Hadji-Misheva Branka Hadji-Misheva * Feb 28, 2024 * 1 min read We are thrilled to..."
 ---
 
 * [All Posts](/blog/)

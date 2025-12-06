@@ -1,6 +1,6 @@
 ---
 title: MSCA DIGITAL - TRAINING M9 - PRAGUE
-date: '2025-12-01'
+date: '2025-05-12'
 draft: false
 type: events
 original_url: https://www.digital-finance-msca.com/event-details-registration/msca-digital-training-m9-prague
